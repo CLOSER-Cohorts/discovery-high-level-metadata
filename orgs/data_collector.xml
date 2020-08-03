@@ -1,0 +1,722 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ddi:FragmentInstance xmlns:r="ddi:reusable:3_2" xmlns:ddi="ddi:instance:3_2">
+  <ddi:TopLevelReference>
+    <r:Agency>uk.closer</r:Agency>
+    <r:ID>ebf2010f-4354-49a1-9472-7d58343f800e</r:ID>
+    <r:Version>23</r:Version>
+    <r:TypeOfObject>OrganizationScheme</r:TypeOfObject>
+  </ddi:TopLevelReference>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <OrganizationScheme isUniversallyUnique="true" versionDate="2020-07-15T14:09:27.513936Z" xmlns="ddi:archive:3_2">
+      <r:URN>urn:ddi:uk.closer:ebf2010f-4354-49a1-9472-7d58343f800e:23</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>ebf2010f-4354-49a1-9472-7d58343f800e</r:ID>
+      <r:Version>23</r:Version>
+      <OrganizationSchemeName>
+        <r:String xml:lang="en-GB">Data Collector</r:String>
+      </OrganizationSchemeName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Data Collector</r:Content>
+      </r:Label>
+      <r:Description>
+        <r:Content xml:lang="en-GB">Organisation which is responsible for the implementation of the data collection, e.g. a survey organisation</r:Content>
+      </r:Description>
+      <OrganizationReference>
+        <r:Agency>uk.alspac</r:Agency>
+        <r:ID>eab534bb-8629-472d-91b1-dda44ae72463</r:ID>
+        <r:Version>2</r:Version>
+        <r:TypeOfObject>Organization</r:TypeOfObject>
+      </OrganizationReference>
+      <OrganizationReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>74c80340-4856-4b48-b345-701b66ae1c99</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Organization</r:TypeOfObject>
+      </OrganizationReference>
+      <OrganizationReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>f026f9ab-91c7-410c-a4a4-b389e3f72078</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Organization</r:TypeOfObject>
+      </OrganizationReference>
+      <OrganizationReference>
+        <r:Agency>uk.cls.bcs70</r:Agency>
+        <r:ID>3ea6128c-91b5-4be2-a3cc-0da833593e1d</r:ID>
+        <r:Version>2</r:Version>
+        <r:TypeOfObject>Organization</r:TypeOfObject>
+      </OrganizationReference>
+      <OrganizationReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>070cdc4f-be13-4862-95e3-da89b4c15465</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Organization</r:TypeOfObject>
+      </OrganizationReference>
+      <OrganizationReference>
+        <r:Agency>uk.mrcleu-uos.hcs</r:Agency>
+        <r:ID>fa608cac-4f6b-4993-9cea-72063affeaa9</r:ID>
+        <r:Version>2</r:Version>
+        <r:TypeOfObject>Organization</r:TypeOfObject>
+      </OrganizationReference>
+      <OrganizationReference>
+        <r:Agency>uk.mrcleu-uos.hcs</r:Agency>
+        <r:ID>d09fb68f-9d52-41d2-9e7e-936d9916ea62</r:ID>
+        <r:Version>2</r:Version>
+        <r:TypeOfObject>Organization</r:TypeOfObject>
+      </OrganizationReference>
+      <OrganizationReference>
+        <r:Agency>uk.cls.bcs70</r:Agency>
+        <r:ID>f3b3ded7-01e8-480e-b7fc-8446195d597e</r:ID>
+        <r:Version>2</r:Version>
+        <r:TypeOfObject>Organization</r:TypeOfObject>
+      </OrganizationReference>
+      <OrganizationReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>03d1fb7b-da9c-4b73-9101-a4ea1f189aae</r:ID>
+        <r:Version>2</r:Version>
+        <r:TypeOfObject>Organization</r:TypeOfObject>
+      </OrganizationReference>
+      <OrganizationReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>d33d8615-5e77-4d70-b21e-a14719224a86</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Organization</r:TypeOfObject>
+      </OrganizationReference>
+      <OrganizationReference>
+        <r:Agency>uk.lha</r:Agency>
+        <r:ID>f962c081-e2c6-4fd8-bf78-219e728d47a3</r:ID>
+        <r:Version>3</r:Version>
+        <r:TypeOfObject>Organization</r:TypeOfObject>
+      </OrganizationReference>
+      <OrganizationReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>e8c02e92-8809-4eb5-96e9-4d6dfb219b7d</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Organization</r:TypeOfObject>
+      </OrganizationReference>
+      <OrganizationReference>
+        <r:Agency>uk.cls.bcs70</r:Agency>
+        <r:ID>a27bfb72-b77a-49f7-9972-489611b4fa55</r:ID>
+        <r:Version>2</r:Version>
+        <r:TypeOfObject>Organization</r:TypeOfObject>
+      </OrganizationReference>
+      <OrganizationReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>5579fed3-1868-4f2d-a67e-4d124a248408</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Organization</r:TypeOfObject>
+      </OrganizationReference>
+      <OrganizationReference>
+        <r:Agency>uk.lha</r:Agency>
+        <r:ID>575a955f-b60d-4d2b-8e81-ccff18923577</r:ID>
+        <r:Version>2</r:Version>
+        <r:TypeOfObject>Organization</r:TypeOfObject>
+      </OrganizationReference>
+      <OrganizationReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>7cae2e4d-9ac3-4b5e-b582-a20c4a6523b0</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Organization</r:TypeOfObject>
+      </OrganizationReference>
+      <OrganizationReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>516cd8df-f7e8-4ca3-a758-cb4b9d9ef35c</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Organization</r:TypeOfObject>
+      </OrganizationReference>
+      <OrganizationReference>
+        <r:Agency>uk.cls.ncds</r:Agency>
+        <r:ID>7088d688-0b5d-4acf-af93-efe1276f9480</r:ID>
+        <r:Version>2</r:Version>
+        <r:TypeOfObject>Organization</r:TypeOfObject>
+      </OrganizationReference>
+      <OrganizationReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>2b5de265-3b50-4b96-a27d-cd802e262c6c</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Organization</r:TypeOfObject>
+      </OrganizationReference>
+      <OrganizationReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>8a504fa0-6574-41dc-a2fc-dce99b33c820</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Organization</r:TypeOfObject>
+      </OrganizationReference>
+      <OrganizationReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>c7840a7e-ebac-4ba7-b30b-0a286d6fd779</r:ID>
+        <r:Version>2</r:Version>
+        <r:TypeOfObject>Organization</r:TypeOfObject>
+      </OrganizationReference>
+      <OrganizationReference>
+        <r:Agency>uk.cls.ncds</r:Agency>
+        <r:ID>f9f33823-e88e-4f40-b021-fe0366319acd</r:ID>
+        <r:Version>3</r:Version>
+        <r:TypeOfObject>Organization</r:TypeOfObject>
+      </OrganizationReference>
+      <OrganizationReference>
+        <r:Agency>uk.lha</r:Agency>
+        <r:ID>e7f0afa9-c8b2-4b35-b281-b33a53eaf52d</r:ID>
+        <r:Version>2</r:Version>
+        <r:TypeOfObject>Organization</r:TypeOfObject>
+      </OrganizationReference>
+      <OrganizationReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>90ca0710-c066-40cd-b4f5-26876177e79a</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Organization</r:TypeOfObject>
+      </OrganizationReference>
+      <OrganizationReference>
+        <r:Agency>uk.cls.ncds</r:Agency>
+        <r:ID>d82ec7df-62f1-45ea-bf7f-ca2b25d4c44d</r:ID>
+        <r:Version>2</r:Version>
+        <r:TypeOfObject>Organization</r:TypeOfObject>
+      </OrganizationReference>
+      <OrganizationReference>
+        <r:Agency>uk.mrcleu-uos.sws</r:Agency>
+        <r:ID>f3870327-27b4-46e7-a40f-80dbb6f36a28</r:ID>
+        <r:Version>2</r:Version>
+        <r:TypeOfObject>Organization</r:TypeOfObject>
+      </OrganizationReference>
+      <OrganizationReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>23e4f0a5-616c-4998-aaab-a1982ded5369</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Organization</r:TypeOfObject>
+      </OrganizationReference>
+      <OrganizationReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>4e860e1a-51ff-48cd-b60a-c465e812b264</r:ID>
+        <r:Version>2</r:Version>
+        <r:TypeOfObject>Organization</r:TypeOfObject>
+      </OrganizationReference>
+      <OrganizationReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>ad300f64-2a5c-433d-b83a-359e8c7861c9</r:ID>
+        <r:Version>2</r:Version>
+        <r:TypeOfObject>Organization</r:TypeOfObject>
+      </OrganizationReference>
+    </OrganizationScheme>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Organization isUniversallyUnique="true" versionDate="2019-11-13T10:41:03.040948Z" xmlns="ddi:archive:3_2">
+      <r:URN>urn:ddi:uk.alspac:eab534bb-8629-472d-91b1-dda44ae72463:2</r:URN>
+      <r:Agency>uk.alspac</r:Agency>
+      <r:ID>eab534bb-8629-472d-91b1-dda44ae72463</r:ID>
+      <r:Version>2</r:Version>
+      <r:UserAttributePair>
+        <r:AttributeKey>ddi31:Nickname</r:AttributeKey>
+        <r:AttributeValue>{"en-GB":"ALSPAC"}</r:AttributeValue>
+      </r:UserAttributePair>
+      <OrganizationIdentification>
+        <OrganizationName>
+          <r:String xml:lang="en-GB">Avon Longitudinal Study of Parents and Children</r:String>
+        </OrganizationName>
+        <OrganizationImage>
+          <r:ImageLocation></r:ImageLocation>
+        </OrganizationImage>
+      </OrganizationIdentification>
+      <r:Description>
+        <r:Content xml:lang="en-GB">ALSPAC in-house data collectors (&lt;a href="https://www.closer.ac.uk/study/alspac-children-90s/" target="_blank" &gt;ALSPAC&lt;/a&gt;).</r:Content>
+      </r:Description>
+    </Organization>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Organization isUniversallyUnique="true" versionDate="2020-07-06T09:06:38.3693149Z" xmlns="ddi:archive:3_2">
+      <r:URN>urn:ddi:uk.closer:74c80340-4856-4b48-b345-701b66ae1c99:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>74c80340-4856-4b48-b345-701b66ae1c99</r:ID>
+      <r:Version>1</r:Version>
+      <r:UserAttributePair>
+        <r:AttributeKey>ddi31:Nickname</r:AttributeKey>
+        <r:AttributeValue>{"en-GB":"BMRB"}</r:AttributeValue>
+      </r:UserAttributePair>
+      <OrganizationIdentification>
+        <OrganizationName>
+          <r:String xml:lang="en-GB">BMRB</r:String>
+        </OrganizationName>
+      </OrganizationIdentification>
+      <r:Description>
+        <r:Content xml:lang="en-GB">BMRB which is now known as Kantar Public UK was established in 1933 and is now part of global Kantar Public network. It is a global market research and market information group</r:Content>
+      </r:Description>
+    </Organization>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Organization isUniversallyUnique="true" versionDate="2020-07-06T11:23:27.5802091Z" xmlns="ddi:archive:3_2">
+      <r:URN>urn:ddi:uk.closer:f026f9ab-91c7-410c-a4a4-b389e3f72078:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>f026f9ab-91c7-410c-a4a4-b389e3f72078</r:ID>
+      <r:Version>1</r:Version>
+      <r:UserAttributePair>
+        <r:AttributeKey>ddi31:Nickname</r:AttributeKey>
+        <r:AttributeValue>{"en-GB":"CLS"}</r:AttributeValue>
+      </r:UserAttributePair>
+      <OrganizationIdentification>
+        <OrganizationName>
+          <r:String xml:lang="en-GB">Centre for Longitudinal Studies, UCL (Institute of Education)</r:String>
+        </OrganizationName>
+        <OrganizationImage>
+          <r:ImageLocation>https://cls.ucl.ac.uk/wp-content/themes/ucl/images/logo_cls.svg</r:ImageLocation>
+        </OrganizationImage>
+      </OrganizationIdentification>
+      <r:Description>
+        <r:Content xml:lang="en-GB">The Centre for Longitudinal Studies (CLS) is an ESRC-funded resource centre based at the Institute of Education, University of London https://cls.ucl.ac.uk</r:Content>
+      </r:Description>
+    </Organization>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Organization isUniversallyUnique="true" versionDate="2019-11-04T16:29:32.0479554Z" xmlns="ddi:archive:3_2">
+      <r:URN>urn:ddi:uk.cls.bcs70:3ea6128c-91b5-4be2-a3cc-0da833593e1d:2</r:URN>
+      <r:Agency>uk.cls.bcs70</r:Agency>
+      <r:ID>3ea6128c-91b5-4be2-a3cc-0da833593e1d</r:ID>
+      <r:Version>2</r:Version>
+      <OrganizationIdentification>
+        <OrganizationName>
+          <r:String xml:lang="en-GB">Department of Child Health</r:String>
+        </OrganizationName>
+      </OrganizationIdentification>
+      <r:Description>
+        <r:Content xml:lang="en-GB">Department of Child Health, University of Bristol.  </r:Content>
+      </r:Description>
+    </Organization>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Organization isUniversallyUnique="true" versionDate="2020-07-06T09:13:13.3037317Z" xmlns="ddi:archive:3_2">
+      <r:URN>urn:ddi:uk.closer:070cdc4f-be13-4862-95e3-da89b4c15465:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>070cdc4f-be13-4862-95e3-da89b4c15465</r:ID>
+      <r:Version>1</r:Version>
+      <r:UserAttributePair>
+        <r:AttributeKey>ddi31:Nickname</r:AttributeKey>
+        <r:AttributeValue>{"en-GB":"GfK-NOP"}</r:AttributeValue>
+      </r:UserAttributePair>
+      <OrganizationIdentification>
+        <OrganizationName>
+          <r:String xml:lang="en-GB">GfK-NOP</r:String>
+        </OrganizationName>
+      </OrganizationIdentification>
+      <r:Description>
+        <r:Content xml:lang="en-GB">GfK-NOP was formed in 2005 by the acquisition of NOP World by GfK (established in 1934 as Gesellschaft für Konsumforschung, "Society for Consumer Research") </r:Content>
+      </r:Description>
+    </Organization>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Organization isUniversallyUnique="true" versionDate="2019-11-13T10:41:29.5433397Z" xmlns="ddi:archive:3_2">
+      <r:URN>urn:ddi:uk.mrcleu-uos.hcs:fa608cac-4f6b-4993-9cea-72063affeaa9:2</r:URN>
+      <r:Agency>uk.mrcleu-uos.hcs</r:Agency>
+      <r:ID>fa608cac-4f6b-4993-9cea-72063affeaa9</r:ID>
+      <r:Version>2</r:Version>
+      <OrganizationIdentification>
+        <OrganizationName>
+          <r:String xml:lang="en-GB">Hertfordshire Cohort Study Research Team</r:String>
+        </OrganizationName>
+      </OrganizationIdentification>
+      <r:Description>
+        <r:Content xml:lang="en-GB">HCS in-house data collectors (&lt;a href="https://www.closer.ac.uk/study/hertfordshire-cohort-study/" target="_blank" &gt;HCS&lt;/a&gt;).</r:Content>
+      </r:Description>
+    </Organization>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Organization isUniversallyUnique="true" versionDate="2019-11-04T17:04:07.3331548Z" xmlns="ddi:archive:3_2">
+      <r:URN>urn:ddi:uk.mrcleu-uos.hcs:d09fb68f-9d52-41d2-9e7e-936d9916ea62:2</r:URN>
+      <r:Agency>uk.mrcleu-uos.hcs</r:Agency>
+      <r:ID>d09fb68f-9d52-41d2-9e7e-936d9916ea62</r:ID>
+      <r:Version>2</r:Version>
+      <OrganizationIdentification>
+        <OrganizationName>
+          <r:String xml:lang="en-GB">Hertfordshire Midwives and Health Visitors</r:String>
+        </OrganizationName>
+      </OrganizationIdentification>
+      <r:Description>
+        <r:Content xml:lang="en-GB">Midwives and health visitors based in Hertfordshire.</r:Content>
+      </r:Description>
+    </Organization>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Organization isUniversallyUnique="true" versionDate="2019-11-04T16:55:46.8285856Z" xmlns="ddi:archive:3_2">
+      <r:URN>urn:ddi:uk.cls.bcs70:f3b3ded7-01e8-480e-b7fc-8446195d597e:2</r:URN>
+      <r:Agency>uk.cls.bcs70</r:Agency>
+      <r:ID>f3b3ded7-01e8-480e-b7fc-8446195d597e</r:ID>
+      <r:Version>2</r:Version>
+      <OrganizationIdentification>
+        <OrganizationName>
+          <r:String xml:lang="en-GB">Institute of Child Health, Bristol</r:String>
+        </OrganizationName>
+      </OrganizationIdentification>
+      <r:Description>
+        <r:Content xml:lang="en-GB">Institute of Child Health, University of Bristol.</r:Content>
+      </r:Description>
+    </Organization>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Organization isUniversallyUnique="true" versionDate="2020-07-15T14:09:27.499935Z" xmlns="ddi:archive:3_2">
+      <r:URN>urn:ddi:uk.closer:03d1fb7b-da9c-4b73-9101-a4ea1f189aae:2</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>03d1fb7b-da9c-4b73-9101-a4ea1f189aae</r:ID>
+      <r:Version>2</r:Version>
+      <r:UserAttributePair>
+        <r:AttributeKey>ddi31:Nickname</r:AttributeKey>
+        <r:AttributeValue>{"en-GB":"Ipsos-MORI"}</r:AttributeValue>
+      </r:UserAttributePair>
+      <OrganizationIdentification>
+        <OrganizationName>
+          <r:String xml:lang="en-GB">Ipsos-MORI</r:String>
+        </OrganizationName>
+      </OrganizationIdentification>
+      <r:Description>
+        <r:Content xml:lang="en-GB">Ipsos MORI is a market research company in the UK. It was formed by a merger of Ipsos UK and MORI in 2005. Ipsos MORI conduct surveys for a wide range of major organisations as well as other market research agencies (&lt;a href="https://en.wikipedia.org/w/index.php?title=Ipsos_MORI&amp;oldid=922247492" target="_blank" &gt;Ipsos_MORI&lt;/a&gt;).</r:Content>
+      </r:Description>
+    </Organization>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Organization isUniversallyUnique="true" versionDate="2019-11-08T16:43:32.8430629Z" xmlns="ddi:archive:3_2">
+      <r:URN>urn:ddi:uk.closer:d33d8615-5e77-4d70-b21e-a14719224a86:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>d33d8615-5e77-4d70-b21e-a14719224a86</r:ID>
+      <r:Version>1</r:Version>
+      <OrganizationIdentification>
+        <OrganizationName>
+          <r:String xml:lang="en-GB">Kantar Public</r:String>
+        </OrganizationName>
+      </OrganizationIdentification>
+      <r:Description>
+        <r:Content xml:lang="en-GB">Kantar Public works with clients in government, the public sector, global institutions, NGOs and commercial businesses to advise in the delivery of public policy, public services and public communications.</r:Content>
+      </r:Description>
+    </Organization>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Organization isUniversallyUnique="true" versionDate="2019-11-13T10:42:20.1235695Z" xmlns="ddi:archive:3_2">
+      <r:URN>urn:ddi:uk.lha:f962c081-e2c6-4fd8-bf78-219e728d47a3:3</r:URN>
+      <r:Agency>uk.lha</r:Agency>
+      <r:ID>f962c081-e2c6-4fd8-bf78-219e728d47a3</r:ID>
+      <r:Version>3</r:Version>
+      <OrganizationIdentification>
+        <OrganizationName>
+          <r:String xml:lang="en-GB">London School of Economics</r:String>
+        </OrganizationName>
+      </OrganizationIdentification>
+      <r:Description>
+        <r:Content xml:lang="en-GB">The LSE(officially the London School of Economics and Political Science) is a public research university located in London, UK, and a member institution of the federal University of London (&lt;a href="https://en.wikipedia.org/w/index.php?title=London_School_of_Economics&amp;oldid=922345582" target="_blank" &gt;London School of Economics, n.d.&lt;/a&gt;).</r:Content>
+      </r:Description>
+    </Organization>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Organization isUniversallyUnique="true" versionDate="2019-11-13T10:42:46.4155393Z" xmlns="ddi:archive:3_2">
+      <r:URN>urn:ddi:uk.closer:e8c02e92-8809-4eb5-96e9-4d6dfb219b7d:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>e8c02e92-8809-4eb5-96e9-4d6dfb219b7d</r:ID>
+      <r:Version>1</r:Version>
+      <OrganizationIdentification>
+        <OrganizationName>
+          <r:String xml:lang="en-GB">Millward Brown Ulster</r:String>
+        </OrganizationName>
+      </OrganizationIdentification>
+      <r:Description>
+        <r:Content xml:lang="en-GB">Millward Brown Ulster was a market research and public opinion polling company established in 2002. In 2008 it was acquired by Kantar TNS (&lt;a href="https://en.wikipedia.org/w/index.php?title=Kantar_TNS&amp;oldid=917106850" target="_blank" &gt;Kantar TNS, n.d.&lt;/a&gt;).</r:Content>
+      </r:Description>
+    </Organization>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Organization isUniversallyUnique="true" versionDate="2019-11-13T10:48:41.8697039Z" xmlns="ddi:archive:3_2">
+      <r:URN>urn:ddi:uk.cls.bcs70:a27bfb72-b77a-49f7-9972-489611b4fa55:2</r:URN>
+      <r:Agency>uk.cls.bcs70</r:Agency>
+      <r:ID>a27bfb72-b77a-49f7-9972-489611b4fa55</r:ID>
+      <r:Version>2</r:Version>
+      <r:UserAttributePair>
+        <r:AttributeKey>ddi31:Nickname</r:AttributeKey>
+        <r:AttributeValue>{"en-GB":"MORI "}</r:AttributeValue>
+      </r:UserAttributePair>
+      <OrganizationIdentification>
+        <OrganizationName>
+          <r:String xml:lang="en-GB">Market and Opinion Research International</r:String>
+        </OrganizationName>
+      </OrganizationIdentification>
+      <r:Description>
+        <r:Content xml:lang="en-GB">MORI was founded in 1969 and was the largest independent research organisation in the UK. MORI merged with Ipsos UK to become Ipsos MORI in 2005 (&lt;a href="https://en.wikipedia.org/w/index.php?title=Ipsos_MORI&amp;oldid=922247492" target="_blank" &gt;Ipsos_MORI&lt;/a&gt;).</r:Content>
+      </r:Description>
+    </Organization>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Organization isUniversallyUnique="true" versionDate="2019-11-13T10:56:06.3527293Z" xmlns="ddi:archive:3_2">
+      <r:URN>urn:ddi:uk.closer:5579fed3-1868-4f2d-a67e-4d124a248408:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>5579fed3-1868-4f2d-a67e-4d124a248408</r:ID>
+      <r:Version>1</r:Version>
+      <r:UserAttributePair>
+        <r:AttributeKey>ddi31:Nickname</r:AttributeKey>
+        <r:AttributeValue>{"en-GB":"MDG"}</r:AttributeValue>
+      </r:UserAttributePair>
+      <OrganizationIdentification>
+        <OrganizationName>
+          <r:String xml:lang="en-GB">Medicals Direct Group Ltd</r:String>
+        </OrganizationName>
+      </OrganizationIdentification>
+      <r:Description>
+        <r:Content xml:lang="en-GB">MDG was founded in 1994 and provides medical data gathering services to the life insurance market, and specialist reports and rehabilitation services to support claims services (&lt;a href="https://www.medicalsdirectgroup.co.uk" target="_blank" &gt;MDG, n.d.&lt;/a&gt;).</r:Content>
+      </r:Description>
+    </Organization>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Organization isUniversallyUnique="true" versionDate="2019-11-13T10:49:30.7508974Z" xmlns="ddi:archive:3_2">
+      <r:URN>urn:ddi:uk.lha:575a955f-b60d-4d2b-8e81-ccff18923577:2</r:URN>
+      <r:Agency>uk.lha</r:Agency>
+      <r:ID>575a955f-b60d-4d2b-8e81-ccff18923577</r:ID>
+      <r:Version>2</r:Version>
+      <OrganizationIdentification>
+        <OrganizationName>
+          <r:String xml:lang="en-GB">MRC Unit</r:String>
+        </OrganizationName>
+      </OrganizationIdentification>
+      <r:Description>
+        <r:Content xml:lang="en-GB">The MRC Unit now known as the MRC Unit Lifelong Health and Ageing is currently based at the University College London (&lt;a href="https://www.ucl.ac.uk/epidemiology-health-care/dept-profiles/mrc-unit-lifelong-health-ageing-ucl" target="_blank"&gt;mrc unit lifelong health ageing ucl, n.d.&lt;/a&gt;). It was previously based at the London School of Economics. The unit is home of the National Survey of Health and Development and other population-based studies. It's mission is to identify social and biological factors that affect lifelong health, ageing and the development of chronic disease risk by: using and enhancing the NSHD and other population-based studies; and exchanging knowledge gained with policymakers, health practitioners and other research users, and promoting public understanding of healthy ageing (&lt;a href="https://mrc.ukri.org/about/institutes-units-centres/list-of-institutes-units-centres/" target="_blank"&gt;MRC units, n.d.&lt;/a&gt;)</r:Content>
+      </r:Description>
+    </Organization>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Organization isUniversallyUnique="true" versionDate="2019-11-13T10:50:03.5922898Z" xmlns="ddi:archive:3_2">
+      <r:URN>urn:ddi:uk.closer:7cae2e4d-9ac3-4b5e-b582-a20c4a6523b0:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>7cae2e4d-9ac3-4b5e-b582-a20c4a6523b0</r:ID>
+      <r:Version>1</r:Version>
+      <OrganizationIdentification>
+        <OrganizationName>
+          <r:String xml:lang="en-GB">NatCen Social Research</r:String>
+        </OrganizationName>
+      </OrganizationIdentification>
+      <r:Description>
+        <r:Content xml:lang="en-GB">The National Centre for Social Research is a registered charity trading as NatCen Social Research and is the largest independent social research institute in the UK. The research charity was founded in 1969 with the aim of carrying out rigorous social policy research to improve society (&lt;a href="https://en.wikipedia.org/w/index.php?title=National_Centre_for_Social_Research&amp;oldid=896115976" target="_blank" &gt;National Centre for Social Research, n.d.&lt;/a&gt;).</r:Content>
+      </r:Description>
+    </Organization>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Organization isUniversallyUnique="true" versionDate="2019-11-04T13:51:56.694633Z" xmlns="ddi:archive:3_2">
+      <r:URN>urn:ddi:uk.closer:516cd8df-f7e8-4ca3-a758-cb4b9d9ef35c:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>516cd8df-f7e8-4ca3-a758-cb4b9d9ef35c</r:ID>
+      <r:Version>1</r:Version>
+      <OrganizationIdentification>
+        <OrganizationName>
+          <r:String xml:lang="en-GB">National Birthday Trust Fund</r:String>
+        </OrganizationName>
+      </OrganizationIdentification>
+      <r:Description>
+        <r:Content xml:lang="en-GB">The National Birthday Trust Fund was founded in 1928 as a UK charity that promoted the provision of maternity services.</r:Content>
+      </r:Description>
+    </Organization>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Organization isUniversallyUnique="true" versionDate="2019-11-13T10:50:29.3453339Z" xmlns="ddi:archive:3_2">
+      <r:URN>urn:ddi:uk.cls.ncds:7088d688-0b5d-4acf-af93-efe1276f9480:2</r:URN>
+      <r:Agency>uk.cls.ncds</r:Agency>
+      <r:ID>7088d688-0b5d-4acf-af93-efe1276f9480</r:ID>
+      <r:Version>2</r:Version>
+      <r:UserAttributePair>
+        <r:AttributeKey>ddi31:Nickname</r:AttributeKey>
+        <r:AttributeValue>{"en-GB":"NCB"}</r:AttributeValue>
+      </r:UserAttributePair>
+      <OrganizationIdentification>
+        <OrganizationName>
+          <r:String xml:lang="en-GB">National Children's Bureau</r:String>
+        </OrganizationName>
+      </OrganizationIdentification>
+      <r:Description>
+        <r:Content xml:lang="en-GB">The NCB is an English children’s charity, based in London. It works to build a better childhood for every child, by championing their right to be safe, secure and supported. It was previously know as the National Bureau for Cooperation in Child Care which was founded in 1963 (&lt;a href="https://www.sourcewatch.org/index.php?title=National_Children%27s_Bureau&amp;oldid=629978" target="_blank" &gt;National Children's Bureau, n.d.&lt;/a&gt;). </r:Content>
+      </r:Description>
+    </Organization>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Organization isUniversallyUnique="true" versionDate="2019-11-13T10:50:50.4392008Z" xmlns="ddi:archive:3_2">
+      <r:URN>urn:ddi:uk.closer:2b5de265-3b50-4b96-a27d-cd802e262c6c:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>2b5de265-3b50-4b96-a27d-cd802e262c6c</r:ID>
+      <r:Version>1</r:Version>
+      <OrganizationIdentification>
+        <OrganizationName>
+          <r:String xml:lang="en-GB">National Opinion Polls Market Research Ltd</r:String>
+        </OrganizationName>
+      </OrganizationIdentification>
+      <r:Description>
+        <r:Content xml:lang="en-GB">NOP was a market research organisation which was acquired by GfK to become GfK NOP in 2005 (&lt;a href="https://en.wikipedia.org/w/index.php?title=GfK&amp;oldid=916672979" target="_blank" &gt;GfK, n.d. &lt;/a&gt;).</r:Content>
+      </r:Description>
+    </Organization>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Organization isUniversallyUnique="true" versionDate="2019-11-13T10:51:11.7299431Z" xmlns="ddi:archive:3_2">
+      <r:URN>urn:ddi:uk.closer:8a504fa0-6574-41dc-a2fc-dce99b33c820:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>8a504fa0-6574-41dc-a2fc-dce99b33c820</r:ID>
+      <r:Version>1</r:Version>
+      <r:UserAttributePair>
+        <r:AttributeKey>ddi31:Nickname</r:AttributeKey>
+        <r:AttributeValue>{"en-GB":"NISRA"}</r:AttributeValue>
+      </r:UserAttributePair>
+      <OrganizationIdentification>
+        <OrganizationName>
+          <r:String xml:lang="en-GB">Northern Ireland Statistics and Research Agency</r:String>
+        </OrganizationName>
+      </OrganizationIdentification>
+      <r:Description>
+        <r:Content xml:lang="en-GB">The NISRA is an executive agency within the Department of Finance in Northern Ireland. The organisation is responsible for the collection and publication of statistics related to the economy, population and society of Northern Ireland. It is responsible for conducting the decennial census and incorporates the General Register Office (GRO) for Northern Ireland which is responsible for the registration of births, marriages, civil partnerships and deaths (&lt;a href="https://en.wikipedia.org/w/index.php?title=Northern_Ireland_Statistics_and_Research_Agency&amp;oldid=764352328" target="_blank" &gt;Northern Ireland Statistics and Research Agency, n.d.&lt;/a&gt;). </r:Content>
+      </r:Description>
+    </Organization>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Organization isUniversallyUnique="true" versionDate="2019-11-13T10:09:09.8859418Z" xmlns="ddi:archive:3_2">
+      <r:URN>urn:ddi:uk.closer:c7840a7e-ebac-4ba7-b30b-0a286d6fd779:2</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>c7840a7e-ebac-4ba7-b30b-0a286d6fd779</r:ID>
+      <r:Version>2</r:Version>
+      <r:UserAttributePair>
+        <r:AttributeKey>ddi31:Nickname</r:AttributeKey>
+        <r:AttributeValue>{"en-GB":"PIC"}</r:AttributeValue>
+      </r:UserAttributePair>
+      <OrganizationIdentification>
+        <OrganizationName>
+          <r:String xml:lang="en-GB">Population Investigation Committee</r:String>
+        </OrganizationName>
+      </OrganizationIdentification>
+      <r:Description>
+        <r:Content xml:lang="en-GB">The PIC, is a UK social research group founded in 1936. It has been housed at the London School of Economics since 1945 (&lt;a href="https://en.wikipedia.org/w/index.php?title=Population_Investigation_Committee&amp;oldid=918892314" target="_blank" &gt;Population Investigation Committee, n.d.&lt;/a&gt;). </r:Content>
+      </r:Description>
+    </Organization>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Organization isUniversallyUnique="true" versionDate="2019-11-04T16:55:06.0445534Z" xmlns="ddi:archive:3_2">
+      <r:URN>urn:ddi:uk.cls.ncds:f9f33823-e88e-4f40-b021-fe0366319acd:3</r:URN>
+      <r:Agency>uk.cls.ncds</r:Agency>
+      <r:ID>f9f33823-e88e-4f40-b021-fe0366319acd</r:ID>
+      <r:Version>3</r:Version>
+      <r:UserAttributePair>
+        <r:AttributeKey>ddi31:Nickname</r:AttributeKey>
+        <r:AttributeValue>{"en-GB":"RSGB"}</r:AttributeValue>
+      </r:UserAttributePair>
+      <OrganizationIdentification>
+        <OrganizationName>
+          <r:String xml:lang="en-GB">Research Surveys of Great Britain</r:String>
+        </OrganizationName>
+      </OrganizationIdentification>
+      <r:Description>
+        <r:Content xml:lang="en-GB">Research Surveys of Great Britain was a market research and public opinion polling company.</r:Content>
+      </r:Description>
+    </Organization>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Organization isUniversallyUnique="true" versionDate="2019-11-04T16:20:50.5104286Z" xmlns="ddi:archive:3_2">
+      <r:URN>urn:ddi:uk.lha:e7f0afa9-c8b2-4b35-b281-b33a53eaf52d:2</r:URN>
+      <r:Agency>uk.lha</r:Agency>
+      <r:ID>e7f0afa9-c8b2-4b35-b281-b33a53eaf52d</r:ID>
+      <r:Version>2</r:Version>
+      <r:UserAttributePair>
+        <r:AttributeKey>ddi31:Nickname</r:AttributeKey>
+        <r:AttributeValue>{"en-GB":"RFUCMS "}</r:AttributeValue>
+      </r:UserAttributePair>
+      <OrganizationIdentification>
+        <OrganizationName>
+          <r:String xml:lang="en-GB">Royal Free and University College London Medical School</r:String>
+        </OrganizationName>
+      </OrganizationIdentification>
+      <r:Description>
+        <r:Content xml:lang="en-GB">RFUCMS was formed in 1998 from the merger of two medical schools, the Middlesex Hospital and University College Hospital. In 2008, it was renamed UCL Medical School.</r:Content>
+      </r:Description>
+    </Organization>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Organization isUniversallyUnique="true" versionDate="2019-11-13T10:53:21.132128Z" xmlns="ddi:archive:3_2">
+      <r:URN>urn:ddi:uk.closer:90ca0710-c066-40cd-b4f5-26876177e79a:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>90ca0710-c066-40cd-b4f5-26876177e79a</r:ID>
+      <r:Version>1</r:Version>
+      <r:UserAttributePair>
+        <r:AttributeKey>ddi31:Nickname</r:AttributeKey>
+        <r:AttributeValue>{"en-GB":"SCPR"}</r:AttributeValue>
+      </r:UserAttributePair>
+      <OrganizationIdentification>
+        <OrganizationName>
+          <r:String xml:lang="en-GB">Social and Community Planning Research</r:String>
+        </OrganizationName>
+      </OrganizationIdentification>
+      <r:Description>
+        <r:Content xml:lang="en-GB">The Social and Community Planning Research was founded in London, UK in 1969 and later became the National Centre for Social Research (&lt;a href="https://en.wikipedia.org/w/index.php?title=National_Centre_for_Social_Research&amp;oldid=896115976" target="_blank" &gt;National Centre for Social Research, n.d.&lt;/a&gt;).</r:Content>
+      </r:Description>
+    </Organization>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Organization isUniversallyUnique="true" versionDate="2019-11-13T10:53:40.9149406Z" xmlns="ddi:archive:3_2">
+      <r:URN>urn:ddi:uk.cls.ncds:d82ec7df-62f1-45ea-bf7f-ca2b25d4c44d:2</r:URN>
+      <r:Agency>uk.cls.ncds</r:Agency>
+      <r:ID>d82ec7df-62f1-45ea-bf7f-ca2b25d4c44d</r:ID>
+      <r:Version>2</r:Version>
+      <OrganizationIdentification>
+        <OrganizationName>
+          <r:String xml:lang="en-GB">St George's Hospital, London</r:String>
+        </OrganizationName>
+      </OrganizationIdentification>
+      <r:Description>
+        <r:Content xml:lang="en-GB">St George's Hospital is a teaching hospital in London, UK. It was founded in 1733, and is is one of the UK's largest teaching hospitals and one of the largest hospitals in Europe. It is run by the St George's University Hospitals NHS Foundation Trust (&lt;a href="https://en.wikipedia.org/w/index.php?title=St_George%27s_Hospital&amp;oldid=918585267" target="_blank" &gt;St George's Hospital, n.d. &lt;/a&gt;).</r:Content>
+      </r:Description>
+    </Organization>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Organization isUniversallyUnique="true" versionDate="2019-11-13T10:54:09.1674181Z" xmlns="ddi:archive:3_2">
+      <r:URN>urn:ddi:uk.mrcleu-uos.sws:f3870327-27b4-46e7-a40f-80dbb6f36a28:2</r:URN>
+      <r:Agency>uk.mrcleu-uos.sws</r:Agency>
+      <r:ID>f3870327-27b4-46e7-a40f-80dbb6f36a28</r:ID>
+      <r:Version>2</r:Version>
+      <OrganizationIdentification>
+        <OrganizationName>
+          <r:String xml:lang="en-GB">Southampton Women's Survey Research Nurses</r:String>
+        </OrganizationName>
+      </OrganizationIdentification>
+      <r:Description>
+        <r:Content xml:lang="en-GB">SWS in-house research nurses (&lt;a href="https://www.closer.ac.uk/study/southampton-womens-survey/" target="_blank" &gt;SWS&lt;/a&gt;).</r:Content>
+      </r:Description>
+    </Organization>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Organization isUniversallyUnique="true" versionDate="2019-11-13T10:54:39.8692307Z" xmlns="ddi:archive:3_2">
+      <r:URN>urn:ddi:uk.closer:23e4f0a5-616c-4998-aaab-a1982ded5369:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>23e4f0a5-616c-4998-aaab-a1982ded5369</r:ID>
+      <r:Version>1</r:Version>
+      <OrganizationIdentification>
+        <OrganizationName>
+          <r:String xml:lang="en-GB">TNS-BMRB</r:String>
+        </OrganizationName>
+      </OrganizationIdentification>
+      <r:Description>
+        <r:Content xml:lang="en-GB">TNS-BMRB which is now known as Kantar Public UK was established in 1933 and is now part of global Kantar Public network. It is a global market research and market information group (&lt;a href="https://en.wikipedia.org/w/index.php?title=Kantar_TNS&amp;oldid=917106850" target="_blank" &gt;Kantar TNS, n.d.&lt;/a&gt;).</r:Content>
+      </r:Description>
+    </Organization>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Organization isUniversallyUnique="true" versionDate="2019-11-13T10:38:33.2068732Z" xmlns="ddi:archive:3_2">
+      <r:URN>urn:ddi:uk.closer:4e860e1a-51ff-48cd-b60a-c465e812b264:2</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>4e860e1a-51ff-48cd-b60a-c465e812b264</r:ID>
+      <r:Version>2</r:Version>
+      <OrganizationIdentification>
+        <OrganizationName>
+          <r:String xml:lang="en-GB">University College London Medical School</r:String>
+        </OrganizationName>
+      </OrganizationIdentification>
+      <r:Description>
+        <r:Content xml:lang="en-GB">UCL Medical School is the medical school of University College London and is located in London, UK. The School provides a wide range of undergraduate and postgraduate medical education programmes and also has a medical education research unit and an education consultancy unit (&lt;a href="https://en.wikipedia.org/w/index.php?title=University_College_London&amp;oldid=923707359https://en.wikipedia.org/w/index.php?title=UCL_Medical_School&amp;oldid=902765381" target="_blank" &gt;UCL Medical School, n.d.&lt;/a&gt;). </r:Content>
+      </r:Description>
+    </Organization>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Organization isUniversallyUnique="true" versionDate="2019-11-13T10:55:23.5467612Z" xmlns="ddi:archive:3_2">
+      <r:URN>urn:ddi:uk.closer:ad300f64-2a5c-433d-b83a-359e8c7861c9:2</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>ad300f64-2a5c-433d-b83a-359e8c7861c9</r:ID>
+      <r:Version>2</r:Version>
+      <OrganizationIdentification>
+        <OrganizationName>
+          <r:String xml:lang="en-GB">Wirral Child Health and Development Study Research Team</r:String>
+        </OrganizationName>
+      </OrganizationIdentification>
+      <r:Description>
+        <r:Content xml:lang="en-GB">WCHADS in-house data collectors (&lt;a href="https://www.liverpool.ac.uk/institute-of-life-and-human-sciences/schools-and-departments/department-of-psychological-sciences/research/first-steps/about/" target="_blank" &gt;WCHADS&lt;/a&gt;).</r:Content>
+      </r:Description>
+    </Organization>
+  </ddi:Fragment>
+</ddi:FragmentInstance>
