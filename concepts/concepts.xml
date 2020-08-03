@@ -1,0 +1,3140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ddi:FragmentInstance xmlns:r="ddi:reusable:3_2" xmlns:ddi="ddi:instance:3_2">
+  <ddi:TopLevelReference>
+    <r:Agency>uk.closer</r:Agency>
+    <r:ID>4caa51db-56a9-4b48-b4ef-00347fe130e7</r:ID>
+    <r:Version>3</r:Version>
+    <r:TypeOfObject>ConceptScheme</r:TypeOfObject>
+  </ddi:TopLevelReference>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <ConceptScheme isUniversallyUnique="true" versionDate="2019-09-02T10:19:15.0435431Z" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:4caa51db-56a9-4b48-b4ef-00347fe130e7:3</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>4caa51db-56a9-4b48-b4ef-00347fe130e7</r:ID>
+      <r:Version>3</r:Version>
+      <r:UserID typeOfUserID="colectica:sourceId">conceptScheme</r:UserID>
+      <r:UserAttributePair>
+        <r:AttributeKey>extension:CustomField</r:AttributeKey>
+        <r:AttributeValue>{"Title":{},"Description":{},"ValueType":0,"HasValue":false,"RelationshipTargetType":"00000000-0000-0000-0000-000000000000","MultilingualStringValue":{},"HasDefinedType":false,"DisplayLabel":"Annotation"}</r:AttributeValue>
+      </r:UserAttributePair>
+      <ConceptSchemeName>
+        <r:String xml:lang="en-GB">CLOSER Topic Areas</r:String>
+      </ConceptSchemeName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">CLOSER Topic Areas</r:Content>
+      </r:Label>
+      <r:Description>
+        <r:Content xml:lang="en-GB">Concepts defined in the CLOSER Project, based on HASSET and MeSH</r:Content>
+      </r:Description>
+      <r:ConceptReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>a760837f-ff1d-4ee1-8564-0c56c97c75ee</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </r:ConceptReference>
+      <r:ConceptReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>46f19a24-f6d6-4cb2-b8bc-ceed8ef16559</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </r:ConceptReference>
+      <r:ConceptReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>ec958d50-a7be-4218-827d-cfa0f2b873fb</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </r:ConceptReference>
+      <r:ConceptReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>dbf25519-fa61-4fa7-9f75-d7680b882b6b</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </r:ConceptReference>
+      <r:ConceptReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>33820013-a0b6-4cfc-9041-2670709b6fd4</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </r:ConceptReference>
+      <r:ConceptReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>b973bc4c-940f-48d1-92bb-b87deae43bf6</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </r:ConceptReference>
+      <r:ConceptReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>e77686f1-2f68-4114-a26a-1dabf4c0f104</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </r:ConceptReference>
+      <r:ConceptReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>9859b730-016e-4a39-af0a-1dc9e37d9b2d</r:ID>
+        <r:Version>2</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </r:ConceptReference>
+      <r:ConceptReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>bae29949-f36d-4bee-bea3-3eefd223d9c9</r:ID>
+        <r:Version>2</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </r:ConceptReference>
+      <r:ConceptReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>ae5e4999-1c0a-49bf-bcde-1a149092f6cd</r:ID>
+        <r:Version>2</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </r:ConceptReference>
+      <r:ConceptReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>e15c7287-9f0f-4c30-bbc5-212e0bd08b6c</r:ID>
+        <r:Version>2</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </r:ConceptReference>
+      <r:ConceptReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>bed3b2d8-2555-48f1-ab2b-2052bf89349a</r:ID>
+        <r:Version>2</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </r:ConceptReference>
+      <r:ConceptReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>da29b5d2-c6c4-48e9-a3e0-ab7adee4137c</r:ID>
+        <r:Version>2</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </r:ConceptReference>
+      <r:ConceptReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>50d16990-d794-4a33-9480-39d9906ca9ab</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </r:ConceptReference>
+      <r:ConceptReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>2880c583-b9b0-4205-9d2e-fd8edce79249</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </r:ConceptReference>
+      <r:ConceptReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>e49952c1-a42e-4fe8-950e-fcc40c079585</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </r:ConceptReference>
+      <r:ConceptReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>22d2b52d-f501-4864-b8b3-72018d7b9e20</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </r:ConceptReference>
+      <r:ConceptReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>f0cdc5c2-85ea-4338-bfa9-b9965b9f0002</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </r:ConceptReference>
+      <r:ConceptReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>1aa59894-1ca6-499f-a25d-78f78dd93427</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </r:ConceptReference>
+      <r:ConceptReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>94dd969f-aed8-4f3d-a4d9-35fbee163bdf</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </r:ConceptReference>
+      <r:ConceptReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>937a40ad-9339-41a0-95ca-fa7bcfa4e3ba</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </r:ConceptReference>
+      <r:ConceptReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>3a76c00b-4358-4731-8d99-488c5cd8c1da</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </r:ConceptReference>
+      <r:ConceptReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>77087ac9-0f45-433b-b4ec-fdccb0108c05</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </r:ConceptReference>
+      <r:ConceptReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>e04f9666-dfd6-4916-ae35-cd619bb1b8ca</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </r:ConceptReference>
+      <r:ConceptReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>dbce11a0-90dc-4932-995a-f7afdc46f6f1</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </r:ConceptReference>
+      <r:ConceptReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>ee83f0b2-327e-458b-8dc8-6e3b9ca9432d</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </r:ConceptReference>
+      <r:ConceptReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>2520d781-5776-427f-8cd5-5a044c829d66</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </r:ConceptReference>
+      <r:ConceptReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>d3aa1aab-9383-4059-96a6-26d9d5b80785</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </r:ConceptReference>
+      <r:ConceptReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>e9f04a42-3b36-4eee-bde9-deed7bc46dea</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </r:ConceptReference>
+      <r:ConceptReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>8b3b6dde-16bc-4bd7-9088-6917025eb75c</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </r:ConceptReference>
+      <r:ConceptReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>eccc1f6e-50f5-4956-8025-832a869256b7</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </r:ConceptReference>
+      <r:ConceptReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>b2f8c462-5d43-411b-b711-f47ddc37f487</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </r:ConceptReference>
+      <r:ConceptReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>935e680f-691b-4e9c-97d4-7bf85f562164</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </r:ConceptReference>
+      <r:ConceptReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>e0962fb5-6e4a-4306-a24d-4b49e001ef41</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </r:ConceptReference>
+      <r:ConceptReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>52aa15f6-3741-467c-8d0f-9585c76228fb</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </r:ConceptReference>
+      <r:ConceptReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>05c6f138-539e-4ca0-86ff-187b0a8622c2</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </r:ConceptReference>
+      <r:ConceptReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>db0381bf-6cca-4c93-829b-94be8116716e</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </r:ConceptReference>
+      <r:ConceptReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>d515e295-dddb-4141-a19d-dfba2b402bc9</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </r:ConceptReference>
+      <r:ConceptReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>7ef7dc47-caec-4cab-b22d-39785129fbb7</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </r:ConceptReference>
+      <r:ConceptReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>f96f2d80-c207-4759-942d-e9cf977aecb5</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </r:ConceptReference>
+      <r:ConceptReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>86844ce4-0e00-4ec7-8a91-a33a9a60dd0e</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </r:ConceptReference>
+      <r:ConceptReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>e4f35ec0-a810-4b60-ac43-68eb96296c83</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </r:ConceptReference>
+      <r:ConceptReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>afdb7c4b-6782-47ba-b264-2d2485ebcc0a</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </r:ConceptReference>
+      <r:ConceptReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>c253fe24-9286-41e0-8dd1-f845ce181080</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </r:ConceptReference>
+      <r:ConceptReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>b4cebe03-e928-4ac1-96a2-7b3abd4a23f3</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </r:ConceptReference>
+      <r:ConceptReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>733d1b02-259d-4c7a-8a48-23fa6b519d26</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </r:ConceptReference>
+      <r:ConceptReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>106ea20a-b7ce-4cf1-b592-89b138ddba75</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </r:ConceptReference>
+      <r:ConceptReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>945cc18e-843e-456b-bc87-6ffe24fed9e5</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </r:ConceptReference>
+      <r:ConceptReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>8a589357-866c-432f-b633-e3f07de75239</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </r:ConceptReference>
+      <r:ConceptReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>6de8dc1d-9631-4945-945c-2d9d72bf48ce</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </r:ConceptReference>
+      <r:ConceptReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>425c4a56-1448-42c9-ac40-ebe93c4c97e4</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </r:ConceptReference>
+      <r:ConceptReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>f05ea0e1-59c1-4370-8e83-a477d9c644c3</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </r:ConceptReference>
+      <r:ConceptReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>e6cd21f6-c3da-4254-a469-53f662f95f77</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </r:ConceptReference>
+      <r:ConceptReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>588925d9-0027-4fbb-9e84-5faf5100d1ec</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </r:ConceptReference>
+      <r:ConceptReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>3874a6fc-949f-402a-a9ba-653b12b366e0</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </r:ConceptReference>
+      <r:ConceptReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>2c65a8aa-c526-49d2-813e-74e495883a81</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </r:ConceptReference>
+      <r:ConceptReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>d91fa31c-e435-4587-9428-01dee4be8b61</r:ID>
+        <r:Version>2</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </r:ConceptReference>
+      <r:ConceptReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>a850181e-dacf-4db9-a599-8f83bcd665c4</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </r:ConceptReference>
+      <r:ConceptReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>14746362-bcd6-4b19-8be9-79b7bdd3e766</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </r:ConceptReference>
+      <r:ConceptReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>bd04135e-5e43-4dfc-950d-cd95497796ba</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </r:ConceptReference>
+      <r:ConceptReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>2a845ea2-fb4a-47a6-85e6-c226a8fd6162</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </r:ConceptReference>
+      <r:ConceptReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>1f006f3a-a402-45d6-a472-6960755675df</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </r:ConceptReference>
+      <r:ConceptReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>7ab361fb-4417-4e2c-b3dd-453eb565a727</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </r:ConceptReference>
+      <r:ConceptReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>a9302100-74ad-4bac-af79-a05278a05fd0</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </r:ConceptReference>
+      <r:ConceptReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>83369400-e17d-4e80-affd-6d59a3b53b7c</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </r:ConceptReference>
+      <r:ConceptReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>def6c0d9-cd2e-468b-818f-11c29cae9398</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </r:ConceptReference>
+      <r:ConceptReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>e4dff841-75fe-4549-826f-a1147cc0706f</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </r:ConceptReference>
+      <r:ConceptReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>d7d7d636-8b1e-491f-821d-18803c50dccc</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </r:ConceptReference>
+      <r:ConceptReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>fa1917f0-c71e-4a53-8826-58fb1f88412d</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </r:ConceptReference>
+      <r:ConceptReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>e7fe9780-7064-4e51-9d5d-436983532f3a</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </r:ConceptReference>
+      <r:ConceptReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>ccc0628b-7091-4219-8740-0550b764446e</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </r:ConceptReference>
+      <r:ConceptReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>93753ca7-7aad-4037-b003-7b29c2851083</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </r:ConceptReference>
+      <r:ConceptReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>ef2b6368-9906-426b-a911-0ff41062123e</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </r:ConceptReference>
+      <r:ConceptReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>e4dcfc95-2d3d-453c-a5b1-0fe760e31a98</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </r:ConceptReference>
+      <r:ConceptReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>6a729bd3-a10c-46da-abb6-3e896565a2b1</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </r:ConceptReference>
+      <r:ConceptReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>f8ea9534-a71a-4439-bcda-0037273300b1</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </r:ConceptReference>
+      <r:ConceptReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>1a96c950-8fa4-46cb-b2ad-5f66a0873689</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </r:ConceptReference>
+      <r:ConceptReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>debd6211-d52a-4773-9084-ba7f82b84f74</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </r:ConceptReference>
+      <r:ConceptReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>da898248-1b4a-44d9-8e49-741ce18b3f46</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </r:ConceptReference>
+      <r:ConceptReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>021bd1da-ca55-46c3-87e5-1d0c1097f5fa</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </r:ConceptReference>
+      <r:ConceptReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>a77ded37-36a7-4dd7-aad2-dbe801cbc56f</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </r:ConceptReference>
+      <r:ConceptReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>966ea77d-fa92-4593-9d76-e7e59aec15c2</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </r:ConceptReference>
+      <r:ConceptReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>0569d6d7-1e5a-4b15-abae-d3e07419e1d9</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </r:ConceptReference>
+      <r:ConceptReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>fa264b81-2762-4f98-9b0a-91b43a5ad37e</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </r:ConceptReference>
+      <r:ConceptReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>72563008-363e-4048-b21b-24b0c0446718</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </r:ConceptReference>
+      <r:ConceptReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>beaf8e58-0c69-4282-9bd0-ab9986bed64d</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </r:ConceptReference>
+      <r:ConceptReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>a2c779bf-e229-4668-b51c-a03391a461ac</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </r:ConceptReference>
+      <r:ConceptReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>8904e225-cea6-4104-846d-8c4e8e983ee0</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </r:ConceptReference>
+      <r:ConceptReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>c8f6a860-ba2f-450f-aca5-cf2dac373150</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </r:ConceptReference>
+      <r:ConceptReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>71033213-2aa0-4910-b64d-f33a9c10f1f2</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </r:ConceptReference>
+      <r:ConceptReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>56ce6723-0048-4359-bf69-b9dcdde7a278</r:ID>
+        <r:Version>2</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </r:ConceptReference>
+      <r:ConceptReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>c8258b04-0099-45f2-937d-2e8ad9292807</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </r:ConceptReference>
+      <r:ConceptReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>8755ebbc-ebfa-445e-b7b0-712b726908d4</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </r:ConceptReference>
+      <r:ConceptReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>b8b049ee-4f15-4ffe-9b32-dcabaa2f9117</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </r:ConceptReference>
+      <r:ConceptReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>41742e83-723a-4ca9-873a-e7def92a0297</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </r:ConceptReference>
+      <r:ConceptReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>3cfa736f-a8c5-4837-b1d6-3fe2cc4a854f</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </r:ConceptReference>
+      <r:ConceptReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>19929f1f-c92d-4773-828b-c79f13c36636</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </r:ConceptReference>
+      <r:ConceptReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>29bdff08-b4d1-4591-93fe-e544a0c43501</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </r:ConceptReference>
+      <r:ConceptReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>429402e5-c7cc-4bc6-83af-073564a1e96e</r:ID>
+        <r:Version>2</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </r:ConceptReference>
+      <r:ConceptReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>d8b6e9fc-eef1-4e2a-b930-4980739d0080</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </r:ConceptReference>
+      <r:ConceptReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>a5237284-3585-43b0-bc0f-800ad5ac3e6a</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </r:ConceptReference>
+      <r:ConceptReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>a2de01a1-7e5b-488a-aabd-927200d628bd</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </r:ConceptReference>
+      <r:ConceptReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>e20e1ab9-da72-438a-9d05-f4f0a33a47a3</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </r:ConceptReference>
+      <r:ConceptReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>a37129a5-4dd2-4353-80b4-9ab6146fce91</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </r:ConceptReference>
+      <r:ConceptReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>349b4f8c-21ba-4a42-93ae-3e551bd7e640</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </r:ConceptReference>
+      <r:ConceptReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>e14f6794-4139-45ee-b847-dcc603990362</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </r:ConceptReference>
+      <r:ConceptReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>b8cda37c-dc46-4986-bdb3-621eb3c3d9c7</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </r:ConceptReference>
+      <r:ConceptReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>c9ac7229-5b23-4815-9445-892b378d7811</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </r:ConceptReference>
+      <r:ConceptReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>864bde73-e99a-4eda-9211-30930cd59b33</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </r:ConceptReference>
+      <r:ConceptReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>db4cd61d-74e1-4d39-aed9-dc9c246af735</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </r:ConceptReference>
+      <r:ConceptReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>0c721ec8-4612-4a34-84d2-56f780c4dc3d</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </r:ConceptReference>
+      <r:ConceptReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>01718a0d-368a-4ee8-9702-5b3b3f0ada37</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </r:ConceptReference>
+      <r:ConceptReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>fd159c2e-1464-4e66-bf93-f4a87987faf1</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </r:ConceptReference>
+      <r:ConceptReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>bfb14ebb-e659-48cf-894f-ba162ba6e72f</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </r:ConceptReference>
+      <r:ConceptReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>0b3060cf-b445-4dcc-88f4-f2bafefca8ab</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </r:ConceptReference>
+      <r:ConceptReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>aff2d476-988d-43fc-8490-c0bb3ad8b709</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </r:ConceptReference>
+      <r:ConceptReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>85c1b1e1-8f1e-4539-b023-80bf159cb814</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </r:ConceptReference>
+      <r:ConceptReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>031054aa-24b6-453c-a9ae-63ff13673088</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </r:ConceptReference>
+      <r:ConceptReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>8e610654-dd7c-4516-9d43-1935fb38a3f9</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </r:ConceptReference>
+    </ConceptScheme>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Concept isUniversallyUnique="true" versionDate="2017-01-20T11:26:37.543166Z" isCharacteristic="true" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:a760837f-ff1d-4ee1-8564-0c56c97c75ee:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>a760837f-ff1d-4ee1-8564-0c56c97c75ee</r:ID>
+      <r:Version>1</r:Version>
+      <r:UserID typeOfUserID="colectica:sourceId">concept101</r:UserID>
+      <ConceptName>
+        <r:String xml:lang="en-GB">101</r:String>
+      </ConceptName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Demographics</r:Content>
+      </r:Label>
+    </Concept>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Concept isUniversallyUnique="true" versionDate="2017-01-20T11:26:37.5581655Z" isCharacteristic="false" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:46f19a24-f6d6-4cb2-b8bc-ceed8ef16559:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>46f19a24-f6d6-4cb2-b8bc-ceed8ef16559</r:ID>
+      <r:Version>1</r:Version>
+      <r:UserID typeOfUserID="colectica:sourceId">concept10101</r:UserID>
+      <ConceptName>
+        <r:String xml:lang="en-GB">10101</r:String>
+      </ConceptName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Place of birth</r:Content>
+      </r:Label>
+      <SubclassOfReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>a760837f-ff1d-4ee1-8564-0c56c97c75ee</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </SubclassOfReference>
+    </Concept>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Concept isUniversallyUnique="true" versionDate="2017-01-20T11:26:37.5601663Z" isCharacteristic="false" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:ec958d50-a7be-4218-827d-cfa0f2b873fb:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>ec958d50-a7be-4218-827d-cfa0f2b873fb</r:ID>
+      <r:Version>1</r:Version>
+      <r:UserID typeOfUserID="colectica:sourceId">concept10102</r:UserID>
+      <ConceptName>
+        <r:String xml:lang="en-GB">10102</r:String>
+      </ConceptName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Gender</r:Content>
+      </r:Label>
+      <SubclassOfReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>a760837f-ff1d-4ee1-8564-0c56c97c75ee</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </SubclassOfReference>
+    </Concept>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Concept isUniversallyUnique="true" versionDate="2017-01-20T11:26:37.5601663Z" isCharacteristic="false" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:dbf25519-fa61-4fa7-9f75-d7680b882b6b:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>dbf25519-fa61-4fa7-9f75-d7680b882b6b</r:ID>
+      <r:Version>1</r:Version>
+      <r:UserID typeOfUserID="colectica:sourceId">concept10103</r:UserID>
+      <ConceptName>
+        <r:String xml:lang="en-GB">10103</r:String>
+      </ConceptName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Ethnic group</r:Content>
+      </r:Label>
+      <SubclassOfReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>a760837f-ff1d-4ee1-8564-0c56c97c75ee</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </SubclassOfReference>
+    </Concept>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Concept isUniversallyUnique="true" versionDate="2017-01-20T11:26:37.5601663Z" isCharacteristic="false" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:33820013-a0b6-4cfc-9041-2670709b6fd4:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>33820013-a0b6-4cfc-9041-2670709b6fd4</r:ID>
+      <r:Version>1</r:Version>
+      <r:UserID typeOfUserID="colectica:sourceId">concept10104</r:UserID>
+      <ConceptName>
+        <r:String xml:lang="en-GB">10104</r:String>
+      </ConceptName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Language(s) spoken</r:Content>
+      </r:Label>
+      <SubclassOfReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>a760837f-ff1d-4ee1-8564-0c56c97c75ee</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </SubclassOfReference>
+    </Concept>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Concept isUniversallyUnique="true" versionDate="2017-01-20T11:26:37.5611664Z" isCharacteristic="false" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:b973bc4c-940f-48d1-92bb-b87deae43bf6:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>b973bc4c-940f-48d1-92bb-b87deae43bf6</r:ID>
+      <r:Version>1</r:Version>
+      <r:UserID typeOfUserID="colectica:sourceId">concept10106</r:UserID>
+      <ConceptName>
+        <r:String xml:lang="en-GB">10106</r:String>
+      </ConceptName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Location</r:Content>
+      </r:Label>
+      <SubclassOfReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>a760837f-ff1d-4ee1-8564-0c56c97c75ee</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </SubclassOfReference>
+    </Concept>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Concept isUniversallyUnique="true" versionDate="2017-01-20T12:28:02.2761131Z" isCharacteristic="false" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:e77686f1-2f68-4114-a26a-1dabf4c0f104:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>e77686f1-2f68-4114-a26a-1dabf4c0f104</r:ID>
+      <r:Version>1</r:Version>
+      <ConceptName>
+        <r:String xml:lang="en-GB">10107</r:String>
+      </ConceptName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Age</r:Content>
+      </r:Label>
+      <SubclassOfReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>a760837f-ff1d-4ee1-8564-0c56c97c75ee</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </SubclassOfReference>
+    </Concept>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Concept isUniversallyUnique="true" versionDate="2017-01-20T11:49:20.6912275Z" isCharacteristic="true" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:9859b730-016e-4a39-af0a-1dc9e37d9b2d:2</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>9859b730-016e-4a39-af0a-1dc9e37d9b2d</r:ID>
+      <r:Version>2</r:Version>
+      <r:UserID typeOfUserID="colectica:sourceId">concept102</r:UserID>
+      <ConceptName>
+        <r:String xml:lang="en-GB">102</r:String>
+      </ConceptName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Housing and local environment</r:Content>
+      </r:Label>
+    </Concept>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Concept isUniversallyUnique="true" versionDate="2017-01-20T11:49:20.7772313Z" isCharacteristic="false" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:bae29949-f36d-4bee-bea3-3eefd223d9c9:2</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>bae29949-f36d-4bee-bea3-3eefd223d9c9</r:ID>
+      <r:Version>2</r:Version>
+      <r:UserID typeOfUserID="colectica:sourceId">concept10201</r:UserID>
+      <ConceptName>
+        <r:String xml:lang="en-GB">10201</r:String>
+      </ConceptName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Housing</r:Content>
+      </r:Label>
+      <SubclassOfReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>9859b730-016e-4a39-af0a-1dc9e37d9b2d</r:ID>
+        <r:Version>2</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </SubclassOfReference>
+    </Concept>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Concept isUniversallyUnique="true" versionDate="2017-01-20T11:49:20.7772313Z" isCharacteristic="false" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:ae5e4999-1c0a-49bf-bcde-1a149092f6cd:2</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>ae5e4999-1c0a-49bf-bcde-1a149092f6cd</r:ID>
+      <r:Version>2</r:Version>
+      <r:UserID typeOfUserID="colectica:sourceId">concept10202</r:UserID>
+      <ConceptName>
+        <r:String xml:lang="en-GB">10202</r:String>
+      </ConceptName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Neighbourhood</r:Content>
+      </r:Label>
+      <SubclassOfReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>9859b730-016e-4a39-af0a-1dc9e37d9b2d</r:ID>
+        <r:Version>2</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </SubclassOfReference>
+    </Concept>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Concept isUniversallyUnique="true" versionDate="2017-01-20T11:49:20.7772313Z" isCharacteristic="false" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:e15c7287-9f0f-4c30-bbc5-212e0bd08b6c:2</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>e15c7287-9f0f-4c30-bbc5-212e0bd08b6c</r:ID>
+      <r:Version>2</r:Version>
+      <r:UserID typeOfUserID="colectica:sourceId">concept10203</r:UserID>
+      <ConceptName>
+        <r:String xml:lang="en-GB">10203</r:String>
+      </ConceptName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Travel and transport</r:Content>
+      </r:Label>
+      <SubclassOfReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>9859b730-016e-4a39-af0a-1dc9e37d9b2d</r:ID>
+        <r:Version>2</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </SubclassOfReference>
+    </Concept>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Concept isUniversallyUnique="true" versionDate="2017-01-20T11:49:20.7772313Z" isCharacteristic="false" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:bed3b2d8-2555-48f1-ab2b-2052bf89349a:2</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>bed3b2d8-2555-48f1-ab2b-2052bf89349a</r:ID>
+      <r:Version>2</r:Version>
+      <r:UserID typeOfUserID="colectica:sourceId">concept10204</r:UserID>
+      <ConceptName>
+        <r:String xml:lang="en-GB">10204</r:String>
+      </ConceptName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Environmental exposure</r:Content>
+      </r:Label>
+      <SubclassOfReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>9859b730-016e-4a39-af0a-1dc9e37d9b2d</r:ID>
+        <r:Version>2</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </SubclassOfReference>
+    </Concept>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Concept isUniversallyUnique="true" versionDate="2017-01-20T11:49:20.7772313Z" isCharacteristic="false" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:da29b5d2-c6c4-48e9-a3e0-ab7adee4137c:2</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>da29b5d2-c6c4-48e9-a3e0-ab7adee4137c</r:ID>
+      <r:Version>2</r:Version>
+      <r:UserID typeOfUserID="colectica:sourceId">concept10205</r:UserID>
+      <ConceptName>
+        <r:String xml:lang="en-GB">10205</r:String>
+      </ConceptName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Residential mobility</r:Content>
+      </r:Label>
+      <SubclassOfReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>9859b730-016e-4a39-af0a-1dc9e37d9b2d</r:ID>
+        <r:Version>2</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </SubclassOfReference>
+    </Concept>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Concept isUniversallyUnique="true" versionDate="2017-01-20T11:26:37.5581655Z" isCharacteristic="true" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:50d16990-d794-4a33-9480-39d9906ca9ab:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>50d16990-d794-4a33-9480-39d9906ca9ab</r:ID>
+      <r:Version>1</r:Version>
+      <r:UserID typeOfUserID="colectica:sourceId">concept103</r:UserID>
+      <ConceptName>
+        <r:String xml:lang="en-GB">103</r:String>
+      </ConceptName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Physical health</r:Content>
+      </r:Label>
+    </Concept>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Concept isUniversallyUnique="true" versionDate="2017-01-20T11:26:37.5611664Z" isCharacteristic="false" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:2880c583-b9b0-4205-9d2e-fd8edce79249:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>2880c583-b9b0-4205-9d2e-fd8edce79249</r:ID>
+      <r:Version>1</r:Version>
+      <r:UserID typeOfUserID="colectica:sourceId">concept10301</r:UserID>
+      <ConceptName>
+        <r:String xml:lang="en-GB">10301</r:String>
+      </ConceptName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Cardiovascular system</r:Content>
+      </r:Label>
+      <SubclassOfReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>50d16990-d794-4a33-9480-39d9906ca9ab</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </SubclassOfReference>
+    </Concept>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Concept isUniversallyUnique="true" versionDate="2017-01-20T11:26:37.5611664Z" isCharacteristic="false" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:e49952c1-a42e-4fe8-950e-fcc40c079585:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>e49952c1-a42e-4fe8-950e-fcc40c079585</r:ID>
+      <r:Version>1</r:Version>
+      <r:UserID typeOfUserID="colectica:sourceId">concept10302</r:UserID>
+      <ConceptName>
+        <r:String xml:lang="en-GB">10302</r:String>
+      </ConceptName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Musculoskeletal system</r:Content>
+      </r:Label>
+      <SubclassOfReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>50d16990-d794-4a33-9480-39d9906ca9ab</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </SubclassOfReference>
+    </Concept>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Concept isUniversallyUnique="true" versionDate="2017-01-20T11:26:37.5611664Z" isCharacteristic="false" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:22d2b52d-f501-4864-b8b3-72018d7b9e20:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>22d2b52d-f501-4864-b8b3-72018d7b9e20</r:ID>
+      <r:Version>1</r:Version>
+      <r:UserID typeOfUserID="colectica:sourceId">concept10303</r:UserID>
+      <ConceptName>
+        <r:String xml:lang="en-GB">10303</r:String>
+      </ConceptName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Respiratory system</r:Content>
+      </r:Label>
+      <SubclassOfReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>50d16990-d794-4a33-9480-39d9906ca9ab</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </SubclassOfReference>
+    </Concept>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Concept isUniversallyUnique="true" versionDate="2017-01-20T11:26:37.5611664Z" isCharacteristic="false" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:f0cdc5c2-85ea-4338-bfa9-b9965b9f0002:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>f0cdc5c2-85ea-4338-bfa9-b9965b9f0002</r:ID>
+      <r:Version>1</r:Version>
+      <r:UserID typeOfUserID="colectica:sourceId">concept10304</r:UserID>
+      <ConceptName>
+        <r:String xml:lang="en-GB">10304</r:String>
+      </ConceptName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Nervous system</r:Content>
+      </r:Label>
+      <SubclassOfReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>50d16990-d794-4a33-9480-39d9906ca9ab</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </SubclassOfReference>
+    </Concept>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Concept isUniversallyUnique="true" versionDate="2017-01-20T11:26:37.5611664Z" isCharacteristic="false" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:1aa59894-1ca6-499f-a25d-78f78dd93427:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>1aa59894-1ca6-499f-a25d-78f78dd93427</r:ID>
+      <r:Version>1</r:Version>
+      <r:UserID typeOfUserID="colectica:sourceId">concept10305</r:UserID>
+      <ConceptName>
+        <r:String xml:lang="en-GB">10305</r:String>
+      </ConceptName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Digestive system</r:Content>
+      </r:Label>
+      <SubclassOfReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>50d16990-d794-4a33-9480-39d9906ca9ab</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </SubclassOfReference>
+    </Concept>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Concept isUniversallyUnique="true" versionDate="2017-01-20T11:26:37.5611664Z" isCharacteristic="false" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:94dd969f-aed8-4f3d-a4d9-35fbee163bdf:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>94dd969f-aed8-4f3d-a4d9-35fbee163bdf</r:ID>
+      <r:Version>1</r:Version>
+      <r:UserID typeOfUserID="colectica:sourceId">concept10306</r:UserID>
+      <ConceptName>
+        <r:String xml:lang="en-GB">10306</r:String>
+      </ConceptName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Urogenital system</r:Content>
+      </r:Label>
+      <SubclassOfReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>50d16990-d794-4a33-9480-39d9906ca9ab</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </SubclassOfReference>
+    </Concept>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Concept isUniversallyUnique="true" versionDate="2017-01-20T11:26:37.5611664Z" isCharacteristic="false" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:937a40ad-9339-41a0-95ca-fa7bcfa4e3ba:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>937a40ad-9339-41a0-95ca-fa7bcfa4e3ba</r:ID>
+      <r:Version>1</r:Version>
+      <r:UserID typeOfUserID="colectica:sourceId">concept10307</r:UserID>
+      <ConceptName>
+        <r:String xml:lang="en-GB">10307</r:String>
+      </ConceptName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Endocrine system</r:Content>
+      </r:Label>
+      <SubclassOfReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>50d16990-d794-4a33-9480-39d9906ca9ab</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </SubclassOfReference>
+    </Concept>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Concept isUniversallyUnique="true" versionDate="2017-01-20T11:26:37.5611664Z" isCharacteristic="false" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:3a76c00b-4358-4731-8d99-488c5cd8c1da:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>3a76c00b-4358-4731-8d99-488c5cd8c1da</r:ID>
+      <r:Version>1</r:Version>
+      <r:UserID typeOfUserID="colectica:sourceId">concept10308</r:UserID>
+      <ConceptName>
+        <r:String xml:lang="en-GB">10308</r:String>
+      </ConceptName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Hemic and immune systems</r:Content>
+      </r:Label>
+      <SubclassOfReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>50d16990-d794-4a33-9480-39d9906ca9ab</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </SubclassOfReference>
+    </Concept>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Concept isUniversallyUnique="true" versionDate="2017-01-20T11:26:37.5611664Z" isCharacteristic="false" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:77087ac9-0f45-433b-b4ec-fdccb0108c05:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>77087ac9-0f45-433b-b4ec-fdccb0108c05</r:ID>
+      <r:Version>1</r:Version>
+      <r:UserID typeOfUserID="colectica:sourceId">concept10309</r:UserID>
+      <ConceptName>
+        <r:String xml:lang="en-GB">10309</r:String>
+      </ConceptName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Hearing, vision, speech</r:Content>
+      </r:Label>
+      <SubclassOfReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>50d16990-d794-4a33-9480-39d9906ca9ab</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </SubclassOfReference>
+    </Concept>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Concept isUniversallyUnique="true" versionDate="2017-01-20T11:26:37.5611664Z" isCharacteristic="false" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:e04f9666-dfd6-4916-ae35-cd619bb1b8ca:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>e04f9666-dfd6-4916-ae35-cd619bb1b8ca</r:ID>
+      <r:Version>1</r:Version>
+      <r:UserID typeOfUserID="colectica:sourceId">concept10310</r:UserID>
+      <ConceptName>
+        <r:String xml:lang="en-GB">10310</r:String>
+      </ConceptName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Oral/dental health</r:Content>
+      </r:Label>
+      <SubclassOfReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>50d16990-d794-4a33-9480-39d9906ca9ab</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </SubclassOfReference>
+    </Concept>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Concept isUniversallyUnique="true" versionDate="2017-01-20T11:26:37.5611664Z" isCharacteristic="false" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:dbce11a0-90dc-4932-995a-f7afdc46f6f1:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>dbce11a0-90dc-4932-995a-f7afdc46f6f1</r:ID>
+      <r:Version>1</r:Version>
+      <r:UserID typeOfUserID="colectica:sourceId">concept10311</r:UserID>
+      <ConceptName>
+        <r:String xml:lang="en-GB">10311</r:String>
+      </ConceptName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Skin diseases | Dermatology</r:Content>
+      </r:Label>
+      <SubclassOfReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>50d16990-d794-4a33-9480-39d9906ca9ab</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </SubclassOfReference>
+    </Concept>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Concept isUniversallyUnique="true" versionDate="2017-01-20T11:26:37.5611664Z" isCharacteristic="false" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:ee83f0b2-327e-458b-8dc8-6e3b9ca9432d:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>ee83f0b2-327e-458b-8dc8-6e3b9ca9432d</r:ID>
+      <r:Version>1</r:Version>
+      <r:UserID typeOfUserID="colectica:sourceId">concept10312</r:UserID>
+      <ConceptName>
+        <r:String xml:lang="en-GB">10312</r:String>
+      </ConceptName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Congenital malformations</r:Content>
+      </r:Label>
+      <SubclassOfReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>50d16990-d794-4a33-9480-39d9906ca9ab</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </SubclassOfReference>
+    </Concept>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Concept isUniversallyUnique="true" versionDate="2017-01-20T11:26:37.5611664Z" isCharacteristic="false" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:2520d781-5776-427f-8cd5-5a044c829d66:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>2520d781-5776-427f-8cd5-5a044c829d66</r:ID>
+      <r:Version>1</r:Version>
+      <r:UserID typeOfUserID="colectica:sourceId">concept10313</r:UserID>
+      <ConceptName>
+        <r:String xml:lang="en-GB">10313</r:String>
+      </ConceptName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Cancer</r:Content>
+      </r:Label>
+      <SubclassOfReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>50d16990-d794-4a33-9480-39d9906ca9ab</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </SubclassOfReference>
+    </Concept>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Concept isUniversallyUnique="true" versionDate="2017-01-20T11:26:37.5611664Z" isCharacteristic="false" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:d3aa1aab-9383-4059-96a6-26d9d5b80785:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>d3aa1aab-9383-4059-96a6-26d9d5b80785</r:ID>
+      <r:Version>1</r:Version>
+      <r:UserID typeOfUserID="colectica:sourceId">concept10314</r:UserID>
+      <ConceptName>
+        <r:String xml:lang="en-GB">10314</r:String>
+      </ConceptName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Mortality</r:Content>
+      </r:Label>
+      <SubclassOfReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>50d16990-d794-4a33-9480-39d9906ca9ab</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </SubclassOfReference>
+    </Concept>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Concept isUniversallyUnique="true" versionDate="2017-01-20T11:26:37.5611664Z" isCharacteristic="false" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:e9f04a42-3b36-4eee-bde9-deed7bc46dea:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>e9f04a42-3b36-4eee-bde9-deed7bc46dea</r:ID>
+      <r:Version>1</r:Version>
+      <r:UserID typeOfUserID="colectica:sourceId">concept10315</r:UserID>
+      <ConceptName>
+        <r:String xml:lang="en-GB">10315</r:String>
+      </ConceptName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Reproductive health</r:Content>
+      </r:Label>
+      <SubclassOfReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>50d16990-d794-4a33-9480-39d9906ca9ab</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </SubclassOfReference>
+    </Concept>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Concept isUniversallyUnique="true" versionDate="2017-01-20T11:26:37.5611664Z" isCharacteristic="false" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:8b3b6dde-16bc-4bd7-9088-6917025eb75c:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>8b3b6dde-16bc-4bd7-9088-6917025eb75c</r:ID>
+      <r:Version>1</r:Version>
+      <r:UserID typeOfUserID="colectica:sourceId">concept10316</r:UserID>
+      <ConceptName>
+        <r:String xml:lang="en-GB">10316</r:String>
+      </ConceptName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Women's health</r:Content>
+      </r:Label>
+      <SubclassOfReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>50d16990-d794-4a33-9480-39d9906ca9ab</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </SubclassOfReference>
+    </Concept>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Concept isUniversallyUnique="true" versionDate="2017-01-20T11:26:37.5611664Z" isCharacteristic="false" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:eccc1f6e-50f5-4956-8025-832a869256b7:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>eccc1f6e-50f5-4956-8025-832a869256b7</r:ID>
+      <r:Version>1</r:Version>
+      <r:UserID typeOfUserID="colectica:sourceId">concept10317</r:UserID>
+      <ConceptName>
+        <r:String xml:lang="en-GB">10317</r:String>
+      </ConceptName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Accidents and injuries</r:Content>
+      </r:Label>
+      <SubclassOfReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>50d16990-d794-4a33-9480-39d9906ca9ab</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </SubclassOfReference>
+    </Concept>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Concept isUniversallyUnique="true" versionDate="2017-01-20T11:26:37.5611664Z" isCharacteristic="false" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:b2f8c462-5d43-411b-b711-f47ddc37f487:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>b2f8c462-5d43-411b-b711-f47ddc37f487</r:ID>
+      <r:Version>1</r:Version>
+      <r:UserID typeOfUserID="colectica:sourceId">concept10318</r:UserID>
+      <ConceptName>
+        <r:String xml:lang="en-GB">10318</r:String>
+      </ConceptName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Allergies</r:Content>
+      </r:Label>
+      <SubclassOfReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>50d16990-d794-4a33-9480-39d9906ca9ab</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </SubclassOfReference>
+    </Concept>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Concept isUniversallyUnique="true" versionDate="2017-01-20T11:26:37.5611664Z" isCharacteristic="false" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:935e680f-691b-4e9c-97d4-7bf85f562164:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>935e680f-691b-4e9c-97d4-7bf85f562164</r:ID>
+      <r:Version>1</r:Version>
+      <r:UserID typeOfUserID="colectica:sourceId">concept10319</r:UserID>
+      <ConceptName>
+        <r:String xml:lang="en-GB">10319</r:String>
+      </ConceptName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Infections</r:Content>
+      </r:Label>
+      <SubclassOfReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>50d16990-d794-4a33-9480-39d9906ca9ab</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </SubclassOfReference>
+    </Concept>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Concept isUniversallyUnique="true" versionDate="2017-01-20T11:26:37.5621663Z" isCharacteristic="false" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:e0962fb5-6e4a-4306-a24d-4b49e001ef41:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>e0962fb5-6e4a-4306-a24d-4b49e001ef41</r:ID>
+      <r:Version>1</r:Version>
+      <r:UserID typeOfUserID="colectica:sourceId">concept10320</r:UserID>
+      <ConceptName>
+        <r:String xml:lang="en-GB">10320</r:String>
+      </ConceptName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Anthropometry</r:Content>
+      </r:Label>
+      <SubclassOfReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>50d16990-d794-4a33-9480-39d9906ca9ab</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </SubclassOfReference>
+    </Concept>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Concept isUniversallyUnique="true" versionDate="2017-01-20T11:26:37.5621663Z" isCharacteristic="false" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:52aa15f6-3741-467c-8d0f-9585c76228fb:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>52aa15f6-3741-467c-8d0f-9585c76228fb</r:ID>
+      <r:Version>1</r:Version>
+      <r:UserID typeOfUserID="colectica:sourceId">concept10321</r:UserID>
+      <ConceptName>
+        <r:String xml:lang="en-GB">10321</r:String>
+      </ConceptName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Physical characteristics</r:Content>
+      </r:Label>
+      <SubclassOfReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>50d16990-d794-4a33-9480-39d9906ca9ab</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </SubclassOfReference>
+    </Concept>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Concept isUniversallyUnique="true" versionDate="2017-01-20T11:26:37.5621663Z" isCharacteristic="false" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:05c6f138-539e-4ca0-86ff-187b0a8622c2:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>05c6f138-539e-4ca0-86ff-187b0a8622c2</r:ID>
+      <r:Version>1</r:Version>
+      <r:UserID typeOfUserID="colectica:sourceId">concept10322</r:UserID>
+      <ConceptName>
+        <r:String xml:lang="en-GB">10322</r:String>
+      </ConceptName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Physical functioning</r:Content>
+      </r:Label>
+      <SubclassOfReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>50d16990-d794-4a33-9480-39d9906ca9ab</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </SubclassOfReference>
+    </Concept>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Concept isUniversallyUnique="true" versionDate="2017-01-20T11:26:37.5621663Z" isCharacteristic="false" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:db0381bf-6cca-4c93-829b-94be8116716e:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>db0381bf-6cca-4c93-829b-94be8116716e</r:ID>
+      <r:Version>1</r:Version>
+      <r:UserID typeOfUserID="colectica:sourceId">concept10323</r:UserID>
+      <ConceptName>
+        <r:String xml:lang="en-GB">10323</r:String>
+      </ConceptName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">General health</r:Content>
+      </r:Label>
+      <SubclassOfReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>50d16990-d794-4a33-9480-39d9906ca9ab</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </SubclassOfReference>
+    </Concept>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Concept isUniversallyUnique="true" versionDate="2017-01-20T11:26:37.5581655Z" isCharacteristic="true" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:d515e295-dddb-4141-a19d-dfba2b402bc9:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>d515e295-dddb-4141-a19d-dfba2b402bc9</r:ID>
+      <r:Version>1</r:Version>
+      <r:UserID typeOfUserID="colectica:sourceId">concept104</r:UserID>
+      <ConceptName>
+        <r:String xml:lang="en-GB">104</r:String>
+      </ConceptName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Mental health and mental processes</r:Content>
+      </r:Label>
+    </Concept>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Concept isUniversallyUnique="true" versionDate="2017-01-20T11:26:37.5621663Z" isCharacteristic="false" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:7ef7dc47-caec-4cab-b22d-39785129fbb7:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>7ef7dc47-caec-4cab-b22d-39785129fbb7</r:ID>
+      <r:Version>1</r:Version>
+      <r:UserID typeOfUserID="colectica:sourceId">concept10401</r:UserID>
+      <ConceptName>
+        <r:String xml:lang="en-GB">10401</r:String>
+      </ConceptName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Mental disorders</r:Content>
+      </r:Label>
+      <SubclassOfReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>d515e295-dddb-4141-a19d-dfba2b402bc9</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </SubclassOfReference>
+    </Concept>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Concept isUniversallyUnique="true" versionDate="2017-01-20T11:26:37.5621663Z" isCharacteristic="false" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:f96f2d80-c207-4759-942d-e9cf977aecb5:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>f96f2d80-c207-4759-942d-e9cf977aecb5</r:ID>
+      <r:Version>1</r:Version>
+      <r:UserID typeOfUserID="colectica:sourceId">concept10402</r:UserID>
+      <ConceptName>
+        <r:String xml:lang="en-GB">10402</r:String>
+      </ConceptName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Personality | Temperament</r:Content>
+      </r:Label>
+      <SubclassOfReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>d515e295-dddb-4141-a19d-dfba2b402bc9</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </SubclassOfReference>
+    </Concept>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Concept isUniversallyUnique="true" versionDate="2017-01-20T11:26:37.5621663Z" isCharacteristic="false" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:86844ce4-0e00-4ec7-8a91-a33a9a60dd0e:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>86844ce4-0e00-4ec7-8a91-a33a9a60dd0e</r:ID>
+      <r:Version>1</r:Version>
+      <r:UserID typeOfUserID="colectica:sourceId">concept10403</r:UserID>
+      <ConceptName>
+        <r:String xml:lang="en-GB">10403</r:String>
+      </ConceptName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Wellbeing</r:Content>
+      </r:Label>
+      <SubclassOfReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>d515e295-dddb-4141-a19d-dfba2b402bc9</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </SubclassOfReference>
+    </Concept>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Concept isUniversallyUnique="true" versionDate="2017-01-20T11:26:37.5621663Z" isCharacteristic="false" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:e4f35ec0-a810-4b60-ac43-68eb96296c83:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>e4f35ec0-a810-4b60-ac43-68eb96296c83</r:ID>
+      <r:Version>1</r:Version>
+      <r:UserID typeOfUserID="colectica:sourceId">concept10404</r:UserID>
+      <ConceptName>
+        <r:String xml:lang="en-GB">10404</r:String>
+      </ConceptName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Emotions</r:Content>
+      </r:Label>
+      <SubclassOfReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>d515e295-dddb-4141-a19d-dfba2b402bc9</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </SubclassOfReference>
+    </Concept>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Concept isUniversallyUnique="true" versionDate="2017-01-20T11:26:37.5621663Z" isCharacteristic="false" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:afdb7c4b-6782-47ba-b264-2d2485ebcc0a:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>afdb7c4b-6782-47ba-b264-2d2485ebcc0a</r:ID>
+      <r:Version>1</r:Version>
+      <r:UserID typeOfUserID="colectica:sourceId">concept10405</r:UserID>
+      <ConceptName>
+        <r:String xml:lang="en-GB">10405</r:String>
+      </ConceptName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Cognitive function</r:Content>
+      </r:Label>
+      <SubclassOfReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>d515e295-dddb-4141-a19d-dfba2b402bc9</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </SubclassOfReference>
+    </Concept>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Concept isUniversallyUnique="true" versionDate="2017-01-20T11:26:37.5581655Z" isCharacteristic="true" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:c253fe24-9286-41e0-8dd1-f845ce181080:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>c253fe24-9286-41e0-8dd1-f845ce181080</r:ID>
+      <r:Version>1</r:Version>
+      <r:UserID typeOfUserID="colectica:sourceId">concept105</r:UserID>
+      <ConceptName>
+        <r:String xml:lang="en-GB">105</r:String>
+      </ConceptName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Health care</r:Content>
+      </r:Label>
+    </Concept>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Concept isUniversallyUnique="true" versionDate="2017-01-20T11:26:37.5621663Z" isCharacteristic="false" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:b4cebe03-e928-4ac1-96a2-7b3abd4a23f3:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>b4cebe03-e928-4ac1-96a2-7b3abd4a23f3</r:ID>
+      <r:Version>1</r:Version>
+      <r:UserID typeOfUserID="colectica:sourceId">concept10501</r:UserID>
+      <ConceptName>
+        <r:String xml:lang="en-GB">10501</r:String>
+      </ConceptName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Health services utilisation</r:Content>
+      </r:Label>
+      <SubclassOfReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>c253fe24-9286-41e0-8dd1-f845ce181080</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </SubclassOfReference>
+    </Concept>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Concept isUniversallyUnique="true" versionDate="2017-01-20T11:26:37.5621663Z" isCharacteristic="false" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:733d1b02-259d-4c7a-8a48-23fa6b519d26:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>733d1b02-259d-4c7a-8a48-23fa6b519d26</r:ID>
+      <r:Version>1</r:Version>
+      <r:UserID typeOfUserID="colectica:sourceId">concept10502</r:UserID>
+      <ConceptName>
+        <r:String xml:lang="en-GB">10502</r:String>
+      </ConceptName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Hospital admissions</r:Content>
+      </r:Label>
+      <SubclassOfReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>c253fe24-9286-41e0-8dd1-f845ce181080</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </SubclassOfReference>
+    </Concept>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Concept isUniversallyUnique="true" versionDate="2017-01-20T11:26:37.5621663Z" isCharacteristic="false" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:106ea20a-b7ce-4cf1-b592-89b138ddba75:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>106ea20a-b7ce-4cf1-b592-89b138ddba75</r:ID>
+      <r:Version>1</r:Version>
+      <r:UserID typeOfUserID="colectica:sourceId">concept10503</r:UserID>
+      <ConceptName>
+        <r:String xml:lang="en-GB">10503</r:String>
+      </ConceptName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Immunisations</r:Content>
+      </r:Label>
+      <SubclassOfReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>c253fe24-9286-41e0-8dd1-f845ce181080</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </SubclassOfReference>
+    </Concept>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Concept isUniversallyUnique="true" versionDate="2017-01-20T11:26:37.5621663Z" isCharacteristic="false" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:945cc18e-843e-456b-bc87-6ffe24fed9e5:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>945cc18e-843e-456b-bc87-6ffe24fed9e5</r:ID>
+      <r:Version>1</r:Version>
+      <r:UserID typeOfUserID="colectica:sourceId">concept10504</r:UserID>
+      <ConceptName>
+        <r:String xml:lang="en-GB">10504</r:String>
+      </ConceptName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Medications</r:Content>
+      </r:Label>
+      <SubclassOfReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>c253fe24-9286-41e0-8dd1-f845ce181080</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </SubclassOfReference>
+    </Concept>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Concept isUniversallyUnique="true" versionDate="2017-01-20T11:26:37.5621663Z" isCharacteristic="false" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:8a589357-866c-432f-b633-e3f07de75239:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>8a589357-866c-432f-b633-e3f07de75239</r:ID>
+      <r:Version>1</r:Version>
+      <r:UserID typeOfUserID="colectica:sourceId">concept10505</r:UserID>
+      <ConceptName>
+        <r:String xml:lang="en-GB">10505</r:String>
+      </ConceptName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Complementary therapies</r:Content>
+      </r:Label>
+      <SubclassOfReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>c253fe24-9286-41e0-8dd1-f845ce181080</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </SubclassOfReference>
+    </Concept>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Concept isUniversallyUnique="true" versionDate="2017-01-20T11:26:37.5621663Z" isCharacteristic="false" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:6de8dc1d-9631-4945-945c-2d9d72bf48ce:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>6de8dc1d-9631-4945-945c-2d9d72bf48ce</r:ID>
+      <r:Version>1</r:Version>
+      <r:UserID typeOfUserID="colectica:sourceId">concept10506</r:UserID>
+      <ConceptName>
+        <r:String xml:lang="en-GB">10506</r:String>
+      </ConceptName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Health insurance</r:Content>
+      </r:Label>
+      <SubclassOfReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>c253fe24-9286-41e0-8dd1-f845ce181080</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </SubclassOfReference>
+    </Concept>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Concept isUniversallyUnique="true" versionDate="2017-01-20T11:26:37.5581655Z" isCharacteristic="true" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:425c4a56-1448-42c9-ac40-ebe93c4c97e4:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>425c4a56-1448-42c9-ac40-ebe93c4c97e4</r:ID>
+      <r:Version>1</r:Version>
+      <r:UserID typeOfUserID="colectica:sourceId">concept106</r:UserID>
+      <ConceptName>
+        <r:String xml:lang="en-GB">106</r:String>
+      </ConceptName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Health behaviour</r:Content>
+      </r:Label>
+    </Concept>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Concept isUniversallyUnique="true" versionDate="2017-01-20T11:26:37.5621663Z" isCharacteristic="false" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:f05ea0e1-59c1-4370-8e83-a477d9c644c3:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>f05ea0e1-59c1-4370-8e83-a477d9c644c3</r:ID>
+      <r:Version>1</r:Version>
+      <r:UserID typeOfUserID="colectica:sourceId">concept10601</r:UserID>
+      <ConceptName>
+        <r:String xml:lang="en-GB">10601</r:String>
+      </ConceptName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Diet and nutrition</r:Content>
+      </r:Label>
+      <SubclassOfReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>425c4a56-1448-42c9-ac40-ebe93c4c97e4</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </SubclassOfReference>
+    </Concept>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Concept isUniversallyUnique="true" versionDate="2017-01-20T11:26:37.5621663Z" isCharacteristic="false" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:e6cd21f6-c3da-4254-a469-53f662f95f77:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>e6cd21f6-c3da-4254-a469-53f662f95f77</r:ID>
+      <r:Version>1</r:Version>
+      <r:UserID typeOfUserID="colectica:sourceId">concept10602</r:UserID>
+      <ConceptName>
+        <r:String xml:lang="en-GB">10602</r:String>
+      </ConceptName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Physical activity</r:Content>
+      </r:Label>
+      <SubclassOfReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>425c4a56-1448-42c9-ac40-ebe93c4c97e4</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </SubclassOfReference>
+    </Concept>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Concept isUniversallyUnique="true" versionDate="2017-01-20T11:26:37.5621663Z" isCharacteristic="false" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:588925d9-0027-4fbb-9e84-5faf5100d1ec:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>588925d9-0027-4fbb-9e84-5faf5100d1ec</r:ID>
+      <r:Version>1</r:Version>
+      <r:UserID typeOfUserID="colectica:sourceId">concept10603</r:UserID>
+      <ConceptName>
+        <r:String xml:lang="en-GB">10603</r:String>
+      </ConceptName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Sleep</r:Content>
+      </r:Label>
+      <SubclassOfReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>425c4a56-1448-42c9-ac40-ebe93c4c97e4</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </SubclassOfReference>
+    </Concept>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Concept isUniversallyUnique="true" versionDate="2017-01-20T11:26:37.5621663Z" isCharacteristic="false" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:3874a6fc-949f-402a-a9ba-653b12b366e0:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>3874a6fc-949f-402a-a9ba-653b12b366e0</r:ID>
+      <r:Version>1</r:Version>
+      <r:UserID typeOfUserID="colectica:sourceId">concept10604</r:UserID>
+      <ConceptName>
+        <r:String xml:lang="en-GB">10604</r:String>
+      </ConceptName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Smoking</r:Content>
+      </r:Label>
+      <SubclassOfReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>425c4a56-1448-42c9-ac40-ebe93c4c97e4</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </SubclassOfReference>
+    </Concept>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Concept isUniversallyUnique="true" versionDate="2017-01-20T11:26:37.5621663Z" isCharacteristic="false" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:2c65a8aa-c526-49d2-813e-74e495883a81:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>2c65a8aa-c526-49d2-813e-74e495883a81</r:ID>
+      <r:Version>1</r:Version>
+      <r:UserID typeOfUserID="colectica:sourceId">concept10605</r:UserID>
+      <ConceptName>
+        <r:String xml:lang="en-GB">10605</r:String>
+      </ConceptName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Alcohol consumption</r:Content>
+      </r:Label>
+      <SubclassOfReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>425c4a56-1448-42c9-ac40-ebe93c4c97e4</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </SubclassOfReference>
+    </Concept>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Concept isUniversallyUnique="true" versionDate="2017-01-20T12:28:02.2761131Z" isCharacteristic="false" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:d91fa31c-e435-4587-9428-01dee4be8b61:2</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>d91fa31c-e435-4587-9428-01dee4be8b61</r:ID>
+      <r:Version>2</r:Version>
+      <r:UserID typeOfUserID="colectica:sourceId">concept10606</r:UserID>
+      <ConceptName>
+        <r:String xml:lang="en-GB">10606</r:String>
+      </ConceptName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Substance abuse</r:Content>
+      </r:Label>
+      <SubclassOfReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>425c4a56-1448-42c9-ac40-ebe93c4c97e4</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </SubclassOfReference>
+    </Concept>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Concept isUniversallyUnique="true" versionDate="2017-01-20T11:26:37.5621663Z" isCharacteristic="false" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:a850181e-dacf-4db9-a599-8f83bcd665c4:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>a850181e-dacf-4db9-a599-8f83bcd665c4</r:ID>
+      <r:Version>1</r:Version>
+      <r:UserID typeOfUserID="colectica:sourceId">concept10607</r:UserID>
+      <ConceptName>
+        <r:String xml:lang="en-GB">10607</r:String>
+      </ConceptName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Risk taking</r:Content>
+      </r:Label>
+      <SubclassOfReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>425c4a56-1448-42c9-ac40-ebe93c4c97e4</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </SubclassOfReference>
+    </Concept>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Concept isUniversallyUnique="true" versionDate="2019-08-09T09:25:38.4260947Z" isCharacteristic="false" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:14746362-bcd6-4b19-8be9-79b7bdd3e766:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>14746362-bcd6-4b19-8be9-79b7bdd3e766</r:ID>
+      <r:Version>1</r:Version>
+      <ConceptName>
+        <r:String xml:lang="en-GB">10608</r:String>
+      </ConceptName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Criminal behaviour</r:Content>
+      </r:Label>
+      <SubclassOfReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>425c4a56-1448-42c9-ac40-ebe93c4c97e4</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </SubclassOfReference>
+    </Concept>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Concept isUniversallyUnique="true" versionDate="2017-01-20T11:26:37.5621663Z" isCharacteristic="false" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:bd04135e-5e43-4dfc-950d-cd95497796ba:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>bd04135e-5e43-4dfc-950d-cd95497796ba</r:ID>
+      <r:Version>1</r:Version>
+      <r:UserID typeOfUserID="colectica:sourceId">concept10609</r:UserID>
+      <ConceptName>
+        <r:String xml:lang="en-GB">10609</r:String>
+      </ConceptName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Sexual behaviour</r:Content>
+      </r:Label>
+      <SubclassOfReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>425c4a56-1448-42c9-ac40-ebe93c4c97e4</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </SubclassOfReference>
+    </Concept>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Concept isUniversallyUnique="true" versionDate="2017-01-20T11:26:37.5581655Z" isCharacteristic="true" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:2a845ea2-fb4a-47a6-85e6-c226a8fd6162:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>2a845ea2-fb4a-47a6-85e6-c226a8fd6162</r:ID>
+      <r:Version>1</r:Version>
+      <r:UserID typeOfUserID="colectica:sourceId">concept107</r:UserID>
+      <ConceptName>
+        <r:String xml:lang="en-GB">107</r:String>
+      </ConceptName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Family and social networks</r:Content>
+      </r:Label>
+    </Concept>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Concept isUniversallyUnique="true" versionDate="2017-01-20T11:26:37.5621663Z" isCharacteristic="false" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:1f006f3a-a402-45d6-a472-6960755675df:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>1f006f3a-a402-45d6-a472-6960755675df</r:ID>
+      <r:Version>1</r:Version>
+      <r:UserID typeOfUserID="colectica:sourceId">concept10701</r:UserID>
+      <ConceptName>
+        <r:String xml:lang="en-GB">10701</r:String>
+      </ConceptName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Home life</r:Content>
+      </r:Label>
+      <SubclassOfReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>2a845ea2-fb4a-47a6-85e6-c226a8fd6162</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </SubclassOfReference>
+    </Concept>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Concept isUniversallyUnique="true" versionDate="2017-01-20T11:26:37.5621663Z" isCharacteristic="false" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:7ab361fb-4417-4e2c-b3dd-453eb565a727:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>7ab361fb-4417-4e2c-b3dd-453eb565a727</r:ID>
+      <r:Version>1</r:Version>
+      <r:UserID typeOfUserID="colectica:sourceId">concept10702</r:UserID>
+      <ConceptName>
+        <r:String xml:lang="en-GB">10702</r:String>
+      </ConceptName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Household composition</r:Content>
+      </r:Label>
+      <SubclassOfReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>2a845ea2-fb4a-47a6-85e6-c226a8fd6162</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </SubclassOfReference>
+    </Concept>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Concept isUniversallyUnique="true" versionDate="2017-01-20T11:26:37.5631662Z" isCharacteristic="false" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:a9302100-74ad-4bac-af79-a05278a05fd0:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>a9302100-74ad-4bac-af79-a05278a05fd0</r:ID>
+      <r:Version>1</r:Version>
+      <r:UserID typeOfUserID="colectica:sourceId">concept10703</r:UserID>
+      <ConceptName>
+        <r:String xml:lang="en-GB">10703</r:String>
+      </ConceptName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Marital status</r:Content>
+      </r:Label>
+      <SubclassOfReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>2a845ea2-fb4a-47a6-85e6-c226a8fd6162</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </SubclassOfReference>
+    </Concept>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Concept isUniversallyUnique="true" versionDate="2017-01-20T11:26:37.5631662Z" isCharacteristic="false" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:83369400-e17d-4e80-affd-6d59a3b53b7c:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>83369400-e17d-4e80-affd-6d59a3b53b7c</r:ID>
+      <r:Version>1</r:Version>
+      <r:UserID typeOfUserID="colectica:sourceId">concept10704</r:UserID>
+      <ConceptName>
+        <r:String xml:lang="en-GB">10704</r:String>
+      </ConceptName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Family members and relations</r:Content>
+      </r:Label>
+      <SubclassOfReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>2a845ea2-fb4a-47a6-85e6-c226a8fd6162</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </SubclassOfReference>
+    </Concept>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Concept isUniversallyUnique="true" versionDate="2017-01-20T11:26:37.5631662Z" isCharacteristic="false" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:def6c0d9-cd2e-468b-818f-11c29cae9398:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>def6c0d9-cd2e-468b-818f-11c29cae9398</r:ID>
+      <r:Version>1</r:Version>
+      <r:UserID typeOfUserID="colectica:sourceId">concept10705</r:UserID>
+      <ConceptName>
+        <r:String xml:lang="en-GB">10705</r:String>
+      </ConceptName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Friends</r:Content>
+      </r:Label>
+      <SubclassOfReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>2a845ea2-fb4a-47a6-85e6-c226a8fd6162</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </SubclassOfReference>
+    </Concept>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Concept isUniversallyUnique="true" versionDate="2017-01-20T11:26:37.5631662Z" isCharacteristic="false" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:e4dff841-75fe-4549-826f-a1147cc0706f:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>e4dff841-75fe-4549-826f-a1147cc0706f</r:ID>
+      <r:Version>1</r:Version>
+      <r:UserID typeOfUserID="colectica:sourceId">concept10706</r:UserID>
+      <ConceptName>
+        <r:String xml:lang="en-GB">10706</r:String>
+      </ConceptName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Childcare</r:Content>
+      </r:Label>
+      <SubclassOfReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>2a845ea2-fb4a-47a6-85e6-c226a8fd6162</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </SubclassOfReference>
+    </Concept>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Concept isUniversallyUnique="true" versionDate="2017-01-20T11:26:37.5631662Z" isCharacteristic="false" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:d7d7d636-8b1e-491f-821d-18803c50dccc:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>d7d7d636-8b1e-491f-821d-18803c50dccc</r:ID>
+      <r:Version>1</r:Version>
+      <r:UserID typeOfUserID="colectica:sourceId">concept10707</r:UserID>
+      <ConceptName>
+        <r:String xml:lang="en-GB">10707</r:String>
+      </ConceptName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Child welfare</r:Content>
+      </r:Label>
+      <SubclassOfReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>2a845ea2-fb4a-47a6-85e6-c226a8fd6162</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </SubclassOfReference>
+    </Concept>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Concept isUniversallyUnique="true" versionDate="2017-01-20T11:26:37.5631662Z" isCharacteristic="false" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:fa1917f0-c71e-4a53-8826-58fb1f88412d:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>fa1917f0-c71e-4a53-8826-58fb1f88412d</r:ID>
+      <r:Version>1</r:Version>
+      <r:UserID typeOfUserID="colectica:sourceId">concept10708</r:UserID>
+      <ConceptName>
+        <r:String xml:lang="en-GB">10708</r:String>
+      </ConceptName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Social support</r:Content>
+      </r:Label>
+      <SubclassOfReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>2a845ea2-fb4a-47a6-85e6-c226a8fd6162</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </SubclassOfReference>
+    </Concept>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Concept isUniversallyUnique="true" versionDate="2017-01-20T11:26:37.5631662Z" isCharacteristic="false" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:e7fe9780-7064-4e51-9d5d-436983532f3a:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>e7fe9780-7064-4e51-9d5d-436983532f3a</r:ID>
+      <r:Version>1</r:Version>
+      <r:UserID typeOfUserID="colectica:sourceId">concept10709</r:UserID>
+      <ConceptName>
+        <r:String xml:lang="en-GB">10709</r:String>
+      </ConceptName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Leisure activities</r:Content>
+      </r:Label>
+      <SubclassOfReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>2a845ea2-fb4a-47a6-85e6-c226a8fd6162</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </SubclassOfReference>
+    </Concept>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Concept isUniversallyUnique="true" versionDate="2017-01-20T12:28:02.2761131Z" isCharacteristic="false" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:ccc0628b-7091-4219-8740-0550b764446e:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>ccc0628b-7091-4219-8740-0550b764446e</r:ID>
+      <r:Version>1</r:Version>
+      <ConceptName>
+        <r:String xml:lang="en-GB">10710</r:String>
+      </ConceptName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Social capital</r:Content>
+      </r:Label>
+      <SubclassOfReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>2a845ea2-fb4a-47a6-85e6-c226a8fd6162</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </SubclassOfReference>
+    </Concept>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Concept isUniversallyUnique="true" versionDate="2017-01-20T12:28:02.2761131Z" isCharacteristic="false" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:93753ca7-7aad-4037-b003-7b29c2851083:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>93753ca7-7aad-4037-b003-7b29c2851083</r:ID>
+      <r:Version>1</r:Version>
+      <ConceptName>
+        <r:String xml:lang="en-GB">10711</r:String>
+      </ConceptName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Technology</r:Content>
+      </r:Label>
+      <SubclassOfReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>2a845ea2-fb4a-47a6-85e6-c226a8fd6162</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </SubclassOfReference>
+    </Concept>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Concept isUniversallyUnique="true" versionDate="2017-01-20T11:26:37.5581655Z" isCharacteristic="true" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:ef2b6368-9906-426b-a911-0ff41062123e:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>ef2b6368-9906-426b-a911-0ff41062123e</r:ID>
+      <r:Version>1</r:Version>
+      <r:UserID typeOfUserID="colectica:sourceId">concept108</r:UserID>
+      <ConceptName>
+        <r:String xml:lang="en-GB">108</r:String>
+      </ConceptName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Education</r:Content>
+      </r:Label>
+    </Concept>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Concept isUniversallyUnique="true" versionDate="2017-01-20T11:26:37.5631662Z" isCharacteristic="false" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:e4dcfc95-2d3d-453c-a5b1-0fe760e31a98:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>e4dcfc95-2d3d-453c-a5b1-0fe760e31a98</r:ID>
+      <r:Version>1</r:Version>
+      <r:UserID typeOfUserID="colectica:sourceId">concept10801</r:UserID>
+      <ConceptName>
+        <r:String xml:lang="en-GB">10801</r:String>
+      </ConceptName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Qualifications</r:Content>
+      </r:Label>
+      <SubclassOfReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>ef2b6368-9906-426b-a911-0ff41062123e</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </SubclassOfReference>
+    </Concept>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Concept isUniversallyUnique="true" versionDate="2017-01-20T11:26:37.5631662Z" isCharacteristic="false" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:6a729bd3-a10c-46da-abb6-3e896565a2b1:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>6a729bd3-a10c-46da-abb6-3e896565a2b1</r:ID>
+      <r:Version>1</r:Version>
+      <r:UserID typeOfUserID="colectica:sourceId">concept10803</r:UserID>
+      <ConceptName>
+        <r:String xml:lang="en-GB">10803</r:String>
+      </ConceptName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Further education | Higher education</r:Content>
+      </r:Label>
+      <SubclassOfReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>ef2b6368-9906-426b-a911-0ff41062123e</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </SubclassOfReference>
+    </Concept>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Concept isUniversallyUnique="true" versionDate="2017-01-20T11:26:37.5631662Z" isCharacteristic="false" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:f8ea9534-a71a-4439-bcda-0037273300b1:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>f8ea9534-a71a-4439-bcda-0037273300b1</r:ID>
+      <r:Version>1</r:Version>
+      <r:UserID typeOfUserID="colectica:sourceId">concept10804</r:UserID>
+      <ConceptName>
+        <r:String xml:lang="en-GB">10804</r:String>
+      </ConceptName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Training</r:Content>
+      </r:Label>
+      <SubclassOfReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>ef2b6368-9906-426b-a911-0ff41062123e</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </SubclassOfReference>
+    </Concept>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Concept isUniversallyUnique="true" versionDate="2017-01-20T11:26:37.5631662Z" isCharacteristic="false" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:1a96c950-8fa4-46cb-b2ad-5f66a0873689:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>1a96c950-8fa4-46cb-b2ad-5f66a0873689</r:ID>
+      <r:Version>1</r:Version>
+      <r:UserID typeOfUserID="colectica:sourceId">concept10805</r:UserID>
+      <ConceptName>
+        <r:String xml:lang="en-GB">10805</r:String>
+      </ConceptName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Basic skills</r:Content>
+      </r:Label>
+      <SubclassOfReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>ef2b6368-9906-426b-a911-0ff41062123e</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </SubclassOfReference>
+    </Concept>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Concept isUniversallyUnique="true" versionDate="2017-01-20T11:26:37.5631662Z" isCharacteristic="false" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:debd6211-d52a-4773-9084-ba7f82b84f74:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>debd6211-d52a-4773-9084-ba7f82b84f74</r:ID>
+      <r:Version>1</r:Version>
+      <r:UserID typeOfUserID="colectica:sourceId">concept10806</r:UserID>
+      <ConceptName>
+        <r:String xml:lang="en-GB">10806</r:String>
+      </ConceptName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Adult education</r:Content>
+      </r:Label>
+      <SubclassOfReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>ef2b6368-9906-426b-a911-0ff41062123e</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </SubclassOfReference>
+    </Concept>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Concept isUniversallyUnique="true" versionDate="2017-01-20T11:26:37.5631662Z" isCharacteristic="false" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:da898248-1b4a-44d9-8e49-741ce18b3f46:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>da898248-1b4a-44d9-8e49-741ce18b3f46</r:ID>
+      <r:Version>1</r:Version>
+      <r:UserID typeOfUserID="colectica:sourceId">concept10807</r:UserID>
+      <ConceptName>
+        <r:String xml:lang="en-GB">10807</r:String>
+      </ConceptName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Learning difficulties</r:Content>
+      </r:Label>
+      <SubclassOfReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>ef2b6368-9906-426b-a911-0ff41062123e</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </SubclassOfReference>
+    </Concept>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Concept isUniversallyUnique="true" versionDate="2017-01-20T11:26:37.5631662Z" isCharacteristic="false" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:021bd1da-ca55-46c3-87e5-1d0c1097f5fa:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>021bd1da-ca55-46c3-87e5-1d0c1097f5fa</r:ID>
+      <r:Version>1</r:Version>
+      <r:UserID typeOfUserID="colectica:sourceId">concept10808</r:UserID>
+      <ConceptName>
+        <r:String xml:lang="en-GB">10808</r:String>
+      </ConceptName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Pre-school</r:Content>
+      </r:Label>
+      <SubclassOfReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>ef2b6368-9906-426b-a911-0ff41062123e</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </SubclassOfReference>
+    </Concept>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Concept isUniversallyUnique="true" versionDate="2017-01-20T11:26:37.5631662Z" isCharacteristic="false" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:a77ded37-36a7-4dd7-aad2-dbe801cbc56f:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>a77ded37-36a7-4dd7-aad2-dbe801cbc56f</r:ID>
+      <r:Version>1</r:Version>
+      <r:UserID typeOfUserID="colectica:sourceId">concept10809</r:UserID>
+      <ConceptName>
+        <r:String xml:lang="en-GB">10809</r:String>
+      </ConceptName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Cognitive function</r:Content>
+      </r:Label>
+      <SubclassOfReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>ef2b6368-9906-426b-a911-0ff41062123e</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </SubclassOfReference>
+    </Concept>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Concept isUniversallyUnique="true" versionDate="2017-01-20T11:26:37.5631662Z" isCharacteristic="false" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:966ea77d-fa92-4593-9d76-e7e59aec15c2:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>966ea77d-fa92-4593-9d76-e7e59aec15c2</r:ID>
+      <r:Version>1</r:Version>
+      <r:UserID typeOfUserID="colectica:sourceId">concept10810</r:UserID>
+      <ConceptName>
+        <r:String xml:lang="en-GB">10810</r:String>
+      </ConceptName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Cognitive skills</r:Content>
+      </r:Label>
+      <SubclassOfReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>ef2b6368-9906-426b-a911-0ff41062123e</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </SubclassOfReference>
+    </Concept>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Concept isUniversallyUnique="true" versionDate="2017-01-20T11:26:37.5631662Z" isCharacteristic="false" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:0569d6d7-1e5a-4b15-abae-d3e07419e1d9:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>0569d6d7-1e5a-4b15-abae-d3e07419e1d9</r:ID>
+      <r:Version>1</r:Version>
+      <r:UserID typeOfUserID="colectica:sourceId">concept10811</r:UserID>
+      <ConceptName>
+        <r:String xml:lang="en-GB">10811</r:String>
+      </ConceptName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Non cognitive skills</r:Content>
+      </r:Label>
+      <SubclassOfReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>ef2b6368-9906-426b-a911-0ff41062123e</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </SubclassOfReference>
+    </Concept>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Concept isUniversallyUnique="true" versionDate="2017-01-20T11:26:37.5631662Z" isCharacteristic="false" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:fa264b81-2762-4f98-9b0a-91b43a5ad37e:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>fa264b81-2762-4f98-9b0a-91b43a5ad37e</r:ID>
+      <r:Version>1</r:Version>
+      <r:UserID typeOfUserID="colectica:sourceId">concept10812</r:UserID>
+      <ConceptName>
+        <r:String xml:lang="en-GB">10812</r:String>
+      </ConceptName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">School engagement</r:Content>
+      </r:Label>
+      <SubclassOfReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>ef2b6368-9906-426b-a911-0ff41062123e</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </SubclassOfReference>
+    </Concept>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Concept isUniversallyUnique="true" versionDate="2017-01-20T11:26:37.5631662Z" isCharacteristic="false" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:72563008-363e-4048-b21b-24b0c0446718:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>72563008-363e-4048-b21b-24b0c0446718</r:ID>
+      <r:Version>1</r:Version>
+      <r:UserID typeOfUserID="colectica:sourceId">concept10813</r:UserID>
+      <ConceptName>
+        <r:String xml:lang="en-GB">10813</r:String>
+      </ConceptName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Education aspirations</r:Content>
+      </r:Label>
+      <SubclassOfReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>ef2b6368-9906-426b-a911-0ff41062123e</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </SubclassOfReference>
+    </Concept>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Concept isUniversallyUnique="true" versionDate="2017-01-20T11:26:37.5631662Z" isCharacteristic="false" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:beaf8e58-0c69-4282-9bd0-ab9986bed64d:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>beaf8e58-0c69-4282-9bd0-ab9986bed64d</r:ID>
+      <r:Version>1</r:Version>
+      <r:UserID typeOfUserID="colectica:sourceId">concept10814</r:UserID>
+      <ConceptName>
+        <r:String xml:lang="en-GB">10814</r:String>
+      </ConceptName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Lifelong learning</r:Content>
+      </r:Label>
+      <SubclassOfReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>ef2b6368-9906-426b-a911-0ff41062123e</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </SubclassOfReference>
+    </Concept>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Concept isUniversallyUnique="true" versionDate="2017-01-20T12:28:02.2761131Z" isCharacteristic="false" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:a2c779bf-e229-4668-b51c-a03391a461ac:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>a2c779bf-e229-4668-b51c-a03391a461ac</r:ID>
+      <r:Version>1</r:Version>
+      <ConceptName>
+        <r:String xml:lang="en-GB">10815</r:String>
+      </ConceptName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Primary schooling</r:Content>
+      </r:Label>
+      <SubclassOfReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>ef2b6368-9906-426b-a911-0ff41062123e</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </SubclassOfReference>
+    </Concept>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Concept isUniversallyUnique="true" versionDate="2017-01-20T12:28:02.2761131Z" isCharacteristic="false" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:8904e225-cea6-4104-846d-8c4e8e983ee0:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>8904e225-cea6-4104-846d-8c4e8e983ee0</r:ID>
+      <r:Version>1</r:Version>
+      <ConceptName>
+        <r:String xml:lang="en-GB">10816</r:String>
+      </ConceptName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Secondary schooling</r:Content>
+      </r:Label>
+      <SubclassOfReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>ef2b6368-9906-426b-a911-0ff41062123e</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </SubclassOfReference>
+    </Concept>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Concept isUniversallyUnique="true" versionDate="2017-01-20T11:26:37.5581655Z" isCharacteristic="true" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:c8f6a860-ba2f-450f-aca5-cf2dac373150:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>c8f6a860-ba2f-450f-aca5-cf2dac373150</r:ID>
+      <r:Version>1</r:Version>
+      <r:UserID typeOfUserID="colectica:sourceId">concept109</r:UserID>
+      <ConceptName>
+        <r:String xml:lang="en-GB">109</r:String>
+      </ConceptName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Employment and income</r:Content>
+      </r:Label>
+    </Concept>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Concept isUniversallyUnique="true" versionDate="2017-01-20T11:26:37.5631662Z" isCharacteristic="false" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:71033213-2aa0-4910-b64d-f33a9c10f1f2:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>71033213-2aa0-4910-b64d-f33a9c10f1f2</r:ID>
+      <r:Version>1</r:Version>
+      <r:UserID typeOfUserID="colectica:sourceId">concept10901</r:UserID>
+      <ConceptName>
+        <r:String xml:lang="en-GB">10901</r:String>
+      </ConceptName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Occupation | Employment</r:Content>
+      </r:Label>
+      <SubclassOfReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>c8f6a860-ba2f-450f-aca5-cf2dac373150</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </SubclassOfReference>
+    </Concept>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Concept isUniversallyUnique="true" versionDate="2017-01-20T12:28:02.2761131Z" isCharacteristic="false" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:56ce6723-0048-4359-bf69-b9dcdde7a278:2</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>56ce6723-0048-4359-bf69-b9dcdde7a278</r:ID>
+      <r:Version>2</r:Version>
+      <r:UserID typeOfUserID="colectica:sourceId">concept10902</r:UserID>
+      <ConceptName>
+        <r:String xml:lang="en-GB">10902</r:String>
+      </ConceptName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Social classification</r:Content>
+      </r:Label>
+      <SubclassOfReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>c8f6a860-ba2f-450f-aca5-cf2dac373150</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </SubclassOfReference>
+    </Concept>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Concept isUniversallyUnique="true" versionDate="2017-01-20T11:26:37.5631662Z" isCharacteristic="false" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:c8258b04-0099-45f2-937d-2e8ad9292807:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>c8258b04-0099-45f2-937d-2e8ad9292807</r:ID>
+      <r:Version>1</r:Version>
+      <r:UserID typeOfUserID="colectica:sourceId">concept10903</r:UserID>
+      <ConceptName>
+        <r:String xml:lang="en-GB">10903</r:String>
+      </ConceptName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Income</r:Content>
+      </r:Label>
+      <SubclassOfReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>c8f6a860-ba2f-450f-aca5-cf2dac373150</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </SubclassOfReference>
+    </Concept>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Concept isUniversallyUnique="true" versionDate="2017-01-20T11:26:37.5631662Z" isCharacteristic="false" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:8755ebbc-ebfa-445e-b7b0-712b726908d4:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>8755ebbc-ebfa-445e-b7b0-712b726908d4</r:ID>
+      <r:Version>1</r:Version>
+      <r:UserID typeOfUserID="colectica:sourceId">concept10904</r:UserID>
+      <ConceptName>
+        <r:String xml:lang="en-GB">10904</r:String>
+      </ConceptName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Finances</r:Content>
+      </r:Label>
+      <SubclassOfReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>c8f6a860-ba2f-450f-aca5-cf2dac373150</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </SubclassOfReference>
+    </Concept>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Concept isUniversallyUnique="true" versionDate="2017-01-20T11:26:37.5631662Z" isCharacteristic="false" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:b8b049ee-4f15-4ffe-9b32-dcabaa2f9117:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>b8b049ee-4f15-4ffe-9b32-dcabaa2f9117</r:ID>
+      <r:Version>1</r:Version>
+      <r:UserID typeOfUserID="colectica:sourceId">concept10905</r:UserID>
+      <ConceptName>
+        <r:String xml:lang="en-GB">10905</r:String>
+      </ConceptName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Assets</r:Content>
+      </r:Label>
+      <SubclassOfReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>c8f6a860-ba2f-450f-aca5-cf2dac373150</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </SubclassOfReference>
+    </Concept>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Concept isUniversallyUnique="true" versionDate="2017-01-20T11:26:37.5641667Z" isCharacteristic="false" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:41742e83-723a-4ca9-873a-e7def92a0297:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>41742e83-723a-4ca9-873a-e7def92a0297</r:ID>
+      <r:Version>1</r:Version>
+      <r:UserID typeOfUserID="colectica:sourceId">concept10906</r:UserID>
+      <ConceptName>
+        <r:String xml:lang="en-GB">10906</r:String>
+      </ConceptName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Consumption | Expenditure</r:Content>
+      </r:Label>
+      <SubclassOfReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>c8f6a860-ba2f-450f-aca5-cf2dac373150</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </SubclassOfReference>
+    </Concept>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Concept isUniversallyUnique="true" versionDate="2017-01-20T11:26:37.5641667Z" isCharacteristic="false" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:3cfa736f-a8c5-4837-b1d6-3fe2cc4a854f:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>3cfa736f-a8c5-4837-b1d6-3fe2cc4a854f</r:ID>
+      <r:Version>1</r:Version>
+      <r:UserID typeOfUserID="colectica:sourceId">concept10907</r:UserID>
+      <ConceptName>
+        <r:String xml:lang="en-GB">10907</r:String>
+      </ConceptName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Pensions</r:Content>
+      </r:Label>
+      <SubclassOfReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>c8f6a860-ba2f-450f-aca5-cf2dac373150</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </SubclassOfReference>
+    </Concept>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Concept isUniversallyUnique="true" versionDate="2017-01-20T12:28:02.2761131Z" isCharacteristic="false" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:19929f1f-c92d-4773-828b-c79f13c36636:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>19929f1f-c92d-4773-828b-c79f13c36636</r:ID>
+      <r:Version>1</r:Version>
+      <ConceptName>
+        <r:String xml:lang="en-GB">10908</r:String>
+      </ConceptName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Benefits | Welfare</r:Content>
+      </r:Label>
+      <SubclassOfReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>c8f6a860-ba2f-450f-aca5-cf2dac373150</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </SubclassOfReference>
+    </Concept>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Concept isUniversallyUnique="true" versionDate="2017-01-20T11:26:37.5581655Z" isCharacteristic="true" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:29bdff08-b4d1-4591-93fe-e544a0c43501:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>29bdff08-b4d1-4591-93fe-e544a0c43501</r:ID>
+      <r:Version>1</r:Version>
+      <r:UserID typeOfUserID="colectica:sourceId">concept110</r:UserID>
+      <ConceptName>
+        <r:String xml:lang="en-GB">110</r:String>
+      </ConceptName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Expectations, attitudes and beliefs</r:Content>
+      </r:Label>
+    </Concept>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Concept isUniversallyUnique="true" versionDate="2017-01-20T12:28:02.2761131Z" isCharacteristic="false" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:429402e5-c7cc-4bc6-83af-073564a1e96e:2</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>429402e5-c7cc-4bc6-83af-073564a1e96e</r:ID>
+      <r:Version>2</r:Version>
+      <r:UserID typeOfUserID="colectica:sourceId">concept10105</r:UserID>
+      <ConceptName>
+        <r:String xml:lang="en-GB">11003</r:String>
+      </ConceptName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Religion</r:Content>
+      </r:Label>
+      <SubclassOfReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>29bdff08-b4d1-4591-93fe-e544a0c43501</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </SubclassOfReference>
+    </Concept>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Concept isUniversallyUnique="true" versionDate="2017-01-20T12:28:02.2761131Z" isCharacteristic="false" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:d8b6e9fc-eef1-4e2a-b930-4980739d0080:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>d8b6e9fc-eef1-4e2a-b930-4980739d0080</r:ID>
+      <r:Version>1</r:Version>
+      <ConceptName>
+        <r:String xml:lang="en-GB">11001</r:String>
+      </ConceptName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Social attitudes</r:Content>
+      </r:Label>
+      <SubclassOfReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>29bdff08-b4d1-4591-93fe-e544a0c43501</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </SubclassOfReference>
+    </Concept>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Concept isUniversallyUnique="true" versionDate="2017-01-20T12:28:02.2761131Z" isCharacteristic="false" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:a5237284-3585-43b0-bc0f-800ad5ac3e6a:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>a5237284-3585-43b0-bc0f-800ad5ac3e6a</r:ID>
+      <r:Version>1</r:Version>
+      <ConceptName>
+        <r:String xml:lang="en-GB">11002</r:String>
+      </ConceptName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Politics</r:Content>
+      </r:Label>
+      <SubclassOfReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>29bdff08-b4d1-4591-93fe-e544a0c43501</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </SubclassOfReference>
+    </Concept>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Concept isUniversallyUnique="true" versionDate="2017-01-20T11:26:37.5581655Z" isCharacteristic="true" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:a2de01a1-7e5b-488a-aabd-927200d628bd:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>a2de01a1-7e5b-488a-aabd-927200d628bd</r:ID>
+      <r:Version>1</r:Version>
+      <r:UserID typeOfUserID="colectica:sourceId">concept111</r:UserID>
+      <ConceptName>
+        <r:String xml:lang="en-GB">111</r:String>
+      </ConceptName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Child development</r:Content>
+      </r:Label>
+    </Concept>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Concept isUniversallyUnique="true" versionDate="2017-01-20T11:26:37.5641667Z" isCharacteristic="false" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:e20e1ab9-da72-438a-9d05-f4f0a33a47a3:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>e20e1ab9-da72-438a-9d05-f4f0a33a47a3</r:ID>
+      <r:Version>1</r:Version>
+      <r:UserID typeOfUserID="colectica:sourceId">concept11101</r:UserID>
+      <ConceptName>
+        <r:String xml:lang="en-GB">11101</r:String>
+      </ConceptName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Infant feeding</r:Content>
+      </r:Label>
+      <SubclassOfReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>a2de01a1-7e5b-488a-aabd-927200d628bd</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </SubclassOfReference>
+    </Concept>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Concept isUniversallyUnique="true" versionDate="2017-01-20T11:26:37.5641667Z" isCharacteristic="false" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:a37129a5-4dd2-4353-80b4-9ab6146fce91:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>a37129a5-4dd2-4353-80b4-9ab6146fce91</r:ID>
+      <r:Version>1</r:Version>
+      <r:UserID typeOfUserID="colectica:sourceId">concept11102</r:UserID>
+      <ConceptName>
+        <r:String xml:lang="en-GB">11102</r:String>
+      </ConceptName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Language and vocabulary</r:Content>
+      </r:Label>
+      <SubclassOfReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>a2de01a1-7e5b-488a-aabd-927200d628bd</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </SubclassOfReference>
+    </Concept>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Concept isUniversallyUnique="true" versionDate="2017-01-20T11:26:37.5641667Z" isCharacteristic="false" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:349b4f8c-21ba-4a42-93ae-3e551bd7e640:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>349b4f8c-21ba-4a42-93ae-3e551bd7e640</r:ID>
+      <r:Version>1</r:Version>
+      <r:UserID typeOfUserID="colectica:sourceId">concept11103</r:UserID>
+      <ConceptName>
+        <r:String xml:lang="en-GB">11103</r:String>
+      </ConceptName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Parenting</r:Content>
+      </r:Label>
+      <SubclassOfReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>a2de01a1-7e5b-488a-aabd-927200d628bd</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </SubclassOfReference>
+    </Concept>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Concept isUniversallyUnique="true" versionDate="2017-01-20T11:26:37.5641667Z" isCharacteristic="false" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:e14f6794-4139-45ee-b847-dcc603990362:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>e14f6794-4139-45ee-b847-dcc603990362</r:ID>
+      <r:Version>1</r:Version>
+      <r:UserID typeOfUserID="colectica:sourceId">concept11104</r:UserID>
+      <ConceptName>
+        <r:String xml:lang="en-GB">11104</r:String>
+      </ConceptName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Developmental milestones</r:Content>
+      </r:Label>
+      <SubclassOfReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>a2de01a1-7e5b-488a-aabd-927200d628bd</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </SubclassOfReference>
+    </Concept>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Concept isUniversallyUnique="true" versionDate="2017-01-20T11:26:37.5581655Z" isCharacteristic="true" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:b8cda37c-dc46-4986-bdb3-621eb3c3d9c7:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>b8cda37c-dc46-4986-bdb3-621eb3c3d9c7</r:ID>
+      <r:Version>1</r:Version>
+      <r:UserID typeOfUserID="colectica:sourceId">concept112</r:UserID>
+      <ConceptName>
+        <r:String xml:lang="en-GB">112</r:String>
+      </ConceptName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Life events</r:Content>
+      </r:Label>
+    </Concept>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Concept isUniversallyUnique="true" versionDate="2017-01-20T12:28:02.2761131Z" isCharacteristic="false" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:c9ac7229-5b23-4815-9445-892b378d7811:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>c9ac7229-5b23-4815-9445-892b378d7811</r:ID>
+      <r:Version>1</r:Version>
+      <ConceptName>
+        <r:String xml:lang="en-GB">11201</r:String>
+      </ConceptName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Retirement</r:Content>
+      </r:Label>
+      <SubclassOfReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>b8cda37c-dc46-4986-bdb3-621eb3c3d9c7</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </SubclassOfReference>
+    </Concept>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Concept isUniversallyUnique="true" versionDate="2017-01-20T11:26:37.5581655Z" isCharacteristic="true" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:864bde73-e99a-4eda-9211-30930cd59b33:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>864bde73-e99a-4eda-9211-30930cd59b33</r:ID>
+      <r:Version>1</r:Version>
+      <r:UserID typeOfUserID="colectica:sourceId">concept113</r:UserID>
+      <ConceptName>
+        <r:String xml:lang="en-GB">113</r:String>
+      </ConceptName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Omics</r:Content>
+      </r:Label>
+    </Concept>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Concept isUniversallyUnique="true" versionDate="2017-01-20T11:26:37.5641667Z" isCharacteristic="false" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:db4cd61d-74e1-4d39-aed9-dc9c246af735:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>db4cd61d-74e1-4d39-aed9-dc9c246af735</r:ID>
+      <r:Version>1</r:Version>
+      <r:UserID typeOfUserID="colectica:sourceId">concept11301</r:UserID>
+      <ConceptName>
+        <r:String xml:lang="en-GB">11301</r:String>
+      </ConceptName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Genetics</r:Content>
+      </r:Label>
+      <SubclassOfReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>864bde73-e99a-4eda-9211-30930cd59b33</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </SubclassOfReference>
+    </Concept>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Concept isUniversallyUnique="true" versionDate="2017-01-20T11:26:37.5641667Z" isCharacteristic="false" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:0c721ec8-4612-4a34-84d2-56f780c4dc3d:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>0c721ec8-4612-4a34-84d2-56f780c4dc3d</r:ID>
+      <r:Version>1</r:Version>
+      <r:UserID typeOfUserID="colectica:sourceId">concept11302</r:UserID>
+      <ConceptName>
+        <r:String xml:lang="en-GB">11302</r:String>
+      </ConceptName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Genomics</r:Content>
+      </r:Label>
+      <SubclassOfReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>864bde73-e99a-4eda-9211-30930cd59b33</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </SubclassOfReference>
+    </Concept>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Concept isUniversallyUnique="true" versionDate="2017-01-20T11:26:37.5641667Z" isCharacteristic="false" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:01718a0d-368a-4ee8-9702-5b3b3f0ada37:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>01718a0d-368a-4ee8-9702-5b3b3f0ada37</r:ID>
+      <r:Version>1</r:Version>
+      <r:UserID typeOfUserID="colectica:sourceId">concept11303</r:UserID>
+      <ConceptName>
+        <r:String xml:lang="en-GB">11303</r:String>
+      </ConceptName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Transcriptomics</r:Content>
+      </r:Label>
+      <SubclassOfReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>864bde73-e99a-4eda-9211-30930cd59b33</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </SubclassOfReference>
+    </Concept>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Concept isUniversallyUnique="true" versionDate="2017-01-20T11:26:37.5641667Z" isCharacteristic="false" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:fd159c2e-1464-4e66-bf93-f4a87987faf1:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>fd159c2e-1464-4e66-bf93-f4a87987faf1</r:ID>
+      <r:Version>1</r:Version>
+      <r:UserID typeOfUserID="colectica:sourceId">concept11304</r:UserID>
+      <ConceptName>
+        <r:String xml:lang="en-GB">11304</r:String>
+      </ConceptName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Metabolomics</r:Content>
+      </r:Label>
+      <SubclassOfReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>864bde73-e99a-4eda-9211-30930cd59b33</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </SubclassOfReference>
+    </Concept>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Concept isUniversallyUnique="true" versionDate="2017-01-20T11:26:37.5641667Z" isCharacteristic="false" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:bfb14ebb-e659-48cf-894f-ba162ba6e72f:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>bfb14ebb-e659-48cf-894f-ba162ba6e72f</r:ID>
+      <r:Version>1</r:Version>
+      <r:UserID typeOfUserID="colectica:sourceId">concept11305</r:UserID>
+      <ConceptName>
+        <r:String xml:lang="en-GB">11305</r:String>
+      </ConceptName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Epigenomics</r:Content>
+      </r:Label>
+      <SubclassOfReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>864bde73-e99a-4eda-9211-30930cd59b33</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </SubclassOfReference>
+    </Concept>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Concept isUniversallyUnique="true" versionDate="2017-01-20T11:26:37.5641667Z" isCharacteristic="false" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:0b3060cf-b445-4dcc-88f4-f2bafefca8ab:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>0b3060cf-b445-4dcc-88f4-f2bafefca8ab</r:ID>
+      <r:Version>1</r:Version>
+      <r:UserID typeOfUserID="colectica:sourceId">concept11306</r:UserID>
+      <ConceptName>
+        <r:String xml:lang="en-GB">11306</r:String>
+      </ConceptName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Proteomics</r:Content>
+      </r:Label>
+      <SubclassOfReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>864bde73-e99a-4eda-9211-30930cd59b33</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </SubclassOfReference>
+    </Concept>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Concept isUniversallyUnique="true" versionDate="2017-01-20T11:49:20.6912275Z" isCharacteristic="false" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:aff2d476-988d-43fc-8490-c0bb3ad8b709:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>aff2d476-988d-43fc-8490-c0bb3ad8b709</r:ID>
+      <r:Version>1</r:Version>
+      <ConceptName>
+        <r:String xml:lang="en-GB">114</r:String>
+      </ConceptName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Pregnancy</r:Content>
+      </r:Label>
+    </Concept>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Concept isUniversallyUnique="true" versionDate="2017-01-20T12:28:02.2761131Z" isCharacteristic="false" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:85c1b1e1-8f1e-4539-b023-80bf159cb814:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>85c1b1e1-8f1e-4539-b023-80bf159cb814</r:ID>
+      <r:Version>1</r:Version>
+      <ConceptName>
+        <r:String xml:lang="en-GB">11401</r:String>
+      </ConceptName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Childbirth</r:Content>
+      </r:Label>
+      <SubclassOfReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>aff2d476-988d-43fc-8490-c0bb3ad8b709</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </SubclassOfReference>
+    </Concept>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Concept isUniversallyUnique="true" versionDate="2017-01-20T12:28:02.2761131Z" isCharacteristic="false" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:031054aa-24b6-453c-a9ae-63ff13673088:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>031054aa-24b6-453c-a9ae-63ff13673088</r:ID>
+      <r:Version>1</r:Version>
+      <ConceptName>
+        <r:String xml:lang="en-GB">11402</r:String>
+      </ConceptName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Infant mortality</r:Content>
+      </r:Label>
+      <SubclassOfReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>aff2d476-988d-43fc-8490-c0bb3ad8b709</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </SubclassOfReference>
+    </Concept>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Concept isUniversallyUnique="true" versionDate="2017-01-20T11:49:20.6912275Z" isCharacteristic="false" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:8e610654-dd7c-4516-9d43-1935fb38a3f9:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>8e610654-dd7c-4516-9d43-1935fb38a3f9</r:ID>
+      <r:Version>1</r:Version>
+      <ConceptName>
+        <r:String xml:lang="en-GB">115</r:String>
+      </ConceptName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Administration</r:Content>
+      </r:Label>
+    </Concept>
+  </ddi:Fragment>
+</ddi:FragmentInstance>
