@@ -1,0 +1,1953 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ddi:FragmentInstance xmlns:r="ddi:reusable:3_2" xmlns:ddi="ddi:instance:3_2">
+  <ddi:TopLevelReference>
+    <r:Agency>uk.closer</r:Agency>
+    <r:ID>9ea89600-8809-4f4c-800f-b5bfae564e86</r:ID>
+    <r:Version>9</r:Version>
+    <r:TypeOfObject>OrganizationScheme</r:TypeOfObject>
+  </ddi:TopLevelReference>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <OrganizationScheme isUniversallyUnique="true" versionDate="2020-07-15T13:06:43.5850852Z" xmlns="ddi:archive:3_2">
+      <r:URN>urn:ddi:uk.closer:9ea89600-8809-4f4c-800f-b5bfae564e86:9</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>9ea89600-8809-4f4c-800f-b5bfae564e86</r:ID>
+      <r:Version>9</r:Version>
+      <OrganizationSchemeName>
+        <r:String xml:lang="en-GB">Funders</r:String>
+      </OrganizationSchemeName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Funders</r:Content>
+      </r:Label>
+      <r:Description>
+        <r:Content xml:lang="en-GB">A list of all funding organisations that have provided funding for studies and research documented in CLOSER Repository.</r:Content>
+      </r:Description>
+      <OrganizationReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>966f2b51-9879-404d-8e75-906067051563</r:ID>
+        <r:Version>2</r:Version>
+        <r:TypeOfObject>Organization</r:TypeOfObject>
+      </OrganizationReference>
+      <OrganizationReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>b4b7f486-7f80-4318-9749-c3f8ea48b8b5</r:ID>
+        <r:Version>2</r:Version>
+        <r:TypeOfObject>Organization</r:TypeOfObject>
+      </OrganizationReference>
+      <OrganizationReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>a3d04bde-588c-4dcf-b555-b534ca5defb1</r:ID>
+        <r:Version>3</r:Version>
+        <r:TypeOfObject>Organization</r:TypeOfObject>
+      </OrganizationReference>
+      <OrganizationReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>d49d6bfe-87f7-4f55-bb6d-a112aa9156fa</r:ID>
+        <r:Version>2</r:Version>
+        <r:TypeOfObject>Organization</r:TypeOfObject>
+      </OrganizationReference>
+      <OrganizationReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>9c5bef7b-8b8e-4df7-a823-6d63aae3210a</r:ID>
+        <r:Version>2</r:Version>
+        <r:TypeOfObject>Organization</r:TypeOfObject>
+      </OrganizationReference>
+      <OrganizationReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>c16bc4f6-1f8e-48ff-8de1-47fbd36fa545</r:ID>
+        <r:Version>2</r:Version>
+        <r:TypeOfObject>Organization</r:TypeOfObject>
+      </OrganizationReference>
+      <OrganizationReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>d740baef-5517-4cb0-8ac0-82200e64ad7e</r:ID>
+        <r:Version>2</r:Version>
+        <r:TypeOfObject>Organization</r:TypeOfObject>
+      </OrganizationReference>
+      <OrganizationReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>0308162b-8645-448c-b923-5c2e96b7d2a8</r:ID>
+        <r:Version>2</r:Version>
+        <r:TypeOfObject>Organization</r:TypeOfObject>
+      </OrganizationReference>
+      <OrganizationReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>1f22360d-4172-4585-ba91-db534755c63a</r:ID>
+        <r:Version>3</r:Version>
+        <r:TypeOfObject>Organization</r:TypeOfObject>
+      </OrganizationReference>
+      <OrganizationReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>ced55fc1-3df1-4d66-a925-cf5e1b79167a</r:ID>
+        <r:Version>4</r:Version>
+        <r:TypeOfObject>Organization</r:TypeOfObject>
+      </OrganizationReference>
+      <OrganizationReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>7cbce8c8-7d86-4a6b-8752-b74a55f441bd</r:ID>
+        <r:Version>3</r:Version>
+        <r:TypeOfObject>Organization</r:TypeOfObject>
+      </OrganizationReference>
+      <OrganizationReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>bb6ae94b-41e3-441c-a8a9-e3d14cbf61dd</r:ID>
+        <r:Version>2</r:Version>
+        <r:TypeOfObject>Organization</r:TypeOfObject>
+      </OrganizationReference>
+      <OrganizationReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>efe72092-fff6-4bee-98e7-0fac4a3dbd17</r:ID>
+        <r:Version>3</r:Version>
+        <r:TypeOfObject>Organization</r:TypeOfObject>
+      </OrganizationReference>
+      <OrganizationReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>0a97fed5-6868-4ef3-b7da-e6911064adf5</r:ID>
+        <r:Version>2</r:Version>
+        <r:TypeOfObject>Organization</r:TypeOfObject>
+      </OrganizationReference>
+      <OrganizationReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>cd0691f2-b6f0-4085-90ad-70c3974b0566</r:ID>
+        <r:Version>2</r:Version>
+        <r:TypeOfObject>Organization</r:TypeOfObject>
+      </OrganizationReference>
+      <OrganizationReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>6b87ee56-d47e-4b86-8305-a29d7a7bd1c3</r:ID>
+        <r:Version>2</r:Version>
+        <r:TypeOfObject>Organization</r:TypeOfObject>
+      </OrganizationReference>
+      <OrganizationReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>2c012f61-146f-49d0-a122-5cd6ae111abe</r:ID>
+        <r:Version>2</r:Version>
+        <r:TypeOfObject>Organization</r:TypeOfObject>
+      </OrganizationReference>
+      <OrganizationReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>4ba12ca9-050a-4ee6-ab90-63a817787ebd</r:ID>
+        <r:Version>2</r:Version>
+        <r:TypeOfObject>Organization</r:TypeOfObject>
+      </OrganizationReference>
+      <OrganizationReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>f4218640-8cfd-41a7-b8f2-9bbe397795b7</r:ID>
+        <r:Version>2</r:Version>
+        <r:TypeOfObject>Organization</r:TypeOfObject>
+      </OrganizationReference>
+      <OrganizationReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>e1cb7365-3faf-4584-920d-d46450add0db</r:ID>
+        <r:Version>2</r:Version>
+        <r:TypeOfObject>Organization</r:TypeOfObject>
+      </OrganizationReference>
+      <OrganizationReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>7fe02d6d-27e0-4ef9-b672-188981d4f876</r:ID>
+        <r:Version>2</r:Version>
+        <r:TypeOfObject>Organization</r:TypeOfObject>
+      </OrganizationReference>
+      <OrganizationReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>f59cfbb4-d752-493e-b209-bb5dd58af8d5</r:ID>
+        <r:Version>3</r:Version>
+        <r:TypeOfObject>Organization</r:TypeOfObject>
+      </OrganizationReference>
+      <OrganizationReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>65daf464-e9f5-4c24-8e0b-2a46ef6f421d</r:ID>
+        <r:Version>2</r:Version>
+        <r:TypeOfObject>Organization</r:TypeOfObject>
+      </OrganizationReference>
+      <OrganizationReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>a1bdc1c8-d24e-44e1-87f2-5bcd7ab98e22</r:ID>
+        <r:Version>3</r:Version>
+        <r:TypeOfObject>Organization</r:TypeOfObject>
+      </OrganizationReference>
+      <OrganizationReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>d685fbb1-108c-4f7d-bcba-699373794b27</r:ID>
+        <r:Version>2</r:Version>
+        <r:TypeOfObject>Organization</r:TypeOfObject>
+      </OrganizationReference>
+      <OrganizationReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>35acd4d1-8890-4edb-91aa-701f9be4edb1</r:ID>
+        <r:Version>2</r:Version>
+        <r:TypeOfObject>Organization</r:TypeOfObject>
+      </OrganizationReference>
+      <OrganizationReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>16dc434f-5294-4244-9366-29b91f26f8b3</r:ID>
+        <r:Version>2</r:Version>
+        <r:TypeOfObject>Organization</r:TypeOfObject>
+      </OrganizationReference>
+      <OrganizationReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>23934526-98f6-4933-9fd0-ab77129735dc</r:ID>
+        <r:Version>2</r:Version>
+        <r:TypeOfObject>Organization</r:TypeOfObject>
+      </OrganizationReference>
+      <OrganizationReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>b2244fef-f3f9-4d3a-9c60-8ee2aa92a6e7</r:ID>
+        <r:Version>2</r:Version>
+        <r:TypeOfObject>Organization</r:TypeOfObject>
+      </OrganizationReference>
+      <OrganizationReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>820ff991-84b9-4b55-b8cf-ad3cb0083307</r:ID>
+        <r:Version>2</r:Version>
+        <r:TypeOfObject>Organization</r:TypeOfObject>
+      </OrganizationReference>
+      <OrganizationReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>cc044171-d7f8-4ad5-b8e3-cc30fdd14e7a</r:ID>
+        <r:Version>2</r:Version>
+        <r:TypeOfObject>Organization</r:TypeOfObject>
+      </OrganizationReference>
+      <OrganizationReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>3320beab-be71-437a-b7cf-ce50e0d0e205</r:ID>
+        <r:Version>2</r:Version>
+        <r:TypeOfObject>Organization</r:TypeOfObject>
+      </OrganizationReference>
+      <OrganizationReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>410a3ea9-799b-48c9-9233-6bd96e82a9e9</r:ID>
+        <r:Version>2</r:Version>
+        <r:TypeOfObject>Organization</r:TypeOfObject>
+      </OrganizationReference>
+      <OrganizationReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>8efb9045-876a-4db9-817b-a969e15cebd5</r:ID>
+        <r:Version>2</r:Version>
+        <r:TypeOfObject>Organization</r:TypeOfObject>
+      </OrganizationReference>
+      <OrganizationReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>73d66768-fe23-4cfc-924a-704e17ba0d70</r:ID>
+        <r:Version>2</r:Version>
+        <r:TypeOfObject>Organization</r:TypeOfObject>
+      </OrganizationReference>
+      <OrganizationReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>c7840a7e-ebac-4ba7-b30b-0a286d6fd779</r:ID>
+        <r:Version>2</r:Version>
+        <r:TypeOfObject>Organization</r:TypeOfObject>
+      </OrganizationReference>
+      <OrganizationReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>05f71174-3b79-426b-bb43-6ebe9cd6d794</r:ID>
+        <r:Version>2</r:Version>
+        <r:TypeOfObject>Organization</r:TypeOfObject>
+      </OrganizationReference>
+      <OrganizationReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>d0f465a5-42df-4d45-9a0f-0c4a21bac428</r:ID>
+        <r:Version>2</r:Version>
+        <r:TypeOfObject>Organization</r:TypeOfObject>
+      </OrganizationReference>
+      <OrganizationReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>56944ce8-acc3-49be-8a4d-752e9facba47</r:ID>
+        <r:Version>2</r:Version>
+        <r:TypeOfObject>Organization</r:TypeOfObject>
+      </OrganizationReference>
+      <OrganizationReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>abacd095-5f96-4a32-bc35-72baf2efc08a</r:ID>
+        <r:Version>2</r:Version>
+        <r:TypeOfObject>Organization</r:TypeOfObject>
+      </OrganizationReference>
+      <OrganizationReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>f736ad9a-db64-48f1-8659-0ca3e77eec96</r:ID>
+        <r:Version>2</r:Version>
+        <r:TypeOfObject>Organization</r:TypeOfObject>
+      </OrganizationReference>
+      <OrganizationReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>3de73206-8429-4309-ab31-ec9f01f04ee1</r:ID>
+        <r:Version>2</r:Version>
+        <r:TypeOfObject>Organization</r:TypeOfObject>
+      </OrganizationReference>
+      <OrganizationReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>ca2fe89f-51b7-4d7c-be95-7226ae38fdf1</r:ID>
+        <r:Version>2</r:Version>
+        <r:TypeOfObject>Organization</r:TypeOfObject>
+      </OrganizationReference>
+      <OrganizationReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>a6a60203-65bd-474a-bc91-e82826a5ae57</r:ID>
+        <r:Version>2</r:Version>
+        <r:TypeOfObject>Organization</r:TypeOfObject>
+      </OrganizationReference>
+      <OrganizationReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>b5c37b4b-e39a-4659-9c21-d4aece9cb3ad</r:ID>
+        <r:Version>2</r:Version>
+        <r:TypeOfObject>Organization</r:TypeOfObject>
+      </OrganizationReference>
+      <OrganizationReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>6051ef15-2a2a-4091-b22e-ee4090362c23</r:ID>
+        <r:Version>2</r:Version>
+        <r:TypeOfObject>Organization</r:TypeOfObject>
+      </OrganizationReference>
+      <OrganizationReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>e75906d1-b2a9-43c1-aa78-7de7111d59ea</r:ID>
+        <r:Version>2</r:Version>
+        <r:TypeOfObject>Organization</r:TypeOfObject>
+      </OrganizationReference>
+      <OrganizationReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>d20b0a5a-c0d9-485b-b739-3eee24fe9cd1</r:ID>
+        <r:Version>3</r:Version>
+        <r:TypeOfObject>Organization</r:TypeOfObject>
+      </OrganizationReference>
+      <OrganizationReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>fd79c1c6-a73d-4ec9-bc45-ee7d83364bb2</r:ID>
+        <r:Version>3</r:Version>
+        <r:TypeOfObject>Organization</r:TypeOfObject>
+      </OrganizationReference>
+      <OrganizationReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>0a83a8be-2c09-488a-8a89-e411185fa162</r:ID>
+        <r:Version>2</r:Version>
+        <r:TypeOfObject>Organization</r:TypeOfObject>
+      </OrganizationReference>
+      <OrganizationReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>c6779600-c8f3-4da8-afd7-6381be3dd558</r:ID>
+        <r:Version>2</r:Version>
+        <r:TypeOfObject>Organization</r:TypeOfObject>
+      </OrganizationReference>
+      <OrganizationReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>2c15399b-75d6-4617-a68a-d35e4313d132</r:ID>
+        <r:Version>3</r:Version>
+        <r:TypeOfObject>Organization</r:TypeOfObject>
+      </OrganizationReference>
+      <OrganizationReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>e769c48c-129d-44fb-aea7-4fb989dd77bf</r:ID>
+        <r:Version>2</r:Version>
+        <r:TypeOfObject>Organization</r:TypeOfObject>
+      </OrganizationReference>
+      <OrganizationReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>e5fa2056-3c1c-438e-8736-86a62e42ab5d</r:ID>
+        <r:Version>2</r:Version>
+        <r:TypeOfObject>Organization</r:TypeOfObject>
+      </OrganizationReference>
+      <OrganizationReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>f6ac9ba6-c3bc-4b0a-a047-42058b69f29e</r:ID>
+        <r:Version>3</r:Version>
+        <r:TypeOfObject>Organization</r:TypeOfObject>
+      </OrganizationReference>
+      <OrganizationReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>5cc4a914-edb6-46d9-a305-d82cc3c85340</r:ID>
+        <r:Version>3</r:Version>
+        <r:TypeOfObject>Organization</r:TypeOfObject>
+      </OrganizationReference>
+      <OrganizationReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>43d1af35-5459-4db2-b482-e1a8886d66fd</r:ID>
+        <r:Version>4</r:Version>
+        <r:TypeOfObject>Organization</r:TypeOfObject>
+      </OrganizationReference>
+      <OrganizationReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>69d20063-f078-4551-9698-8f47f52d9372</r:ID>
+        <r:Version>2</r:Version>
+        <r:TypeOfObject>Organization</r:TypeOfObject>
+      </OrganizationReference>
+      <OrganizationReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>6b866ec0-ec58-4f59-98b1-c76a6da36aa0</r:ID>
+        <r:Version>2</r:Version>
+        <r:TypeOfObject>Organization</r:TypeOfObject>
+      </OrganizationReference>
+      <OrganizationReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>25f43a22-8e1b-42d5-876d-484f96c99deb</r:ID>
+        <r:Version>2</r:Version>
+        <r:TypeOfObject>Organization</r:TypeOfObject>
+      </OrganizationReference>
+      <OrganizationReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>cd3554cd-5e37-4387-9853-84ad37696074</r:ID>
+        <r:Version>3</r:Version>
+        <r:TypeOfObject>Organization</r:TypeOfObject>
+      </OrganizationReference>
+      <OrganizationReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>ad94baff-8e75-45aa-b41d-9c81bb546558</r:ID>
+        <r:Version>3</r:Version>
+        <r:TypeOfObject>Organization</r:TypeOfObject>
+      </OrganizationReference>
+      <OrganizationReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>ef72e69a-bdec-4b8b-9d3f-5d0f757748c8</r:ID>
+        <r:Version>3</r:Version>
+        <r:TypeOfObject>Organization</r:TypeOfObject>
+      </OrganizationReference>
+      <OrganizationReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>0803d6b1-c96e-46d9-9e03-8e24aa8d2a85</r:ID>
+        <r:Version>2</r:Version>
+        <r:TypeOfObject>Organization</r:TypeOfObject>
+      </OrganizationReference>
+      <OrganizationReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>fbf38c20-0beb-4de8-8bd2-3e79728d7e89</r:ID>
+        <r:Version>2</r:Version>
+        <r:TypeOfObject>Organization</r:TypeOfObject>
+      </OrganizationReference>
+      <OrganizationReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>b00a48eb-72a3-4956-b9ff-44d9a2c4a21c</r:ID>
+        <r:Version>3</r:Version>
+        <r:TypeOfObject>Organization</r:TypeOfObject>
+      </OrganizationReference>
+      <OrganizationReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>b6fb2432-9f56-4ed4-be8e-c51d536c8e60</r:ID>
+        <r:Version>2</r:Version>
+        <r:TypeOfObject>Organization</r:TypeOfObject>
+      </OrganizationReference>
+      <OrganizationReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>cd3c6b19-4256-4198-a3ac-56f4da596346</r:ID>
+        <r:Version>2</r:Version>
+        <r:TypeOfObject>Organization</r:TypeOfObject>
+      </OrganizationReference>
+      <OrganizationReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>bc07fb85-5e9b-41c6-8f17-29824ac61860</r:ID>
+        <r:Version>2</r:Version>
+        <r:TypeOfObject>Organization</r:TypeOfObject>
+      </OrganizationReference>
+      <OrganizationReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>890f3b53-c97a-4934-b1dd-0b1dc4d073dc</r:ID>
+        <r:Version>2</r:Version>
+        <r:TypeOfObject>Organization</r:TypeOfObject>
+      </OrganizationReference>
+      <OrganizationReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>e05bf128-793a-42c6-8bb1-f07347840756</r:ID>
+        <r:Version>2</r:Version>
+        <r:TypeOfObject>Organization</r:TypeOfObject>
+      </OrganizationReference>
+      <OrganizationReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>4e860e1a-51ff-48cd-b60a-c465e812b264</r:ID>
+        <r:Version>2</r:Version>
+        <r:TypeOfObject>Organization</r:TypeOfObject>
+      </OrganizationReference>
+      <OrganizationReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>bc35a2f7-ad2c-4c23-995c-adbf3f30dfbf</r:ID>
+        <r:Version>4</r:Version>
+        <r:TypeOfObject>Organization</r:TypeOfObject>
+      </OrganizationReference>
+      <OrganizationReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>2a183564-2821-4aa6-adca-16bf776a930e</r:ID>
+        <r:Version>2</r:Version>
+        <r:TypeOfObject>Organization</r:TypeOfObject>
+      </OrganizationReference>
+      <OrganizationReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>7550cbce-4aeb-450f-b0cc-58a4a74cc113</r:ID>
+        <r:Version>3</r:Version>
+        <r:TypeOfObject>Organization</r:TypeOfObject>
+      </OrganizationReference>
+      <OrganizationReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>a601dea1-78de-4441-a761-cbd75dd0c7c0</r:ID>
+        <r:Version>3</r:Version>
+        <r:TypeOfObject>Organization</r:TypeOfObject>
+      </OrganizationReference>
+      <OrganizationReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>ca75da68-1bc4-4dbb-9c76-06783058dc20</r:ID>
+        <r:Version>2</r:Version>
+        <r:TypeOfObject>Organization</r:TypeOfObject>
+      </OrganizationReference>
+      <OrganizationReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>82208deb-dfc1-4725-b150-b90bac138155</r:ID>
+        <r:Version>2</r:Version>
+        <r:TypeOfObject>Organization</r:TypeOfObject>
+      </OrganizationReference>
+    </OrganizationScheme>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Organization isUniversallyUnique="true" versionDate="2019-11-13T09:35:39.474177Z" xmlns="ddi:archive:3_2">
+      <r:URN>urn:ddi:uk.closer:966f2b51-9879-404d-8e75-906067051563:2</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>966f2b51-9879-404d-8e75-906067051563</r:ID>
+      <r:Version>2</r:Version>
+      <r:UserAttributePair>
+        <r:AttributeKey>ddi31:Nickname</r:AttributeKey>
+        <r:AttributeValue>{"en-GB":"AHCPR"}</r:AttributeValue>
+      </r:UserAttributePair>
+      <OrganizationIdentification>
+        <OrganizationName>
+          <r:String xml:lang="en-GB">Agency for Health Care Policy and Research</r:String>
+        </OrganizationName>
+      </OrganizationIdentification>
+      <r:Description>
+        <r:Content xml:lang="en-GB">AHCPR was a constituent unit of the Public Health Service (now known as the United States Public Health Service). It been renamed the Agency for Healthcare Research and Quality which is an agency within the United States Department of Health and Human Services (&lt;a href="https://en.wikipedia.org/w/index.php?title=Agency_for_Healthcare_Research_and_Quality&amp;oldid=922012539" target="_blank" &gt;Agency for Healthcare Research and Quality, n.d.&lt;/a&gt;). </r:Content>
+      </r:Description>
+    </Organization>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Organization isUniversallyUnique="true" versionDate="2019-11-13T09:36:06.6220894Z" xmlns="ddi:archive:3_2">
+      <r:URN>urn:ddi:uk.closer:b4b7f486-7f80-4318-9749-c3f8ea48b8b5:2</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>b4b7f486-7f80-4318-9749-c3f8ea48b8b5</r:ID>
+      <r:Version>2</r:Version>
+      <OrganizationIdentification>
+        <OrganizationName>
+          <r:String xml:lang="en-GB">Allied-Lyons Plc</r:String>
+        </OrganizationName>
+      </OrganizationIdentification>
+      <r:Description>
+        <r:Content xml:lang="en-GB">Allied Lyons Plc formed in 1978 as a merger between Allied Breweries and the food and catering group J. Lyons and Co. The company merged with Pedro Domecq S.A in 1994 to become Allied Domecq PLC, which was an international company, headquartered in Bristol, UK, that operated spirits, wine, and quick service restaurant businesses (&lt;a href="https://en.wikipedia.org/w/index.php?title=Allied_Domecq&amp;oldid=909802730" target="_blank" &gt;Allied Domecq, n.d.&lt;/a&gt;). </r:Content>
+      </r:Description>
+    </Organization>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Organization isUniversallyUnique="true" versionDate="2019-11-13T09:36:32.2245564Z" xmlns="ddi:archive:3_2">
+      <r:URN>urn:ddi:uk.closer:a3d04bde-588c-4dcf-b555-b534ca5defb1:3</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>a3d04bde-588c-4dcf-b555-b534ca5defb1</r:ID>
+      <r:Version>3</r:Version>
+      <OrganizationIdentification>
+        <OrganizationName>
+          <r:String xml:lang="en-GB">Arthritis Research Campaign</r:String>
+        </OrganizationName>
+      </OrganizationIdentification>
+      <r:Description>
+        <r:Content xml:lang="en-GB">Arthritis Research Campaign was previously known as Arthritis Research UK which was founded as the Empire Rheumatism Council in 1936. In 2010 it was renamed to Arthritis Research UK which was merged with Arthritis Care in 2017 to become Versus Arthritis which is the UK's largest charity dedicated to supporting people with arthritis (&lt;a href="https://en.wikipedia.org/w/index.php?title=Versus_Arthritis&amp;oldid=916617568" target="_blank" &gt;Versus Arthritis, n.d.&lt;/a&gt;).  </r:Content>
+      </r:Description>
+    </Organization>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Organization isUniversallyUnique="true" versionDate="2019-11-13T09:36:57.3190237Z" xmlns="ddi:archive:3_2">
+      <r:URN>urn:ddi:uk.closer:d49d6bfe-87f7-4f55-bb6d-a112aa9156fa:2</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>d49d6bfe-87f7-4f55-bb6d-a112aa9156fa</r:ID>
+      <r:Version>2</r:Version>
+      <r:UserAttributePair>
+        <r:AttributeKey>ddi31:Nickname</r:AttributeKey>
+        <r:AttributeValue>{"en-GB":"BHF"}</r:AttributeValue>
+      </r:UserAttributePair>
+      <OrganizationIdentification>
+        <OrganizationName>
+          <r:String xml:lang="en-GB">British Heart Foundation</r:String>
+        </OrganizationName>
+        <OrganizationImage>
+          <r:ImageLocation></r:ImageLocation>
+        </OrganizationImage>
+      </OrganizationIdentification>
+      <r:Description>
+        <r:Content xml:lang="en-GB">The BHF is a charity organisation in the UK. It funds research to beat heartbreak from heart and circulatory diseases and their risk factors arthritis (&lt;a href="https://en.wikipedia.org/w/index.php?title=British_Heart_Foundation&amp;oldid=922677642" target="_blank" &gt;British Heart Foundation, n.d.&lt;/a&gt;).  </r:Content>
+      </r:Description>
+    </Organization>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Organization isUniversallyUnique="true" versionDate="2019-11-13T09:38:08.9397293Z" xmlns="ddi:archive:3_2">
+      <r:URN>urn:ddi:uk.closer:9c5bef7b-8b8e-4df7-a823-6d63aae3210a:2</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>9c5bef7b-8b8e-4df7-a823-6d63aae3210a</r:ID>
+      <r:Version>2</r:Version>
+      <r:UserAttributePair>
+        <r:AttributeKey>ddi31:Nickname</r:AttributeKey>
+        <r:AttributeValue>{"en-GB":"CDC"}</r:AttributeValue>
+      </r:UserAttributePair>
+      <OrganizationIdentification>
+        <OrganizationName>
+          <r:String xml:lang="en-GB">Centers for Disease Control and Prevention</r:String>
+        </OrganizationName>
+      </OrganizationIdentification>
+      <r:Description>
+        <r:Content xml:lang="en-GB">The CDC is the leading national public health institute of the United States. Its main goal is to protect public health and safety through the control and prevention of disease, injury, and disability in the US and internationally (&lt;a href="https://en.wikipedia.org/w/index.php?title=Centers_for_Disease_Control_and_Prevention&amp;oldid=921094460" target="_blank" &gt;Centers for Disease Control and Prevention, n.d.&lt;/a&gt;). </r:Content>
+      </r:Description>
+    </Organization>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Organization isUniversallyUnique="true" versionDate="2019-11-13T09:39:05.0986232Z" xmlns="ddi:archive:3_2">
+      <r:URN>urn:ddi:uk.closer:c16bc4f6-1f8e-48ff-8de1-47fbd36fa545:2</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>c16bc4f6-1f8e-48ff-8de1-47fbd36fa545</r:ID>
+      <r:Version>2</r:Version>
+      <OrganizationIdentification>
+        <OrganizationName>
+          <r:String xml:lang="en-GB">Channel Four Television Corporation</r:String>
+        </OrganizationName>
+      </OrganizationIdentification>
+      <r:Description>
+        <r:Content xml:lang="en-GB">Channel Four Television Corporation is a publicly owned media company headquartered in London, UK. The company was founded in 1982 as Channel Four Television Company Limited, a wholly owned subsidiary of the Independent Broadcasting Authority, and became an independent statutory corporation in 1993 (&lt;a href="https://en.wikipedia.org/w/index.php?title=Channel_Four_Television_Corporation&amp;oldid=922088378" target="_blank" &gt;Channel Four Television Corporation, n.d.&lt;/a&gt;). </r:Content>
+      </r:Description>
+    </Organization>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Organization isUniversallyUnique="true" versionDate="2019-11-13T09:40:36.8789561Z" xmlns="ddi:archive:3_2">
+      <r:URN>urn:ddi:uk.closer:d740baef-5517-4cb0-8ac0-82200e64ad7e:2</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>d740baef-5517-4cb0-8ac0-82200e64ad7e</r:ID>
+      <r:Version>2</r:Version>
+      <OrganizationIdentification>
+        <OrganizationName>
+          <r:String xml:lang="en-GB">Charles Hayward Foundation</r:String>
+        </OrganizationName>
+      </OrganizationIdentification>
+      <r:Description>
+        <r:Content xml:lang="en-GB">The Charles Hayward Foundation is a grant-making charitable trust making awards to charities that are registered in the UK (&lt;a href="http://www.charleshaywardfoundation.org.uk/" target="_blank" &gt;Charles Hayward Foundation, n.d.&lt;/a&gt;).</r:Content>
+      </r:Description>
+    </Organization>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Organization isUniversallyUnique="true" versionDate="2019-11-04T12:21:02.9878839Z" xmlns="ddi:archive:3_2">
+      <r:URN>urn:ddi:uk.closer:0308162b-8645-448c-b923-5c2e96b7d2a8:2</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>0308162b-8645-448c-b923-5c2e96b7d2a8</r:ID>
+      <r:Version>2</r:Version>
+      <OrganizationIdentification>
+        <OrganizationName>
+          <r:String xml:lang="en-GB">Consortium of UK Government Departments</r:String>
+        </OrganizationName>
+      </OrganizationIdentification>
+      <r:Description>
+        <r:Content xml:lang="en-GB">An unknown consortium of UK Government Departments. </r:Content>
+      </r:Description>
+    </Organization>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Organization isUniversallyUnique="true" versionDate="2019-11-13T09:41:00.829717Z" xmlns="ddi:archive:3_2">
+      <r:URN>urn:ddi:uk.closer:1f22360d-4172-4585-ba91-db534755c63a:3</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>1f22360d-4172-4585-ba91-db534755c63a</r:ID>
+      <r:Version>3</r:Version>
+      <OrganizationIdentification>
+        <OrganizationName>
+          <r:String xml:lang="en-GB">Dunhill Medical Trust</r:String>
+        </OrganizationName>
+      </OrganizationIdentification>
+      <r:Description>
+        <r:Content xml:lang="en-GB">The Dunhill Medical Trust is a registered UK charity and charitable company limited by guarantee which makes grants to both academic and clinically-based researchers and to support smaller charities and community-based organisations in projects that provide accommodation or care or services to older people (&lt;a href="https://dunhillmedical.org.uk/" target="_blank" &gt;Dunhill Medical Trust, n.d.&lt;/a&gt;). </r:Content>
+      </r:Description>
+    </Organization>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Organization isUniversallyUnique="true" versionDate="2019-11-13T09:41:22.5750254Z" xmlns="ddi:archive:3_2">
+      <r:URN>urn:ddi:uk.closer:ced55fc1-3df1-4d66-a925-cf5e1b79167a:4</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>ced55fc1-3df1-4d66-a925-cf5e1b79167a</r:ID>
+      <r:Version>4</r:Version>
+      <r:UserAttributePair>
+        <r:AttributeKey>ddi31:Nickname</r:AttributeKey>
+        <r:AttributeValue>{"en-GB":"ESRC"}</r:AttributeValue>
+      </r:UserAttributePair>
+      <OrganizationIdentification>
+        <OrganizationName>
+          <r:String xml:lang="en-GB">Economic and Social Research Council</r:String>
+        </OrganizationName>
+        <OrganizationImage>
+          <r:ImageLocation></r:ImageLocation>
+        </OrganizationImage>
+      </OrganizationIdentification>
+      <r:Description>
+        <r:Content xml:lang="en-GB">The ESRC provides funding and support for research and training in the social sciences. It is the UK's largest organisation for funding research on economic and social issues. The ESRC is part of UK Research and Innovation (UKRI) which is a non-departmental public body (NDPB) funded by the UK government (&lt;a href="https://en.wikipedia.org/w/index.php?title=Economic_and_Social_Research_Council&amp;oldid=920740618" target="_blank" &gt;Economic and Social Research Council, n.d.&lt;/a&gt;). </r:Content>
+      </r:Description>
+    </Organization>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Organization isUniversallyUnique="true" versionDate="2019-11-13T09:41:50.0842531Z" xmlns="ddi:archive:3_2">
+      <r:URN>urn:ddi:uk.closer:7cbce8c8-7d86-4a6b-8752-b74a55f441bd:3</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>7cbce8c8-7d86-4a6b-8752-b74a55f441bd</r:ID>
+      <r:Version>3</r:Version>
+      <r:UserAttributePair>
+        <r:AttributeKey>ddi31:Nickname</r:AttributeKey>
+        <r:AttributeValue>{"en-GB":"FSA"}</r:AttributeValue>
+      </r:UserAttributePair>
+      <OrganizationIdentification>
+        <OrganizationName>
+          <r:String xml:lang="en-GB">Food Standards Agency</r:String>
+        </OrganizationName>
+      </OrganizationIdentification>
+      <r:Description>
+        <r:Content xml:lang="en-GB">The FSA is a non-ministerial government department of the UK. It is responsible for protecting public health in relation to food in England, Wales and Northern Ireland (&lt;a href="https://en.wikipedia.org/w/index.php?title=Food_Standards_Agency&amp;oldid=916801899" target="_blank" &gt;Food Standards Agency, n.d.&lt;/a&gt;). </r:Content>
+      </r:Description>
+    </Organization>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Organization isUniversallyUnique="true" versionDate="2019-11-13T09:42:13.8274899Z" xmlns="ddi:archive:3_2">
+      <r:URN>urn:ddi:uk.closer:bb6ae94b-41e3-441c-a8a9-e3d14cbf61dd:2</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>bb6ae94b-41e3-441c-a8a9-e3d14cbf61dd</r:ID>
+      <r:Version>2</r:Version>
+      <r:UserAttributePair>
+        <r:AttributeKey>ddi31:Nickname</r:AttributeKey>
+        <r:AttributeValue>{"en-GB":"HTV"}</r:AttributeValue>
+      </r:UserAttributePair>
+      <OrganizationIdentification>
+        <OrganizationName>
+          <r:String xml:lang="en-GB">Harlech Television</r:String>
+        </OrganizationName>
+      </OrganizationIdentification>
+      <r:Description>
+        <r:Content xml:lang="en-GB">HTV was a British television service franchised by ITV. It was replaced by ITV Wales and West which was then replaced by ITV Cymru Wales and ITV West Country in 2014 (&lt;a href="https://en.wikipedia.org/w/index.php?title=ITV_Wales_%26_West&amp;oldid=918761305" target="_blank" &gt; ITV Wales and West, n.d.&lt;/a&gt;).  </r:Content>
+      </r:Description>
+    </Organization>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Organization isUniversallyUnique="true" versionDate="2019-11-13T09:43:54.711732Z" xmlns="ddi:archive:3_2">
+      <r:URN>urn:ddi:uk.closer:efe72092-fff6-4bee-98e7-0fac4a3dbd17:3</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>efe72092-fff6-4bee-98e7-0fac4a3dbd17</r:ID>
+      <r:Version>3</r:Version>
+      <r:UserAttributePair>
+        <r:AttributeKey>ddi31:Nickname</r:AttributeKey>
+        <r:AttributeValue>{"en-GB":"HSE"}</r:AttributeValue>
+      </r:UserAttributePair>
+      <OrganizationIdentification>
+        <OrganizationName>
+          <r:String xml:lang="en-GB">Health and Safety Executive</r:String>
+        </OrganizationName>
+      </OrganizationIdentification>
+      <r:Description>
+        <r:Content xml:lang="en-GB">The HSE is a UK government agency responsible for the encouragement, regulation and enforcement of workplace health, safety and welfare, and for research into occupational risks in Great Britain (&lt;a href="https://en.wikipedia.org/w/index.php?title=Health_and_Safety_Executive&amp;oldid=916702226"  target="_blank" &gt;Health and Safety Executive, n.d.&lt;/a&gt;). </r:Content>
+      </r:Description>
+    </Organization>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Organization isUniversallyUnique="true" versionDate="2019-11-04T12:16:16.1598039Z" xmlns="ddi:archive:3_2">
+      <r:URN>urn:ddi:uk.closer:0a97fed5-6868-4ef3-b7da-e6911064adf5:2</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>0a97fed5-6868-4ef3-b7da-e6911064adf5</r:ID>
+      <r:Version>2</r:Version>
+      <r:UserAttributePair>
+        <r:AttributeKey>ddi31:Nickname</r:AttributeKey>
+        <r:AttributeValue>{"en-GB":"ICCS"}</r:AttributeValue>
+      </r:UserAttributePair>
+      <OrganizationIdentification>
+        <OrganizationName>
+          <r:String xml:lang="en-GB">International Centre for Child Studies</r:String>
+        </OrganizationName>
+      </OrganizationIdentification>
+      <r:Description>
+        <r:Content xml:lang="en-GB">An independent charity affiliated to the University of Bristol which closed down in 2009.  </r:Content>
+      </r:Description>
+    </Organization>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Organization isUniversallyUnique="true" versionDate="2019-11-13T09:44:20.7848185Z" xmlns="ddi:archive:3_2">
+      <r:URN>urn:ddi:uk.closer:cd0691f2-b6f0-4085-90ad-70c3974b0566:2</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>cd0691f2-b6f0-4085-90ad-70c3974b0566</r:ID>
+      <r:Version>2</r:Version>
+      <r:UserAttributePair>
+        <r:AttributeKey>ddi31:Nickname</r:AttributeKey>
+        <r:AttributeValue>{"en-GB":"ICH"}</r:AttributeValue>
+      </r:UserAttributePair>
+      <OrganizationIdentification>
+        <OrganizationName>
+          <r:String xml:lang="en-GB">Institute of Child Health, University of London</r:String>
+        </OrganizationName>
+      </OrganizationIdentification>
+      <r:Description>
+        <r:Content xml:lang="en-GB">The ICH was founded in 1946 by professor Alan Moncrieff with the funding of a chair in child health by the Nuffield Foundation. It acted as a postgraduate school of preventive and therapeutic paediatrics of Great Ormond Street Hospital for Children and the University of London. This is now called as UCL Great Ormond Street Institute of Child Health (&lt;a href="https://en.wikipedia.org/w/index.php?title=UCL_Great_Ormond_Street_Institute_of_Child_Health&amp;oldid=909285101" target="_blank" &gt;UCL Great Ormond Street Institute of Child Health, n.d.&lt;/a&gt;). </r:Content>
+      </r:Description>
+    </Organization>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Organization isUniversallyUnique="true" versionDate="2019-11-13T09:44:56.2397177Z" xmlns="ddi:archive:3_2">
+      <r:URN>urn:ddi:uk.closer:6b87ee56-d47e-4b86-8305-a29d7a7bd1c3:2</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>6b87ee56-d47e-4b86-8305-a29d7a7bd1c3</r:ID>
+      <r:Version>2</r:Version>
+      <r:UserAttributePair>
+        <r:AttributeKey>ddi31:Nickname</r:AttributeKey>
+        <r:AttributeValue>{"en-GB":"IUGA"}</r:AttributeValue>
+      </r:UserAttributePair>
+      <OrganizationIdentification>
+        <OrganizationName>
+          <r:String xml:lang="en-GB">International Urogynecological Association</r:String>
+        </OrganizationName>
+      </OrganizationIdentification>
+      <r:Description>
+        <r:Content xml:lang="en-GB">The IUGA is a global body for professionals practising in the field of urogynaecology and female pelvic medicine and reconstructive surgery. IUGA facilitates training for physicians from countries which do not have formal training programmes by maintaining and publishing a directory of fellowship programme (&lt;a href="https://en.wikipedia.org/w/index.php?title=Urogynecology&amp;oldid=899489980" target="_blank" &gt;International Urogynecological Association, n.d.&lt;/a&gt;). </r:Content>
+      </r:Description>
+    </Organization>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Organization isUniversallyUnique="true" versionDate="2019-11-13T09:45:19.5810447Z" xmlns="ddi:archive:3_2">
+      <r:URN>urn:ddi:uk.closer:2c012f61-146f-49d0-a122-5cd6ae111abe:2</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>2c012f61-146f-49d0-a122-5cd6ae111abe</r:ID>
+      <r:Version>2</r:Version>
+      <OrganizationIdentification>
+        <OrganizationName>
+          <r:String xml:lang="en-GB">Joseph Rowntree Memorial Trust</r:String>
+        </OrganizationName>
+      </OrganizationIdentification>
+      <r:Description>
+        <r:Content xml:lang="en-GB">The four Rowntree Trusts based in York, UK are funded from the legacies of the Quaker chocolate entrepreneurs and social reformers Joseph Rowntree and Benjamin Seebohm Rowntree (&lt;a href="https://en.wikipedia.org/w/index.php?title=Rowntree_trusts&amp;oldid=818351822" target="_blank" &gt;Joseph Rowntree Memorial Trust, n.d.&lt;/a&gt;). </r:Content>
+      </r:Description>
+    </Organization>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Organization isUniversallyUnique="true" versionDate="2019-11-13T09:45:50.0131317Z" xmlns="ddi:archive:3_2">
+      <r:URN>urn:ddi:uk.closer:4ba12ca9-050a-4ee6-ab90-63a817787ebd:2</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>4ba12ca9-050a-4ee6-ab90-63a817787ebd</r:ID>
+      <r:Version>2</r:Version>
+      <OrganizationIdentification>
+        <OrganizationName>
+          <r:String xml:lang="en-GB">Kellogg Company</r:String>
+        </OrganizationName>
+      </OrganizationIdentification>
+      <r:Description>
+        <r:Content xml:lang="en-GB">The Kellogg Company, doing business as Kellogg's, is an American multinational food manufacturing company headquartered in, Michigan, United States (&lt;a href="https://en.wikipedia.org/w/index.php?title=Kellogg%27s&amp;oldid=924017429" target="_blank" &gt;Kellogg Company, n.d.&lt;/a&gt;). </r:Content>
+      </r:Description>
+    </Organization>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Organization isUniversallyUnique="true" versionDate="2019-11-13T09:46:23.0363448Z" xmlns="ddi:archive:3_2">
+      <r:URN>urn:ddi:uk.closer:f4218640-8cfd-41a7-b8f2-9bbe397795b7:2</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>f4218640-8cfd-41a7-b8f2-9bbe397795b7</r:ID>
+      <r:Version>2</r:Version>
+      <OrganizationIdentification>
+        <OrganizationName>
+          <r:String xml:lang="en-GB">Lankelly Chase Foundation</r:String>
+        </OrganizationName>
+      </OrganizationIdentification>
+      <r:Description>
+        <r:Content xml:lang="en-GB">LankellyChase Foundation is a registered UK charity established in 2004 from the merger of the Chase Charity and the Lankelly Foundation. The foundation established a number of funding programmes that aimed to identify charities struggling to access mainstream funding, usually because they were tackling hidden or neglected forms of disadvantage and harm (&lt;a href="https://lankellychase.org.uk/about-us/" target="_blank" &gt;LankellyChase Foundation, n.d.&lt;/a&gt;). </r:Content>
+      </r:Description>
+    </Organization>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Organization isUniversallyUnique="true" versionDate="2019-11-13T09:46:46.0090211Z" xmlns="ddi:archive:3_2">
+      <r:URN>urn:ddi:uk.closer:e1cb7365-3faf-4584-920d-d46450add0db:2</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>e1cb7365-3faf-4584-920d-d46450add0db</r:ID>
+      <r:Version>2</r:Version>
+      <OrganizationIdentification>
+        <OrganizationName>
+          <r:String xml:lang="en-GB">Laura Ashley Foundation</r:String>
+        </OrganizationName>
+      </OrganizationIdentification>
+      <r:Description>
+        <r:Content xml:lang="en-GB">The Laura Ashley Foundation is a UK registered charity, founded by Sir Bernard Ashley and his wife Laura Ashley following the success of the Laura Ashley brand. It was established in 1986 and was renamed the The Ashley Family Foundation in 2011 (&lt;a href="https://en.wikipedia.org/w/index.php?title=Laura_Ashley&amp;oldid=922045082" target="_blank" &gt;Laura Ashley Foundation, n.d.&lt;/a&gt;). </r:Content>
+      </r:Description>
+    </Organization>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Organization isUniversallyUnique="true" versionDate="2019-11-13T09:47:11.2857503Z" xmlns="ddi:archive:3_2">
+      <r:URN>urn:ddi:uk.closer:7fe02d6d-27e0-4ef9-b672-188981d4f876:2</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>7fe02d6d-27e0-4ef9-b672-188981d4f876</r:ID>
+      <r:Version>2</r:Version>
+      <r:UserAttributePair>
+        <r:AttributeKey>ddi31:Nickname</r:AttributeKey>
+        <r:AttributeValue>{"en-GB":"LSE"}</r:AttributeValue>
+      </r:UserAttributePair>
+      <OrganizationIdentification>
+        <OrganizationName>
+          <r:String xml:lang="en-GB">London School of Economics</r:String>
+        </OrganizationName>
+      </OrganizationIdentification>
+      <r:Description>
+        <r:Content xml:lang="en-GB">The LSE (officially the London School of Economics and Political Science) is a public research university located in London, UK, and a member institution of the federal University of London (&lt;a href="https://en.wikipedia.org/w/index.php?title=London_School_of_Economics&amp;oldid=922345582" target="_blank" &gt;London School of Economics, n.d.&lt;/a&gt;). </r:Content>
+      </r:Description>
+    </Organization>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Organization isUniversallyUnique="true" versionDate="2019-11-13T09:47:33.7546661Z" xmlns="ddi:archive:3_2">
+      <r:URN>urn:ddi:uk.closer:f59cfbb4-d752-493e-b209-bb5dd58af8d5:3</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>f59cfbb4-d752-493e-b209-bb5dd58af8d5</r:ID>
+      <r:Version>3</r:Version>
+      <OrganizationIdentification>
+        <OrganizationName>
+          <r:String xml:lang="en-GB">MacArthur Foundation</r:String>
+        </OrganizationName>
+        <OrganizationImage>
+          <r:ImageLocation></r:ImageLocation>
+        </OrganizationImage>
+      </OrganizationIdentification>
+      <r:Description>
+        <r:Content xml:lang="en-GB">The MacArthur Foundation is a private foundation that makes grants and impact investments to support non-profit organizations in approximately 50 countries around the world (&lt;a href="https://en.wikipedia.org/w/index.php?title=MacArthur_Foundation&amp;oldid=915013610" target="_blank" &gt;MacArthur Foundation, n.d.&lt;/a&gt;). </r:Content>
+      </r:Description>
+    </Organization>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Organization isUniversallyUnique="true" versionDate="2019-11-13T09:47:55.2798365Z" xmlns="ddi:archive:3_2">
+      <r:URN>urn:ddi:uk.closer:65daf464-e9f5-4c24-8e0b-2a46ef6f421d:2</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>65daf464-e9f5-4c24-8e0b-2a46ef6f421d</r:ID>
+      <r:Version>2</r:Version>
+      <r:UserAttributePair>
+        <r:AttributeKey>ddi31:Nickname</r:AttributeKey>
+        <r:AttributeValue>{"en-GB":"MSC"}</r:AttributeValue>
+      </r:UserAttributePair>
+      <OrganizationIdentification>
+        <OrganizationName>
+          <r:String xml:lang="en-GB">Manpower Services Commission</r:String>
+        </OrganizationName>
+      </OrganizationIdentification>
+      <r:Description>
+        <r:Content xml:lang="en-GB">The MSC was a non-departmental public body of the Department of Employment Group in the UK created in 1973. The MSC had a remit to co-ordinate employment and training services in the UK through a ten-member commission drawn from industry, trade unions, local authorities and education interests (&lt;a href="https://en.wikipedia.org/w/index.php?title=Manpower_Services_Commission&amp;oldid=828243387" target="_blank" &gt;Manpower Services Commission, n.d.&lt;/a&gt;). </r:Content>
+      </r:Description>
+    </Organization>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Organization isUniversallyUnique="true" versionDate="2019-11-13T09:48:32.2257219Z" xmlns="ddi:archive:3_2">
+      <r:URN>urn:ddi:uk.closer:a1bdc1c8-d24e-44e1-87f2-5bcd7ab98e22:3</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>a1bdc1c8-d24e-44e1-87f2-5bcd7ab98e22</r:ID>
+      <r:Version>3</r:Version>
+      <r:UserAttributePair>
+        <r:AttributeKey>ddi31:Nickname</r:AttributeKey>
+        <r:AttributeValue>{"en-GB":"MRC"}</r:AttributeValue>
+      </r:UserAttributePair>
+      <OrganizationIdentification>
+        <OrganizationName>
+          <r:String xml:lang="en-GB">Medical Research Council</r:String>
+        </OrganizationName>
+        <OrganizationImage>
+          <r:ImageLocation></r:ImageLocation>
+        </OrganizationImage>
+      </OrganizationIdentification>
+      <r:Description>
+        <r:Content xml:lang="en-GB">The MRC is responsible for co-coordinating and funding medical research in the UK. It is part of UK Research and Innovation (UKRI) which is a non-departmental public body (NDPB) funded by the UK government (&lt;a href="https://en.wikipedia.org/w/index.php?title=Medical_Research_Council_(United_Kingdom)&amp;oldid=921149396" target="_blank" &gt;Medical Research Council (United Kingdom), n.d. &lt;/a&gt; ). </r:Content>
+      </r:Description>
+    </Organization>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Organization isUniversallyUnique="true" versionDate="2019-11-13T09:48:55.7299799Z" xmlns="ddi:archive:3_2">
+      <r:URN>urn:ddi:uk.closer:d685fbb1-108c-4f7d-bcba-699373794b27:2</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>d685fbb1-108c-4f7d-bcba-699373794b27</r:ID>
+      <r:Version>2</r:Version>
+      <OrganizationIdentification>
+        <OrganizationName>
+          <r:String xml:lang="en-GB">National Assembly for Wales</r:String>
+        </OrganizationName>
+      </OrganizationIdentification>
+      <r:Description>
+        <r:Content xml:lang="en-GB">The National Assembly for Wales is the devolved parliament of Wales, with power to make legislation, vary taxes and scrutinise the Welsh government (&lt;a href="https://en.wikipedia.org/w/index.php?title=National_Assembly_for_Wales&amp;oldid=921926661" target="_blank" &gt;National Assembly for Wales, n.d.&lt;/a&gt;). 
+
+</r:Content>
+      </r:Description>
+    </Organization>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Organization isUniversallyUnique="true" versionDate="2019-11-13T09:49:17.8621577Z" xmlns="ddi:archive:3_2">
+      <r:URN>urn:ddi:uk.closer:35acd4d1-8890-4edb-91aa-701f9be4edb1:2</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>35acd4d1-8890-4edb-91aa-701f9be4edb1</r:ID>
+      <r:Version>2</r:Version>
+      <OrganizationIdentification>
+        <OrganizationName>
+          <r:String xml:lang="en-GB">National Bureau for Cooperation in Child Care</r:String>
+        </OrganizationName>
+      </OrganizationIdentification>
+      <r:Description>
+        <r:Content xml:lang="en-GB">The National Bureau for Cooperation in Child Care was founded in 1963 reflecting the growing social concern over the treatment of neglected children and the realisation of the importance of preventative work. Improving the education and training of childcare staff, anxiety over adoption and fostering procedures, and concerns over child health and education, were also contributing factors to the creation of the organisation. It is now known as the National Children's Bureau (&lt;a href="https://www.sourcewatch.org/index.php?title=National_Children%27s_Bureau&amp;oldid=629978" target="_blank" &gt;National Children's Bureau, n.d.&lt;/a&gt;). </r:Content>
+      </r:Description>
+    </Organization>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Organization isUniversallyUnique="true" versionDate="2019-11-13T09:56:33.6159856Z" xmlns="ddi:archive:3_2">
+      <r:URN>urn:ddi:uk.closer:16dc434f-5294-4244-9366-29b91f26f8b3:2</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>16dc434f-5294-4244-9366-29b91f26f8b3</r:ID>
+      <r:Version>2</r:Version>
+      <r:UserAttributePair>
+        <r:AttributeKey>ddi31:Nickname</r:AttributeKey>
+        <r:AttributeValue>{"en-GB":"NECF"}</r:AttributeValue>
+      </r:UserAttributePair>
+      <OrganizationIdentification>
+        <OrganizationName>
+          <r:String xml:lang="en-GB">National Evaluation of the Children's Fund</r:String>
+        </OrganizationName>
+      </OrganizationIdentification>
+      <r:Description>
+        <r:Content xml:lang="en-GB">The Children's Fund was set up by the Children and Young People's Unit as a complex intervention aimed at reducing social exclusion. The Children and Young People's Unit commissioned this national evaluation of the Children's Fund with the aim of exploring what works in prevention and why. The programme of research was being undertaken by The University of Birmingham, in partnership with the University of London Institute of Education between 2003 and 2006 (&lt;a href="https://web.archive.org/web/20071118224534/http://ne-cf.org.uk/text.asp?section=000100040001" target="_blank"&gt;web archive, assessed 1 Nov. 2019 &lt;/a&gt;). </r:Content>
+      </r:Description>
+    </Organization>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Organization isUniversallyUnique="true" versionDate="2019-11-13T09:57:01.2190426Z" xmlns="ddi:archive:3_2">
+      <r:URN>urn:ddi:uk.closer:23934526-98f6-4933-9fd0-ab77129735dc:2</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>23934526-98f6-4933-9fd0-ab77129735dc</r:ID>
+      <r:Version>2</r:Version>
+      <r:UserAttributePair>
+        <r:AttributeKey>ddi31:Nickname</r:AttributeKey>
+        <r:AttributeValue>{"en-GB":"NFER"}</r:AttributeValue>
+      </r:UserAttributePair>
+      <OrganizationIdentification>
+        <OrganizationName>
+          <r:String xml:lang="en-GB">National Foundation for Educational Research</r:String>
+        </OrganizationName>
+      </OrganizationIdentification>
+      <r:Description>
+        <r:Content xml:lang="en-GB">The NFER was founded in 1946 as a centre for educational research and development in England and Wales. The foundation's work includes educational research, evaluation of education and training programmes, and the development of assessments and specialist information services (&lt;a href="https://en.wikipedia.org/w/index.php?title=National_Foundation_for_Educational_Research&amp;oldid=923169444" target="_blank" &gt;National Foundation for Educational Research, n.d.&lt;/a&gt;). </r:Content>
+      </r:Description>
+    </Organization>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Organization isUniversallyUnique="true" versionDate="2019-11-13T09:57:22.80564Z" xmlns="ddi:archive:3_2">
+      <r:URN>urn:ddi:uk.closer:b2244fef-f3f9-4d3a-9c60-8ee2aa92a6e7:2</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>b2244fef-f3f9-4d3a-9c60-8ee2aa92a6e7</r:ID>
+      <r:Version>2</r:Version>
+      <r:UserAttributePair>
+        <r:AttributeKey>ddi31:Nickname</r:AttributeKey>
+        <r:AttributeValue>{"en-GB":"NHLBI"}</r:AttributeValue>
+      </r:UserAttributePair>
+      <OrganizationIdentification>
+        <OrganizationName>
+          <r:String xml:lang="en-GB">National Heart, Lung, and Blood Institute</r:String>
+        </OrganizationName>
+      </OrganizationIdentification>
+      <r:Description>
+        <r:Content xml:lang="en-GB">The NHLBI is the third largest Institute of the National Institutes of Health. The NIH is the primary agency of the United States government responsible for biomedical and public health research (&lt;a href="https://en.wikipedia.org/w/index.php?title=National_Heart,_Lung,_and_Blood_Institute&amp;oldid=893956193" target="_blank" &gt;National Heart, Lung, and Blood Institute, n.d.&lt;/a&gt;).  </r:Content>
+      </r:Description>
+    </Organization>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Organization isUniversallyUnique="true" versionDate="2019-11-13T09:57:49.9418287Z" xmlns="ddi:archive:3_2">
+      <r:URN>urn:ddi:uk.closer:820ff991-84b9-4b55-b8cf-ad3cb0083307:2</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>820ff991-84b9-4b55-b8cf-ad3cb0083307</r:ID>
+      <r:Version>2</r:Version>
+      <r:UserAttributePair>
+        <r:AttributeKey>ddi31:Nickname</r:AttributeKey>
+        <r:AttributeValue>{"en-GB":"NIA"}</r:AttributeValue>
+      </r:UserAttributePair>
+      <OrganizationIdentification>
+        <OrganizationName>
+          <r:String xml:lang="en-GB">National Institute on Aging</r:String>
+        </OrganizationName>
+      </OrganizationIdentification>
+      <r:Description>
+        <r:Content xml:lang="en-GB">The NIA is a division of the United States National Institutes of Health (NIH). It leads a broad scientific effort to understand the nature of aging and to extend the healthy, active years of life (&lt;a href="https://en.wikipedia.org/w/index.php?title=National_Institute_on_Aging&amp;oldid=894915346" target="_blank" &gt;National Institute on Aging, n.d.&lt;/a&gt;). </r:Content>
+      </r:Description>
+    </Organization>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Organization isUniversallyUnique="true" versionDate="2019-11-13T09:58:20.0807418Z" xmlns="ddi:archive:3_2">
+      <r:URN>urn:ddi:uk.closer:cc044171-d7f8-4ad5-b8e3-cc30fdd14e7a:2</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>cc044171-d7f8-4ad5-b8e3-cc30fdd14e7a</r:ID>
+      <r:Version>2</r:Version>
+      <r:UserAttributePair>
+        <r:AttributeKey>ddi31:Nickname</r:AttributeKey>
+        <r:AttributeValue>{"en-GB":"NICHD"}</r:AttributeValue>
+      </r:UserAttributePair>
+      <OrganizationIdentification>
+        <OrganizationName>
+          <r:String xml:lang="en-GB">National Institute of Child Health and Development</r:String>
+        </OrganizationName>
+      </OrganizationIdentification>
+      <r:Description>
+        <r:Content xml:lang="en-GB">The NICHD which is now named the Eunice Kennedy Shriver National Institute of Child Health and Human Development (NICHD) is one of the National Institutes of Health in the United States Department of Health and Human Services. It supports and conducts research aimed at improving the health of children, adults, families, and communities (&lt;a href="https://en.wikipedia.org/w/index.php?title=Eunice_Kennedy_Shriver_National_Institute_of_Child_Health_and_Human_Development&amp;oldid=914441142" target="_blank" &gt;Eunice Kennedy Shriver National Institute of Child Health and Human Development, n.d.&lt;/a&gt;). </r:Content>
+      </r:Description>
+    </Organization>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Organization isUniversallyUnique="true" versionDate="2019-11-13T09:58:44.5659992Z" xmlns="ddi:archive:3_2">
+      <r:URN>urn:ddi:uk.closer:3320beab-be71-437a-b7cf-ce50e0d0e205:2</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>3320beab-be71-437a-b7cf-ce50e0d0e205</r:ID>
+      <r:Version>2</r:Version>
+      <r:UserAttributePair>
+        <r:AttributeKey>ddi31:Nickname</r:AttributeKey>
+        <r:AttributeValue>{"en-GB":"NIHR"}</r:AttributeValue>
+      </r:UserAttributePair>
+      <OrganizationIdentification>
+        <OrganizationName>
+          <r:String xml:lang="en-GB">National Institute of Health Research</r:String>
+        </OrganizationName>
+      </OrganizationIdentification>
+      <r:Description>
+        <r:Content xml:lang="en-GB">The NIHR is the largest national clinical research funder in Europe. The NIHR was established in 2006 and is funded by the Department of Health and Social Care (&lt;a href="https://en.wikipedia.org/w/index.php?title=National_Institute_for_Health_Research&amp;oldid=915514872" target="_blank" &gt;National Institute for Health Research, n.d.&lt;/a&gt;). </r:Content>
+      </r:Description>
+    </Organization>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Organization isUniversallyUnique="true" versionDate="2019-11-13T09:59:04.6092242Z" xmlns="ddi:archive:3_2">
+      <r:URN>urn:ddi:uk.closer:410a3ea9-799b-48c9-9233-6bd96e82a9e9:2</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>410a3ea9-799b-48c9-9233-6bd96e82a9e9</r:ID>
+      <r:Version>2</r:Version>
+      <r:UserAttributePair>
+        <r:AttributeKey>ddi31:Nickname</r:AttributeKey>
+        <r:AttributeValue>{"en-GB":"NIH"}</r:AttributeValue>
+      </r:UserAttributePair>
+      <OrganizationIdentification>
+        <OrganizationName>
+          <r:String xml:lang="en-GB">National Institutes of Health</r:String>
+        </OrganizationName>
+      </OrganizationIdentification>
+      <r:Description>
+        <r:Content xml:lang="en-GB">The NIH is the primary agency of the United States government responsible for biomedical and public health research. The NIH conducts its own scientific research through its Intramural Research Program and provides major biomedical research funding to non-NIH research facilities through its Extramural Research Program (&lt;a href="https://en.wikipedia.org/w/index.php?title=National_Institutes_of_Health&amp;oldid=920166542" target="_blank" &gt;National Institutes of Health, n.d.&lt;/a&gt;).  </r:Content>
+      </r:Description>
+    </Organization>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Organization isUniversallyUnique="true" versionDate="2019-11-14T10:07:07.4799414Z" xmlns="ddi:archive:3_2">
+      <r:URN>urn:ddi:uk.closer:8efb9045-876a-4db9-817b-a969e15cebd5:2</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>8efb9045-876a-4db9-817b-a969e15cebd5</r:ID>
+      <r:Version>2</r:Version>
+      <OrganizationIdentification>
+        <OrganizationName>
+          <r:String xml:lang="en-GB">New Moorgate Trust</r:String>
+        </OrganizationName>
+      </OrganizationIdentification>
+      <r:Description>
+        <r:Content xml:lang="en-GB">The New Moorgate Trust Fund was a grant making trust founded in 1971. It merged with the Moorgate Trust Fund in 1992 to form the John Ellerman Foundation.  (&lt;a href="https://en.wikipedia.org/wiki/Sir_John_Ellerman,_2nd_Baronet" target="_blank" &gt;New Moorgate Trust Fund, n.d.&lt;/a&gt;). </r:Content>
+      </r:Description>
+    </Organization>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Organization isUniversallyUnique="true" versionDate="2019-11-13T10:02:57.5603179Z" xmlns="ddi:archive:3_2">
+      <r:URN>urn:ddi:uk.closer:73d66768-fe23-4cfc-924a-704e17ba0d70:2</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>73d66768-fe23-4cfc-924a-704e17ba0d70</r:ID>
+      <r:Version>2</r:Version>
+      <r:UserAttributePair>
+        <r:AttributeKey>ddi31:Nickname</r:AttributeKey>
+        <r:AttributeValue>{"en-GB":"ONS"}</r:AttributeValue>
+      </r:UserAttributePair>
+      <OrganizationIdentification>
+        <OrganizationName>
+          <r:String xml:lang="en-GB">Office for National Statistics</r:String>
+        </OrganizationName>
+      </OrganizationIdentification>
+      <r:Description>
+        <r:Content xml:lang="en-GB">The ONS is the executive office of the UK Statistics Authority, a non-ministerial department which reports directly to the UK Parliament (&lt;a href="https://en.wikipedia.org/w/index.php?title=Office_for_National_Statistics&amp;oldid=923784857" target="_blank" &gt;Office for National Statistics, n.d.&lt;/a&gt;). </r:Content>
+      </r:Description>
+    </Organization>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Organization isUniversallyUnique="true" versionDate="2019-11-13T10:09:09.8859418Z" xmlns="ddi:archive:3_2">
+      <r:URN>urn:ddi:uk.closer:c7840a7e-ebac-4ba7-b30b-0a286d6fd779:2</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>c7840a7e-ebac-4ba7-b30b-0a286d6fd779</r:ID>
+      <r:Version>2</r:Version>
+      <r:UserAttributePair>
+        <r:AttributeKey>ddi31:Nickname</r:AttributeKey>
+        <r:AttributeValue>{"en-GB":"PIC"}</r:AttributeValue>
+      </r:UserAttributePair>
+      <OrganizationIdentification>
+        <OrganizationName>
+          <r:String xml:lang="en-GB">Population Investigation Committee</r:String>
+        </OrganizationName>
+      </OrganizationIdentification>
+      <r:Description>
+        <r:Content xml:lang="en-GB">The PIC, is a UK social research group founded in 1936. It has been housed at the London School of Economics since 1945 (&lt;a href="https://en.wikipedia.org/w/index.php?title=Population_Investigation_Committee&amp;oldid=918892314" target="_blank" &gt;Population Investigation Committee, n.d.&lt;/a&gt;). </r:Content>
+      </r:Description>
+    </Organization>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Organization isUniversallyUnique="true" versionDate="2019-11-13T10:09:33.5933589Z" xmlns="ddi:archive:3_2">
+      <r:URN>urn:ddi:uk.closer:05f71174-3b79-426b-bb43-6ebe9cd6d794:2</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>05f71174-3b79-426b-bb43-6ebe9cd6d794</r:ID>
+      <r:Version>2</r:Version>
+      <r:UserAttributePair>
+        <r:AttributeKey>ddi31:Nickname</r:AttributeKey>
+        <r:AttributeValue>{"en-GB":"RiGT"}</r:AttributeValue>
+      </r:UserAttributePair>
+      <OrganizationIdentification>
+        <OrganizationName>
+          <r:String xml:lang="en-GB">Responsibility in Gambling Trust</r:String>
+        </OrganizationName>
+      </OrganizationIdentification>
+      <r:Description>
+        <r:Content xml:lang="en-GB">The RiGT, which is now known as GambleAware is a UK charity tasked to fund research, education and treatment services to help to reduce gambling-related harms in Great Britain (&lt;a href="https://www.wikipolitiks.org/mediawiki/index.php?title=GambleAware&amp;oldid=22549" target="_blank" &gt;GambleAware, n.d.&lt;/a&gt;).</r:Content>
+      </r:Description>
+    </Organization>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Organization isUniversallyUnique="true" versionDate="2019-11-13T10:10:00.3048039Z" xmlns="ddi:archive:3_2">
+      <r:URN>urn:ddi:uk.closer:d0f465a5-42df-4d45-9a0f-0c4a21bac428:2</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>d0f465a5-42df-4d45-9a0f-0c4a21bac428</r:ID>
+      <r:Version>2</r:Version>
+      <r:UserAttributePair>
+        <r:AttributeKey>ddi31:Nickname</r:AttributeKey>
+        <r:AttributeValue>{"en-GB":"RCOG"}</r:AttributeValue>
+      </r:UserAttributePair>
+      <OrganizationIdentification>
+        <OrganizationName>
+          <r:String xml:lang="en-GB">Royal College of Obstetricians and Gynaecologists</r:String>
+        </OrganizationName>
+      </OrganizationIdentification>
+      <r:Description>
+        <r:Content xml:lang="en-GB">The RCOG is professional association based in London, UK. Its members, including people with and without medical degrees, work in the field of obstetrics and gynaecology that is, pregnancy, childbirth, and female sexual and reproductive health (&lt;a href="https://en.wikipedia.org/w/index.php?title=Royal_College_of_Obstetricians_and_Gynaecologists&amp;oldid=917472011" target="_blank" &gt;Royal College of Obstetricians and Gynaecologists, n.d.&lt;/a&gt;).</r:Content>
+      </r:Description>
+    </Organization>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Organization isUniversallyUnique="true" versionDate="2019-11-13T10:10:22.7912472Z" xmlns="ddi:archive:3_2">
+      <r:URN>urn:ddi:uk.closer:56944ce8-acc3-49be-8a4d-752e9facba47:2</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>56944ce8-acc3-49be-8a4d-752e9facba47</r:ID>
+      <r:Version>2</r:Version>
+      <r:UserAttributePair>
+        <r:AttributeKey>ddi31:Nickname</r:AttributeKey>
+        <r:AttributeValue>{"en-GB":"Royal Free"}</r:AttributeValue>
+      </r:UserAttributePair>
+      <OrganizationIdentification>
+        <OrganizationName>
+          <r:String xml:lang="en-GB">Royal Free Hospital</r:String>
+        </OrganizationName>
+      </OrganizationIdentification>
+      <r:Description>
+        <r:Content xml:lang="en-GB">The Royal Free Hospital  is a major teaching hospital in London, UK. The hospital is part of the Royal Free London NHS Foundation Trust, which also runs services at Barnet Hospital, Chase Farm Hospital and a number of other sites. The trust is a founder member of the UCL Partners academic health science centre (&lt;a href="https://en.wikipedia.org/w/index.php?title=Royal_Free_Hospital&amp;oldid=914635260" target="_blank" &gt;Royal Free Hospital, n.d.&lt;/a&gt;).</r:Content>
+      </r:Description>
+    </Organization>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Organization isUniversallyUnique="true" versionDate="2019-11-13T10:10:41.8990565Z" xmlns="ddi:archive:3_2">
+      <r:URN>urn:ddi:uk.closer:abacd095-5f96-4a32-bc35-72baf2efc08a:2</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>abacd095-5f96-4a32-bc35-72baf2efc08a</r:ID>
+      <r:Version>2</r:Version>
+      <r:UserAttributePair>
+        <r:AttributeKey>ddi31:Nickname</r:AttributeKey>
+        <r:AttributeValue>{"en-GB":"SCRE"}</r:AttributeValue>
+      </r:UserAttributePair>
+      <OrganizationIdentification>
+        <OrganizationName>
+          <r:String xml:lang="en-GB">Scottish Council for Research in Education</r:String>
+        </OrganizationName>
+      </OrganizationIdentification>
+      <r:Description>
+        <r:Content xml:lang="en-GB"> The SCRE was set up by the Scottish teachers’ union (The Educational Institute of Scotland, EIS) and the Association of Directors of Education in 1928 (&lt;a href="https://en.wikipedia.org/w/index.php?title=Scottish_Council_for_Research_in_Education&amp;oldid=878820349" target="_blank" &gt;Scottish Council for Research in Education, n.d.&lt;/a&gt;). </r:Content>
+      </r:Description>
+    </Organization>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Organization isUniversallyUnique="true" versionDate="2019-11-13T10:11:15.0362705Z" xmlns="ddi:archive:3_2">
+      <r:URN>urn:ddi:uk.closer:f736ad9a-db64-48f1-8659-0ca3e77eec96:2</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>f736ad9a-db64-48f1-8659-0ca3e77eec96</r:ID>
+      <r:Version>2</r:Version>
+      <OrganizationIdentification>
+        <OrganizationName>
+          <r:String xml:lang="en-GB">Sir James Knott Trust</r:String>
+        </OrganizationName>
+      </OrganizationIdentification>
+      <r:Description>
+        <r:Content xml:lang="en-GB">The Sir James Knott Trust is a UK registered charity founded in 1990 (&lt;a href="http://knott-trust.co.uk/" target="_blank" &gt;knott_trust, n.d.&lt;/a&gt;).</r:Content>
+      </r:Description>
+    </Organization>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Organization isUniversallyUnique="true" versionDate="2019-11-13T10:11:37.9148637Z" xmlns="ddi:archive:3_2">
+      <r:URN>urn:ddi:uk.closer:3de73206-8429-4309-ab31-ec9f01f04ee1:2</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>3de73206-8429-4309-ab31-ec9f01f04ee1</r:ID>
+      <r:Version>2</r:Version>
+      <r:UserAttributePair>
+        <r:AttributeKey>ddi31:Nickname</r:AttributeKey>
+        <r:AttributeValue>{"en-GB":"SSRC"}</r:AttributeValue>
+      </r:UserAttributePair>
+      <OrganizationIdentification>
+        <OrganizationName>
+          <r:String xml:lang="en-GB">Social Science Research Council</r:String>
+        </OrganizationName>
+      </OrganizationIdentification>
+      <r:Description>
+        <r:Content xml:lang="en-GB">The SSRC was founded in 1965 and was renamed the Economic and Social Research Council in 1983 when is expanded its remit beyond the social sciences (&lt;a href="https://en.wikipedia.org/w/index.php?title=Economic_and_Social_Research_Council&amp;oldid=920740618" target="_blank" &gt;Economic and Social Research Council, n.d.&lt;/a&gt;).</r:Content>
+      </r:Description>
+    </Organization>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Organization isUniversallyUnique="true" versionDate="2019-11-13T10:12:28.9119832Z" xmlns="ddi:archive:3_2">
+      <r:URN>urn:ddi:uk.closer:ca2fe89f-51b7-4d7c-be95-7226ae38fdf1:2</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>ca2fe89f-51b7-4d7c-be95-7226ae38fdf1</r:ID>
+      <r:Version>2</r:Version>
+      <r:UserAttributePair>
+        <r:AttributeKey>ddi31:Nickname</r:AttributeKey>
+        <r:AttributeValue>{"en-GB":"BSA"}</r:AttributeValue>
+      </r:UserAttributePair>
+      <OrganizationIdentification>
+        <OrganizationName>
+          <r:String xml:lang="en-GB">The Basic Skills Agency</r:String>
+        </OrganizationName>
+      </OrganizationIdentification>
+      <r:Description>
+        <r:Content xml:lang="en-GB">The BSA became established in 1995 as an independent, not‐for‐profit organization working in England and Wales. Its aims were to identify, develop, and disseminate innovation and knowledge in basic skills teaching and learning. Funded by the Department for Education and Skills, and working with a variety of providers (&lt;a href="https://www.oxfordreference.com/view/10.1093/oi/authority.20110803095450100" target="_blank" &gt;Basic Skills Agency, n.d.&lt;/a&gt;). In 2007 it merged with National Institute of Adult Continuing Education, which then merged with Centre for Economic and Social Inclusion to form a new organisation, the Learning and Work Institute in 2016 (&lt;a href="https://en.wikipedia.org/w/index.php?title=NIACE&amp;oldid=907800284" target="_blank" &gt;NIACE, n.d.&lt;/a&gt;).</r:Content>
+      </r:Description>
+    </Organization>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Organization isUniversallyUnique="true" versionDate="2019-11-13T10:12:54.8416614Z" xmlns="ddi:archive:3_2">
+      <r:URN>urn:ddi:uk.closer:a6a60203-65bd-474a-bc91-e82826a5ae57:2</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>a6a60203-65bd-474a-bc91-e82826a5ae57</r:ID>
+      <r:Version>2</r:Version>
+      <OrganizationIdentification>
+        <OrganizationName>
+          <r:String xml:lang="en-GB">The Beecham Group plc</r:String>
+        </OrganizationName>
+      </OrganizationIdentification>
+      <r:Description>
+        <r:Content xml:lang="en-GB">The Beecham Group plc was a British pharmaceutical company founded in 1859. In 1989 it merged with SmithKline Beckman to become SmithKline Beecham plc, then merged with GlaxoWellcome to become GlaxoSmithKline in 2000 (&lt;a href="https://en.wikipedia.org/w/index.php?title=Beecham_Group&amp;oldid=922723469" target="_blank" &gt;The Beecham Group plc, n.d.&lt;/a&gt;). </r:Content>
+      </r:Description>
+    </Organization>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Organization isUniversallyUnique="true" versionDate="2019-11-13T10:13:16.6441791Z" xmlns="ddi:archive:3_2">
+      <r:URN>urn:ddi:uk.closer:b5c37b4b-e39a-4659-9c21-d4aece9cb3ad:2</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>b5c37b4b-e39a-4659-9c21-d4aece9cb3ad</r:ID>
+      <r:Version>2</r:Version>
+      <r:UserAttributePair>
+        <r:AttributeKey>ddi31:Nickname</r:AttributeKey>
+        <r:AttributeValue>{"en-GB":"CRC"}</r:AttributeValue>
+      </r:UserAttributePair>
+      <OrganizationIdentification>
+        <OrganizationName>
+          <r:String xml:lang="en-GB">The Cancer Research Campaign</r:String>
+        </OrganizationName>
+      </OrganizationIdentification>
+      <r:Description>
+        <r:Content xml:lang="en-GB">The CRC was formerly named as British Empire Cancer Campaign. In 2002, The Cancer Research Campaign merged with the Imperial Cancer Research Fund to form Cancer Research UK (&lt;a href="https://en.wikipedia.org/w/index.php?title=Cancer_Research_UK&amp;oldid=922941460" target="_blank" &gt;The Cancer Research Campaign, n.d.&lt;/a&gt;). </r:Content>
+      </r:Description>
+    </Organization>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Organization isUniversallyUnique="true" versionDate="2019-11-13T10:13:37.8095885Z" xmlns="ddi:archive:3_2">
+      <r:URN>urn:ddi:uk.closer:6051ef15-2a2a-4091-b22e-ee4090362c23:2</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>6051ef15-2a2a-4091-b22e-ee4090362c23</r:ID>
+      <r:Version>2</r:Version>
+      <OrganizationIdentification>
+        <OrganizationName>
+          <r:String xml:lang="en-GB">The Daily Star</r:String>
+        </OrganizationName>
+      </OrganizationIdentification>
+      <r:Description>
+        <r:Content xml:lang="en-GB">The Daily Star is a daily tabloid newspaper published from Monday to Saturday in the UK since 1978 (&lt;a href="https://en.wikipedia.org/w/index.php?title=Daily_Star_(United_Kingdom)&amp;oldid=922238861" target="_blank" &gt;The Daily Star, n.d.&lt;/a&gt;). </r:Content>
+      </r:Description>
+    </Organization>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Organization isUniversallyUnique="true" versionDate="2019-11-13T10:13:59.4040022Z" xmlns="ddi:archive:3_2">
+      <r:URN>urn:ddi:uk.closer:e75906d1-b2a9-43c1-aa78-7de7111d59ea:2</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>e75906d1-b2a9-43c1-aa78-7de7111d59ea</r:ID>
+      <r:Version>2</r:Version>
+      <OrganizationIdentification>
+        <OrganizationName>
+          <r:String xml:lang="en-GB">The Home Office</r:String>
+        </OrganizationName>
+      </OrganizationIdentification>
+      <r:Description>
+        <r:Content xml:lang="en-GB">The Home Office is a department of the UK government which is responsible for immigration, security and law and order (&lt;a href="https://en.wikipedia.org/w/index.php?title=Home_Office&amp;oldid=922868650" target="_blank" &gt;Home Office, n.d.&lt;/a&gt;). </r:Content>
+      </r:Description>
+    </Organization>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Organization isUniversallyUnique="true" versionDate="2019-11-13T10:14:29.612662Z" xmlns="ddi:archive:3_2">
+      <r:URN>urn:ddi:uk.closer:d20b0a5a-c0d9-485b-b739-3eee24fe9cd1:3</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>d20b0a5a-c0d9-485b-b739-3eee24fe9cd1</r:ID>
+      <r:Version>3</r:Version>
+      <OrganizationIdentification>
+        <OrganizationName>
+          <r:String xml:lang="en-GB">The Northern Ireland Executive</r:String>
+        </OrganizationName>
+      </OrganizationIdentification>
+      <r:Description>
+        <r:Content xml:lang="en-GB">The Northern Ireland Executive is the devolved government of Northern Ireland, an administrative branch of the legislature – the Northern Ireland Assembly (&lt;a href="https://en.wikipedia.org/w/index.php?title=Northern_Ireland_Executive&amp;oldid=923137366" target="_blank" &gt;Northern Ireland Executive, n.d.&lt;/a&gt;).     </r:Content>
+      </r:Description>
+    </Organization>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Organization isUniversallyUnique="true" versionDate="2019-11-13T10:14:57.7082132Z" xmlns="ddi:archive:3_2">
+      <r:URN>urn:ddi:uk.closer:fd79c1c6-a73d-4ec9-bc45-ee7d83364bb2:3</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>fd79c1c6-a73d-4ec9-bc45-ee7d83364bb2</r:ID>
+      <r:Version>3</r:Version>
+      <OrganizationIdentification>
+        <OrganizationName>
+          <r:String xml:lang="en-GB">The Scottish Government</r:String>
+        </OrganizationName>
+      </OrganizationIdentification>
+      <r:Description>
+        <r:Content xml:lang="en-GB">The Scottish Government is the executive in Scotland for areas of public policy which are not reserved. The government was established in 1999 as the Scottish Executive under the Scotland Act 1998 (&lt;a href="https://en.wikipedia.org/w/index.php?title=Scottish_Government&amp;oldid=918036993" target="_blank" &gt;The Scottish Government, n.d.&lt;/a&gt;). </r:Content>
+      </r:Description>
+    </Organization>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Organization isUniversallyUnique="true" versionDate="2019-11-13T10:15:18.5240463Z" xmlns="ddi:archive:3_2">
+      <r:URN>urn:ddi:uk.closer:0a83a8be-2c09-488a-8a89-e411185fa162:2</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>0a83a8be-2c09-488a-8a89-e411185fa162</r:ID>
+      <r:Version>2</r:Version>
+      <OrganizationIdentification>
+        <OrganizationName>
+          <r:String xml:lang="en-GB">The Society of Medical Officers of Health</r:String>
+        </OrganizationName>
+      </OrganizationIdentification>
+      <r:Description>
+        <r:Content xml:lang="en-GB">The Society of Medical Officers of Health was previously the English society of metropolitan Medical Officer for Health which was established in 1869. The Society of Medical Officers of Health became the Society of Medical Officers of Health in 1873 then the Society of Public Health in 1989 which merged with the Royal Institute of Public Health to form the Royal Society for Public Health in 2008 (&lt;a href="https://en.wikipedia.org/w/index.php?title=Royal_Institute_of_Public_Health&amp;oldid=875500149" target="_blank" &gt;Royal Institute of Public Health, n.d.&lt;/a&gt;). </r:Content>
+      </r:Description>
+    </Organization>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Organization isUniversallyUnique="true" versionDate="2019-11-13T10:15:39.4370644Z" xmlns="ddi:archive:3_2">
+      <r:URN>urn:ddi:uk.closer:c6779600-c8f3-4da8-afd7-6381be3dd558:2</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>c6779600-c8f3-4da8-afd7-6381be3dd558</r:ID>
+      <r:Version>2</r:Version>
+      <OrganizationIdentification>
+        <OrganizationName>
+          <r:String xml:lang="en-GB">The WALTHAM Centre for Pet Nutrition</r:String>
+        </OrganizationName>
+      </OrganizationIdentification>
+      <r:Description>
+        <r:Content xml:lang="en-GB">The Waltham Centre for Pet Nutrition is a research organisation owned by Mars, Incorporated located in Leicestershire, UK. It conducts scientific research into pet care and nutrition (&lt;a href="https://en.wikipedia.org/w/index.php?title=William_T._Grant_Foundation&amp;oldid=858825165" target="_blank" &gt;Waltham Centre for Pet Nutrition, n.d. &lt;/a&gt;). </r:Content>
+      </r:Description>
+    </Organization>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Organization isUniversallyUnique="true" versionDate="2019-11-13T10:16:00.4584777Z" xmlns="ddi:archive:3_2">
+      <r:URN>urn:ddi:uk.closer:2c15399b-75d6-4617-a68a-d35e4313d132:3</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>2c15399b-75d6-4617-a68a-d35e4313d132</r:ID>
+      <r:Version>3</r:Version>
+      <OrganizationIdentification>
+        <OrganizationName>
+          <r:String xml:lang="en-GB">The Welsh Assembly Government</r:String>
+        </OrganizationName>
+      </OrganizationIdentification>
+      <r:Description>
+        <r:Content xml:lang="en-GB">The Welsh Assembly Government was renamed Welsh Government under the Wales Act 2014. The Welsh government is the devolved executive of Wales (&lt;a href="https://en.wikipedia.org/w/index.php?title=Welsh_Government&amp;oldid=921853396" target="_blank" &gt;Welsh Government, n.d.&lt;/a&gt;). </r:Content>
+      </r:Description>
+    </Organization>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Organization isUniversallyUnique="true" versionDate="2019-11-13T10:16:27.2130526Z" xmlns="ddi:archive:3_2">
+      <r:URN>urn:ddi:uk.closer:e769c48c-129d-44fb-aea7-4fb989dd77bf:2</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>e769c48c-129d-44fb-aea7-4fb989dd77bf</r:ID>
+      <r:Version>2</r:Version>
+      <r:UserAttributePair>
+        <r:AttributeKey>ddi31:Nickname</r:AttributeKey>
+        <r:AttributeValue>{"en-GB":"TRRL"}</r:AttributeValue>
+      </r:UserAttributePair>
+      <OrganizationIdentification>
+        <OrganizationName>
+          <r:String xml:lang="en-GB">Transport and Road Research Laboratory</r:String>
+        </OrganizationName>
+      </OrganizationIdentification>
+      <r:Description>
+        <r:Content xml:lang="en-GB">TRRL was set-up in 1972, before which it was established by the UK Government as the Road Research Laboratory (RRL) under the Department of Scientific and Industrial Research (DSIR) in 1933. It is now known as TRL Limited which is a fully independent private company offering a transport consultancy and research service to the public and private sector (&lt;a href="https://en.wikipedia.org/w/index.php?title=Transport_Research_Laboratory&amp;oldid=917970078" target="_blank" &gt;Transport Research Laboratory, n.d.&lt;/a&gt;)</r:Content>
+      </r:Description>
+    </Organization>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Organization isUniversallyUnique="true" versionDate="2019-11-13T10:16:45.6526335Z" xmlns="ddi:archive:3_2">
+      <r:URN>urn:ddi:uk.closer:e5fa2056-3c1c-438e-8736-86a62e42ab5d:2</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>e5fa2056-3c1c-438e-8736-86a62e42ab5d</r:ID>
+      <r:Version>2</r:Version>
+      <r:UserAttributePair>
+        <r:AttributeKey>ddi31:Nickname</r:AttributeKey>
+        <r:AttributeValue>{"en-GB":"DCSF"}</r:AttributeValue>
+      </r:UserAttributePair>
+      <OrganizationIdentification>
+        <OrganizationName>
+          <r:String xml:lang="en-GB">UK Department for Children, Schools and Families</r:String>
+        </OrganizationName>
+      </OrganizationIdentification>
+      <r:Description>
+        <r:Content xml:lang="en-GB">The DCSF was a department of the UK government between 2007 and 2010, with responsibility for issues affecting people in England up to the age of 19, including child protection and education. DCSF was replaced by the Department for Education in 2010 (&lt;a href="https://en.wikipedia.org/w/index.php?title=Department_for_Children,_Schools_and_Families&amp;oldid=916312877" target="_blank" &gt;Department for Children, Schools and Families, n.d.&lt;/a&gt;).</r:Content>
+      </r:Description>
+    </Organization>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Organization isUniversallyUnique="true" versionDate="2019-11-13T10:17:08.5163733Z" xmlns="ddi:archive:3_2">
+      <r:URN>urn:ddi:uk.closer:f6ac9ba6-c3bc-4b0a-a047-42058b69f29e:3</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>f6ac9ba6-c3bc-4b0a-a047-42058b69f29e</r:ID>
+      <r:Version>3</r:Version>
+      <r:UserAttributePair>
+        <r:AttributeKey>ddi31:Nickname</r:AttributeKey>
+        <r:AttributeValue>{"en-GB":"DCLG "}</r:AttributeValue>
+      </r:UserAttributePair>
+      <OrganizationIdentification>
+        <OrganizationName>
+          <r:String xml:lang="en-GB">UK Department for Communities and Local Government</r:String>
+        </OrganizationName>
+      </OrganizationIdentification>
+      <r:Description>
+        <r:Content xml:lang="en-GB">The DCLG was a department of the UK government, between 2006 and 2017 with a remit to promote community cohesion and equality, as well as responsibility for housing, urban regeneration, planning and local government. The department was renamed the Ministry of Housing, Communities and Local Government (MHCLG) in 2018 (&lt;a href="https://en.wikipedia.org/w/index.php?title=Ministry_of_Housing,_Communities_and_Local_Government&amp;oldid=922243595" target="_blank" &gt;Department for Communities and Local Government, n.d.&lt;/a&gt;). </r:Content>
+      </r:Description>
+    </Organization>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Organization isUniversallyUnique="true" versionDate="2019-11-13T10:20:15.7594236Z" xmlns="ddi:archive:3_2">
+      <r:URN>urn:ddi:uk.closer:5cc4a914-edb6-46d9-a305-d82cc3c85340:3</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>5cc4a914-edb6-46d9-a305-d82cc3c85340</r:ID>
+      <r:Version>3</r:Version>
+      <r:UserAttributePair>
+        <r:AttributeKey>ddi31:Nickname</r:AttributeKey>
+        <r:AttributeValue>{"en-GB":"DCMS"}</r:AttributeValue>
+      </r:UserAttributePair>
+      <OrganizationIdentification>
+        <OrganizationName>
+          <r:String xml:lang="en-GB">UK Department for Culture, Media and Sport</r:String>
+        </OrganizationName>
+      </OrganizationIdentification>
+      <r:Description>
+        <r:Content xml:lang="en-GB">The DCMS is a department of the UK government, with responsibility for culture and sport in England, the building of a Digital Economy, and some aspects of the media throughout the whole UK, such as broadcasting and internet (&lt;a href="https://en.wikipedia.org/w/index.php?title=Department_for_Digital,_Culture,_Media_and_Sport&amp;oldid=916312913" target="_blank" &gt;Department for Digital, Culture, Media and Sport, n.d.&lt;/a&gt;). </r:Content>
+      </r:Description>
+    </Organization>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Organization isUniversallyUnique="true" versionDate="2020-07-15T13:06:43.5680907Z" xmlns="ddi:archive:3_2">
+      <r:URN>urn:ddi:uk.closer:43d1af35-5459-4db2-b482-e1a8886d66fd:4</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>43d1af35-5459-4db2-b482-e1a8886d66fd</r:ID>
+      <r:Version>4</r:Version>
+      <r:UserAttributePair>
+        <r:AttributeKey>ddi31:Nickname</r:AttributeKey>
+        <r:AttributeValue>{"en-GB":"DfE"}</r:AttributeValue>
+      </r:UserAttributePair>
+      <OrganizationIdentification>
+        <OrganizationName>
+          <r:String xml:lang="en-GB">UK Department for Education CLOSER</r:String>
+        </OrganizationName>
+      </OrganizationIdentification>
+      <r:Description>
+        <r:Content xml:lang="en-GB">The DfE is a department of the UK government responsible for child protection, education, apprenticeships and wider skills in England. A Department for Education previously existed between 1992 and 1995. The current Department for Education replaced the department for Children, Schools and Families in 2010 (&lt;a href="https://en.wikipedia.org/w/index.php?title=Department_for_Education&amp;oldid=920525137" target="_blank" &gt;Department_for_Education, n.d.&lt;/a&gt;).</r:Content>
+      </r:Description>
+    </Organization>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Organization isUniversallyUnique="true" versionDate="2019-11-13T10:21:54.11331Z" xmlns="ddi:archive:3_2">
+      <r:URN>urn:ddi:uk.closer:69d20063-f078-4551-9698-8f47f52d9372:2</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>69d20063-f078-4551-9698-8f47f52d9372</r:ID>
+      <r:Version>2</r:Version>
+      <r:UserAttributePair>
+        <r:AttributeKey>ddi31:Nickname</r:AttributeKey>
+        <r:AttributeValue>{"en-GB":"DfEE"}</r:AttributeValue>
+      </r:UserAttributePair>
+      <OrganizationIdentification>
+        <OrganizationName>
+          <r:String xml:lang="en-GB">UK Department for Education and Employment</r:String>
+        </OrganizationName>
+      </OrganizationIdentification>
+      <r:Description>
+        <r:Content xml:lang="en-GB">The DfEE was a department of the UK government between 1995 and 2001. It was replaced by the department for Education and Skills in 2001 (&lt;a href="https://en.wikipedia.org/w/index.php?title=Department_for_Education&amp;oldid=920525137" target="_blank" &gt;Department for Education, n.d.&lt;/a&gt;).</r:Content>
+      </r:Description>
+    </Organization>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Organization isUniversallyUnique="true" versionDate="2019-11-13T10:29:22.2783518Z" xmlns="ddi:archive:3_2">
+      <r:URN>urn:ddi:uk.closer:6b866ec0-ec58-4f59-98b1-c76a6da36aa0:2</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>6b866ec0-ec58-4f59-98b1-c76a6da36aa0</r:ID>
+      <r:Version>2</r:Version>
+      <OrganizationIdentification>
+        <OrganizationName>
+          <r:String xml:lang="en-GB">UK Department of Education and Science</r:String>
+        </OrganizationName>
+      </OrganizationIdentification>
+      <r:Description>
+        <r:Content xml:lang="en-GB">The Department of Education and Science was a department of the UK government between 1964 and 1992. It was replaced by the Department for Education in 1992 (&lt;a href="https://en.wikipedia.org/w/index.php?title=Department_for_Education&amp;oldid=920525137" target="_blank" &gt;Department for Education, n.d.&lt;/a&gt;).</r:Content>
+      </r:Description>
+    </Organization>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Organization isUniversallyUnique="true" versionDate="2019-11-13T10:29:47.4808308Z" xmlns="ddi:archive:3_2">
+      <r:URN>urn:ddi:uk.closer:25f43a22-8e1b-42d5-876d-484f96c99deb:2</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>25f43a22-8e1b-42d5-876d-484f96c99deb</r:ID>
+      <r:Version>2</r:Version>
+      <r:UserAttributePair>
+        <r:AttributeKey>ddi31:Nickname</r:AttributeKey>
+        <r:AttributeValue>{"en-GB":"DfES"}</r:AttributeValue>
+      </r:UserAttributePair>
+      <OrganizationIdentification>
+        <OrganizationName>
+          <r:String xml:lang="en-GB">UK Department for Education and Skills</r:String>
+        </OrganizationName>
+      </OrganizationIdentification>
+      <r:Description>
+        <r:Content xml:lang="en-GB">The DfES was a department of the UK government between 2001 and 2007, with responsibility for the education system as well as children's services in England. It was replaced by the UK Department for Children, Schools and Families in 2007 (&lt;a href="https://en.wikipedia.org/w/index.php?title=Department for Education and Skills (United Kingdom)&amp;oldid=912253283" target="_blank" &gt;Department for Education and Skills (United_Kingdom), n.d.&lt;/a&gt;).</r:Content>
+      </r:Description>
+    </Organization>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Organization isUniversallyUnique="true" versionDate="2019-11-13T10:30:10.5277087Z" xmlns="ddi:archive:3_2">
+      <r:URN>urn:ddi:uk.closer:cd3554cd-5e37-4387-9853-84ad37696074:3</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>cd3554cd-5e37-4387-9853-84ad37696074</r:ID>
+      <r:Version>3</r:Version>
+      <r:UserAttributePair>
+        <r:AttributeKey>ddi31:Nickname</r:AttributeKey>
+        <r:AttributeValue>{"en-GB":"Defra"}</r:AttributeValue>
+      </r:UserAttributePair>
+      <OrganizationIdentification>
+        <OrganizationName>
+          <r:String xml:lang="en-GB">UK Department for Environment, Food and Rural Affairs</r:String>
+        </OrganizationName>
+      </OrganizationIdentification>
+      <r:Description>
+        <r:Content xml:lang="en-GB">Defra is a department of the UK government responsible for environmental protection, food production and standards, agriculture, fisheries and rural communities in the UK and Northern Ireland. It was formed in 2001, when the Ministry of Agriculture, Fisheries and Food (MAFF) was merged with part of the Department of Environment, Transport and the Regions (DETR) and with a small part of the Home Office (&lt;a href="https://en.wikipedia.org/w/index.php?title=Department_for_Environment,_Food_and_Rural_Affairs&amp;oldid=916312950" target="_blank" &gt;Department for Environment, Food and Rural Affairs, n.d.&lt;/a&gt;). </r:Content>
+      </r:Description>
+    </Organization>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Organization isUniversallyUnique="true" versionDate="2019-11-13T10:30:31.8843491Z" xmlns="ddi:archive:3_2">
+      <r:URN>urn:ddi:uk.closer:ad94baff-8e75-45aa-b41d-9c81bb546558:3</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>ad94baff-8e75-45aa-b41d-9c81bb546558</r:ID>
+      <r:Version>3</r:Version>
+      <r:UserAttributePair>
+        <r:AttributeKey>ddi31:Nickname</r:AttributeKey>
+        <r:AttributeValue>{"en-GB":"DfT"}</r:AttributeValue>
+      </r:UserAttributePair>
+      <OrganizationIdentification>
+        <OrganizationName>
+          <r:String xml:lang="en-GB">UK Department for Transport</r:String>
+        </OrganizationName>
+      </OrganizationIdentification>
+      <r:Description>
+        <r:Content xml:lang="en-GB">The DfT is a department of the UK government responsible for the English transport network and a limited number of transport matters in Scotland, Wales and Northern Ireland that have not been devolved (&lt;a href="https://en.wikipedia.org/w/index.php?title=Department_for_Transport&amp;oldid=916313035" target="_blank" &gt;Department for Transport, n.d.&lt;/a&gt;). </r:Content>
+      </r:Description>
+    </Organization>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Organization isUniversallyUnique="true" versionDate="2019-11-13T10:33:22.1638641Z" xmlns="ddi:archive:3_2">
+      <r:URN>urn:ddi:uk.closer:ef72e69a-bdec-4b8b-9d3f-5d0f757748c8:3</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>ef72e69a-bdec-4b8b-9d3f-5d0f757748c8</r:ID>
+      <r:Version>3</r:Version>
+      <r:UserAttributePair>
+        <r:AttributeKey>ddi31:Nickname</r:AttributeKey>
+        <r:AttributeValue>{"en-GB":"DWP"}</r:AttributeValue>
+      </r:UserAttributePair>
+      <OrganizationIdentification>
+        <OrganizationName>
+          <r:String xml:lang="en-GB">UK Department for Work and Pensions</r:String>
+        </OrganizationName>
+      </OrganizationIdentification>
+      <r:Description>
+        <r:Content xml:lang="en-GB">The DWP is a department of the UK government responsible for welfare and pension policy. It was formed in 2001 from the Department of Social Security, absorbing the employment functions which had previously been the responsibility of the Department for Education and Employment (&lt;a href="https://en.wikipedia.org/w/index.php?title=Department_for_Work_and_Pensions&amp;oldid=923339614" target="_blank" &gt;Department for Work and Pensions, n.d.&lt;/a&gt;). </r:Content>
+      </r:Description>
+    </Organization>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Organization isUniversallyUnique="true" versionDate="2019-11-13T10:34:34.3855341Z" xmlns="ddi:archive:3_2">
+      <r:URN>urn:ddi:uk.closer:0803d6b1-c96e-46d9-9e03-8e24aa8d2a85:2</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>0803d6b1-c96e-46d9-9e03-8e24aa8d2a85</r:ID>
+      <r:Version>2</r:Version>
+      <r:UserAttributePair>
+        <r:AttributeKey>ddi31:Nickname</r:AttributeKey>
+        <r:AttributeValue>{"en-GB":"DETR"}</r:AttributeValue>
+      </r:UserAttributePair>
+      <OrganizationIdentification>
+        <OrganizationName>
+          <r:String xml:lang="en-GB">UK Department of the Environment, Transport and the Regions</r:String>
+        </OrganizationName>
+      </OrganizationIdentification>
+      <r:Description>
+        <r:Content xml:lang="en-GB">The DETR was a department of the UK government between 1997 and 2001. It replaced the Department of the Environment, Ministry of Agriculture, Fisheries and Food and the Department for Transport.  DETR was replaced by the UK Department for Environment, Food and Rural Affairs in 2001 (&lt;a href="https://en.wikipedia.org/w/index.php?title=Secretary_of_State_for_the_Environment,_Transport_and_the_Regions&amp;oldid=900944550" target="_blank" &gt;Department of the Environment, Transport and the Regions, n.d.&lt;/a&gt;).</r:Content>
+      </r:Description>
+    </Organization>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Organization isUniversallyUnique="true" versionDate="2019-11-13T10:34:56.2667076Z" xmlns="ddi:archive:3_2">
+      <r:URN>urn:ddi:uk.closer:fbf38c20-0beb-4de8-8bd2-3e79728d7e89:2</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>fbf38c20-0beb-4de8-8bd2-3e79728d7e89</r:ID>
+      <r:Version>2</r:Version>
+      <r:UserAttributePair>
+        <r:AttributeKey>ddi31:Nickname</r:AttributeKey>
+        <r:AttributeValue>{"en-GB":"DoE"}</r:AttributeValue>
+      </r:UserAttributePair>
+      <OrganizationIdentification>
+        <OrganizationName>
+          <r:String xml:lang="en-GB">UK Department of Employment</r:String>
+        </OrganizationName>
+      </OrganizationIdentification>
+      <r:Description>
+        <r:Content xml:lang="en-GB">The Department of Employment was a department of the UK government between 1970 and 1995. It was previously named the Department of Employment and Productivity. In 1995 The Department of Employment became the Department for Education and Employment, then in 2001 it became the Department for Education and Skills. In 2007 it was split up into Department for Children, Schools and Families (DCSF) and the Department for Innovation, Universities and Skills. The DCSF was later reorganised as the Department for Education in 2010 (&lt;a href="https://en.wikipedia.org/w/index.php?title=Department_for_Education_and_Skills_(United_Kingdom)&amp;oldid=912253283" target="_blank" &gt;Department for Education and Skills (United_Kingdom), n.d.&lt;/a&gt;).</r:Content>
+      </r:Description>
+    </Organization>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Organization isUniversallyUnique="true" versionDate="2019-11-13T10:35:16.4213704Z" xmlns="ddi:archive:3_2">
+      <r:URN>urn:ddi:uk.closer:b00a48eb-72a3-4956-b9ff-44d9a2c4a21c:3</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>b00a48eb-72a3-4956-b9ff-44d9a2c4a21c</r:ID>
+      <r:Version>3</r:Version>
+      <r:UserAttributePair>
+        <r:AttributeKey>ddi31:Nickname</r:AttributeKey>
+        <r:AttributeValue>{"en-GB":"DoH"}</r:AttributeValue>
+      </r:UserAttributePair>
+      <OrganizationIdentification>
+        <OrganizationName>
+          <r:String xml:lang="en-GB">UK Department of Health</r:String>
+        </OrganizationName>
+      </OrganizationIdentification>
+      <r:Description>
+        <r:Content xml:lang="en-GB">The DoH was a department of the UK government established in 1988, which was previously part of the Department of Health and Social Security. The Department of Health was renamed the Department of Health and Social Care in 2018 which is responsible for government policy on health and adult social care matters in England (&lt;a href="https://en.wikipedia.org/w/index.php?title=Department_of_Health_and_Social_Security&amp;oldid=916313758" target="_blank" &gt;Department of Health, n.d.&lt;/a&gt;).</r:Content>
+      </r:Description>
+    </Organization>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Organization isUniversallyUnique="true" versionDate="2019-11-13T10:36:34.741621Z" xmlns="ddi:archive:3_2">
+      <r:URN>urn:ddi:uk.closer:b6fb2432-9f56-4ed4-be8e-c51d536c8e60:2</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>b6fb2432-9f56-4ed4-be8e-c51d536c8e60</r:ID>
+      <r:Version>2</r:Version>
+      <r:UserAttributePair>
+        <r:AttributeKey>ddi31:Nickname</r:AttributeKey>
+        <r:AttributeValue>{"en-GB":"DoE"}</r:AttributeValue>
+      </r:UserAttributePair>
+      <OrganizationIdentification>
+        <OrganizationName>
+          <r:String xml:lang="en-GB">UK Department of the Environment</r:String>
+        </OrganizationName>
+      </OrganizationIdentification>
+      <r:Description>
+        <r:Content xml:lang="en-GB">The DoE was a department of the UK government between 1970 and 1977. It was renamed in 1997 to UK Department of the Environment, Transport and the Regions (&lt;a href="https://en.wikipedia.org/w/index.php?title=Secretary_of_State_for_the_Environment&amp;oldid=899043649" target="_blank" &gt;Secretary of State for the Environment, n.d.&lt;/a&gt;).</r:Content>
+      </r:Description>
+    </Organization>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Organization isUniversallyUnique="true" versionDate="2019-11-13T10:36:54.7997094Z" xmlns="ddi:archive:3_2">
+      <r:URN>urn:ddi:uk.closer:cd3c6b19-4256-4198-a3ac-56f4da596346:2</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>cd3c6b19-4256-4198-a3ac-56f4da596346</r:ID>
+      <r:Version>2</r:Version>
+      <r:UserAttributePair>
+        <r:AttributeKey>ddi31:Nickname</r:AttributeKey>
+        <r:AttributeValue>{"en-GB":"DHSS"}</r:AttributeValue>
+      </r:UserAttributePair>
+      <OrganizationIdentification>
+        <OrganizationName>
+          <r:String xml:lang="en-GB">UK Department of Health and Social Security</r:String>
+        </OrganizationName>
+      </OrganizationIdentification>
+      <r:Description>
+        <r:Content xml:lang="en-GB">The DHSS was a department of the UK government between 1968 and 1988. It was previously the Ministry of Pensions and National Insurance, and the Ministry of Health. In 1988 the DHSS was divided into Department of Health and the Department of Social Security, which then was merged into the Department for Work and Pensions in 2001. The Department of Health became the Department of Health in 2018 (&lt;a href="https://en.wikipedia.org/w/index.php?title=Department_of_Health_and_Social_Security&amp;oldid=916313758" target="_blank" &gt;Department of Health and Social Security, n.d.&lt;/a&gt;).</r:Content>
+      </r:Description>
+    </Organization>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Organization isUniversallyUnique="true" versionDate="2019-11-13T10:37:18.2838896Z" xmlns="ddi:archive:3_2">
+      <r:URN>urn:ddi:uk.closer:bc07fb85-5e9b-41c6-8f17-29824ac61860:2</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>bc07fb85-5e9b-41c6-8f17-29824ac61860</r:ID>
+      <r:Version>2</r:Version>
+      <r:UserAttributePair>
+        <r:AttributeKey>ddi31:Nickname</r:AttributeKey>
+        <r:AttributeValue>{"en-GB":"DSS"}</r:AttributeValue>
+      </r:UserAttributePair>
+      <OrganizationIdentification>
+        <OrganizationName>
+          <r:String xml:lang="en-GB">UK Department of Social Security</r:String>
+        </OrganizationName>
+      </OrganizationIdentification>
+      <r:Description>
+        <r:Content xml:lang="en-GB">The DSS was a department of the UK government between 1988 and 2001. It was previously the Department of Health and the Department of Social Security. The Department of Social Security was merged to form the Department for Work and Pensions in 2001 (&lt;a href="https://en.wikipedia.org/w/index.php?title=Department_of_Health_and_Social_Security&amp;oldid=916313758" target="_blank" &gt;Department of Social Security, n.d.&lt;/a&gt;).</r:Content>
+      </r:Description>
+    </Organization>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Organization isUniversallyUnique="true" versionDate="2019-11-13T10:37:40.5183482Z" xmlns="ddi:archive:3_2">
+      <r:URN>urn:ddi:uk.closer:890f3b53-c97a-4934-b1dd-0b1dc4d073dc:2</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>890f3b53-c97a-4934-b1dd-0b1dc4d073dc</r:ID>
+      <r:Version>2</r:Version>
+      <OrganizationIdentification>
+        <OrganizationName>
+          <r:String xml:lang="en-GB">UK Scottish Office</r:String>
+        </OrganizationName>
+      </OrganizationIdentification>
+      <r:Description>
+        <r:Content xml:lang="en-GB">The Scottish Office was a department of the UK government between 1885 and 1999, exercising a wide range of government functions in relation to Scotland under the control of the Secretary of State for Scotland (&lt;a href="https://en.wikipedia.org/w/index.php?title=Scottish_Office&amp;oldid=894112364" target="_blank" &gt;Scottish Office, n.d.&lt;/a&gt;). </r:Content>
+      </r:Description>
+    </Organization>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Organization isUniversallyUnique="true" versionDate="2019-11-13T10:38:05.2407374Z" xmlns="ddi:archive:3_2">
+      <r:URN>urn:ddi:uk.closer:e05bf128-793a-42c6-8bb1-f07347840756:2</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>e05bf128-793a-42c6-8bb1-f07347840756</r:ID>
+      <r:Version>2</r:Version>
+      <r:UserAttributePair>
+        <r:AttributeKey>ddi31:Nickname</r:AttributeKey>
+        <r:AttributeValue>{"en-GB":"UCL"}</r:AttributeValue>
+      </r:UserAttributePair>
+      <OrganizationIdentification>
+        <OrganizationName>
+          <r:String xml:lang="en-GB">University College London</r:String>
+        </OrganizationName>
+      </OrganizationIdentification>
+      <r:Description>
+        <r:Content xml:lang="en-GB">UCL is a public research university located in London, UK. It is a member institution of the federal University of London (&lt;a href="https://en.wikipedia.org/w/index.php?title=University_College_London&amp;oldid=923707359" target="_blank" &gt;University College London, n.d. &lt;/a&gt;). 
+
+</r:Content>
+      </r:Description>
+    </Organization>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Organization isUniversallyUnique="true" versionDate="2019-11-13T10:38:33.2068732Z" xmlns="ddi:archive:3_2">
+      <r:URN>urn:ddi:uk.closer:4e860e1a-51ff-48cd-b60a-c465e812b264:2</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>4e860e1a-51ff-48cd-b60a-c465e812b264</r:ID>
+      <r:Version>2</r:Version>
+      <OrganizationIdentification>
+        <OrganizationName>
+          <r:String xml:lang="en-GB">University College London Medical School</r:String>
+        </OrganizationName>
+      </OrganizationIdentification>
+      <r:Description>
+        <r:Content xml:lang="en-GB">UCL Medical School is the medical school of University College London and is located in London, UK. The School provides a wide range of undergraduate and postgraduate medical education programmes and also has a medical education research unit and an education consultancy unit (&lt;a href="https://en.wikipedia.org/w/index.php?title=University_College_London&amp;oldid=923707359https://en.wikipedia.org/w/index.php?title=UCL_Medical_School&amp;oldid=902765381" target="_blank" &gt;UCL Medical School, n.d.&lt;/a&gt;). </r:Content>
+      </r:Description>
+    </Organization>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Organization isUniversallyUnique="true" versionDate="2019-11-13T10:38:52.4636522Z" xmlns="ddi:archive:3_2">
+      <r:URN>urn:ddi:uk.closer:bc35a2f7-ad2c-4c23-995c-adbf3f30dfbf:4</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>bc35a2f7-ad2c-4c23-995c-adbf3f30dfbf</r:ID>
+      <r:Version>4</r:Version>
+      <OrganizationIdentification>
+        <OrganizationName>
+          <r:String xml:lang="en-GB">University of Bristol</r:String>
+        </OrganizationName>
+        <OrganizationImage>
+          <r:ImageLocation></r:ImageLocation>
+        </OrganizationImage>
+      </OrganizationIdentification>
+      <r:Description>
+        <r:Content xml:lang="en-GB">The University of Bristol is a red brick research university in Bristol, England (&lt;a href="https://en.wikipedia.org/w/index.php?title=University_of_Bristol&amp;oldid=923720350" target="_blank" &gt; University of Bristol, n.d. &lt;/a&gt;). </r:Content>
+      </r:Description>
+    </Organization>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Organization isUniversallyUnique="true" versionDate="2019-11-13T10:39:18.0390652Z" xmlns="ddi:archive:3_2">
+      <r:URN>urn:ddi:uk.closer:2a183564-2821-4aa6-adca-16bf776a930e:2</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>2a183564-2821-4aa6-adca-16bf776a930e</r:ID>
+      <r:Version>2</r:Version>
+      <r:UserAttributePair>
+        <r:AttributeKey>ddi31:Nickname</r:AttributeKey>
+        <r:AttributeValue>{"en-GB":"Glas"}</r:AttributeValue>
+      </r:UserAttributePair>
+      <OrganizationIdentification>
+        <OrganizationName>
+          <r:String xml:lang="en-GB">University of Glasgow</r:String>
+        </OrganizationName>
+      </OrganizationIdentification>
+      <r:Description>
+        <r:Content xml:lang="en-GB">The University of Glasgow (Glas.) is a public research university in Glasgow, Scotland (&lt;a href="https://en.wikipedia.org/w/index.php?title=University_of_Glasgow&amp;oldid=923725441" target="_blank" &gt;University of Glasgow, n.d.&lt;/a&gt;). </r:Content>
+      </r:Description>
+    </Organization>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Organization isUniversallyUnique="true" versionDate="2019-11-13T10:39:41.0607953Z" xmlns="ddi:archive:3_2">
+      <r:URN>urn:ddi:uk.closer:7550cbce-4aeb-450f-b0cc-58a4a74cc113:3</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>7550cbce-4aeb-450f-b0cc-58a4a74cc113</r:ID>
+      <r:Version>3</r:Version>
+      <r:UserAttributePair>
+        <r:AttributeKey>ddi31:Nickname</r:AttributeKey>
+        <r:AttributeValue>{"en-GB":"SOTON"}</r:AttributeValue>
+      </r:UserAttributePair>
+      <OrganizationIdentification>
+        <OrganizationName>
+          <r:String xml:lang="en-GB">University of Southampton</r:String>
+        </OrganizationName>
+      </OrganizationIdentification>
+      <r:Description>
+        <r:Content xml:lang="en-GB">The University of Southampton (Soton) is a research university in Southampton, England (&lt;a href="https://en.wikipedia.org/w/index.php?title=University_of_Southampton&amp;oldid=923433150" target="_blank" &gt;University of Southampton, n.d.&lt;/a&gt;). </r:Content>
+      </r:Description>
+    </Organization>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Organization isUniversallyUnique="true" versionDate="2019-11-13T10:40:07.7260223Z" xmlns="ddi:archive:3_2">
+      <r:URN>urn:ddi:uk.closer:a601dea1-78de-4441-a761-cbd75dd0c7c0:3</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>a601dea1-78de-4441-a761-cbd75dd0c7c0</r:ID>
+      <r:Version>3</r:Version>
+      <OrganizationIdentification>
+        <OrganizationName>
+          <r:String xml:lang="en-GB">Wellcome Trust</r:String>
+        </OrganizationName>
+      </OrganizationIdentification>
+      <r:Description>
+        <r:Content xml:lang="en-GB">The Wellcome Trust is a research charity based in London, UK. It was established in 1936 with legacies from the pharmaceutical magnate Sir Henry Wellcome to fund research to improve human and animal health. The aim of the Trust is to "achieve extraordinary improvements in health by supporting the brightest minds", and in addition to funding biomedical research it supports the public understanding of science (&lt;a href="https://en.wikipedia.org/w/index.php?title=Wellcome_Trust&amp;oldid=920905992" target="_blank" &gt;Wellcome Trust&lt;/a&gt;). </r:Content>
+      </r:Description>
+    </Organization>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Organization isUniversallyUnique="true" versionDate="2019-11-04T12:39:11.0566942Z" xmlns="ddi:archive:3_2">
+      <r:URN>urn:ddi:uk.closer:ca75da68-1bc4-4dbb-9c76-06783058dc20:2</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>ca75da68-1bc4-4dbb-9c76-06783058dc20</r:ID>
+      <r:Version>2</r:Version>
+      <OrganizationIdentification>
+        <OrganizationName>
+          <r:String xml:lang="en-GB">Westland</r:String>
+        </OrganizationName>
+      </OrganizationIdentification>
+      <r:Description>
+        <r:Content xml:lang="en-GB">This information is currently not retrievable.</r:Content>
+      </r:Description>
+    </Organization>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Organization isUniversallyUnique="true" versionDate="2019-11-13T10:40:39.8000586Z" xmlns="ddi:archive:3_2">
+      <r:URN>urn:ddi:uk.closer:82208deb-dfc1-4725-b150-b90bac138155:2</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>82208deb-dfc1-4725-b150-b90bac138155</r:ID>
+      <r:Version>2</r:Version>
+      <OrganizationIdentification>
+        <OrganizationName>
+          <r:String xml:lang="en-GB">William T. Grant Foundation</r:String>
+        </OrganizationName>
+      </OrganizationIdentification>
+      <r:Description>
+        <r:Content xml:lang="en-GB">The William T. Grant Foundation is an American non-profit foundation that funds research in the social sciences, with a particular focus on reducing inequality in youth outcomes and improving the use of research evidence in public policy and practice settings (&lt;a href="https://en.wikipedia.org/w/index.php?title=Waltham_Centre_for_Pet_Nutrition&amp;oldid=922616431" target="_blank" &gt; William T. Grant Foundation, n.d. &lt;/a&gt;).  </r:Content>
+      </r:Description>
+    </Organization>
+  </ddi:Fragment>
+</ddi:FragmentInstance>
