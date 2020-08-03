@@ -1,19 +1,19 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<DDIInstance isUniversallyUnique="true" versionDate="2019-10-29T10:33:20.4332852Z" xmlns="ddi:instance:3_2">
-  <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.closer:b3d5034a-25b7-4a26-a2b2-96d5506cfb39:1</URN>
+<?xml version="1.0" encoding="utf-8"?>
+<DDIInstance isUniversallyUnique="true" versionDate="2020-07-06T13:46:42.974138Z" xmlns="ddi:instance:3_2">
+  <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.closer:482dd8ec-f03b-47a5-b3e6-ae98d324c8b3:3</URN>
   <Agency xmlns="ddi:reusable:3_2">uk.closer</Agency>
-  <ID xmlns="ddi:reusable:3_2">b3d5034a-25b7-4a26-a2b2-96d5506cfb39</ID>
-  <Version xmlns="ddi:reusable:3_2">1</Version>
+  <ID xmlns="ddi:reusable:3_2">482dd8ec-f03b-47a5-b3e6-ae98d324c8b3</ID>
+  <Version xmlns="ddi:reusable:3_2">3</Version>
   <Citation xmlns="ddi:reusable:3_2">
     <Title>
       <String xml:lang="en-GB">mcs</String>
     </Title>
   </Citation>
-  <Group isUniversallyUnique="true" versionDate="2019-11-05T12:23:30.1610248Z" xmlns="ddi:group:3_2">
-    <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.mcs:0d8a7220-c61b-4542-967d-a40cb5aca430:22</URN>
+  <Group isUniversallyUnique="true" versionDate="2020-07-15T13:18:14.1062963Z" xmlns="ddi:group:3_2">
+    <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.mcs:0d8a7220-c61b-4542-967d-a40cb5aca430:26</URN>
     <Agency xmlns="ddi:reusable:3_2">uk.cls.mcs</Agency>
     <ID xmlns="ddi:reusable:3_2">0d8a7220-c61b-4542-967d-a40cb5aca430</ID>
-    <Version xmlns="ddi:reusable:3_2">22</Version>
+    <Version xmlns="ddi:reusable:3_2">26</Version>
     <Citation xmlns="ddi:reusable:3_2">
       <Title>
         <String xml:lang="en-GB">Millennium Cohort Study</String>
@@ -64,7 +64,7 @@ Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/millennium-cohort-s
       <AgencyOrganizationReference>
         <Agency>uk.closer</Agency>
         <ID>0308162b-8645-448c-b923-5c2e96b7d2a8</ID>
-        <Version>1</Version>
+        <Version>2</Version>
         <TypeOfObject>Organization</TypeOfObject>
       </AgencyOrganizationReference>
     </FundingInformation>
@@ -208,11 +208,11 @@ Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/millennium-cohort-s
         </CollectionEvent>
       </DataCollection>
     </StudyUnit>
-    <StudyUnit isUniversallyUnique="true" versionDate="2019-11-05T12:23:38.0521113Z" xmlns="ddi:studyunit:3_2">
-      <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.mcs:06c7dd15-d10d-49b5-b91f-df86aef4fbb2:14</URN>
+    <StudyUnit isUniversallyUnique="true" versionDate="2020-07-03T16:47:52.8654436Z" xmlns="ddi:studyunit:3_2">
+      <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.mcs:06c7dd15-d10d-49b5-b91f-df86aef4fbb2:16</URN>
       <Agency xmlns="ddi:reusable:3_2">uk.cls.mcs</Agency>
       <ID xmlns="ddi:reusable:3_2">06c7dd15-d10d-49b5-b91f-df86aef4fbb2</ID>
-      <Version xmlns="ddi:reusable:3_2">14</Version>
+      <Version xmlns="ddi:reusable:3_2">16</Version>
       <UserAttributePair xmlns="ddi:reusable:3_2">
         <AttributeKey>extension:CustomField</AttributeKey>
         <AttributeValue>{"Title":{"en-GB":"LifeStage"},"Description":{},"ValueType":0,"HasValue":true,"RelationshipTargetType":"00000000-0000-0000-0000-000000000000","StringValue":"Early years","MultilingualStringValue":{},"HasDefinedType":false,"DisplayLabel":"LifeStage"}</AttributeValue>
@@ -275,10 +275,10 @@ Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/millennium-cohort-s
       </FundingInformation>
       <Coverage xmlns="ddi:reusable:3_2">
         <SpatialCoverage isUniversallyUnique="true">
-          <URN>urn:ddi:uk.cls.mcs:e906f279-26de-4462-b162-5cd2be94172c:14</URN>
+          <URN>urn:ddi:uk.cls.mcs:e906f279-26de-4462-b162-5cd2be94172c:16</URN>
           <Agency>uk.cls.mcs</Agency>
           <ID>e906f279-26de-4462-b162-5cd2be94172c</ID>
-          <Version>14</Version>
+          <Version>16</Version>
           <BoundingBox>
             <WestLongitude>0</WestLongitude>
             <EastLongitude>0</EastLongitude>
@@ -300,10 +300,10 @@ Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/millennium-cohort-s
           </LowestLevelReference>
         </SpatialCoverage>
         <TemporalCoverage isUniversallyUnique="true">
-          <URN>urn:ddi:uk.cls.mcs:fb4d67e7-420b-4d59-ab4b-a519739c033c:14</URN>
+          <URN>urn:ddi:uk.cls.mcs:fb4d67e7-420b-4d59-ab4b-a519739c033c:16</URN>
           <Agency>uk.cls.mcs</Agency>
           <ID>fb4d67e7-420b-4d59-ab4b-a519739c033c</ID>
-          <Version>14</Version>
+          <Version>16</Version>
           <ReferenceDate>
             <StartDate>2003-09</StartDate>
             <EndDate>2005-04</EndDate>
@@ -371,11 +371,11 @@ Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/millennium-cohort-s
           </ModeOfCollection>
         </CollectionEvent>
       </DataCollection>
-      <DataCollection isUniversallyUnique="true" versionDate="2019-10-29T09:21:45.2042392Z" xmlns="ddi:datacollection:3_2">
-        <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.mcs:b7b4ba8b-ab22-49a6-a558-d395050c8502:9</URN>
+      <DataCollection isUniversallyUnique="true" versionDate="2020-06-25T14:34:41.1947048Z" xmlns="ddi:datacollection:3_2">
+        <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.mcs:b7b4ba8b-ab22-49a6-a558-d395050c8502:10</URN>
         <Agency xmlns="ddi:reusable:3_2">uk.cls.mcs</Agency>
         <ID xmlns="ddi:reusable:3_2">b7b4ba8b-ab22-49a6-a558-d395050c8502</ID>
-        <Version xmlns="ddi:reusable:3_2">9</Version>
+        <Version xmlns="ddi:reusable:3_2">10</Version>
         <DataCollectionModuleName>
           <String xml:lang="en-GB" xmlns="ddi:reusable:3_2">mcs_03_na</String>
         </DataCollectionModuleName>
@@ -383,10 +383,10 @@ Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/millennium-cohort-s
           <Content xml:lang="en-GB">MCS Age 3 Neighbourhood Assessment</Content>
         </Label>
         <CollectionEvent isUniversallyUnique="true">
-          <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.mcs:abe0fea0-3625-4d58-a306-92ee5b989a2b:9</URN>
+          <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.mcs:abe0fea0-3625-4d58-a306-92ee5b989a2b:10</URN>
           <Agency xmlns="ddi:reusable:3_2">uk.cls.mcs</Agency>
           <ID xmlns="ddi:reusable:3_2">abe0fea0-3625-4d58-a306-92ee5b989a2b</ID>
-          <Version xmlns="ddi:reusable:3_2">9</Version>
+          <Version xmlns="ddi:reusable:3_2">10</Version>
           <DataCollectorOrganizationReference>
             <Agency xmlns="ddi:reusable:3_2">uk.closer</Agency>
             <ID xmlns="ddi:reusable:3_2">2b5de265-3b50-4b96-a27d-cd802e262c6c</ID>
@@ -404,10 +404,10 @@ Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/millennium-cohort-s
             <EndDate xmlns="ddi:reusable:3_2">2005-04</EndDate>
           </DataCollectionDate>
           <ModeOfCollection isUniversallyUnique="true">
-            <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.mcs:7d18abeb-b337-479f-a842-48145ccd7630:9</URN>
+            <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.mcs:7d18abeb-b337-479f-a842-48145ccd7630:10</URN>
             <Agency xmlns="ddi:reusable:3_2">uk.cls.mcs</Agency>
             <ID xmlns="ddi:reusable:3_2">7d18abeb-b337-479f-a842-48145ccd7630</ID>
-            <Version xmlns="ddi:reusable:3_2">9</Version>
+            <Version xmlns="ddi:reusable:3_2">10</Version>
             <TypeOfModeOfCollection codeListVersionID="1.0">Observation</TypeOfModeOfCollection>
             <Description xmlns="ddi:reusable:3_2">
               <Content xml:lang="en-GB">Research method that involves observing and collecting data as they occur without attempting to manipulate any of the independent variables.</Content>
@@ -415,11 +415,11 @@ Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/millennium-cohort-s
           </ModeOfCollection>
         </CollectionEvent>
       </DataCollection>
-      <DataCollection isUniversallyUnique="true" versionDate="2019-10-29T09:22:07.2178001Z" xmlns="ddi:datacollection:3_2">
-        <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.mcs:44a71651-84e6-4a2d-aba0-e53803fbfd1b:9</URN>
+      <DataCollection isUniversallyUnique="true" versionDate="2020-06-25T14:36:17.1707384Z" xmlns="ddi:datacollection:3_2">
+        <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.mcs:44a71651-84e6-4a2d-aba0-e53803fbfd1b:10</URN>
         <Agency xmlns="ddi:reusable:3_2">uk.cls.mcs</Agency>
         <ID xmlns="ddi:reusable:3_2">44a71651-84e6-4a2d-aba0-e53803fbfd1b</ID>
-        <Version xmlns="ddi:reusable:3_2">9</Version>
+        <Version xmlns="ddi:reusable:3_2">10</Version>
         <DataCollectionModuleName>
           <String xml:lang="en-GB" xmlns="ddi:reusable:3_2">mcs_03_ossc</String>
         </DataCollectionModuleName>
@@ -427,10 +427,10 @@ Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/millennium-cohort-s
           <Content xml:lang="en-GB">MCS Age 3 Older Sibling Self-Completion</Content>
         </Label>
         <CollectionEvent isUniversallyUnique="true">
-          <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.mcs:a8cee373-2122-4f34-ae3a-b60b4108b0e0:9</URN>
+          <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.mcs:a8cee373-2122-4f34-ae3a-b60b4108b0e0:10</URN>
           <Agency xmlns="ddi:reusable:3_2">uk.cls.mcs</Agency>
           <ID xmlns="ddi:reusable:3_2">a8cee373-2122-4f34-ae3a-b60b4108b0e0</ID>
-          <Version xmlns="ddi:reusable:3_2">9</Version>
+          <Version xmlns="ddi:reusable:3_2">10</Version>
           <DataCollectorOrganizationReference>
             <Agency xmlns="ddi:reusable:3_2">uk.closer</Agency>
             <ID xmlns="ddi:reusable:3_2">2b5de265-3b50-4b96-a27d-cd802e262c6c</ID>
@@ -448,10 +448,10 @@ Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/millennium-cohort-s
             <EndDate xmlns="ddi:reusable:3_2">2005-04</EndDate>
           </DataCollectionDate>
           <ModeOfCollection isUniversallyUnique="true">
-            <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.mcs:d2de6563-afc5-4f0c-a0b4-bac7798355e4:9</URN>
+            <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.mcs:d2de6563-afc5-4f0c-a0b4-bac7798355e4:10</URN>
             <Agency xmlns="ddi:reusable:3_2">uk.cls.mcs</Agency>
             <ID xmlns="ddi:reusable:3_2">d2de6563-afc5-4f0c-a0b4-bac7798355e4</ID>
-            <Version xmlns="ddi:reusable:3_2">9</Version>
+            <Version xmlns="ddi:reusable:3_2">10</Version>
             <TypeOfModeOfCollection codeListVersionID="1.0">SelfAdministeredQuestionnaire.Paper</TypeOfModeOfCollection>
             <Description xmlns="ddi:reusable:3_2">
               <Content xml:lang="en-GB">Self-administered survey using a traditional paper questionnaire delivered and/or collected by mail (postal services)</Content>
@@ -459,11 +459,11 @@ Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/millennium-cohort-s
           </ModeOfCollection>
         </CollectionEvent>
       </DataCollection>
-      <DataCollection isUniversallyUnique="true" versionDate="2019-10-29T09:22:32.0277597Z" xmlns="ddi:datacollection:3_2">
-        <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.mcs:a9d28b1c-6918-4398-bceb-36bf3894a200:4</URN>
+      <DataCollection isUniversallyUnique="true" versionDate="2020-07-03T16:47:52.8284494Z" xmlns="ddi:datacollection:3_2">
+        <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.mcs:a9d28b1c-6918-4398-bceb-36bf3894a200:5</URN>
         <Agency xmlns="ddi:reusable:3_2">uk.cls.mcs</Agency>
         <ID xmlns="ddi:reusable:3_2">a9d28b1c-6918-4398-bceb-36bf3894a200</ID>
-        <Version xmlns="ddi:reusable:3_2">4</Version>
+        <Version xmlns="ddi:reusable:3_2">5</Version>
         <DataCollectionModuleName>
           <String xml:lang="en-GB" xmlns="ddi:reusable:3_2">mcs2</String>
         </DataCollectionModuleName>
@@ -471,10 +471,10 @@ Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/millennium-cohort-s
           <Content xml:lang="en-GB">MCS Age 3 CAPI Questionnaire</Content>
         </Label>
         <CollectionEvent isUniversallyUnique="true">
-          <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.mcs:2be8d921-3681-4c79-b4ad-a0df9a660fd5:4</URN>
+          <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.mcs:2be8d921-3681-4c79-b4ad-a0df9a660fd5:5</URN>
           <Agency xmlns="ddi:reusable:3_2">uk.cls.mcs</Agency>
           <ID xmlns="ddi:reusable:3_2">2be8d921-3681-4c79-b4ad-a0df9a660fd5</ID>
-          <Version xmlns="ddi:reusable:3_2">4</Version>
+          <Version xmlns="ddi:reusable:3_2">5</Version>
           <DataCollectorOrganizationReference>
             <Agency xmlns="ddi:reusable:3_2">uk.closer</Agency>
             <ID xmlns="ddi:reusable:3_2">e8c02e92-8809-4eb5-96e9-4d6dfb219b7d</ID>
@@ -492,10 +492,10 @@ Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/millennium-cohort-s
             <EndDate xmlns="ddi:reusable:3_2">2005-04</EndDate>
           </DataCollectionDate>
           <ModeOfCollection isUniversallyUnique="true">
-            <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.mcs:f6d3b5e8-18d6-4e3c-b5da-02794a4d953d:4</URN>
+            <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.mcs:f6d3b5e8-18d6-4e3c-b5da-02794a4d953d:5</URN>
             <Agency xmlns="ddi:reusable:3_2">uk.cls.mcs</Agency>
             <ID xmlns="ddi:reusable:3_2">f6d3b5e8-18d6-4e3c-b5da-02794a4d953d</ID>
-            <Version xmlns="ddi:reusable:3_2">4</Version>
+            <Version xmlns="ddi:reusable:3_2">5</Version>
             <TypeOfModeOfCollection codeListVersionID="1.0">Interview.FaceToFace.CAPI/CAMI</TypeOfModeOfCollection>
             <Description xmlns="ddi:reusable:3_2">
               <Content xml:lang="en-GB">Face-to-face computer-assisted personal interviewing.</Content>
@@ -504,11 +504,11 @@ Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/millennium-cohort-s
         </CollectionEvent>
       </DataCollection>
     </StudyUnit>
-    <StudyUnit isUniversallyUnique="true" versionDate="2019-11-05T12:23:30.1610248Z" xmlns="ddi:studyunit:3_2">
-      <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.mcs:e6bb774a-156c-4cad-8a41-f27473ea39d9:16</URN>
+    <StudyUnit isUniversallyUnique="true" versionDate="2020-06-25T14:54:43.7240188Z" xmlns="ddi:studyunit:3_2">
+      <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.mcs:e6bb774a-156c-4cad-8a41-f27473ea39d9:17</URN>
       <Agency xmlns="ddi:reusable:3_2">uk.cls.mcs</Agency>
       <ID xmlns="ddi:reusable:3_2">e6bb774a-156c-4cad-8a41-f27473ea39d9</ID>
-      <Version xmlns="ddi:reusable:3_2">16</Version>
+      <Version xmlns="ddi:reusable:3_2">17</Version>
       <UserAttributePair xmlns="ddi:reusable:3_2">
         <AttributeKey>extension:CustomField</AttributeKey>
         <AttributeValue>{"Title":{"en-GB":"LifeStage"},"Description":{},"ValueType":0,"HasValue":true,"RelationshipTargetType":"00000000-0000-0000-0000-000000000000","StringValue":"Childhood","MultilingualStringValue":{},"HasDefinedType":false,"DisplayLabel":"LifeStage"}</AttributeValue>
@@ -557,10 +557,10 @@ Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/millennium-cohort-s
       </FundingInformation>
       <Coverage xmlns="ddi:reusable:3_2">
         <SpatialCoverage isUniversallyUnique="true">
-          <URN>urn:ddi:uk.cls.mcs:babb44d9-4caa-4632-b3cf-f0a5a0387f6b:16</URN>
+          <URN>urn:ddi:uk.cls.mcs:babb44d9-4caa-4632-b3cf-f0a5a0387f6b:17</URN>
           <Agency>uk.cls.mcs</Agency>
           <ID>babb44d9-4caa-4632-b3cf-f0a5a0387f6b</ID>
-          <Version>16</Version>
+          <Version>17</Version>
           <BoundingBox>
             <WestLongitude>0</WestLongitude>
             <EastLongitude>0</EastLongitude>
@@ -582,10 +582,10 @@ Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/millennium-cohort-s
           </LowestLevelReference>
         </SpatialCoverage>
         <TemporalCoverage isUniversallyUnique="true">
-          <URN>urn:ddi:uk.cls.mcs:bd29b884-e2c4-4af4-9d6b-f544a2a46270:16</URN>
+          <URN>urn:ddi:uk.cls.mcs:bd29b884-e2c4-4af4-9d6b-f544a2a46270:17</URN>
           <Agency>uk.cls.mcs</Agency>
           <ID>bd29b884-e2c4-4af4-9d6b-f544a2a46270</ID>
-          <Version>16</Version>
+          <Version>17</Version>
           <ReferenceDate>
             <StartDate>2006-01</StartDate>
             <EndDate>2007-06</EndDate>
@@ -686,11 +686,11 @@ Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/millennium-cohort-s
           </ModeOfCollection>
         </CollectionEvent>
       </DataCollection>
-      <DataCollection isUniversallyUnique="true" versionDate="2019-10-29T08:59:02.1623999Z" xmlns="ddi:datacollection:3_2">
-        <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.mcs:4e570185-08b6-42c0-9d84-77e7b75efac0:10</URN>
+      <DataCollection isUniversallyUnique="true" versionDate="2020-06-25T14:54:22.9036821Z" xmlns="ddi:datacollection:3_2">
+        <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.mcs:4e570185-08b6-42c0-9d84-77e7b75efac0:11</URN>
         <Agency xmlns="ddi:reusable:3_2">uk.cls.mcs</Agency>
         <ID xmlns="ddi:reusable:3_2">4e570185-08b6-42c0-9d84-77e7b75efac0</ID>
-        <Version xmlns="ddi:reusable:3_2">10</Version>
+        <Version xmlns="ddi:reusable:3_2">11</Version>
         <DataCollectionModuleName>
           <String xml:lang="en-GB" xmlns="ddi:reusable:3_2">mcs_05_ossc</String>
         </DataCollectionModuleName>
@@ -698,10 +698,10 @@ Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/millennium-cohort-s
           <Content xml:lang="en-GB">MCS Age 5 Older Sibling Self-Completion</Content>
         </Label>
         <CollectionEvent isUniversallyUnique="true">
-          <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.mcs:d97d69d4-b6b7-47ec-b35b-c38265675d3b:10</URN>
+          <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.mcs:d97d69d4-b6b7-47ec-b35b-c38265675d3b:11</URN>
           <Agency xmlns="ddi:reusable:3_2">uk.cls.mcs</Agency>
           <ID xmlns="ddi:reusable:3_2">d97d69d4-b6b7-47ec-b35b-c38265675d3b</ID>
-          <Version xmlns="ddi:reusable:3_2">10</Version>
+          <Version xmlns="ddi:reusable:3_2">11</Version>
           <DataCollectorOrganizationReference>
             <Agency xmlns="ddi:reusable:3_2">uk.closer</Agency>
             <ID xmlns="ddi:reusable:3_2">7cae2e4d-9ac3-4b5e-b582-a20c4a6523b0</ID>
@@ -719,10 +719,10 @@ Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/millennium-cohort-s
             <EndDate xmlns="ddi:reusable:3_2">2007-06</EndDate>
           </DataCollectionDate>
           <ModeOfCollection isUniversallyUnique="true">
-            <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.mcs:2effb3ab-489d-4a03-9634-5d9e987b87b7:10</URN>
+            <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.mcs:2effb3ab-489d-4a03-9634-5d9e987b87b7:11</URN>
             <Agency xmlns="ddi:reusable:3_2">uk.cls.mcs</Agency>
             <ID xmlns="ddi:reusable:3_2">2effb3ab-489d-4a03-9634-5d9e987b87b7</ID>
-            <Version xmlns="ddi:reusable:3_2">10</Version>
+            <Version xmlns="ddi:reusable:3_2">11</Version>
             <TypeOfModeOfCollection codeListVersionID="1.0">SelfAdministeredQuestionnaire.Paper</TypeOfModeOfCollection>
             <Description xmlns="ddi:reusable:3_2">
               <Content xml:lang="en-GB">Self-administered survey using a traditional paper questionnaire.</Content>
@@ -730,11 +730,11 @@ Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/millennium-cohort-s
           </ModeOfCollection>
         </CollectionEvent>
       </DataCollection>
-      <DataCollection isUniversallyUnique="true" versionDate="2019-10-29T08:59:23.5951338Z" xmlns="ddi:datacollection:3_2">
-        <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.mcs:6f04a203-70ec-4d50-b3d2-0a4a7a1052fd:10</URN>
+      <DataCollection isUniversallyUnique="true" versionDate="2020-06-25T14:55:48.9662053Z" xmlns="ddi:datacollection:3_2">
+        <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.mcs:6f04a203-70ec-4d50-b3d2-0a4a7a1052fd:11</URN>
         <Agency xmlns="ddi:reusable:3_2">uk.cls.mcs</Agency>
         <ID xmlns="ddi:reusable:3_2">6f04a203-70ec-4d50-b3d2-0a4a7a1052fd</ID>
-        <Version xmlns="ddi:reusable:3_2">10</Version>
+        <Version xmlns="ddi:reusable:3_2">11</Version>
         <DataCollectionModuleName>
           <String xml:lang="en-GB" xmlns="ddi:reusable:3_2">mcs_05_ts</String>
         </DataCollectionModuleName>
@@ -742,10 +742,10 @@ Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/millennium-cohort-s
           <Content xml:lang="en-GB">MCS Age 5 Teacher Paper Questionnaire 2005</Content>
         </Label>
         <CollectionEvent isUniversallyUnique="true">
-          <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.mcs:0aa0c988-3097-41fa-88a5-ad5d55660f73:10</URN>
+          <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.mcs:0aa0c988-3097-41fa-88a5-ad5d55660f73:11</URN>
           <Agency xmlns="ddi:reusable:3_2">uk.cls.mcs</Agency>
           <ID xmlns="ddi:reusable:3_2">0aa0c988-3097-41fa-88a5-ad5d55660f73</ID>
-          <Version xmlns="ddi:reusable:3_2">10</Version>
+          <Version xmlns="ddi:reusable:3_2">11</Version>
           <DataCollectorOrganizationReference>
             <Agency xmlns="ddi:reusable:3_2">uk.closer</Agency>
             <ID xmlns="ddi:reusable:3_2">7cae2e4d-9ac3-4b5e-b582-a20c4a6523b0</ID>
@@ -763,20 +763,20 @@ Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/millennium-cohort-s
             <EndDate xmlns="ddi:reusable:3_2">2007-06</EndDate>
           </DataCollectionDate>
           <ModeOfCollection isUniversallyUnique="true">
-            <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.mcs:a371fdd1-731a-4c09-9d70-76ea29c69406:10</URN>
+            <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.mcs:a371fdd1-731a-4c09-9d70-76ea29c69406:11</URN>
             <Agency xmlns="ddi:reusable:3_2">uk.cls.mcs</Agency>
             <ID xmlns="ddi:reusable:3_2">a371fdd1-731a-4c09-9d70-76ea29c69406</ID>
-            <Version xmlns="ddi:reusable:3_2">10</Version>
+            <Version xmlns="ddi:reusable:3_2">11</Version>
             <TypeOfModeOfCollection codeListVersionID="1.0">SelfAdministeredQuestionnaire.Paper</TypeOfModeOfCollection>
             <Description xmlns="ddi:reusable:3_2">
               <Content xml:lang="en-GB">Self-administered survey using a traditional paper questionnaire.</Content>
             </Description>
           </ModeOfCollection>
           <ModeOfCollection isUniversallyUnique="true">
-            <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.mcs:604aea9c-bb03-45f9-9d1d-1456029a1ac0:10</URN>
+            <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.mcs:604aea9c-bb03-45f9-9d1d-1456029a1ac0:11</URN>
             <Agency xmlns="ddi:reusable:3_2">uk.cls.mcs</Agency>
             <ID xmlns="ddi:reusable:3_2">604aea9c-bb03-45f9-9d1d-1456029a1ac0</ID>
-            <Version xmlns="ddi:reusable:3_2">10</Version>
+            <Version xmlns="ddi:reusable:3_2">11</Version>
             <TypeOfModeOfCollection codeListVersionID="1.0">CompilationSynthesis</TypeOfModeOfCollection>
             <Description xmlns="ddi:reusable:3_2">
               <Content xml:lang="en-GB">Collecting and assembling data from multiple sources, at least one of which was originally produced for other purposes.</Content>
@@ -785,11 +785,11 @@ Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/millennium-cohort-s
         </CollectionEvent>
       </DataCollection>
     </StudyUnit>
-    <StudyUnit isUniversallyUnique="true" versionDate="2019-11-05T12:23:30.1610248Z" xmlns="ddi:studyunit:3_2">
-      <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.mcs:1977cfcd-c0c9-4666-b0a4-4bb5b890d402:14</URN>
+    <StudyUnit isUniversallyUnique="true" versionDate="2020-06-25T16:52:03.3957563Z" xmlns="ddi:studyunit:3_2">
+      <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.mcs:1977cfcd-c0c9-4666-b0a4-4bb5b890d402:15</URN>
       <Agency xmlns="ddi:reusable:3_2">uk.cls.mcs</Agency>
       <ID xmlns="ddi:reusable:3_2">1977cfcd-c0c9-4666-b0a4-4bb5b890d402</ID>
-      <Version xmlns="ddi:reusable:3_2">14</Version>
+      <Version xmlns="ddi:reusable:3_2">15</Version>
       <UserAttributePair xmlns="ddi:reusable:3_2">
         <AttributeKey>extension:CustomField</AttributeKey>
         <AttributeValue>{"Title":{"en-GB":"LifeStage"},"Description":{},"ValueType":0,"HasValue":true,"RelationshipTargetType":"00000000-0000-0000-0000-000000000000","StringValue":"Childhood","MultilingualStringValue":{},"HasDefinedType":false,"DisplayLabel":"LifeStage"}</AttributeValue>
@@ -838,10 +838,10 @@ Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/millennium-cohort-s
       </FundingInformation>
       <Coverage xmlns="ddi:reusable:3_2">
         <SpatialCoverage isUniversallyUnique="true">
-          <URN>urn:ddi:uk.cls.mcs:4cdd70a9-4b16-4925-ab67-1fecce97e5df:14</URN>
+          <URN>urn:ddi:uk.cls.mcs:4cdd70a9-4b16-4925-ab67-1fecce97e5df:15</URN>
           <Agency>uk.cls.mcs</Agency>
           <ID>4cdd70a9-4b16-4925-ab67-1fecce97e5df</ID>
-          <Version>14</Version>
+          <Version>15</Version>
           <BoundingBox>
             <WestLongitude>0</WestLongitude>
             <EastLongitude>0</EastLongitude>
@@ -863,10 +863,10 @@ Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/millennium-cohort-s
           </LowestLevelReference>
         </SpatialCoverage>
         <TemporalCoverage isUniversallyUnique="true">
-          <URN>urn:ddi:uk.cls.mcs:ece0ff75-70a2-449f-9cda-74853b369726:14</URN>
+          <URN>urn:ddi:uk.cls.mcs:ece0ff75-70a2-449f-9cda-74853b369726:15</URN>
           <Agency>uk.cls.mcs</Agency>
           <ID>ece0ff75-70a2-449f-9cda-74853b369726</ID>
-          <Version>14</Version>
+          <Version>15</Version>
           <ReferenceDate>
             <StartDate>2008-01</StartDate>
             <EndDate>2009-06</EndDate>
@@ -924,11 +924,11 @@ Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/millennium-cohort-s
           </ModeOfCollection>
         </CollectionEvent>
       </DataCollection>
-      <DataCollection isUniversallyUnique="true" versionDate="2019-10-29T09:00:24.1781374Z" xmlns="ddi:datacollection:3_2">
-        <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.mcs:26305b14-229d-4d9a-ab1d-07e5e071e04c:10</URN>
+      <DataCollection isUniversallyUnique="true" versionDate="2020-06-25T16:51:43.0827875Z" xmlns="ddi:datacollection:3_2">
+        <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.mcs:26305b14-229d-4d9a-ab1d-07e5e071e04c:11</URN>
         <Agency xmlns="ddi:reusable:3_2">uk.cls.mcs</Agency>
         <ID xmlns="ddi:reusable:3_2">26305b14-229d-4d9a-ab1d-07e5e071e04c</ID>
-        <Version xmlns="ddi:reusable:3_2">10</Version>
+        <Version xmlns="ddi:reusable:3_2">11</Version>
         <DataCollectionModuleName>
           <String xml:lang="en-GB" xmlns="ddi:reusable:3_2">mcs_07_csc</String>
         </DataCollectionModuleName>
@@ -936,10 +936,10 @@ Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/millennium-cohort-s
           <Content xml:lang="en-GB">MCS Age 7 Cohort Member Paper Self-Completion</Content>
         </Label>
         <CollectionEvent isUniversallyUnique="true">
-          <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.mcs:f4646807-36f6-4f65-920f-fdb72cb60a7c:10</URN>
+          <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.mcs:f4646807-36f6-4f65-920f-fdb72cb60a7c:11</URN>
           <Agency xmlns="ddi:reusable:3_2">uk.cls.mcs</Agency>
           <ID xmlns="ddi:reusable:3_2">f4646807-36f6-4f65-920f-fdb72cb60a7c</ID>
-          <Version xmlns="ddi:reusable:3_2">10</Version>
+          <Version xmlns="ddi:reusable:3_2">11</Version>
           <DataCollectorOrganizationReference>
             <Agency xmlns="ddi:reusable:3_2">uk.closer</Agency>
             <ID xmlns="ddi:reusable:3_2">7cae2e4d-9ac3-4b5e-b582-a20c4a6523b0</ID>
@@ -957,10 +957,10 @@ Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/millennium-cohort-s
             <EndDate xmlns="ddi:reusable:3_2">2009-07</EndDate>
           </DataCollectionDate>
           <ModeOfCollection isUniversallyUnique="true">
-            <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.mcs:f3e54ee0-92d2-46c3-8ecf-6e5c3de83128:10</URN>
+            <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.mcs:f3e54ee0-92d2-46c3-8ecf-6e5c3de83128:11</URN>
             <Agency xmlns="ddi:reusable:3_2">uk.cls.mcs</Agency>
             <ID xmlns="ddi:reusable:3_2">f3e54ee0-92d2-46c3-8ecf-6e5c3de83128</ID>
-            <Version xmlns="ddi:reusable:3_2">10</Version>
+            <Version xmlns="ddi:reusable:3_2">11</Version>
             <TypeOfModeOfCollection codeListVersionID="1.0">SelfAdministeredQuestionnaire.Paper</TypeOfModeOfCollection>
             <Description xmlns="ddi:reusable:3_2">
               <Content xml:lang="en-GB">Self-administered survey using a traditional paper questionnaire.</Content>
@@ -968,11 +968,11 @@ Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/millennium-cohort-s
           </ModeOfCollection>
         </CollectionEvent>
       </DataCollection>
-      <DataCollection isUniversallyUnique="true" versionDate="2019-10-29T09:00:45.899967Z" xmlns="ddi:datacollection:3_2">
-        <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.mcs:d8382c66-1d4c-469c-9f72-e4d7a75f45e8:8</URN>
+      <DataCollection isUniversallyUnique="true" versionDate="2020-06-25T16:54:04.9600479Z" xmlns="ddi:datacollection:3_2">
+        <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.mcs:d8382c66-1d4c-469c-9f72-e4d7a75f45e8:9</URN>
         <Agency xmlns="ddi:reusable:3_2">uk.cls.mcs</Agency>
         <ID xmlns="ddi:reusable:3_2">d8382c66-1d4c-469c-9f72-e4d7a75f45e8</ID>
-        <Version xmlns="ddi:reusable:3_2">8</Version>
+        <Version xmlns="ddi:reusable:3_2">9</Version>
         <DataCollectionModuleName>
           <String xml:lang="en-GB" xmlns="ddi:reusable:3_2">mcs4_teacher</String>
         </DataCollectionModuleName>
@@ -980,10 +980,10 @@ Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/millennium-cohort-s
           <Content xml:lang="en-GB">MCS Age 7 Teacher Paper Questionnaire</Content>
         </Label>
         <CollectionEvent isUniversallyUnique="true">
-          <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.mcs:19e0d352-d971-4fa9-bf00-014824e6710b:8</URN>
+          <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.mcs:19e0d352-d971-4fa9-bf00-014824e6710b:9</URN>
           <Agency xmlns="ddi:reusable:3_2">uk.cls.mcs</Agency>
           <ID xmlns="ddi:reusable:3_2">19e0d352-d971-4fa9-bf00-014824e6710b</ID>
-          <Version xmlns="ddi:reusable:3_2">8</Version>
+          <Version xmlns="ddi:reusable:3_2">9</Version>
           <DataCollectorOrganizationReference>
             <Agency xmlns="ddi:reusable:3_2">uk.closer</Agency>
             <ID xmlns="ddi:reusable:3_2">7cae2e4d-9ac3-4b5e-b582-a20c4a6523b0</ID>
@@ -1001,10 +1001,10 @@ Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/millennium-cohort-s
             <EndDate xmlns="ddi:reusable:3_2">2009-07</EndDate>
           </DataCollectionDate>
           <ModeOfCollection isUniversallyUnique="true">
-            <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.mcs:9bc4899f-9443-49ea-b24d-2a3c3d0de6b4:8</URN>
+            <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.mcs:9bc4899f-9443-49ea-b24d-2a3c3d0de6b4:9</URN>
             <Agency xmlns="ddi:reusable:3_2">uk.cls.mcs</Agency>
             <ID xmlns="ddi:reusable:3_2">9bc4899f-9443-49ea-b24d-2a3c3d0de6b4</ID>
-            <Version xmlns="ddi:reusable:3_2">8</Version>
+            <Version xmlns="ddi:reusable:3_2">9</Version>
             <TypeOfModeOfCollection codeListVersionID="1.0">SelfAdministeredQuestionnaire.Paper</TypeOfModeOfCollection>
             <Description xmlns="ddi:reusable:3_2">
               <Content xml:lang="en-GB">Self-administered survey using a traditional paper questionnaire.</Content>
@@ -1067,11 +1067,11 @@ Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/millennium-cohort-s
         </CollectionEvent>
       </DataCollection>
     </StudyUnit>
-    <StudyUnit isUniversallyUnique="true" versionDate="2019-11-05T12:23:30.1610248Z" xmlns="ddi:studyunit:3_2">
-      <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.mcs:03fb2c51-da00-4204-9980-a7f2beb578ae:10</URN>
+    <StudyUnit isUniversallyUnique="true" versionDate="2020-07-15T13:19:53.5354748Z" xmlns="ddi:studyunit:3_2">
+      <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.mcs:03fb2c51-da00-4204-9980-a7f2beb578ae:13</URN>
       <Agency xmlns="ddi:reusable:3_2">uk.cls.mcs</Agency>
       <ID xmlns="ddi:reusable:3_2">03fb2c51-da00-4204-9980-a7f2beb578ae</ID>
-      <Version xmlns="ddi:reusable:3_2">10</Version>
+      <Version xmlns="ddi:reusable:3_2">13</Version>
       <UserAttributePair xmlns="ddi:reusable:3_2">
         <AttributeKey>extension:CustomField</AttributeKey>
         <AttributeValue>{"Title":{"en-GB":"LifeStage"},"Description":{},"ValueType":0,"HasValue":true,"RelationshipTargetType":"00000000-0000-0000-0000-000000000000","StringValue":"Childhood","MultilingualStringValue":{},"HasDefinedType":false,"DisplayLabel":"LifeStage"}</AttributeValue>
@@ -1120,10 +1120,10 @@ Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/millennium-cohort-s
       </FundingInformation>
       <Coverage xmlns="ddi:reusable:3_2">
         <SpatialCoverage isUniversallyUnique="true">
-          <URN>urn:ddi:uk.cls.mcs:0954e049-2b10-4e23-83e4-d01e265f7dc5:10</URN>
+          <URN>urn:ddi:uk.cls.mcs:0954e049-2b10-4e23-83e4-d01e265f7dc5:13</URN>
           <Agency>uk.cls.mcs</Agency>
           <ID>0954e049-2b10-4e23-83e4-d01e265f7dc5</ID>
-          <Version>10</Version>
+          <Version>13</Version>
           <BoundingBox>
             <WestLongitude>0</WestLongitude>
             <EastLongitude>0</EastLongitude>
@@ -1145,10 +1145,10 @@ Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/millennium-cohort-s
           </LowestLevelReference>
         </SpatialCoverage>
         <TemporalCoverage isUniversallyUnique="true">
-          <URN>urn:ddi:uk.cls.mcs:0fc9b648-7f38-4835-b2a6-9ca3aa3dd23e:10</URN>
+          <URN>urn:ddi:uk.cls.mcs:0fc9b648-7f38-4835-b2a6-9ca3aa3dd23e:13</URN>
           <Agency>uk.cls.mcs</Agency>
           <ID>0fc9b648-7f38-4835-b2a6-9ca3aa3dd23e</ID>
-          <Version>10</Version>
+          <Version>13</Version>
           <ReferenceDate>
             <StartDate>2012-01</StartDate>
             <EndDate>2013-02</EndDate>
@@ -1161,25 +1161,25 @@ Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/millennium-cohort-s
       <KindOfData codeListVersionID="1.0" xmlns="ddi:reusable:3_2">Measurement Data</KindOfData>
       <KindOfData codeListVersionID="1.0" xmlns="ddi:reusable:3_2">Assessment Data</KindOfData>
       <KindOfData codeListVersionID="1.0" xmlns="ddi:reusable:3_2">Administrative  Data</KindOfData>
-      <DataCollection isUniversallyUnique="true" versionDate="2019-10-28T16:33:29.5630577Z" xmlns="ddi:datacollection:3_2">
-        <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.mcs:c734e9df-a7d8-4361-a4ed-52e7e8c1df18:5</URN>
+      <DataCollection isUniversallyUnique="true" versionDate="2020-07-15T13:18:14.0532477Z" xmlns="ddi:datacollection:3_2">
+        <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.mcs:c734e9df-a7d8-4361-a4ed-52e7e8c1df18:7</URN>
         <Agency xmlns="ddi:reusable:3_2">uk.cls.mcs</Agency>
         <ID xmlns="ddi:reusable:3_2">c734e9df-a7d8-4361-a4ed-52e7e8c1df18</ID>
-        <Version xmlns="ddi:reusable:3_2">5</Version>
+        <Version xmlns="ddi:reusable:3_2">7</Version>
         <DataCollectionModuleName>
           <String xml:lang="en-GB" xmlns="ddi:reusable:3_2">mcs5</String>
         </DataCollectionModuleName>
         <Label xmlns="ddi:reusable:3_2">
-          <Content xml:lang="en-GB">MCS Age 11 Main and Partner Respondent Questionnaire and Cognitive Assessments and Physical Measurements</Content>
+          <Content xml:lang="en-GB">MCS Age 11 Main and Partner Respondent Questionnaire</Content>
         </Label>
         <CollectionEvent isUniversallyUnique="true">
-          <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.mcs:6648cb86-fe4b-40a5-922b-f2710ecb9abf:5</URN>
+          <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.mcs:6648cb86-fe4b-40a5-922b-f2710ecb9abf:7</URN>
           <Agency xmlns="ddi:reusable:3_2">uk.cls.mcs</Agency>
           <ID xmlns="ddi:reusable:3_2">6648cb86-fe4b-40a5-922b-f2710ecb9abf</ID>
-          <Version xmlns="ddi:reusable:3_2">5</Version>
+          <Version xmlns="ddi:reusable:3_2">7</Version>
           <DataCollectorOrganizationReference>
-            <Agency xmlns="ddi:reusable:3_2">uk.cls.mcs</Agency>
-            <ID xmlns="ddi:reusable:3_2">e3ef2164-156b-4572-bed9-a4414da81710</ID>
+            <Agency xmlns="ddi:reusable:3_2">uk.closer</Agency>
+            <ID xmlns="ddi:reusable:3_2">03d1fb7b-da9c-4b73-9101-a4ea1f189aae</ID>
             <Version xmlns="ddi:reusable:3_2">1</Version>
             <TypeOfObject xmlns="ddi:reusable:3_2">Organization</TypeOfObject>
           </DataCollectorOrganizationReference>
@@ -1188,30 +1188,30 @@ Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/millennium-cohort-s
             <EndDate xmlns="ddi:reusable:3_2">2013-02</EndDate>
           </DataCollectionDate>
           <ModeOfCollection isUniversallyUnique="true">
-            <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.mcs:17a1f999-131a-431c-8742-c4ccc8debdf4:5</URN>
+            <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.mcs:17a1f999-131a-431c-8742-c4ccc8debdf4:7</URN>
             <Agency xmlns="ddi:reusable:3_2">uk.cls.mcs</Agency>
             <ID xmlns="ddi:reusable:3_2">17a1f999-131a-431c-8742-c4ccc8debdf4</ID>
-            <Version xmlns="ddi:reusable:3_2">5</Version>
+            <Version xmlns="ddi:reusable:3_2">7</Version>
             <TypeOfModeOfCollection codeListVersionID="1.0">Interview.FaceToFace.CAPI/CAMI</TypeOfModeOfCollection>
             <Description xmlns="ddi:reusable:3_2">
               <Content xml:lang="en-GB">Face-to-face computer-assisted personal interviewing.</Content>
             </Description>
           </ModeOfCollection>
           <ModeOfCollection isUniversallyUnique="true">
-            <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.mcs:18a37b80-d322-4ee4-ad85-90c1a3c5e28f:5</URN>
+            <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.mcs:18a37b80-d322-4ee4-ad85-90c1a3c5e28f:7</URN>
             <Agency xmlns="ddi:reusable:3_2">uk.cls.mcs</Agency>
             <ID xmlns="ddi:reusable:3_2">18a37b80-d322-4ee4-ad85-90c1a3c5e28f</ID>
-            <Version xmlns="ddi:reusable:3_2">5</Version>
+            <Version xmlns="ddi:reusable:3_2">7</Version>
             <TypeOfModeOfCollection codeListVersionID="1.0">Cognitive Assessments and Physical Measurements</TypeOfModeOfCollection>
             <Description xmlns="ddi:reusable:3_2">
               <Content xml:lang="en-GB">Assessment of physical properties of living beings, objects, material or natural phenomena. This includes medical and geographic data.</Content>
             </Description>
           </ModeOfCollection>
           <ModeOfCollection isUniversallyUnique="true">
-            <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.mcs:bf8a710e-2c09-4c33-94b7-1e8aeda4e751:5</URN>
+            <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.mcs:bf8a710e-2c09-4c33-94b7-1e8aeda4e751:7</URN>
             <Agency xmlns="ddi:reusable:3_2">uk.cls.mcs</Agency>
             <ID xmlns="ddi:reusable:3_2">bf8a710e-2c09-4c33-94b7-1e8aeda4e751</ID>
-            <Version xmlns="ddi:reusable:3_2">5</Version>
+            <Version xmlns="ddi:reusable:3_2">7</Version>
             <TypeOfModeOfCollection codeListVersionID="1.0">MeasurementsAndTests.Educational </TypeOfModeOfCollection>
             <Description xmlns="ddi:reusable:3_2">
               <Content xml:lang="en-GB">Assessment of knowledge, skills, aptitude or educational achievement by means of specialized measures or tests.</Content>
@@ -1219,11 +1219,11 @@ Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/millennium-cohort-s
           </ModeOfCollection>
         </CollectionEvent>
       </DataCollection>
-      <DataCollection isUniversallyUnique="true" versionDate="2019-10-28T16:33:57.738903Z" xmlns="ddi:datacollection:3_2">
-        <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.mcs:28f3cdac-7201-48cb-864b-182a26e8f03b:5</URN>
+      <DataCollection isUniversallyUnique="true" versionDate="2020-07-15T13:19:08.9642607Z" xmlns="ddi:datacollection:3_2">
+        <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.mcs:28f3cdac-7201-48cb-864b-182a26e8f03b:7</URN>
         <Agency xmlns="ddi:reusable:3_2">uk.cls.mcs</Agency>
         <ID xmlns="ddi:reusable:3_2">28f3cdac-7201-48cb-864b-182a26e8f03b</ID>
-        <Version xmlns="ddi:reusable:3_2">5</Version>
+        <Version xmlns="ddi:reusable:3_2">7</Version>
         <DataCollectionModuleName>
           <String xml:lang="en-GB" xmlns="ddi:reusable:3_2">mcs5_sc</String>
         </DataCollectionModuleName>
@@ -1231,13 +1231,13 @@ Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/millennium-cohort-s
           <Content xml:lang="en-GB">MCS Age 11 Cohort Member Paper Self-Completion</Content>
         </Label>
         <CollectionEvent isUniversallyUnique="true">
-          <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.mcs:6cd3fed7-a887-4318-81c2-b72ec5541cec:5</URN>
+          <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.mcs:6cd3fed7-a887-4318-81c2-b72ec5541cec:7</URN>
           <Agency xmlns="ddi:reusable:3_2">uk.cls.mcs</Agency>
           <ID xmlns="ddi:reusable:3_2">6cd3fed7-a887-4318-81c2-b72ec5541cec</ID>
-          <Version xmlns="ddi:reusable:3_2">5</Version>
+          <Version xmlns="ddi:reusable:3_2">7</Version>
           <DataCollectorOrganizationReference>
-            <Agency xmlns="ddi:reusable:3_2">uk.cls.mcs</Agency>
-            <ID xmlns="ddi:reusable:3_2">e3ef2164-156b-4572-bed9-a4414da81710</ID>
+            <Agency xmlns="ddi:reusable:3_2">uk.closer</Agency>
+            <ID xmlns="ddi:reusable:3_2">03d1fb7b-da9c-4b73-9101-a4ea1f189aae</ID>
             <Version xmlns="ddi:reusable:3_2">1</Version>
             <TypeOfObject xmlns="ddi:reusable:3_2">Organization</TypeOfObject>
           </DataCollectorOrganizationReference>
@@ -1246,10 +1246,10 @@ Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/millennium-cohort-s
             <EndDate xmlns="ddi:reusable:3_2">2013-02</EndDate>
           </DataCollectionDate>
           <ModeOfCollection isUniversallyUnique="true">
-            <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.mcs:25049249-3b30-42d4-aa78-692677a8e2cf:5</URN>
+            <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.mcs:25049249-3b30-42d4-aa78-692677a8e2cf:7</URN>
             <Agency xmlns="ddi:reusable:3_2">uk.cls.mcs</Agency>
             <ID xmlns="ddi:reusable:3_2">25049249-3b30-42d4-aa78-692677a8e2cf</ID>
-            <Version xmlns="ddi:reusable:3_2">5</Version>
+            <Version xmlns="ddi:reusable:3_2">7</Version>
             <TypeOfModeOfCollection codeListVersionID="1.0">SelfAdministeredQuestionnaire.Paper</TypeOfModeOfCollection>
             <Description xmlns="ddi:reusable:3_2">
               <Content xml:lang="en-GB">Self-administered survey using a traditional paper questionnaire.</Content>
@@ -1257,17 +1257,11 @@ Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/millennium-cohort-s
           </ModeOfCollection>
         </CollectionEvent>
       </DataCollection>
-      <DataCollection isUniversallyUnique="true" versionDate="2019-06-04T11:18:47.9106295Z" xmlns="ddi:datacollection:3_2">
-        <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.mcs:a3761179-e6a6-46f4-ae0f-d46383c30230:4</URN>
+      <DataCollection isUniversallyUnique="true" versionDate="2020-07-15T13:19:53.5048225Z" xmlns="ddi:datacollection:3_2">
+        <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.mcs:a3761179-e6a6-46f4-ae0f-d46383c30230:6</URN>
         <Agency xmlns="ddi:reusable:3_2">uk.cls.mcs</Agency>
         <ID xmlns="ddi:reusable:3_2">a3761179-e6a6-46f4-ae0f-d46383c30230</ID>
-        <Version xmlns="ddi:reusable:3_2">4</Version>
-        <VersionResponsibility xmlns="ddi:reusable:3_2">INST\jjjbgaew</VersionResponsibility>
-        <VersionRationale xmlns="ddi:reusable:3_2">
-          <RationaleDescription>
-            <String xml:lang="en-GB">mcs pruned</String>
-          </RationaleDescription>
-        </VersionRationale>
+        <Version xmlns="ddi:reusable:3_2">6</Version>
         <DataCollectionModuleName>
           <String xml:lang="en-GB" xmlns="ddi:reusable:3_2">mcs5_teacher_survey</String>
         </DataCollectionModuleName>
@@ -1275,13 +1269,13 @@ Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/millennium-cohort-s
           <Content xml:lang="en-GB">MCS Age 11 Teacher Paper Questionnaire</Content>
         </Label>
         <CollectionEvent isUniversallyUnique="true">
-          <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.mcs:97367ef3-1926-470f-9696-d7cc718a1579:4</URN>
+          <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.mcs:97367ef3-1926-470f-9696-d7cc718a1579:6</URN>
           <Agency xmlns="ddi:reusable:3_2">uk.cls.mcs</Agency>
           <ID xmlns="ddi:reusable:3_2">97367ef3-1926-470f-9696-d7cc718a1579</ID>
-          <Version xmlns="ddi:reusable:3_2">4</Version>
+          <Version xmlns="ddi:reusable:3_2">6</Version>
           <DataCollectorOrganizationReference>
-            <Agency xmlns="ddi:reusable:3_2">uk.cls.mcs</Agency>
-            <ID xmlns="ddi:reusable:3_2">e3ef2164-156b-4572-bed9-a4414da81710</ID>
+            <Agency xmlns="ddi:reusable:3_2">uk.closer</Agency>
+            <ID xmlns="ddi:reusable:3_2">03d1fb7b-da9c-4b73-9101-a4ea1f189aae</ID>
             <Version xmlns="ddi:reusable:3_2">1</Version>
             <TypeOfObject xmlns="ddi:reusable:3_2">Organization</TypeOfObject>
           </DataCollectorOrganizationReference>
@@ -1290,13 +1284,140 @@ Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/millennium-cohort-s
             <EndDate xmlns="ddi:reusable:3_2">2013-02</EndDate>
           </DataCollectionDate>
           <ModeOfCollection isUniversallyUnique="true">
-            <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.mcs:a384d661-8b05-4685-9cf6-a947cbb7a9ae:4</URN>
+            <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.mcs:a384d661-8b05-4685-9cf6-a947cbb7a9ae:6</URN>
             <Agency xmlns="ddi:reusable:3_2">uk.cls.mcs</Agency>
             <ID xmlns="ddi:reusable:3_2">a384d661-8b05-4685-9cf6-a947cbb7a9ae</ID>
-            <Version xmlns="ddi:reusable:3_2">4</Version>
+            <Version xmlns="ddi:reusable:3_2">6</Version>
             <TypeOfModeOfCollection codeListVersionID="1.0">SelfAdministeredQuestionnaire.Paper</TypeOfModeOfCollection>
             <Description xmlns="ddi:reusable:3_2">
               <Content xml:lang="en-GB">Self-administered survey using a traditional paper questionnaire.</Content>
+            </Description>
+          </ModeOfCollection>
+        </CollectionEvent>
+      </DataCollection>
+      <DataCollection isUniversallyUnique="true" versionDate="2020-05-21T14:15:58.0660173Z" xmlns="ddi:datacollection:3_2">
+        <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.mcs:1c3fad88-c2b0-49e4-8044-651e7a257f75:1</URN>
+        <Agency xmlns="ddi:reusable:3_2">uk.cls.mcs</Agency>
+        <ID xmlns="ddi:reusable:3_2">1c3fad88-c2b0-49e4-8044-651e7a257f75</ID>
+        <Version xmlns="ddi:reusable:3_2">1</Version>
+        <DataCollectionModuleName>
+          <String xml:lang="en-GB" xmlns="ddi:reusable:3_2">mcs5_cpa</String>
+        </DataCollectionModuleName>
+        <Label xmlns="ddi:reusable:3_2">
+          <Content xml:lang="en-GB">MCS Age 11 Cognitive Assessments and Physical Measurements</Content>
+        </Label>
+      </DataCollection>
+    </StudyUnit>
+    <StudyUnit isUniversallyUnique="true" versionDate="2020-07-06T13:51:44.3115349Z" xmlns="ddi:studyunit:3_2">
+      <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.mcs:7c397ddc-b7e4-46aa-b545-6f07d5bec86f:1</URN>
+      <Agency xmlns="ddi:reusable:3_2">uk.cls.mcs</Agency>
+      <ID xmlns="ddi:reusable:3_2">7c397ddc-b7e4-46aa-b545-6f07d5bec86f</ID>
+      <Version xmlns="ddi:reusable:3_2">1</Version>
+      <Citation xmlns="ddi:reusable:3_2">
+        <Title>
+          <String xml:lang="en-GB">Age 20 COVID-19 Survey Wave 1</String>
+        </Title>
+        <Creator>
+          <CreatorName>
+            <String xml:lang="en-GB">Alissa Goodman</String>
+          </CreatorName>
+        </Creator>
+        <Publisher>
+          <PublisherName>
+            <String xml:lang="en-GB">Centre for Longitudinal Studies, Institute of Education</String>
+          </PublisherName>
+        </Publisher>
+        <Copyright>
+          <String xml:lang="en-GB">Centre for Longitudinal Studies, Institute of Education</String>
+        </Copyright>
+      </Citation>
+      <Abstract xmlns="ddi:reusable:3_2">
+        <Content xml:lang="en-GB">The COVID 19 Survey collects information from participants in 5 national cohort studies about how the Coronavirus epidemic has affected their lives.  The data from the survey will help researchers understand the health, social, and economic impacts of the COVID-19 outbreak. It will be especially important for understanding how people at different life stages are being affected, and how prior life experiences shape resilience or vulnerability to its effects.  By following participants’ lives into the future, the studies will be able to track the longer-term consequences of the pandemic too.</Content>
+      </Abstract>
+      <UniverseReference xmlns="ddi:reusable:3_2">
+        <Agency>uk.closer</Agency>
+        <ID>23c62049-cdd5-4e57-b583-6d843d0de079</ID>
+        <Version>1</Version>
+        <TypeOfObject>Universe</TypeOfObject>
+      </UniverseReference>
+      <Coverage xmlns="ddi:reusable:3_2">
+        <SpatialCoverage isUniversallyUnique="true">
+          <URN>urn:ddi:uk.cls.mcs:a3fa555a-4a57-406f-b879-f8ccf922af4d:1</URN>
+          <Agency>uk.cls.mcs</Agency>
+          <ID>a3fa555a-4a57-406f-b879-f8ccf922af4d</ID>
+          <Version>1</Version>
+          <BoundingBox>
+            <WestLongitude>0</WestLongitude>
+            <EastLongitude>0</EastLongitude>
+            <SouthLatitude>0</SouthLatitude>
+            <NorthLatitude>0</NorthLatitude>
+          </BoundingBox>
+          <Description>
+            <Content xml:lang="en-GB">United Kingdom</Content>
+          </Description>
+          <Country>GB-ENG</Country>
+          <Country>GB-SCT</Country>
+          <Country>GB-WLS</Country>
+          <Country>GB-NIR</Country>
+          <TopLevelReference>
+            <LevelName>Country</LevelName>
+          </TopLevelReference>
+          <LowestLevelReference>
+            <LevelName>Postcode</LevelName>
+          </LowestLevelReference>
+        </SpatialCoverage>
+        <TemporalCoverage isUniversallyUnique="true">
+          <URN>urn:ddi:uk.cls.mcs:88906acc-be36-4720-b14d-9db5b019ca44:1</URN>
+          <Agency>uk.cls.mcs</Agency>
+          <ID>88906acc-be36-4720-b14d-9db5b019ca44</ID>
+          <Version>1</Version>
+          <ReferenceDate>
+            <StartDate>2020-04</StartDate>
+            <EndDate>2020-05</EndDate>
+          </ReferenceDate>
+        </TemporalCoverage>
+      </Coverage>
+      <AnalysisUnit xmlns="ddi:reusable:3_2">Individual</AnalysisUnit>
+      <KindOfData xmlns="ddi:reusable:3_2">Survey Data</KindOfData>
+      <KindOfData xmlns="ddi:reusable:3_2">Demographic Data</KindOfData>
+      <DataCollection isUniversallyUnique="true" versionDate="2020-07-06T13:54:58.2120842Z" xmlns="ddi:datacollection:3_2">
+        <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.mcs:e5bbe6fb-aaf9-4799-868c-3eec7db8df1a:1</URN>
+        <Agency xmlns="ddi:reusable:3_2">uk.cls.mcs</Agency>
+        <ID xmlns="ddi:reusable:3_2">e5bbe6fb-aaf9-4799-868c-3eec7db8df1a</ID>
+        <Version xmlns="ddi:reusable:3_2">1</Version>
+        <UserAttributePair xmlns="ddi:reusable:3_2">
+          <AttributeKey>extension:CustomField</AttributeKey>
+          <AttributeValue>{"Title":{"en-GB":"LifeStage"},"Description":{},"ValueType":0,"HasValue":true,"RelationshipTargetType":"00000000-0000-0000-0000-000000000000","StringValue":"Early adulthood","MultilingualStringValue":{},"HasDefinedType":false,"DisplayLabel":"LifeStage"}</AttributeValue>
+        </UserAttributePair>
+        <DataCollectionModuleName>
+          <String xml:lang="en-GB" xmlns="ddi:reusable:3_2">mcs_covid_q1</String>
+        </DataCollectionModuleName>
+        <Label xmlns="ddi:reusable:3_2">
+          <Content xml:lang="en-GB">MCS COVID 19 Survey - Wave 1</Content>
+        </Label>
+        <CollectionEvent isUniversallyUnique="true">
+          <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.mcs:bff3f3fe-db1f-44e4-bb88-1a5ae113bd9f:1</URN>
+          <Agency xmlns="ddi:reusable:3_2">uk.cls.mcs</Agency>
+          <ID xmlns="ddi:reusable:3_2">bff3f3fe-db1f-44e4-bb88-1a5ae113bd9f</ID>
+          <Version xmlns="ddi:reusable:3_2">1</Version>
+          <DataCollectorOrganizationReference>
+            <Agency xmlns="ddi:reusable:3_2">uk.closer</Agency>
+            <ID xmlns="ddi:reusable:3_2">f026f9ab-91c7-410c-a4a4-b389e3f72078</ID>
+            <Version xmlns="ddi:reusable:3_2">1</Version>
+            <TypeOfObject xmlns="ddi:reusable:3_2">Organization</TypeOfObject>
+          </DataCollectorOrganizationReference>
+          <DataCollectionDate>
+            <StartDate xmlns="ddi:reusable:3_2">2020-04</StartDate>
+            <EndDate xmlns="ddi:reusable:3_2">2020-05</EndDate>
+          </DataCollectionDate>
+          <ModeOfCollection isUniversallyUnique="true">
+            <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.mcs:cec558ab-a39c-4d14-ac41-8010b05fbcf0:1</URN>
+            <Agency xmlns="ddi:reusable:3_2">uk.cls.mcs</Agency>
+            <ID xmlns="ddi:reusable:3_2">cec558ab-a39c-4d14-ac41-8010b05fbcf0</ID>
+            <Version xmlns="ddi:reusable:3_2">1</Version>
+            <TypeOfModeOfCollection>SelfAdministeredQuestionnaire.WebBased</TypeOfModeOfCollection>
+            <Description xmlns="ddi:reusable:3_2">
+              <Content xml:lang="en-GB">Computer-assisted web interviewing (CAWI). Data are collected using a web questionnaire, produced with a program for creating web surveys</Content>
             </Description>
           </ModeOfCollection>
         </CollectionEvent>
