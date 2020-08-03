@@ -1,0 +1,189 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DDIInstance isUniversallyUnique="true" versionDate="2019-11-05T15:17:41.8023327Z" xmlns="ddi:instance:3_2">
+  <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.closer:66e93b9c-fc81-4c0e-8d42-d21c63857357:1</URN>
+  <Agency xmlns="ddi:reusable:3_2">uk.closer</Agency>
+  <ID xmlns="ddi:reusable:3_2">66e93b9c-fc81-4c0e-8d42-d21c63857357</ID>
+  <Version xmlns="ddi:reusable:3_2">1</Version>
+  <Citation xmlns="ddi:reusable:3_2">
+    <Title>
+      <String xml:lang="en-GB">wirral</String>
+    </Title>
+  </Citation>
+  <Group isUniversallyUnique="true" versionDate="2019-11-05T15:17:50.7258161Z" xmlns="ddi:group:3_2">
+    <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.wchads:1503038e-c369-4912-a198-85e504c332e7:2</URN>
+    <Agency xmlns="ddi:reusable:3_2">uk.wchads</Agency>
+    <ID xmlns="ddi:reusable:3_2">1503038e-c369-4912-a198-85e504c332e7</ID>
+    <Version xmlns="ddi:reusable:3_2">2</Version>
+    <Citation xmlns="ddi:reusable:3_2">
+      <Title>
+        <String xml:lang="en-GB">Wirral Child Health and Development Study</String>
+      </Title>
+      <AlternateTitle>
+        <String xml:lang="en-GB">First Steps Study</String>
+      </AlternateTitle>
+      <Creator>
+        <CreatorName>
+          <String xml:lang="en-GB">Professor Jonathan Hill (University of Reading), Professor Helen Sharp  (University of Liverpool)</String>
+        </CreatorName>
+      </Creator>
+      <Publisher>
+        <PublisherName>
+          <String xml:lang="en-GB">University of Liverpool</String>
+        </PublisherName>
+      </Publisher>
+      <Copyright>
+        <String xml:lang="en-GB">Copyright University of Liverpool. All rights reserved.</String>
+      </Copyright>
+    </Citation>
+    <Abstract xmlns="ddi:reusable:3_2">
+      <Content xml:lang="en-GB">The Wirral Child Health and Development Study (WCHADS) was established in 2007 to identify early social, emotional and biological risks and processes involved in the development of childhood conduct problems. It was designed to identify pathways to antisocial outcomes that might require differing treatment responses. The study is also ideally designed to identify pathways to childhood emotional problems. 
+
+The sample was identified from consecutive first-time mothers who booked for antenatal care at 12 weeks of gestation between 12 February 2007 and 29 October 2008. The booking clinic was administered by the Wirral University Teaching Hospital, which was the sole provider of universal prenatal care on the Wirral Peninsula. The study was introduced to the women by clinic midwives who asked for their agreement to be approached by study research midwives when they attended for ultrasound scanning at 20 weeks of gestation. 
+
+A total of 1286 mothers and 1014 partners enrolled in the study (68.4% of those approached) and completed interviews and questionnaires at the 20 weeks stage. The final sample comprised 1233 mothers with live, singleton births with no gross congenital abnormalities and who had remained in the study up to the birth of their baby. A stratified subsample of 316 mothers were identified for intensive study based on a measure of partner psychological abuse in pregnancy. 
+
+Fourteen phases of data collection have been completed from 20 weeks of pregnancy to age 9 years. For the intensive sample this includes a 32 weeks pregnancy interview, obstetric and antenatal records, child and mother assessments at age 5 weeks, 7 months, 14 months, 27 months, 3.5 years, 5 years, 7 years and 9 years, and a postal questionnaire at 9 weeks postnatal. For the remainder of the sample (the extensive sample) obstetric and antenatal records were gathered, postal questionnaires at 9 weeks, 14 months and 5 years were completed, and child and mother assessments at 3.5 years, 7 years and 9 years were also completed. At age 9 over 900 families remain in the study. The study has been funded by the Medical Research Council from establishment to age 9 in full. The mothers and children will be followed at age 11-12 years with a postal/online questionnaire with local funding.
+
+The Wirral Child Health and Development Study are in the process of sharing their metadata with CLOSER for all the questionnaire measures in WCHADS. The mother questionnaire from the first sweep (phase 01) is available now and more is to follow. Please go to the website to contact WCHADS or to find details of their additional experimental, observational and biological measurements
+
+Study website: &lt;a href="https://www.liverpool.ac.uk/institute-of-life-and-human-sciences/schools-and-departments/department-of-psychological-sciences/research/first-steps/" target="_blank" title="Wirral Child Health and Development Study"&gt;https://www.liverpool.ac.uk/institute-of-life-and-human-sciences/schools-and-departments/department-of-psychological-sciences/research/first-steps/&lt;/a&gt; </Content>
+    </Abstract>
+    <UniverseReference xmlns="ddi:reusable:3_2">
+      <Agency>uk.wchads</Agency>
+      <ID>1a875ff7-66b1-456f-8d49-17c6ce26f4f9</ID>
+      <Version>2</Version>
+      <TypeOfObject>Universe</TypeOfObject>
+    </UniverseReference>
+    <FundingInformation xmlns="ddi:reusable:3_2">
+      <AgencyOrganizationReference>
+        <Agency>uk.closer</Agency>
+        <ID>a1bdc1c8-d24e-44e1-87f2-5bcd7ab98e22</ID>
+        <Version>3</Version>
+        <TypeOfObject>Organization</TypeOfObject>
+      </AgencyOrganizationReference>
+    </FundingInformation>
+    <StudyUnit isUniversallyUnique="true" versionDate="2019-11-05T15:18:07.9552936Z" xmlns="ddi:studyunit:3_2">
+      <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.wchads:4b94d48f-39c0-47bb-8a2d-1703424b470d:2</URN>
+      <Agency xmlns="ddi:reusable:3_2">uk.wchads</Agency>
+      <ID xmlns="ddi:reusable:3_2">4b94d48f-39c0-47bb-8a2d-1703424b470d</ID>
+      <Version xmlns="ddi:reusable:3_2">2</Version>
+      <UserAttributePair xmlns="ddi:reusable:3_2">
+        <AttributeKey>extension:CustomField</AttributeKey>
+        <AttributeValue>{"Title":{"en-GB":"LifeStage"},"Description":{},"ValueType":0,"HasValue":true,"RelationshipTargetType":"00000000-0000-0000-0000-000000000000","StringValue":"Pregnancy, birth and infancy","MultilingualStringValue":{},"HasDefinedType":false,"DisplayLabel":"LifeStage"}</AttributeValue>
+      </UserAttributePair>
+      <UserAttributePair xmlns="ddi:reusable:3_2">
+        <AttributeKey>extension:CustomField</AttributeKey>
+        <AttributeValue>{"Title":{"en-GB":"LifeStageDescription"},"Description":{},"ValueType":0,"HasValue":true,"RelationshipTargetType":"00000000-0000-0000-0000-000000000000","StringValue":" Pregnancy - 1 year","MultilingualStringValue":{},"HasDefinedType":false,"DisplayLabel":"LifeStageDescription"}</AttributeValue>
+      </UserAttributePair>
+      <Citation xmlns="ddi:reusable:3_2">
+        <Title>
+          <String xml:lang="en-GB">Phase 01</String>
+        </Title>
+        <Creator>
+          <CreatorName>
+            <String xml:lang="en-GB">Professor Jonathan Hill (University of Reading), Professor Helen Sharp  (University of Liverpool)</String>
+          </CreatorName>
+        </Creator>
+        <Publisher>
+          <PublisherName>
+            <String xml:lang="en-GB">University of Liverpool</String>
+          </PublisherName>
+        </Publisher>
+      </Citation>
+      <Abstract xmlns="ddi:reusable:3_2">
+        <Content xml:lang="en-GB">A consecutive sample of first time mothers were approached at their 12 week antenatal booking appointment. Mothers who had said they were happy to hear about joining the study were approached when they attended their 20 week scan by study research midwives and asked for consent to participate. A total of 1286 mothers enrolled in the study (68.4% of those approached) between March 2007 and December 2008. Of those, 1014 partners also gave consent to take part. Mothers and partners completed separate interview and questionnaire measures during the 20 weeks scan appointment. They provided written informed consent to be contacted for further follow up, in the third trimester of pregnancy (if eligible for invitation to the intensive sample) and after birth. Partners were asked for consent for questionnaire follow-up at 1 year only.
+
+Study website: &lt;a href="https://www.liverpool.ac.uk/institute-of-life-and-human-sciences/schools-and-departments/department-of-psychological-sciences/research/first-steps/" target="_blank" title="Wirral Child Health and Development Study"&gt;https://www.liverpool.ac.uk/institute-of-life-and-human-sciences/schools-and-departments/department-of-psychological-sciences/research/first-steps/&lt;/a&gt; </Content>
+      </Abstract>
+      <UniverseReference xmlns="ddi:reusable:3_2">
+        <Agency>uk.wchads</Agency>
+        <ID>a4247584-2fd5-4be8-a228-3278f1e403dd</ID>
+        <Version>2</Version>
+        <TypeOfObject>Universe</TypeOfObject>
+      </UniverseReference>
+      <FundingInformation xmlns="ddi:reusable:3_2">
+        <AgencyOrganizationReference>
+          <Agency>uk.closer</Agency>
+          <ID>a1bdc1c8-d24e-44e1-87f2-5bcd7ab98e22</ID>
+          <Version>3</Version>
+          <TypeOfObject>Organization</TypeOfObject>
+        </AgencyOrganizationReference>
+      </FundingInformation>
+      <Coverage xmlns="ddi:reusable:3_2">
+        <SpatialCoverage isUniversallyUnique="true">
+          <URN>urn:ddi:uk.wchads:52cf068d-a69a-4624-85e9-c75c5bdb2163:2</URN>
+          <Agency>uk.wchads</Agency>
+          <ID>52cf068d-a69a-4624-85e9-c75c5bdb2163</ID>
+          <Version>2</Version>
+          <BoundingBox>
+            <WestLongitude>0</WestLongitude>
+            <EastLongitude>0</EastLongitude>
+            <SouthLatitude>0</SouthLatitude>
+            <NorthLatitude>0</NorthLatitude>
+          </BoundingBox>
+          <Description>
+            <Content xml:lang="en-GB">Wirral, Merseyside, England</Content>
+          </Description>
+          <Country>GB-ENG</Country>
+          <TopLevelReference>
+            <LevelName>Country</LevelName>
+          </TopLevelReference>
+          <LowestLevelReference>
+            <LevelName>Address</LevelName>
+          </LowestLevelReference>
+        </SpatialCoverage>
+        <TemporalCoverage isUniversallyUnique="true">
+          <URN>urn:ddi:uk.wchads:6196116e-4406-4aac-9def-b1c3cafee2d4:2</URN>
+          <Agency>uk.wchads</Agency>
+          <ID>6196116e-4406-4aac-9def-b1c3cafee2d4</ID>
+          <Version>2</Version>
+          <ReferenceDate>
+            <StartDate>2007</StartDate>
+            <EndDate>2008</EndDate>
+          </ReferenceDate>
+        </TemporalCoverage>
+      </Coverage>
+      <AnalysisUnit codeListVersionID="1.0" xmlns="ddi:reusable:3_2">Individual</AnalysisUnit>
+      <KindOfData codeListVersionID="1.0" xmlns="ddi:reusable:3_2">Survey Data</KindOfData>
+      <KindOfData codeListVersionID="1.0" xmlns="ddi:reusable:3_2">Demographic Data</KindOfData>
+      <DataCollection isUniversallyUnique="true" versionDate="2019-11-05T15:18:07.9332936Z" xmlns="ddi:datacollection:3_2">
+        <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.wchads:3d73359c-0c84-4830-9760-f4b3c3410f00:2</URN>
+        <Agency xmlns="ddi:reusable:3_2">uk.wchads</Agency>
+        <ID xmlns="ddi:reusable:3_2">3d73359c-0c84-4830-9760-f4b3c3410f00</ID>
+        <Version xmlns="ddi:reusable:3_2">2</Version>
+        <DataCollectionModuleName>
+          <String xml:lang="en-GB" xmlns="ddi:reusable:3_2">wchads_07_ph01mx</String>
+        </DataCollectionModuleName>
+        <Label xmlns="ddi:reusable:3_2">
+          <Content xml:lang="en-GB">Phase 01 Mother Questionnaire</Content>
+        </Label>
+        <CollectionEvent isUniversallyUnique="true">
+          <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.wchads:e857141c-b75d-4a78-bf2c-70c52696166c:2</URN>
+          <Agency xmlns="ddi:reusable:3_2">uk.wchads</Agency>
+          <ID xmlns="ddi:reusable:3_2">e857141c-b75d-4a78-bf2c-70c52696166c</ID>
+          <Version xmlns="ddi:reusable:3_2">2</Version>
+          <DataCollectorOrganizationReference>
+            <Agency xmlns="ddi:reusable:3_2">uk.closer</Agency>
+            <ID xmlns="ddi:reusable:3_2">ad300f64-2a5c-433d-b83a-359e8c7861c9</ID>
+            <Version xmlns="ddi:reusable:3_2">2</Version>
+            <TypeOfObject xmlns="ddi:reusable:3_2">Organization</TypeOfObject>
+          </DataCollectorOrganizationReference>
+          <DataCollectionDate>
+            <StartDate xmlns="ddi:reusable:3_2">2007</StartDate>
+            <EndDate xmlns="ddi:reusable:3_2">2008</EndDate>
+          </DataCollectionDate>
+          <ModeOfCollection isUniversallyUnique="true">
+            <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.wchads:90d4e800-325a-4a6e-b7da-81a69dd807a4:2</URN>
+            <Agency xmlns="ddi:reusable:3_2">uk.wchads</Agency>
+            <ID xmlns="ddi:reusable:3_2">90d4e800-325a-4a6e-b7da-81a69dd807a4</ID>
+            <Version xmlns="ddi:reusable:3_2">2</Version>
+            <TypeOfModeOfCollection codeListVersionID="1.0">SelfAdministeredQuestionnaire.Paper</TypeOfModeOfCollection>
+            <Description xmlns="ddi:reusable:3_2">
+              <Content xml:lang="en-GB">Self-administered survey using a traditional paper questionnaire.</Content>
+            </Description>
+          </ModeOfCollection>
+        </CollectionEvent>
+      </DataCollection>
+    </StudyUnit>
+  </Group>
+</DDIInstance>

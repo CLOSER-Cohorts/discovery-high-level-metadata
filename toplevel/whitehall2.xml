@@ -1,0 +1,1155 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DDIInstance isUniversallyUnique="true" versionDate="2019-10-11T09:44:07.2109441Z" xmlns="ddi:instance:3_2">
+  <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.closer:175ec2d1-c02b-4460-b8ff-8ba288f68480:1</URN>
+  <Agency xmlns="ddi:reusable:3_2">uk.closer</Agency>
+  <ID xmlns="ddi:reusable:3_2">175ec2d1-c02b-4460-b8ff-8ba288f68480</ID>
+  <Version xmlns="ddi:reusable:3_2">1</Version>
+  <Citation xmlns="ddi:reusable:3_2">
+    <Title>
+      <String xml:lang="en-GB">whitehall</String>
+    </Title>
+  </Citation>
+  <Group isUniversallyUnique="true" versionDate="2019-10-03T13:53:48.1431241Z" xmlns="ddi:group:3_2">
+    <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.whitehall2:2764a197-ab56-4cc6-aca8-2072cd9a0685:12</URN>
+    <Agency xmlns="ddi:reusable:3_2">uk.whitehall2</Agency>
+    <ID xmlns="ddi:reusable:3_2">2764a197-ab56-4cc6-aca8-2072cd9a0685</ID>
+    <Version xmlns="ddi:reusable:3_2">12</Version>
+    <Citation xmlns="ddi:reusable:3_2">
+      <Title>
+        <String xml:lang="en-GB">Whitehall II</String>
+      </Title>
+      <AlternateTitle>
+        <String xml:lang="en-GB">Stress and Health Study</String>
+      </AlternateTitle>
+      <Creator>
+        <CreatorName>
+          <String xml:lang="en-GB">Professor Mika Kivimaki</String>
+        </CreatorName>
+      </Creator>
+      <Publisher>
+        <PublisherName>
+          <String xml:lang="en-GB">Department of Epidemiology and Public Health, University College London</String>
+        </PublisherName>
+      </Publisher>
+      <Copyright>
+        <String xml:lang="en-GB">Copyright Department of Epidemiology and Public Health, University College London, UCL. All rights reserved.</String>
+      </Copyright>
+    </Citation>
+    <Abstract xmlns="ddi:reusable:3_2">
+      <Content xml:lang="en-GB">The Whitehall II study was established in 1985 to investigate the causes of social inequalities in health. 
+Since this first wave of data collection, self-completion questionnaires and clinical data have been collected from the cohort every two to five years with a high level of participation. 
+The study has shown the importance of psychosocial factors such as work stress and work-family conflict in heart disease and diabetes. These are in addition to the contribution of unhealthy behaviours and traditional risk factors (such as high blood pressure).
+By combining over 30 years of data on social inequalities and chronic disease with new clinical measures of cognitive function, mental disorders and physical functioning, the Whitehall II study has become a world-class, interdisciplinary study of ageing, allowing research on multi-morbidity, functional decline, frailty, disability, and dementia.
+
+Study website: &lt;a href="http://www.ucl.ac.uk/whitehallII" target="_blank" title="Whitehall II"&gt;http://www.ucl.ac.uk/whitehallII&lt;/a&gt;</Content>
+    </Abstract>
+    <FundingInformation xmlns="ddi:reusable:3_2">
+      <GrantNumber>MR/K013351/1; G0902037</GrantNumber>
+    </FundingInformation>
+    <FundingInformation xmlns="ddi:reusable:3_2">
+      <GrantNumber>RG/13/2/30098</GrantNumber>
+    </FundingInformation>
+    <FundingInformation xmlns="ddi:reusable:3_2" />
+    <FundingInformation xmlns="ddi:reusable:3_2" />
+    <FundingInformation xmlns="ddi:reusable:3_2" />
+    <FundingInformation xmlns="ddi:reusable:3_2" />
+    <FundingInformation xmlns="ddi:reusable:3_2" />
+    <StudyUnit isUniversallyUnique="true" versionDate="2019-06-10T14:29:48.0757589Z" xmlns="ddi:studyunit:3_2">
+      <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.whitehall2:2eda656d-b320-4b3c-a8a7-1c5110ee47b2:5</URN>
+      <Agency xmlns="ddi:reusable:3_2">uk.whitehall2</Agency>
+      <ID xmlns="ddi:reusable:3_2">2eda656d-b320-4b3c-a8a7-1c5110ee47b2</ID>
+      <Version xmlns="ddi:reusable:3_2">5</Version>
+      <VersionResponsibility xmlns="ddi:reusable:3_2">INST\jjjbgaew</VersionResponsibility>
+      <Citation xmlns="ddi:reusable:3_2">
+        <Title>
+          <String xml:lang="en-GB">Phase 1</String>
+        </Title>
+        <Creator>
+          <CreatorName>
+            <String xml:lang="en-GB">Professor Michael Marmot</String>
+          </CreatorName>
+        </Creator>
+        <Publisher>
+          <PublisherName>
+            <String xml:lang="en-GB">University College London</String>
+          </PublisherName>
+        </Publisher>
+      </Citation>
+      <Abstract xmlns="ddi:reusable:3_2">
+        <Content xml:lang="en-GB">First collection of self-reported questionnaire data and biomedical measurements from the totality of Whitehall II cohort members.</Content>
+      </Abstract>
+      <UniverseReference xmlns="ddi:reusable:3_2">
+        <Agency>uk.whitehall2</Agency>
+        <ID>ffc10edc-b5dd-489b-94b7-e662f4f07ba3</ID>
+        <Version>1</Version>
+        <TypeOfObject>Universe</TypeOfObject>
+      </UniverseReference>
+      <FundingInformation xmlns="ddi:reusable:3_2">
+        <AgencyOrganizationReference>
+          <Agency>uk.closer</Agency>
+          <ID>a1bdc1c8-d24e-44e1-87f2-5bcd7ab98e22</ID>
+          <Version>2</Version>
+          <TypeOfObject>Organization</TypeOfObject>
+        </AgencyOrganizationReference>
+      </FundingInformation>
+      <FundingInformation xmlns="ddi:reusable:3_2">
+        <AgencyOrganizationReference>
+          <Agency>uk.closer</Agency>
+          <ID>b2244fef-f3f9-4d3a-9c60-8ee2aa92a6e7</ID>
+          <Version>1</Version>
+          <TypeOfObject>Organization</TypeOfObject>
+        </AgencyOrganizationReference>
+      </FundingInformation>
+      <FundingInformation xmlns="ddi:reusable:3_2">
+        <AgencyOrganizationReference>
+          <Agency>uk.closer</Agency>
+          <ID>efe72092-fff6-4bee-98e7-0fac4a3dbd17</ID>
+          <Version>2</Version>
+          <TypeOfObject>Organization</TypeOfObject>
+        </AgencyOrganizationReference>
+      </FundingInformation>
+      <Coverage xmlns="ddi:reusable:3_2">
+        <SpatialCoverage isUniversallyUnique="true">
+          <URN>urn:ddi:uk.whitehall2:63250a24-4808-4fc6-88f9-0103ccb573a9:5</URN>
+          <Agency>uk.whitehall2</Agency>
+          <ID>63250a24-4808-4fc6-88f9-0103ccb573a9</ID>
+          <Version>5</Version>
+          <BoundingBox>
+            <WestLongitude>0</WestLongitude>
+            <EastLongitude>0</EastLongitude>
+            <SouthLatitude>0</SouthLatitude>
+            <NorthLatitude>0</NorthLatitude>
+          </BoundingBox>
+          <Country>GB-ENG</Country>
+          <Country></Country>
+          <TopLevelReference>
+            <LevelName>Country</LevelName>
+          </TopLevelReference>
+          <LowestLevelReference>
+            <LevelName>Postcode (not to share)</LevelName>
+          </LowestLevelReference>
+        </SpatialCoverage>
+        <TemporalCoverage isUniversallyUnique="true">
+          <URN>urn:ddi:uk.whitehall2:180e66e5-28d2-4f93-b9ab-3c8b9c8ff876:5</URN>
+          <Agency>uk.whitehall2</Agency>
+          <ID>180e66e5-28d2-4f93-b9ab-3c8b9c8ff876</ID>
+          <Version>5</Version>
+          <ReferenceDate>
+            <StartDate>1985</StartDate>
+            <EndDate>1988</EndDate>
+          </ReferenceDate>
+        </TemporalCoverage>
+      </Coverage>
+      <AnalysisUnit codeListVersionID="1.0" xmlns="ddi:reusable:3_2">Individual</AnalysisUnit>
+      <KindOfData codeListVersionID="1.0" xmlns="ddi:reusable:3_2">Survey Data</KindOfData>
+      <KindOfData codeListVersionID="1.0" xmlns="ddi:reusable:3_2">Demographic Data</KindOfData>
+      <KindOfData codeListVersionID="1.0" xmlns="ddi:reusable:3_2">Measurement Dat</KindOfData>
+      <KindOfData codeListVersionID="1.0" xmlns="ddi:reusable:3_2"> Biosample Data</KindOfData>
+    </StudyUnit>
+    <StudyUnit isUniversallyUnique="true" versionDate="2019-06-26T12:20:32.0684923Z" xmlns="ddi:studyunit:3_2">
+      <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.whitehall2:0c1eb834-0ffd-4f6c-a0d3-abfc69e6b6b8:6</URN>
+      <Agency xmlns="ddi:reusable:3_2">uk.whitehall2</Agency>
+      <ID xmlns="ddi:reusable:3_2">0c1eb834-0ffd-4f6c-a0d3-abfc69e6b6b8</ID>
+      <Version xmlns="ddi:reusable:3_2">6</Version>
+      <VersionResponsibility xmlns="ddi:reusable:3_2">INST\jjjbgaew</VersionResponsibility>
+      <Citation xmlns="ddi:reusable:3_2">
+        <Title>
+          <String xml:lang="en-GB">Phase 2</String>
+        </Title>
+        <Creator>
+          <CreatorName>
+            <String xml:lang="en-GB">Professor Michael Marmot</String>
+          </CreatorName>
+        </Creator>
+        <Publisher>
+          <PublisherName>
+            <String xml:lang="en-GB">University College London</String>
+          </PublisherName>
+        </Publisher>
+      </Citation>
+      <Abstract xmlns="ddi:reusable:3_2">
+        <Content xml:lang="en-GB">Second collection of self-reported questionnaire data from the eligible Whitehall II cohort members.</Content>
+      </Abstract>
+      <UniverseReference xmlns="ddi:reusable:3_2">
+        <Agency>uk.whitehall2</Agency>
+        <ID>ffc10edc-b5dd-489b-94b7-e662f4f07ba3</ID>
+        <Version>1</Version>
+        <TypeOfObject>Universe</TypeOfObject>
+      </UniverseReference>
+      <FundingInformation xmlns="ddi:reusable:3_2">
+        <AgencyOrganizationReference>
+          <Agency>uk.closer</Agency>
+          <ID>a1bdc1c8-d24e-44e1-87f2-5bcd7ab98e22</ID>
+          <Version>2</Version>
+          <TypeOfObject>Organization</TypeOfObject>
+        </AgencyOrganizationReference>
+      </FundingInformation>
+      <FundingInformation xmlns="ddi:reusable:3_2">
+        <AgencyOrganizationReference>
+          <Agency>uk.closer</Agency>
+          <ID>efe72092-fff6-4bee-98e7-0fac4a3dbd17</ID>
+          <Version>2</Version>
+          <TypeOfObject>Organization</TypeOfObject>
+        </AgencyOrganizationReference>
+      </FundingInformation>
+      <Coverage xmlns="ddi:reusable:3_2">
+        <SpatialCoverage isUniversallyUnique="true">
+          <URN>urn:ddi:uk.whitehall2:e5a91971-5ea5-4159-93a6-014172ec1def:6</URN>
+          <Agency>uk.whitehall2</Agency>
+          <ID>e5a91971-5ea5-4159-93a6-014172ec1def</ID>
+          <Version>6</Version>
+          <BoundingBox>
+            <WestLongitude>0</WestLongitude>
+            <EastLongitude>0</EastLongitude>
+            <SouthLatitude>0</SouthLatitude>
+            <NorthLatitude>0</NorthLatitude>
+          </BoundingBox>
+          <TopLevelReference>
+            <LevelName>Country</LevelName>
+          </TopLevelReference>
+          <LowestLevelReference>
+            <LevelName>Postcode (not to share)</LevelName>
+          </LowestLevelReference>
+        </SpatialCoverage>
+        <TemporalCoverage isUniversallyUnique="true">
+          <URN>urn:ddi:uk.whitehall2:c5718a85-853d-4080-9ed8-2c5141d3687e:6</URN>
+          <Agency>uk.whitehall2</Agency>
+          <ID>c5718a85-853d-4080-9ed8-2c5141d3687e</ID>
+          <Version>6</Version>
+          <ReferenceDate>
+            <StartDate>1989</StartDate>
+            <EndDate>1990</EndDate>
+          </ReferenceDate>
+        </TemporalCoverage>
+      </Coverage>
+      <AnalysisUnit codeListVersionID="1.0" xmlns="ddi:reusable:3_2">Individual</AnalysisUnit>
+      <KindOfData codeListVersionID="1.0" xmlns="ddi:reusable:3_2">Survey Data</KindOfData>
+      <KindOfData codeListVersionID="1.0" xmlns="ddi:reusable:3_2">Demographic Data</KindOfData>
+      <KindOfData codeListVersionID="1.0" xmlns="ddi:reusable:3_2">Measurement Data</KindOfData>
+      <KindOfData codeListVersionID="1.0" xmlns="ddi:reusable:3_2">Biosample Data</KindOfData>
+    </StudyUnit>
+    <StudyUnit isUniversallyUnique="true" versionDate="2019-06-10T14:29:48.0757589Z" xmlns="ddi:studyunit:3_2">
+      <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.whitehall2:a3bcc9ee-f88c-4809-986e-766c49c5d3b2:5</URN>
+      <Agency xmlns="ddi:reusable:3_2">uk.whitehall2</Agency>
+      <ID xmlns="ddi:reusable:3_2">a3bcc9ee-f88c-4809-986e-766c49c5d3b2</ID>
+      <Version xmlns="ddi:reusable:3_2">5</Version>
+      <VersionResponsibility xmlns="ddi:reusable:3_2">INST\jjjbgaew</VersionResponsibility>
+      <Citation xmlns="ddi:reusable:3_2">
+        <Title>
+          <String xml:lang="en-GB">Phase 3</String>
+        </Title>
+        <Creator>
+          <CreatorName>
+            <String xml:lang="en-GB">Professor Michael Marmot</String>
+          </CreatorName>
+        </Creator>
+        <Publisher>
+          <PublisherName>
+            <String xml:lang="en-GB">University College London</String>
+          </PublisherName>
+        </Publisher>
+      </Citation>
+      <Abstract xmlns="ddi:reusable:3_2">
+        <Content xml:lang="en-GB">Third collection of self-reported questionnaire data and biomedical measurements from the eligible Whitehall II cohort members.</Content>
+      </Abstract>
+      <UniverseReference xmlns="ddi:reusable:3_2">
+        <Agency>uk.whitehall2</Agency>
+        <ID>ffc10edc-b5dd-489b-94b7-e662f4f07ba3</ID>
+        <Version>1</Version>
+        <TypeOfObject>Universe</TypeOfObject>
+      </UniverseReference>
+      <FundingInformation xmlns="ddi:reusable:3_2">
+        <AgencyOrganizationReference>
+          <Agency>uk.closer</Agency>
+          <ID>a1bdc1c8-d24e-44e1-87f2-5bcd7ab98e22</ID>
+          <Version>2</Version>
+          <TypeOfObject>Organization</TypeOfObject>
+        </AgencyOrganizationReference>
+      </FundingInformation>
+      <FundingInformation xmlns="ddi:reusable:3_2">
+        <AgencyOrganizationReference>
+          <Agency>uk.closer</Agency>
+          <ID>d49d6bfe-87f7-4f55-bb6d-a112aa9156fa</ID>
+          <Version>1</Version>
+          <TypeOfObject>Organization</TypeOfObject>
+        </AgencyOrganizationReference>
+      </FundingInformation>
+      <FundingInformation xmlns="ddi:reusable:3_2">
+        <AgencyOrganizationReference>
+          <Agency>uk.closer</Agency>
+          <ID>b2244fef-f3f9-4d3a-9c60-8ee2aa92a6e7</ID>
+          <Version>1</Version>
+          <TypeOfObject>Organization</TypeOfObject>
+        </AgencyOrganizationReference>
+      </FundingInformation>
+      <FundingInformation xmlns="ddi:reusable:3_2">
+        <AgencyOrganizationReference>
+          <Agency>uk.closer</Agency>
+          <ID>f59cfbb4-d752-493e-b209-bb5dd58af8d5</ID>
+          <Version>2</Version>
+          <TypeOfObject>Organization</TypeOfObject>
+        </AgencyOrganizationReference>
+      </FundingInformation>
+      <Coverage xmlns="ddi:reusable:3_2">
+        <SpatialCoverage isUniversallyUnique="true">
+          <URN>urn:ddi:uk.whitehall2:534d3b85-97a7-42ff-a2c6-de18b55a9266:5</URN>
+          <Agency>uk.whitehall2</Agency>
+          <ID>534d3b85-97a7-42ff-a2c6-de18b55a9266</ID>
+          <Version>5</Version>
+          <BoundingBox>
+            <WestLongitude>0</WestLongitude>
+            <EastLongitude>0</EastLongitude>
+            <SouthLatitude>0</SouthLatitude>
+            <NorthLatitude>0</NorthLatitude>
+          </BoundingBox>
+          <TopLevelReference>
+            <LevelName>Country</LevelName>
+          </TopLevelReference>
+          <LowestLevelReference>
+            <LevelName>Postcode (not to share)</LevelName>
+          </LowestLevelReference>
+        </SpatialCoverage>
+        <TemporalCoverage isUniversallyUnique="true">
+          <URN>urn:ddi:uk.whitehall2:b03a2466-64c0-470e-8e1e-1661060d826f:5</URN>
+          <Agency>uk.whitehall2</Agency>
+          <ID>b03a2466-64c0-470e-8e1e-1661060d826f</ID>
+          <Version>5</Version>
+          <ReferenceDate>
+            <StartDate>1991</StartDate>
+            <EndDate>1994</EndDate>
+          </ReferenceDate>
+        </TemporalCoverage>
+      </Coverage>
+      <AnalysisUnit codeListVersionID="1.0" xmlns="ddi:reusable:3_2">Individual</AnalysisUnit>
+      <KindOfData codeListVersionID="1.0" xmlns="ddi:reusable:3_2">Survey Data</KindOfData>
+      <KindOfData codeListVersionID="1.0" xmlns="ddi:reusable:3_2">Demographic Data</KindOfData>
+      <KindOfData codeListVersionID="1.0" xmlns="ddi:reusable:3_2">Measurement Data</KindOfData>
+      <KindOfData codeListVersionID="1.0" xmlns="ddi:reusable:3_2">Biosample Data</KindOfData>
+    </StudyUnit>
+    <StudyUnit isUniversallyUnique="true" versionDate="2019-06-10T14:29:48.0757589Z" xmlns="ddi:studyunit:3_2">
+      <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.whitehall2:ce5b0c92-3600-4e16-a0ab-254dc755f05a:5</URN>
+      <Agency xmlns="ddi:reusable:3_2">uk.whitehall2</Agency>
+      <ID xmlns="ddi:reusable:3_2">ce5b0c92-3600-4e16-a0ab-254dc755f05a</ID>
+      <Version xmlns="ddi:reusable:3_2">5</Version>
+      <VersionResponsibility xmlns="ddi:reusable:3_2">INST\jjjbgaew</VersionResponsibility>
+      <Citation xmlns="ddi:reusable:3_2">
+        <Title>
+          <String xml:lang="en-GB">Phase 4</String>
+        </Title>
+        <Creator>
+          <CreatorName>
+            <String xml:lang="en-GB">Professor Michael Marmot</String>
+          </CreatorName>
+        </Creator>
+        <Publisher>
+          <PublisherName>
+            <String xml:lang="en-GB">University College London</String>
+          </PublisherName>
+        </Publisher>
+      </Citation>
+      <Abstract xmlns="ddi:reusable:3_2">
+        <Content xml:lang="en-GB">Fourth collection of self-reported questionnaire data from the eligible Whitehall II cohort members.</Content>
+      </Abstract>
+      <UniverseReference xmlns="ddi:reusable:3_2">
+        <Agency>uk.whitehall2</Agency>
+        <ID>ffc10edc-b5dd-489b-94b7-e662f4f07ba3</ID>
+        <Version>1</Version>
+        <TypeOfObject>Universe</TypeOfObject>
+      </UniverseReference>
+      <FundingInformation xmlns="ddi:reusable:3_2">
+        <AgencyOrganizationReference>
+          <Agency>uk.closer</Agency>
+          <ID>a1bdc1c8-d24e-44e1-87f2-5bcd7ab98e22</ID>
+          <Version>2</Version>
+          <TypeOfObject>Organization</TypeOfObject>
+        </AgencyOrganizationReference>
+      </FundingInformation>
+      <Coverage xmlns="ddi:reusable:3_2">
+        <SpatialCoverage isUniversallyUnique="true">
+          <URN>urn:ddi:uk.whitehall2:807f07fe-de73-473d-a0d2-12696df252dd:5</URN>
+          <Agency>uk.whitehall2</Agency>
+          <ID>807f07fe-de73-473d-a0d2-12696df252dd</ID>
+          <Version>5</Version>
+          <BoundingBox>
+            <WestLongitude>0</WestLongitude>
+            <EastLongitude>0</EastLongitude>
+            <SouthLatitude>0</SouthLatitude>
+            <NorthLatitude>0</NorthLatitude>
+          </BoundingBox>
+          <TopLevelReference>
+            <LevelName>Country</LevelName>
+          </TopLevelReference>
+          <LowestLevelReference>
+            <LevelName>Postcode (not to share)</LevelName>
+          </LowestLevelReference>
+        </SpatialCoverage>
+        <TemporalCoverage isUniversallyUnique="true">
+          <URN>urn:ddi:uk.whitehall2:b469f268-8675-419d-8f1b-4aaef721ce8c:5</URN>
+          <Agency>uk.whitehall2</Agency>
+          <ID>b469f268-8675-419d-8f1b-4aaef721ce8c</ID>
+          <Version>5</Version>
+          <ReferenceDate>
+            <StartDate>1995</StartDate>
+            <EndDate>1996</EndDate>
+          </ReferenceDate>
+        </TemporalCoverage>
+      </Coverage>
+      <AnalysisUnit codeListVersionID="1.0" xmlns="ddi:reusable:3_2">Individual</AnalysisUnit>
+      <KindOfData codeListVersionID="1.0" xmlns="ddi:reusable:3_2">Survey Data</KindOfData>
+      <KindOfData codeListVersionID="1.0" xmlns="ddi:reusable:3_2">Demographic Data</KindOfData>
+      <KindOfData codeListVersionID="1.0" xmlns="ddi:reusable:3_2">Measurement Data</KindOfData>
+      <KindOfData codeListVersionID="1.0" xmlns="ddi:reusable:3_2">Biosample Data</KindOfData>
+    </StudyUnit>
+    <StudyUnit isUniversallyUnique="true" versionDate="2019-06-10T14:29:48.0757589Z" xmlns="ddi:studyunit:3_2">
+      <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.whitehall2:cbc4a245-b405-49cb-9038-74e1d410b937:5</URN>
+      <Agency xmlns="ddi:reusable:3_2">uk.whitehall2</Agency>
+      <ID xmlns="ddi:reusable:3_2">cbc4a245-b405-49cb-9038-74e1d410b937</ID>
+      <Version xmlns="ddi:reusable:3_2">5</Version>
+      <VersionResponsibility xmlns="ddi:reusable:3_2">INST\jjjbgaew</VersionResponsibility>
+      <Citation xmlns="ddi:reusable:3_2">
+        <Title>
+          <String xml:lang="en-GB">Phase 5</String>
+        </Title>
+        <Creator>
+          <CreatorName>
+            <String xml:lang="en-GB">Professor Michael Marmot</String>
+          </CreatorName>
+        </Creator>
+        <Publisher>
+          <PublisherName>
+            <String xml:lang="en-GB">University College London</String>
+          </PublisherName>
+        </Publisher>
+      </Citation>
+      <Abstract xmlns="ddi:reusable:3_2">
+        <Content xml:lang="en-GB">Fifth collection of self-reported questionnaire data and biomedical measurements from the eligible Whitehall II cohort members.</Content>
+      </Abstract>
+      <UniverseReference xmlns="ddi:reusable:3_2">
+        <Agency>uk.whitehall2</Agency>
+        <ID>ffc10edc-b5dd-489b-94b7-e662f4f07ba3</ID>
+        <Version>1</Version>
+        <TypeOfObject>Universe</TypeOfObject>
+      </UniverseReference>
+      <FundingInformation xmlns="ddi:reusable:3_2">
+        <AgencyOrganizationReference>
+          <Agency>uk.closer</Agency>
+          <ID>a1bdc1c8-d24e-44e1-87f2-5bcd7ab98e22</ID>
+          <Version>2</Version>
+          <TypeOfObject>Organization</TypeOfObject>
+        </AgencyOrganizationReference>
+      </FundingInformation>
+      <FundingInformation xmlns="ddi:reusable:3_2">
+        <AgencyOrganizationReference>
+          <Agency>uk.closer</Agency>
+          <ID>d49d6bfe-87f7-4f55-bb6d-a112aa9156fa</ID>
+          <Version>1</Version>
+          <TypeOfObject>Organization</TypeOfObject>
+        </AgencyOrganizationReference>
+      </FundingInformation>
+      <FundingInformation xmlns="ddi:reusable:3_2">
+        <AgencyOrganizationReference>
+          <Agency>uk.closer</Agency>
+          <ID>b2244fef-f3f9-4d3a-9c60-8ee2aa92a6e7</ID>
+          <Version>1</Version>
+          <TypeOfObject>Organization</TypeOfObject>
+        </AgencyOrganizationReference>
+      </FundingInformation>
+      <FundingInformation xmlns="ddi:reusable:3_2">
+        <AgencyOrganizationReference>
+          <Agency>uk.closer</Agency>
+          <ID>966f2b51-9879-404d-8e75-906067051563</ID>
+          <Version>1</Version>
+          <TypeOfObject>Organization</TypeOfObject>
+        </AgencyOrganizationReference>
+      </FundingInformation>
+      <Coverage xmlns="ddi:reusable:3_2">
+        <SpatialCoverage isUniversallyUnique="true">
+          <URN>urn:ddi:uk.whitehall2:34186cd8-222f-4ab8-9ebb-1b4e7702d689:5</URN>
+          <Agency>uk.whitehall2</Agency>
+          <ID>34186cd8-222f-4ab8-9ebb-1b4e7702d689</ID>
+          <Version>5</Version>
+          <BoundingBox>
+            <WestLongitude>0</WestLongitude>
+            <EastLongitude>0</EastLongitude>
+            <SouthLatitude>0</SouthLatitude>
+            <NorthLatitude>0</NorthLatitude>
+          </BoundingBox>
+          <TopLevelReference>
+            <LevelName>Country</LevelName>
+          </TopLevelReference>
+          <LowestLevelReference>
+            <LevelName>Postcode (not to share)</LevelName>
+          </LowestLevelReference>
+        </SpatialCoverage>
+        <TemporalCoverage isUniversallyUnique="true">
+          <URN>urn:ddi:uk.whitehall2:a9df4a86-593d-4699-aead-8cb33accd352:5</URN>
+          <Agency>uk.whitehall2</Agency>
+          <ID>a9df4a86-593d-4699-aead-8cb33accd352</ID>
+          <Version>5</Version>
+          <ReferenceDate>
+            <StartDate>1997</StartDate>
+            <EndDate>1999</EndDate>
+          </ReferenceDate>
+        </TemporalCoverage>
+      </Coverage>
+      <AnalysisUnit codeListVersionID="1.0" xmlns="ddi:reusable:3_2">Individual</AnalysisUnit>
+      <KindOfData codeListVersionID="1.0" xmlns="ddi:reusable:3_2">Survey Data</KindOfData>
+      <KindOfData codeListVersionID="1.0" xmlns="ddi:reusable:3_2">Demographic Data</KindOfData>
+      <KindOfData codeListVersionID="1.0" xmlns="ddi:reusable:3_2">Measurement Data</KindOfData>
+      <KindOfData codeListVersionID="1.0" xmlns="ddi:reusable:3_2">Biosample Data</KindOfData>
+    </StudyUnit>
+    <StudyUnit isUniversallyUnique="true" versionDate="2019-06-10T14:29:48.0757589Z" xmlns="ddi:studyunit:3_2">
+      <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.whitehall2:ef7688db-1d4d-421c-87a8-83b09d163133:5</URN>
+      <Agency xmlns="ddi:reusable:3_2">uk.whitehall2</Agency>
+      <ID xmlns="ddi:reusable:3_2">ef7688db-1d4d-421c-87a8-83b09d163133</ID>
+      <Version xmlns="ddi:reusable:3_2">5</Version>
+      <VersionResponsibility xmlns="ddi:reusable:3_2">INST\jjjbgaew</VersionResponsibility>
+      <Citation xmlns="ddi:reusable:3_2">
+        <Title>
+          <String xml:lang="en-GB">Phase 6</String>
+        </Title>
+        <Creator>
+          <CreatorName>
+            <String xml:lang="en-GB">Professor Michael Marmot</String>
+          </CreatorName>
+        </Creator>
+        <Publisher>
+          <PublisherName>
+            <String xml:lang="en-GB">University College London</String>
+          </PublisherName>
+        </Publisher>
+      </Citation>
+      <Abstract xmlns="ddi:reusable:3_2">
+        <Content xml:lang="en-GB">Sixth collection of self-reported questionnaire data from the eligible Whitehall II cohort members.</Content>
+      </Abstract>
+      <UniverseReference xmlns="ddi:reusable:3_2">
+        <Agency>uk.whitehall2</Agency>
+        <ID>ffc10edc-b5dd-489b-94b7-e662f4f07ba3</ID>
+        <Version>1</Version>
+        <TypeOfObject>Universe</TypeOfObject>
+      </UniverseReference>
+      <FundingInformation xmlns="ddi:reusable:3_2">
+        <AgencyOrganizationReference>
+          <Agency>uk.closer</Agency>
+          <ID>a1bdc1c8-d24e-44e1-87f2-5bcd7ab98e22</ID>
+          <Version>2</Version>
+          <TypeOfObject>Organization</TypeOfObject>
+        </AgencyOrganizationReference>
+      </FundingInformation>
+      <Coverage xmlns="ddi:reusable:3_2">
+        <SpatialCoverage isUniversallyUnique="true">
+          <URN>urn:ddi:uk.whitehall2:f1c6cc04-4b1e-4b68-9096-6afe6987d220:5</URN>
+          <Agency>uk.whitehall2</Agency>
+          <ID>f1c6cc04-4b1e-4b68-9096-6afe6987d220</ID>
+          <Version>5</Version>
+          <BoundingBox>
+            <WestLongitude>0</WestLongitude>
+            <EastLongitude>0</EastLongitude>
+            <SouthLatitude>0</SouthLatitude>
+            <NorthLatitude>0</NorthLatitude>
+          </BoundingBox>
+          <TopLevelReference>
+            <LevelName>Country</LevelName>
+          </TopLevelReference>
+          <LowestLevelReference>
+            <LevelName>Postcode (not to share)</LevelName>
+          </LowestLevelReference>
+        </SpatialCoverage>
+        <TemporalCoverage isUniversallyUnique="true">
+          <URN>urn:ddi:uk.whitehall2:acf7670d-10f2-4dff-b04f-3bc0f1589f9c:5</URN>
+          <Agency>uk.whitehall2</Agency>
+          <ID>acf7670d-10f2-4dff-b04f-3bc0f1589f9c</ID>
+          <Version>5</Version>
+          <ReferenceDate>
+            <StartDate>2001</StartDate>
+            <EndDate>2001</EndDate>
+          </ReferenceDate>
+        </TemporalCoverage>
+      </Coverage>
+      <AnalysisUnit codeListVersionID="1.0" xmlns="ddi:reusable:3_2">Individual</AnalysisUnit>
+      <KindOfData codeListVersionID="1.0" xmlns="ddi:reusable:3_2">Survey Data</KindOfData>
+      <KindOfData codeListVersionID="1.0" xmlns="ddi:reusable:3_2">Demographic Data</KindOfData>
+      <KindOfData codeListVersionID="1.0" xmlns="ddi:reusable:3_2">Measurement Data</KindOfData>
+      <KindOfData codeListVersionID="1.0" xmlns="ddi:reusable:3_2">Biosample Data</KindOfData>
+    </StudyUnit>
+    <StudyUnit isUniversallyUnique="true" versionDate="2019-06-10T14:29:48.0757589Z" xmlns="ddi:studyunit:3_2">
+      <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.whitehall2:48002ede-fcf1-4150-bde0-ed25d0887d7a:5</URN>
+      <Agency xmlns="ddi:reusable:3_2">uk.whitehall2</Agency>
+      <ID xmlns="ddi:reusable:3_2">48002ede-fcf1-4150-bde0-ed25d0887d7a</ID>
+      <Version xmlns="ddi:reusable:3_2">5</Version>
+      <VersionResponsibility xmlns="ddi:reusable:3_2">INST\jjjbgaew</VersionResponsibility>
+      <Citation xmlns="ddi:reusable:3_2">
+        <Title>
+          <String xml:lang="en-GB">Phase 7</String>
+        </Title>
+        <Creator>
+          <CreatorName>
+            <String xml:lang="en-GB">Professor Michael Marmot</String>
+          </CreatorName>
+        </Creator>
+        <Publisher>
+          <PublisherName>
+            <String xml:lang="en-GB">University College London</String>
+          </PublisherName>
+        </Publisher>
+      </Citation>
+      <Abstract xmlns="ddi:reusable:3_2">
+        <Content xml:lang="en-GB">Seventh collection of self-reported questionnaire data and biomedical measurements from the eligible Whitehall II cohort members.</Content>
+      </Abstract>
+      <UniverseReference xmlns="ddi:reusable:3_2">
+        <Agency>uk.whitehall2</Agency>
+        <ID>ffc10edc-b5dd-489b-94b7-e662f4f07ba3</ID>
+        <Version>1</Version>
+        <TypeOfObject>Universe</TypeOfObject>
+      </UniverseReference>
+      <FundingInformation xmlns="ddi:reusable:3_2">
+        <AgencyOrganizationReference>
+          <Agency>uk.closer</Agency>
+          <ID>a1bdc1c8-d24e-44e1-87f2-5bcd7ab98e22</ID>
+          <Version>2</Version>
+          <TypeOfObject>Organization</TypeOfObject>
+        </AgencyOrganizationReference>
+      </FundingInformation>
+      <FundingInformation xmlns="ddi:reusable:3_2">
+        <AgencyOrganizationReference>
+          <Agency>uk.closer</Agency>
+          <ID>d49d6bfe-87f7-4f55-bb6d-a112aa9156fa</ID>
+          <Version>1</Version>
+          <TypeOfObject>Organization</TypeOfObject>
+        </AgencyOrganizationReference>
+      </FundingInformation>
+      <FundingInformation xmlns="ddi:reusable:3_2">
+        <AgencyOrganizationReference>
+          <Agency>uk.closer</Agency>
+          <ID>b2244fef-f3f9-4d3a-9c60-8ee2aa92a6e7</ID>
+          <Version>1</Version>
+          <TypeOfObject>Organization</TypeOfObject>
+        </AgencyOrganizationReference>
+      </FundingInformation>
+      <FundingInformation xmlns="ddi:reusable:3_2">
+        <AgencyOrganizationReference>
+          <Agency>uk.closer</Agency>
+          <ID>820ff991-84b9-4b55-b8cf-ad3cb0083307</ID>
+          <Version>1</Version>
+          <TypeOfObject>Organization</TypeOfObject>
+        </AgencyOrganizationReference>
+      </FundingInformation>
+      <Coverage xmlns="ddi:reusable:3_2">
+        <SpatialCoverage isUniversallyUnique="true">
+          <URN>urn:ddi:uk.whitehall2:12c5efba-ed0c-44f8-bb82-951389e4c5cb:5</URN>
+          <Agency>uk.whitehall2</Agency>
+          <ID>12c5efba-ed0c-44f8-bb82-951389e4c5cb</ID>
+          <Version>5</Version>
+          <BoundingBox>
+            <WestLongitude>0</WestLongitude>
+            <EastLongitude>0</EastLongitude>
+            <SouthLatitude>0</SouthLatitude>
+            <NorthLatitude>0</NorthLatitude>
+          </BoundingBox>
+          <TopLevelReference>
+            <LevelName>Country</LevelName>
+          </TopLevelReference>
+          <LowestLevelReference>
+            <LevelName>Postcode (not to share)</LevelName>
+          </LowestLevelReference>
+        </SpatialCoverage>
+        <TemporalCoverage isUniversallyUnique="true">
+          <URN>urn:ddi:uk.whitehall2:75607277-c18f-4b20-ae2a-5fcaf6eb5f4f:5</URN>
+          <Agency>uk.whitehall2</Agency>
+          <ID>75607277-c18f-4b20-ae2a-5fcaf6eb5f4f</ID>
+          <Version>5</Version>
+          <ReferenceDate>
+            <StartDate>2002</StartDate>
+            <EndDate>2004</EndDate>
+          </ReferenceDate>
+        </TemporalCoverage>
+      </Coverage>
+      <AnalysisUnit codeListVersionID="1.0" xmlns="ddi:reusable:3_2">Individual</AnalysisUnit>
+      <KindOfData codeListVersionID="1.0" xmlns="ddi:reusable:3_2">Survey Data</KindOfData>
+      <KindOfData codeListVersionID="1.0" xmlns="ddi:reusable:3_2">Demographic Data</KindOfData>
+      <KindOfData codeListVersionID="1.0" xmlns="ddi:reusable:3_2">Measurement Data</KindOfData>
+      <KindOfData codeListVersionID="1.0" xmlns="ddi:reusable:3_2">Biosample Data</KindOfData>
+    </StudyUnit>
+    <StudyUnit isUniversallyUnique="true" versionDate="2019-06-10T14:29:48.0757589Z" xmlns="ddi:studyunit:3_2">
+      <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.whitehall2:c08e33f3-0cbc-427b-a514-8eecf7e67142:5</URN>
+      <Agency xmlns="ddi:reusable:3_2">uk.whitehall2</Agency>
+      <ID xmlns="ddi:reusable:3_2">c08e33f3-0cbc-427b-a514-8eecf7e67142</ID>
+      <Version xmlns="ddi:reusable:3_2">5</Version>
+      <VersionResponsibility xmlns="ddi:reusable:3_2">INST\jjjbgaew</VersionResponsibility>
+      <Citation xmlns="ddi:reusable:3_2">
+        <Title>
+          <String xml:lang="en-GB">Phase 8</String>
+        </Title>
+        <Creator>
+          <CreatorName>
+            <String xml:lang="en-GB">Professor Michael Marmot</String>
+          </CreatorName>
+        </Creator>
+        <Publisher>
+          <PublisherName>
+            <String xml:lang="en-GB">University College London</String>
+          </PublisherName>
+        </Publisher>
+      </Citation>
+      <Abstract xmlns="ddi:reusable:3_2">
+        <Content xml:lang="en-GB">Eighth collection of self-reported questionnaire data from the eligible Whitehall II cohort members. </Content>
+      </Abstract>
+      <UniverseReference xmlns="ddi:reusable:3_2">
+        <Agency>uk.whitehall2</Agency>
+        <ID>ffc10edc-b5dd-489b-94b7-e662f4f07ba3</ID>
+        <Version>1</Version>
+        <TypeOfObject>Universe</TypeOfObject>
+      </UniverseReference>
+      <FundingInformation xmlns="ddi:reusable:3_2">
+        <AgencyOrganizationReference>
+          <Agency>uk.closer</Agency>
+          <ID>a1bdc1c8-d24e-44e1-87f2-5bcd7ab98e22</ID>
+          <Version>2</Version>
+          <TypeOfObject>Organization</TypeOfObject>
+        </AgencyOrganizationReference>
+      </FundingInformation>
+      <Coverage xmlns="ddi:reusable:3_2">
+        <SpatialCoverage isUniversallyUnique="true">
+          <URN>urn:ddi:uk.whitehall2:dbfc54d7-6c99-441d-9937-b878ab569cc5:5</URN>
+          <Agency>uk.whitehall2</Agency>
+          <ID>dbfc54d7-6c99-441d-9937-b878ab569cc5</ID>
+          <Version>5</Version>
+          <BoundingBox>
+            <WestLongitude>0</WestLongitude>
+            <EastLongitude>0</EastLongitude>
+            <SouthLatitude>0</SouthLatitude>
+            <NorthLatitude>0</NorthLatitude>
+          </BoundingBox>
+          <TopLevelReference>
+            <LevelName>Country</LevelName>
+          </TopLevelReference>
+          <LowestLevelReference>
+            <LevelName>Postcode (not to share)</LevelName>
+          </LowestLevelReference>
+        </SpatialCoverage>
+        <TemporalCoverage isUniversallyUnique="true">
+          <URN>urn:ddi:uk.whitehall2:3f020318-5895-4711-8617-9b0d1a215fa8:5</URN>
+          <Agency>uk.whitehall2</Agency>
+          <ID>3f020318-5895-4711-8617-9b0d1a215fa8</ID>
+          <Version>5</Version>
+          <ReferenceDate>
+            <StartDate>2006</StartDate>
+            <EndDate>2006</EndDate>
+          </ReferenceDate>
+        </TemporalCoverage>
+      </Coverage>
+      <AnalysisUnit codeListVersionID="1.0" xmlns="ddi:reusable:3_2">Individual</AnalysisUnit>
+      <KindOfData codeListVersionID="1.0" xmlns="ddi:reusable:3_2">Survey Data</KindOfData>
+      <KindOfData codeListVersionID="1.0" xmlns="ddi:reusable:3_2">Demographic Data</KindOfData>
+      <KindOfData codeListVersionID="1.0" xmlns="ddi:reusable:3_2">Measurement Data</KindOfData>
+      <KindOfData codeListVersionID="1.0" xmlns="ddi:reusable:3_2">Biosample Data</KindOfData>
+    </StudyUnit>
+    <StudyUnit isUniversallyUnique="true" versionDate="2019-06-10T14:29:48.0757589Z" xmlns="ddi:studyunit:3_2">
+      <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.whitehall2:83bc5c94-86d9-40f1-b75f-cbef95329e42:4</URN>
+      <Agency xmlns="ddi:reusable:3_2">uk.whitehall2</Agency>
+      <ID xmlns="ddi:reusable:3_2">83bc5c94-86d9-40f1-b75f-cbef95329e42</ID>
+      <Version xmlns="ddi:reusable:3_2">4</Version>
+      <VersionResponsibility xmlns="ddi:reusable:3_2">INST\jjjbgaew</VersionResponsibility>
+      <Citation xmlns="ddi:reusable:3_2">
+        <Title>
+          <String xml:lang="en-GB">Phase 9</String>
+        </Title>
+        <Creator>
+          <CreatorName>
+            <String xml:lang="en-GB">Professor Mika Kivimaki</String>
+          </CreatorName>
+        </Creator>
+        <Publisher>
+          <PublisherName>
+            <String xml:lang="en-GB">University College London</String>
+          </PublisherName>
+        </Publisher>
+      </Citation>
+      <Abstract xmlns="ddi:reusable:3_2">
+        <Content xml:lang="en-GB">Ninth collection of self-reported questionnaire data and biomedical measurements from the eligible Whitehall II cohort members.</Content>
+      </Abstract>
+      <UniverseReference xmlns="ddi:reusable:3_2">
+        <Agency>uk.whitehall2</Agency>
+        <ID>ffc10edc-b5dd-489b-94b7-e662f4f07ba3</ID>
+        <Version>1</Version>
+        <TypeOfObject>Universe</TypeOfObject>
+      </UniverseReference>
+      <FundingInformation xmlns="ddi:reusable:3_2">
+        <AgencyOrganizationReference>
+          <Agency>uk.closer</Agency>
+          <ID>a1bdc1c8-d24e-44e1-87f2-5bcd7ab98e22</ID>
+          <Version>2</Version>
+          <TypeOfObject>Organization</TypeOfObject>
+        </AgencyOrganizationReference>
+      </FundingInformation>
+      <FundingInformation xmlns="ddi:reusable:3_2">
+        <AgencyOrganizationReference>
+          <Agency>uk.closer</Agency>
+          <ID>d49d6bfe-87f7-4f55-bb6d-a112aa9156fa</ID>
+          <Version>1</Version>
+          <TypeOfObject>Organization</TypeOfObject>
+        </AgencyOrganizationReference>
+      </FundingInformation>
+      <FundingInformation xmlns="ddi:reusable:3_2">
+        <AgencyOrganizationReference>
+          <Agency>uk.closer</Agency>
+          <ID>cc044171-d7f8-4ad5-b8e3-cc30fdd14e7a</ID>
+          <Version>1</Version>
+          <TypeOfObject>Organization</TypeOfObject>
+        </AgencyOrganizationReference>
+      </FundingInformation>
+      <FundingInformation xmlns="ddi:reusable:3_2">
+        <AgencyOrganizationReference>
+          <Agency>uk.closer</Agency>
+          <ID>820ff991-84b9-4b55-b8cf-ad3cb0083307</ID>
+          <Version>1</Version>
+          <TypeOfObject>Organization</TypeOfObject>
+        </AgencyOrganizationReference>
+      </FundingInformation>
+      <Coverage xmlns="ddi:reusable:3_2">
+        <SpatialCoverage isUniversallyUnique="true">
+          <URN>urn:ddi:uk.whitehall2:4d17c6a0-2d42-4530-a0ea-d490d95780e8:4</URN>
+          <Agency>uk.whitehall2</Agency>
+          <ID>4d17c6a0-2d42-4530-a0ea-d490d95780e8</ID>
+          <Version>4</Version>
+          <BoundingBox>
+            <WestLongitude>0</WestLongitude>
+            <EastLongitude>0</EastLongitude>
+            <SouthLatitude>0</SouthLatitude>
+            <NorthLatitude>0</NorthLatitude>
+          </BoundingBox>
+          <TopLevelReference>
+            <LevelName>Country</LevelName>
+          </TopLevelReference>
+          <LowestLevelReference>
+            <LevelName>Postcode (not to share)</LevelName>
+          </LowestLevelReference>
+        </SpatialCoverage>
+        <TemporalCoverage isUniversallyUnique="true">
+          <URN>urn:ddi:uk.whitehall2:19be0519-7ba3-48fb-b396-60c8d4ba97cf:4</URN>
+          <Agency>uk.whitehall2</Agency>
+          <ID>19be0519-7ba3-48fb-b396-60c8d4ba97cf</ID>
+          <Version>4</Version>
+          <ReferenceDate>
+            <StartDate>2007</StartDate>
+            <EndDate>2009</EndDate>
+          </ReferenceDate>
+        </TemporalCoverage>
+      </Coverage>
+      <AnalysisUnit codeListVersionID="1.0" xmlns="ddi:reusable:3_2">Individual</AnalysisUnit>
+      <KindOfData codeListVersionID="1.0" xmlns="ddi:reusable:3_2">Survey Data</KindOfData>
+      <KindOfData codeListVersionID="1.0" xmlns="ddi:reusable:3_2">Demographic Data</KindOfData>
+      <KindOfData codeListVersionID="1.0" xmlns="ddi:reusable:3_2">Measurement Data</KindOfData>
+      <KindOfData codeListVersionID="1.0" xmlns="ddi:reusable:3_2">Biosample Data</KindOfData>
+    </StudyUnit>
+    <StudyUnit isUniversallyUnique="true" versionDate="2019-06-10T14:29:48.0757589Z" xmlns="ddi:studyunit:3_2">
+      <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.whitehall2:48e42a33-1805-46eb-90c5-6f31265321d4:4</URN>
+      <Agency xmlns="ddi:reusable:3_2">uk.whitehall2</Agency>
+      <ID xmlns="ddi:reusable:3_2">48e42a33-1805-46eb-90c5-6f31265321d4</ID>
+      <Version xmlns="ddi:reusable:3_2">4</Version>
+      <VersionResponsibility xmlns="ddi:reusable:3_2">INST\jjjbgaew</VersionResponsibility>
+      <Citation xmlns="ddi:reusable:3_2">
+        <Title>
+          <String xml:lang="en-GB">Phase 10</String>
+        </Title>
+        <Creator>
+          <CreatorName>
+            <String xml:lang="en-GB">Professor Mika Kivimaki</String>
+          </CreatorName>
+        </Creator>
+        <Publisher>
+          <PublisherName>
+            <String xml:lang="en-GB">University College London</String>
+          </PublisherName>
+        </Publisher>
+      </Citation>
+      <Abstract xmlns="ddi:reusable:3_2">
+        <Content xml:lang="en-GB">The tenth collection of data was a pilot carried out on a small group of Whitehall II participants to test new measures for mental well-being introduced at Phase 11.
+</Content>
+      </Abstract>
+      <UniverseReference xmlns="ddi:reusable:3_2">
+        <Agency>uk.whitehall2</Agency>
+        <ID>ffc10edc-b5dd-489b-94b7-e662f4f07ba3</ID>
+        <Version>1</Version>
+        <TypeOfObject>Universe</TypeOfObject>
+      </UniverseReference>
+      <FundingInformation xmlns="ddi:reusable:3_2">
+        <AgencyOrganizationReference>
+          <Agency>uk.closer</Agency>
+          <ID>a1bdc1c8-d24e-44e1-87f2-5bcd7ab98e22</ID>
+          <Version>2</Version>
+          <TypeOfObject>Organization</TypeOfObject>
+        </AgencyOrganizationReference>
+      </FundingInformation>
+      <Coverage xmlns="ddi:reusable:3_2">
+        <SpatialCoverage isUniversallyUnique="true">
+          <URN>urn:ddi:uk.whitehall2:6bf95b21-110d-4ed9-a5df-eb75b65713a8:4</URN>
+          <Agency>uk.whitehall2</Agency>
+          <ID>6bf95b21-110d-4ed9-a5df-eb75b65713a8</ID>
+          <Version>4</Version>
+          <BoundingBox>
+            <WestLongitude>0</WestLongitude>
+            <EastLongitude>0</EastLongitude>
+            <SouthLatitude>0</SouthLatitude>
+            <NorthLatitude>0</NorthLatitude>
+          </BoundingBox>
+          <TopLevelReference>
+            <LevelName>Country</LevelName>
+          </TopLevelReference>
+          <LowestLevelReference>
+            <LevelName>Postcode (not to share)</LevelName>
+          </LowestLevelReference>
+        </SpatialCoverage>
+        <TemporalCoverage isUniversallyUnique="true">
+          <URN>urn:ddi:uk.whitehall2:7ba25336-3f3f-4436-812b-72fe7de1cc3b:4</URN>
+          <Agency>uk.whitehall2</Agency>
+          <ID>7ba25336-3f3f-4436-812b-72fe7de1cc3b</ID>
+          <Version>4</Version>
+          <ReferenceDate>
+            <StartDate>2011</StartDate>
+            <EndDate>2011</EndDate>
+          </ReferenceDate>
+        </TemporalCoverage>
+      </Coverage>
+      <AnalysisUnit codeListVersionID="1.0" xmlns="ddi:reusable:3_2">Individual</AnalysisUnit>
+      <KindOfData codeListVersionID="1.0" xmlns="ddi:reusable:3_2">Survey Data</KindOfData>
+      <KindOfData codeListVersionID="1.0" xmlns="ddi:reusable:3_2">Demographic Data</KindOfData>
+      <KindOfData codeListVersionID="1.0" xmlns="ddi:reusable:3_2">Measurement Data</KindOfData>
+      <KindOfData codeListVersionID="1.0" xmlns="ddi:reusable:3_2">Biosample Data</KindOfData>
+    </StudyUnit>
+    <StudyUnit isUniversallyUnique="true" versionDate="2019-06-10T14:29:48.0757589Z" xmlns="ddi:studyunit:3_2">
+      <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.whitehall2:cbb9a453-8982-4a8c-80f4-4c644407298a:7</URN>
+      <Agency xmlns="ddi:reusable:3_2">uk.whitehall2</Agency>
+      <ID xmlns="ddi:reusable:3_2">cbb9a453-8982-4a8c-80f4-4c644407298a</ID>
+      <Version xmlns="ddi:reusable:3_2">7</Version>
+      <VersionResponsibility xmlns="ddi:reusable:3_2">INST\jjjbgaew</VersionResponsibility>
+      <Citation xmlns="ddi:reusable:3_2">
+        <Title>
+          <String xml:lang="en-GB">Phase 11</String>
+        </Title>
+        <Creator>
+          <CreatorName>
+            <String xml:lang="en-GB">Professor Mika Kivimaki</String>
+          </CreatorName>
+        </Creator>
+        <Publisher>
+          <PublisherName>
+            <String xml:lang="en-GB">University College London</String>
+          </PublisherName>
+        </Publisher>
+      </Citation>
+      <Abstract xmlns="ddi:reusable:3_2">
+        <Content xml:lang="en-GB">Eleventh collection of self-reported questionnaire data and biomedical measurements from the eligible Whitehall II cohort members.</Content>
+      </Abstract>
+      <UniverseReference xmlns="ddi:reusable:3_2">
+        <Agency>uk.whitehall2</Agency>
+        <ID>ffc10edc-b5dd-489b-94b7-e662f4f07ba3</ID>
+        <Version>1</Version>
+        <TypeOfObject>Universe</TypeOfObject>
+      </UniverseReference>
+      <FundingInformation xmlns="ddi:reusable:3_2">
+        <AgencyOrganizationReference>
+          <Agency>uk.closer</Agency>
+          <ID>a1bdc1c8-d24e-44e1-87f2-5bcd7ab98e22</ID>
+          <Version>2</Version>
+          <TypeOfObject>Organization</TypeOfObject>
+        </AgencyOrganizationReference>
+      </FundingInformation>
+      <FundingInformation xmlns="ddi:reusable:3_2">
+        <AgencyOrganizationReference>
+          <Agency>uk.closer</Agency>
+          <ID>d49d6bfe-87f7-4f55-bb6d-a112aa9156fa</ID>
+          <Version>1</Version>
+          <TypeOfObject>Organization</TypeOfObject>
+        </AgencyOrganizationReference>
+      </FundingInformation>
+      <FundingInformation xmlns="ddi:reusable:3_2">
+        <AgencyOrganizationReference>
+          <Agency>uk.closer</Agency>
+          <ID>b2244fef-f3f9-4d3a-9c60-8ee2aa92a6e7</ID>
+          <Version>1</Version>
+          <TypeOfObject>Organization</TypeOfObject>
+        </AgencyOrganizationReference>
+      </FundingInformation>
+      <FundingInformation xmlns="ddi:reusable:3_2">
+        <AgencyOrganizationReference>
+          <Agency>uk.closer</Agency>
+          <ID>820ff991-84b9-4b55-b8cf-ad3cb0083307</ID>
+          <Version>1</Version>
+          <TypeOfObject>Organization</TypeOfObject>
+        </AgencyOrganizationReference>
+      </FundingInformation>
+      <Coverage xmlns="ddi:reusable:3_2">
+        <SpatialCoverage isUniversallyUnique="true">
+          <URN>urn:ddi:uk.whitehall2:f9ab991a-bcf7-4c1a-970f-2598d0e51865:7</URN>
+          <Agency>uk.whitehall2</Agency>
+          <ID>f9ab991a-bcf7-4c1a-970f-2598d0e51865</ID>
+          <Version>7</Version>
+          <BoundingBox>
+            <WestLongitude>0</WestLongitude>
+            <EastLongitude>0</EastLongitude>
+            <SouthLatitude>0</SouthLatitude>
+            <NorthLatitude>0</NorthLatitude>
+          </BoundingBox>
+          <TopLevelReference>
+            <LevelName>Country</LevelName>
+          </TopLevelReference>
+          <LowestLevelReference>
+            <LevelName>Postcode (not to share)</LevelName>
+          </LowestLevelReference>
+        </SpatialCoverage>
+        <TemporalCoverage isUniversallyUnique="true">
+          <URN>urn:ddi:uk.whitehall2:53d423b9-5b29-4c41-bbd2-098c26522e20:7</URN>
+          <Agency>uk.whitehall2</Agency>
+          <ID>53d423b9-5b29-4c41-bbd2-098c26522e20</ID>
+          <Version>7</Version>
+          <ReferenceDate>
+            <StartDate>2012</StartDate>
+            <EndDate>2013</EndDate>
+          </ReferenceDate>
+        </TemporalCoverage>
+      </Coverage>
+      <AnalysisUnit codeListVersionID="1.0" xmlns="ddi:reusable:3_2">Individual</AnalysisUnit>
+      <KindOfData codeListVersionID="1.0" xmlns="ddi:reusable:3_2">Survey Data</KindOfData>
+      <KindOfData codeListVersionID="1.0" xmlns="ddi:reusable:3_2">Demographic Data</KindOfData>
+      <KindOfData codeListVersionID="1.0" xmlns="ddi:reusable:3_2">Measurement Data</KindOfData>
+      <KindOfData codeListVersionID="1.0" xmlns="ddi:reusable:3_2">Biosample Data</KindOfData>
+      <DataCollection isUniversallyUnique="true" versionDate="2017-10-31T16:58:52.2389147Z" xmlns="ddi:datacollection:3_2">
+        <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.whitehall2:141e87dd-054e-4e4c-b456-aba1745ad35b:1</URN>
+        <Agency xmlns="ddi:reusable:3_2">uk.whitehall2</Agency>
+        <ID xmlns="ddi:reusable:3_2">141e87dd-054e-4e4c-b456-aba1745ad35b</ID>
+        <Version xmlns="ddi:reusable:3_2">1</Version>
+        <VersionResponsibility xmlns="ddi:reusable:3_2">INST\mhadqssi</VersionResponsibility>
+        <VersionRationale xmlns="ddi:reusable:3_2">
+          <RationaleDescription>
+            <String xml:lang="en-GB">Added final Whitehall II sweeps.</String>
+          </RationaleDescription>
+        </VersionRationale>
+        <DataCollectionModuleName>
+          <String xml:lang="en-GB" xmlns="ddi:reusable:3_2">whii_12_hs</String>
+        </DataCollectionModuleName>
+        <Label xmlns="ddi:reusable:3_2">
+          <Content xml:lang="en-GB">Phase 11 Heath Survey</Content>
+        </Label>
+        <CollectionEvent isUniversallyUnique="true">
+          <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.whitehall2:3d050594-b98b-44d1-bc6a-b398eee325fb:1</URN>
+          <Agency xmlns="ddi:reusable:3_2">uk.whitehall2</Agency>
+          <ID xmlns="ddi:reusable:3_2">3d050594-b98b-44d1-bc6a-b398eee325fb</ID>
+          <Version xmlns="ddi:reusable:3_2">1</Version>
+          <DataCollectorOrganizationReference>
+            <Agency xmlns="ddi:reusable:3_2">example.org</Agency>
+            <ID xmlns="ddi:reusable:3_2">97b0642d-b9d9-41e6-9e4a-c3e3afed1d36</ID>
+            <Version xmlns="ddi:reusable:3_2">1</Version>
+            <TypeOfObject xmlns="ddi:reusable:3_2">Organization</TypeOfObject>
+          </DataCollectorOrganizationReference>
+          <DataCollectionDate>
+            <StartDate xmlns="ddi:reusable:3_2">2012</StartDate>
+            <EndDate xmlns="ddi:reusable:3_2">2013</EndDate>
+          </DataCollectionDate>
+          <ModeOfCollection isUniversallyUnique="true">
+            <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.whitehall2:a0b2e93e-992a-4cd4-a347-0fff5a3a93cf:1</URN>
+            <Agency xmlns="ddi:reusable:3_2">uk.whitehall2</Agency>
+            <ID xmlns="ddi:reusable:3_2">a0b2e93e-992a-4cd4-a347-0fff5a3a93cf</ID>
+            <Version xmlns="ddi:reusable:3_2">1</Version>
+            <TypeOfModeOfCollection codeListVersionID="1.0">SelfAdministeredQuestionnaire.Paper</TypeOfModeOfCollection>
+            <Description xmlns="ddi:reusable:3_2">
+              <Content xml:lang="en-GB">Self-administered questionnaire using a traditional paper questionnaire. </Content>
+            </Description>
+          </ModeOfCollection>
+          <ModeOfCollection isUniversallyUnique="true">
+            <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.whitehall2:15fe8d97-2a0f-4c10-900d-9a0b619ee7ae:1</URN>
+            <Agency xmlns="ddi:reusable:3_2">uk.whitehall2</Agency>
+            <ID xmlns="ddi:reusable:3_2">15fe8d97-2a0f-4c10-900d-9a0b619ee7ae</ID>
+            <Version xmlns="ddi:reusable:3_2">1</Version>
+            <TypeOfModeOfCollection codeListVersionID="1.0">Interview.Telephone </TypeOfModeOfCollection>
+            <Description xmlns="ddi:reusable:3_2">
+              <Content xml:lang="en-GB">Interview administered on the telephone.</Content>
+            </Description>
+          </ModeOfCollection>
+        </CollectionEvent>
+      </DataCollection>
+    </StudyUnit>
+    <StudyUnit isUniversallyUnique="true" versionDate="2019-06-10T14:29:48.0757589Z" xmlns="ddi:studyunit:3_2">
+      <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.whitehall2:6bdbe837-bf46-4826-b9d8-998003164680:4</URN>
+      <Agency xmlns="ddi:reusable:3_2">uk.whitehall2</Agency>
+      <ID xmlns="ddi:reusable:3_2">6bdbe837-bf46-4826-b9d8-998003164680</ID>
+      <Version xmlns="ddi:reusable:3_2">4</Version>
+      <VersionResponsibility xmlns="ddi:reusable:3_2">INST\jjjbgaew</VersionResponsibility>
+      <Citation xmlns="ddi:reusable:3_2">
+        <Title>
+          <String xml:lang="en-GB">Phase 12</String>
+        </Title>
+        <Creator>
+          <CreatorName>
+            <String xml:lang="en-GB">Professor Mika Kivimaki</String>
+          </CreatorName>
+        </Creator>
+        <Publisher>
+          <PublisherName>
+            <String xml:lang="en-GB">University College London</String>
+          </PublisherName>
+        </Publisher>
+      </Citation>
+      <Abstract xmlns="ddi:reusable:3_2">
+        <Content xml:lang="en-GB">Twelfth collection of self-reported questionnaire data and biomedical measurements from the eligible Whitehall II cohort members.</Content>
+      </Abstract>
+      <UniverseReference xmlns="ddi:reusable:3_2">
+        <Agency>uk.whitehall2</Agency>
+        <ID>ffc10edc-b5dd-489b-94b7-e662f4f07ba3</ID>
+        <Version>1</Version>
+        <TypeOfObject>Universe</TypeOfObject>
+      </UniverseReference>
+      <FundingInformation xmlns="ddi:reusable:3_2">
+        <AgencyOrganizationReference>
+          <Agency>uk.closer</Agency>
+          <ID>a1bdc1c8-d24e-44e1-87f2-5bcd7ab98e22</ID>
+          <Version>2</Version>
+          <TypeOfObject>Organization</TypeOfObject>
+        </AgencyOrganizationReference>
+      </FundingInformation>
+      <FundingInformation xmlns="ddi:reusable:3_2">
+        <AgencyOrganizationReference>
+          <Agency>uk.closer</Agency>
+          <ID>d49d6bfe-87f7-4f55-bb6d-a112aa9156fa</ID>
+          <Version>1</Version>
+          <TypeOfObject>Organization</TypeOfObject>
+        </AgencyOrganizationReference>
+      </FundingInformation>
+      <Coverage xmlns="ddi:reusable:3_2">
+        <SpatialCoverage isUniversallyUnique="true">
+          <URN>urn:ddi:uk.whitehall2:6eb17cd5-fc5d-4087-92a6-635020d598eb:4</URN>
+          <Agency>uk.whitehall2</Agency>
+          <ID>6eb17cd5-fc5d-4087-92a6-635020d598eb</ID>
+          <Version>4</Version>
+          <BoundingBox>
+            <WestLongitude>0</WestLongitude>
+            <EastLongitude>0</EastLongitude>
+            <SouthLatitude>0</SouthLatitude>
+            <NorthLatitude>0</NorthLatitude>
+          </BoundingBox>
+          <TopLevelReference>
+            <LevelName>Country</LevelName>
+          </TopLevelReference>
+          <LowestLevelReference>
+            <LevelName>Postcode (not to share)</LevelName>
+          </LowestLevelReference>
+        </SpatialCoverage>
+        <TemporalCoverage isUniversallyUnique="true">
+          <URN>urn:ddi:uk.whitehall2:d6068827-bf6a-455a-9fcb-81ac96469d21:4</URN>
+          <Agency>uk.whitehall2</Agency>
+          <ID>d6068827-bf6a-455a-9fcb-81ac96469d21</ID>
+          <Version>4</Version>
+          <ReferenceDate>
+            <StartDate>2015</StartDate>
+            <EndDate>2016</EndDate>
+          </ReferenceDate>
+        </TemporalCoverage>
+      </Coverage>
+      <AnalysisUnit codeListVersionID="1.0" xmlns="ddi:reusable:3_2">Individual</AnalysisUnit>
+      <KindOfData codeListVersionID="1.0" xmlns="ddi:reusable:3_2">Survey Data</KindOfData>
+      <KindOfData codeListVersionID="1.0" xmlns="ddi:reusable:3_2">Demographic Data</KindOfData>
+      <KindOfData codeListVersionID="1.0" xmlns="ddi:reusable:3_2">Measurement Data</KindOfData>
+      <KindOfData codeListVersionID="1.0" xmlns="ddi:reusable:3_2">Biosample Data</KindOfData>
+    </StudyUnit>
+  </Group>
+</DDIInstance>

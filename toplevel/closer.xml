@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DDIInstance isUniversallyUnique="true" versionDate="2019-06-28T07:44:35.5765405Z" xmlns="ddi:instance:3_2">
+  <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.closer:bbcff413-7bc0-43bd-b0a1-0273b70b80ee:1</URN>
+  <Agency xmlns="ddi:reusable:3_2">uk.closer</Agency>
+  <ID xmlns="ddi:reusable:3_2">bbcff413-7bc0-43bd-b0a1-0273b70b80ee</ID>
+  <Version xmlns="ddi:reusable:3_2">1</Version>
+  <Citation xmlns="ddi:reusable:3_2">
+    <Title>
+      <String xml:lang="en-GB">closer</String>
+    </Title>
+  </Citation>
+  <Group isUniversallyUnique="true" versionDate="2019-06-28T07:22:01.0912163Z" xmlns="ddi:group:3_2">
+    <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.closer:b2fe727a-7b18-4ce6-96ce-7dc32e901ea0:6</URN>
+    <Agency xmlns="ddi:reusable:3_2">uk.closer</Agency>
+    <ID xmlns="ddi:reusable:3_2">b2fe727a-7b18-4ce6-96ce-7dc32e901ea0</ID>
+    <Version xmlns="ddi:reusable:3_2">6</Version>
+    <Citation xmlns="ddi:reusable:3_2">
+      <Title>
+        <String xml:lang="en-GB">CLOSER</String>
+      </Title>
+    </Citation>
+    <Abstract xmlns="ddi:reusable:3_2">
+      <Content xml:lang="en-GB">CLOSER is &lt;strong&gt;not&lt;/strong&gt; a study.
+
+CLOSER (Cohort &amp; Longitudinal Studies Enhancement Resources) aims to maximise their use, value and impact both at home and abroad. Located at the UCL Institute of Education and bringing together eight leading studies, the British Library and the UK Data Service, CLOSER works to stimulate interdisciplinary research, develop shared resources, provide training, and share expertise. In this way CLOSER is helping to build the body of knowledge on how life in the UK is changing – both across generations and in comparison to the rest of the world.
+
+Visit the &lt;a href="http://closer.ac.uk/"&gt;CLOSER website&lt;/a&gt; for more information.</Content>
+    </Abstract>
+  </Group>
+</DDIInstance>

@@ -1,0 +1,1918 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DDIInstance isUniversallyUnique="true" versionDate="2019-10-29T10:34:31.7773683Z" xmlns="ddi:instance:3_2">
+  <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.closer:a03fcc11-2ca6-42d4-aa78-3d69a6717549:1</URN>
+  <Agency xmlns="ddi:reusable:3_2">uk.closer</Agency>
+  <ID xmlns="ddi:reusable:3_2">a03fcc11-2ca6-42d4-aa78-3d69a6717549</ID>
+  <Version xmlns="ddi:reusable:3_2">1</Version>
+  <Citation xmlns="ddi:reusable:3_2">
+    <Title>
+      <String xml:lang="en-GB">usoc</String>
+    </Title>
+  </Citation>
+  <Group isUniversallyUnique="true" versionDate="2019-11-05T15:16:28.9542589Z" xmlns="ddi:group:3_2">
+    <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.iser:44a7a09e-4703-498c-96f7-0131b296c917:27</URN>
+    <Agency xmlns="ddi:reusable:3_2">uk.iser</Agency>
+    <ID xmlns="ddi:reusable:3_2">44a7a09e-4703-498c-96f7-0131b296c917</ID>
+    <Version xmlns="ddi:reusable:3_2">27</Version>
+    <UserAttributePair xmlns="ddi:reusable:3_2">
+      <AttributeKey>extension:CustomField</AttributeKey>
+      <AttributeValue>{"Title":{"en-GB":"LifeStage "},"Description":{},"ValueType":0,"HasValue":true,"RelationshipTargetType":"00000000-0000-0000-0000-000000000000","StringValue":"Other","MultilingualStringValue":{},"HasDefinedType":false,"DisplayLabel":"LifeStage "}</AttributeValue>
+    </UserAttributePair>
+    <UserAttributePair xmlns="ddi:reusable:3_2">
+      <AttributeKey>extension:CustomField</AttributeKey>
+      <AttributeValue>{"Title":{"en-GB":"LifeStageDescription "},"Description":{},"ValueType":0,"HasValue":true,"RelationshipTargetType":"00000000-0000-0000-0000-000000000000","StringValue":"More than one life stage is covered","MultilingualStringValue":{},"HasDefinedType":false,"DisplayLabel":"LifeStageDescription "}</AttributeValue>
+    </UserAttributePair>
+    <Citation xmlns="ddi:reusable:3_2">
+      <Title>
+        <String xml:lang="en-GB">Understanding Society</String>
+      </Title>
+      <AlternateTitle>
+        <String xml:lang="en-GB">The UK Household Longitudinal Study</String>
+      </AlternateTitle>
+      <Creator>
+        <CreatorName>
+          <String xml:lang="en-GB">Professor Michaela Benzeval</String>
+        </CreatorName>
+      </Creator>
+      <Publisher>
+        <PublisherName>
+          <String xml:lang="en-GB">Institute for Social &amp; Economic Research, University of Essex</String>
+        </PublisherName>
+      </Publisher>
+      <Copyright>
+        <String xml:lang="en-GB">Copyright Institute for Social &amp; Economic Research, University of Essex. All rights reserved.</String>
+      </Copyright>
+    </Citation>
+    <Abstract xmlns="ddi:reusable:3_2">
+      <Content xml:lang="en-GB">Understanding Society: The UK Household Longitudinal Study (UKHLS) studies 21st century UK life and how it is changing. It captures important information every year about the social and economic circumstances, attitudes, behaviours and health of people living in thousands of UK households.
+
+Information from the longitudinal survey is primarily used by academics, researchers and policy makers in their work, but the findings are of interest to a much wider group of people including those working in the third sector, health practitioners, business, the media and the general public.
+
+Interviews began in 2009 with eligible members of nearly 32,000 selected households invited to take part. Adults are interviewed and 10-15 year-olds fill in a paper self-completion questionnaire. New people join the study as they join the households of existing members, and if members leave their households, all adult members of their new household are interviewed. In 2010-11, some 20,000 participants aged over 16 also received nurse visits and provided a blood sample and some basic physical measurements (height, weight, blood pressure, grip strength). Data collection is annual, but each wave takes place over a two year period, with the second year of one wave overlapping the first year of the subsequent wave (so wave 1 took place between 2009 and 2011, wave 2 between 2010 and 2012, and so forth). 
+
+A further 8,000 households from the British Household Panel Survey (see below) were invited to join at wave 2.
+
+An additional 1,500 UK households are interviewed for the Innovation Panel, a separate annual survey which is used by researchers as a test bed for new ways of collecting data or exploring new topics before they become part of the main survey.
+
+UKHLS also has an ethnicity strand, with boost samples to ensure the study had at least 1,000 adults from the five main ethnicity groups in the UK. There are also extra questions asked each year of particular relevance to ethnic groups. In 2015, a further immigrant and ethnic boost sample was added to the study.
+
+Study website: &lt;a href="https://www.understandingsociety.ac.uk/" target="_blank" title="Understanding Society – The UK Household Longitudinal Study"&gt;https://www.understandingsociety.ac.uk/&lt;/a&gt; </Content>
+    </Abstract>
+    <UniverseReference xmlns="ddi:reusable:3_2">
+      <Agency>uk.iser</Agency>
+      <ID>ec4775b7-42b3-434f-ab27-7f1eaf616b82</ID>
+      <Version>4</Version>
+      <TypeOfObject>Universe</TypeOfObject>
+    </UniverseReference>
+    <FundingInformation xmlns="ddi:reusable:3_2">
+      <AgencyOrganizationReference>
+        <Agency>uk.closer</Agency>
+        <ID>ced55fc1-3df1-4d66-a925-cf5e1b79167a</ID>
+        <Version>4</Version>
+        <TypeOfObject>Organization</TypeOfObject>
+      </AgencyOrganizationReference>
+    </FundingInformation>
+    <FundingInformation xmlns="ddi:reusable:3_2">
+      <AgencyOrganizationReference>
+        <Agency>uk.closer</Agency>
+        <ID>ef72e69a-bdec-4b8b-9d3f-5d0f757748c8</ID>
+        <Version>3</Version>
+        <TypeOfObject>Organization</TypeOfObject>
+      </AgencyOrganizationReference>
+    </FundingInformation>
+    <FundingInformation xmlns="ddi:reusable:3_2">
+      <AgencyOrganizationReference>
+        <Agency>uk.closer</Agency>
+        <ID>43d1af35-5459-4db2-b482-e1a8886d66fd</ID>
+        <Version>3</Version>
+        <TypeOfObject>Organization</TypeOfObject>
+      </AgencyOrganizationReference>
+    </FundingInformation>
+    <FundingInformation xmlns="ddi:reusable:3_2">
+      <AgencyOrganizationReference>
+        <Agency>uk.closer</Agency>
+        <ID>ad94baff-8e75-45aa-b41d-9c81bb546558</ID>
+        <Version>3</Version>
+        <TypeOfObject>Organization</TypeOfObject>
+      </AgencyOrganizationReference>
+    </FundingInformation>
+    <FundingInformation xmlns="ddi:reusable:3_2">
+      <AgencyOrganizationReference>
+        <Agency>uk.closer</Agency>
+        <ID>5cc4a914-edb6-46d9-a305-d82cc3c85340</ID>
+        <Version>3</Version>
+        <TypeOfObject>Organization</TypeOfObject>
+      </AgencyOrganizationReference>
+    </FundingInformation>
+    <FundingInformation xmlns="ddi:reusable:3_2">
+      <AgencyOrganizationReference>
+        <Agency>uk.closer</Agency>
+        <ID>f6ac9ba6-c3bc-4b0a-a047-42058b69f29e</ID>
+        <Version>3</Version>
+        <TypeOfObject>Organization</TypeOfObject>
+      </AgencyOrganizationReference>
+    </FundingInformation>
+    <FundingInformation xmlns="ddi:reusable:3_2">
+      <AgencyOrganizationReference>
+        <Agency>uk.closer</Agency>
+        <ID>b00a48eb-72a3-4956-b9ff-44d9a2c4a21c</ID>
+        <Version>3</Version>
+        <TypeOfObject>Organization</TypeOfObject>
+      </AgencyOrganizationReference>
+    </FundingInformation>
+    <FundingInformation xmlns="ddi:reusable:3_2">
+      <AgencyOrganizationReference>
+        <Agency>uk.closer</Agency>
+        <ID>fd79c1c6-a73d-4ec9-bc45-ee7d83364bb2</ID>
+        <Version>3</Version>
+        <TypeOfObject>Organization</TypeOfObject>
+      </AgencyOrganizationReference>
+    </FundingInformation>
+    <FundingInformation xmlns="ddi:reusable:3_2">
+      <AgencyOrganizationReference>
+        <Agency>uk.closer</Agency>
+        <ID>2c15399b-75d6-4617-a68a-d35e4313d132</ID>
+        <Version>3</Version>
+        <TypeOfObject>Organization</TypeOfObject>
+      </AgencyOrganizationReference>
+    </FundingInformation>
+    <FundingInformation xmlns="ddi:reusable:3_2">
+      <AgencyOrganizationReference>
+        <Agency>uk.closer</Agency>
+        <ID>d20b0a5a-c0d9-485b-b739-3eee24fe9cd1</ID>
+        <Version>3</Version>
+        <TypeOfObject>Organization</TypeOfObject>
+      </AgencyOrganizationReference>
+    </FundingInformation>
+    <FundingInformation xmlns="ddi:reusable:3_2">
+      <AgencyOrganizationReference>
+        <Agency>uk.closer</Agency>
+        <ID>cd3554cd-5e37-4387-9853-84ad37696074</ID>
+        <Version>3</Version>
+        <TypeOfObject>Organization</TypeOfObject>
+      </AgencyOrganizationReference>
+    </FundingInformation>
+    <FundingInformation xmlns="ddi:reusable:3_2">
+      <AgencyOrganizationReference>
+        <Agency>uk.closer</Agency>
+        <ID>7cbce8c8-7d86-4a6b-8752-b74a55f441bd</ID>
+        <Version>3</Version>
+        <TypeOfObject>Organization</TypeOfObject>
+      </AgencyOrganizationReference>
+    </FundingInformation>
+    <StudyUnit isUniversallyUnique="true" versionDate="2019-11-05T15:16:37.3529892Z" xmlns="ddi:studyunit:3_2">
+      <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.iser:f0633c8c-66c3-4b3a-90fa-a863d8967f46:16</URN>
+      <Agency xmlns="ddi:reusable:3_2">uk.iser</Agency>
+      <ID xmlns="ddi:reusable:3_2">f0633c8c-66c3-4b3a-90fa-a863d8967f46</ID>
+      <Version xmlns="ddi:reusable:3_2">16</Version>
+      <UserAttributePair xmlns="ddi:reusable:3_2">
+        <AttributeKey>extension:CustomField</AttributeKey>
+        <AttributeValue>{"Title":{"en-GB":"LifeStage"},"Description":{},"ValueType":0,"HasValue":true,"RelationshipTargetType":"00000000-0000-0000-0000-000000000000","StringValue":"Other","MultilingualStringValue":{},"HasDefinedType":false,"DisplayLabel":"LifeStage"}</AttributeValue>
+      </UserAttributePair>
+      <UserAttributePair xmlns="ddi:reusable:3_2">
+        <AttributeKey>extension:CustomField</AttributeKey>
+        <AttributeValue>{"Title":{"en-GB":"LifeStageDescription"},"Description":{},"ValueType":0,"HasValue":true,"RelationshipTargetType":"00000000-0000-0000-0000-000000000000","StringValue":"More than one life stage is covered","MultilingualStringValue":{},"HasDefinedType":false,"DisplayLabel":"LifeStageDescription"}</AttributeValue>
+      </UserAttributePair>
+      <Citation xmlns="ddi:reusable:3_2">
+        <Title>
+          <String xml:lang="en-GB">Wave 1</String>
+        </Title>
+        <Creator>
+          <CreatorName>
+            <String xml:lang="en-GB">Professor Nick Buck</String>
+          </CreatorName>
+        </Creator>
+        <Publisher>
+          <PublisherName>
+            <String xml:lang="en-GB">Institute for Social &amp; Economic Research, University of Essex</String>
+          </PublisherName>
+        </Publisher>
+      </Citation>
+      <Abstract xmlns="ddi:reusable:3_2">
+        <Content xml:lang="en-GB">This is the first wave of data collection for Understanding Society: The UK Household Longitudinal Study (UKHLS) studies 21st century UK life and how it is changing. It captures important information every year about the social and economic circumstances, attitudes, behaviours and health of people living in thousands of UK households.
+
+Information from the longitudinal survey is primarily used by academics, researchers and policy makers in their work, but the findings are of interest to a much wider group of people including those working in the third sector, health practitioners, business, the media and the general public.
+
+Interviews began in 2009 with eligible members of nearly 32,000 selected households invited to take part. Adults are interviewed and 10-15 year-olds fill in a paper self-completion questionnaire. Data collection is annual, but each wave takes place over a two year period. 
+
+UKHLS also has an ethnicity strand, with boost samples to ensure the study had at least 1,000 adults from the five main ethnicity groups in the UK. There are also extra questions asked each year of particular relevance to ethnic groups.
+
+Study website: &lt;a href="https://www.understandingsociety.ac.uk/" target="_blank" title="Understanding Society – The UK Household Longitudinal Study"&gt;https://www.understandingsociety.ac.uk/&lt;/a&gt;</Content>
+      </Abstract>
+      <UniverseReference xmlns="ddi:reusable:3_2">
+        <Agency>uk.iser</Agency>
+        <ID>d1491600-20fb-4a68-826c-f88503821fa3</ID>
+        <Version>2</Version>
+        <TypeOfObject>Universe</TypeOfObject>
+      </UniverseReference>
+      <FundingInformation xmlns="ddi:reusable:3_2">
+        <AgencyOrganizationReference>
+          <Agency>uk.closer</Agency>
+          <ID>ced55fc1-3df1-4d66-a925-cf5e1b79167a</ID>
+          <Version>4</Version>
+          <TypeOfObject>Organization</TypeOfObject>
+        </AgencyOrganizationReference>
+      </FundingInformation>
+      <FundingInformation xmlns="ddi:reusable:3_2">
+        <AgencyOrganizationReference>
+          <Agency>uk.closer</Agency>
+          <ID>ef72e69a-bdec-4b8b-9d3f-5d0f757748c8</ID>
+          <Version>3</Version>
+          <TypeOfObject>Organization</TypeOfObject>
+        </AgencyOrganizationReference>
+      </FundingInformation>
+      <FundingInformation xmlns="ddi:reusable:3_2">
+        <AgencyOrganizationReference>
+          <Agency>uk.closer</Agency>
+          <ID>43d1af35-5459-4db2-b482-e1a8886d66fd</ID>
+          <Version>3</Version>
+          <TypeOfObject>Organization</TypeOfObject>
+        </AgencyOrganizationReference>
+      </FundingInformation>
+      <FundingInformation xmlns="ddi:reusable:3_2">
+        <AgencyOrganizationReference>
+          <Agency>uk.closer</Agency>
+          <ID>ad94baff-8e75-45aa-b41d-9c81bb546558</ID>
+          <Version>3</Version>
+          <TypeOfObject>Organization</TypeOfObject>
+        </AgencyOrganizationReference>
+      </FundingInformation>
+      <FundingInformation xmlns="ddi:reusable:3_2">
+        <AgencyOrganizationReference>
+          <Agency>uk.closer</Agency>
+          <ID>5cc4a914-edb6-46d9-a305-d82cc3c85340</ID>
+          <Version>3</Version>
+          <TypeOfObject>Organization</TypeOfObject>
+        </AgencyOrganizationReference>
+      </FundingInformation>
+      <FundingInformation xmlns="ddi:reusable:3_2">
+        <AgencyOrganizationReference>
+          <Agency>uk.closer</Agency>
+          <ID>f6ac9ba6-c3bc-4b0a-a047-42058b69f29e</ID>
+          <Version>3</Version>
+          <TypeOfObject>Organization</TypeOfObject>
+        </AgencyOrganizationReference>
+      </FundingInformation>
+      <FundingInformation xmlns="ddi:reusable:3_2">
+        <AgencyOrganizationReference>
+          <Agency>uk.closer</Agency>
+          <ID>b00a48eb-72a3-4956-b9ff-44d9a2c4a21c</ID>
+          <Version>3</Version>
+          <TypeOfObject>Organization</TypeOfObject>
+        </AgencyOrganizationReference>
+      </FundingInformation>
+      <FundingInformation xmlns="ddi:reusable:3_2">
+        <AgencyOrganizationReference>
+          <Agency>uk.closer</Agency>
+          <ID>fd79c1c6-a73d-4ec9-bc45-ee7d83364bb2</ID>
+          <Version>3</Version>
+          <TypeOfObject>Organization</TypeOfObject>
+        </AgencyOrganizationReference>
+      </FundingInformation>
+      <FundingInformation xmlns="ddi:reusable:3_2">
+        <AgencyOrganizationReference>
+          <Agency>uk.closer</Agency>
+          <ID>2c15399b-75d6-4617-a68a-d35e4313d132</ID>
+          <Version>3</Version>
+          <TypeOfObject>Organization</TypeOfObject>
+        </AgencyOrganizationReference>
+      </FundingInformation>
+      <FundingInformation xmlns="ddi:reusable:3_2">
+        <AgencyOrganizationReference>
+          <Agency>uk.closer</Agency>
+          <ID>d20b0a5a-c0d9-485b-b739-3eee24fe9cd1</ID>
+          <Version>3</Version>
+          <TypeOfObject>Organization</TypeOfObject>
+        </AgencyOrganizationReference>
+      </FundingInformation>
+      <FundingInformation xmlns="ddi:reusable:3_2">
+        <AgencyOrganizationReference>
+          <Agency>uk.closer</Agency>
+          <ID>cd3554cd-5e37-4387-9853-84ad37696074</ID>
+          <Version>3</Version>
+          <TypeOfObject>Organization</TypeOfObject>
+        </AgencyOrganizationReference>
+      </FundingInformation>
+      <FundingInformation xmlns="ddi:reusable:3_2">
+        <AgencyOrganizationReference>
+          <Agency>uk.closer</Agency>
+          <ID>7cbce8c8-7d86-4a6b-8752-b74a55f441bd</ID>
+          <Version>3</Version>
+          <TypeOfObject>Organization</TypeOfObject>
+        </AgencyOrganizationReference>
+      </FundingInformation>
+      <Coverage xmlns="ddi:reusable:3_2">
+        <SpatialCoverage isUniversallyUnique="true">
+          <URN>urn:ddi:uk.iser:e600fee4-a5ad-4c9e-a912-67c5540e4701:16</URN>
+          <Agency>uk.iser</Agency>
+          <ID>e600fee4-a5ad-4c9e-a912-67c5540e4701</ID>
+          <Version>16</Version>
+          <BoundingBox>
+            <WestLongitude>0</WestLongitude>
+            <EastLongitude>0</EastLongitude>
+            <SouthLatitude>0</SouthLatitude>
+            <NorthLatitude>0</NorthLatitude>
+          </BoundingBox>
+          <Country>GB-ENG</Country>
+          <Country>GB-WLS</Country>
+          <Country>GB-SCT</Country>
+          <Country>GB-NIR</Country>
+          <TopLevelReference>
+            <LevelName>Country</LevelName>
+          </TopLevelReference>
+          <LowestLevelReference>
+            <LevelName>EUL: Government Office Region, Special License: Lower Layer Super Output Areas, Secure Access: National Grid Reference </LevelName>
+          </LowestLevelReference>
+        </SpatialCoverage>
+        <TemporalCoverage isUniversallyUnique="true">
+          <URN>urn:ddi:uk.iser:49fb8416-5a84-4b7f-95cf-6dcad96b23a8:16</URN>
+          <Agency>uk.iser</Agency>
+          <ID>49fb8416-5a84-4b7f-95cf-6dcad96b23a8</ID>
+          <Version>16</Version>
+          <ReferenceDate>
+            <StartDate>2009-01-08T00:00:00Z</StartDate>
+            <EndDate>2011-03-07T00:00:00Z</EndDate>
+          </ReferenceDate>
+        </TemporalCoverage>
+      </Coverage>
+      <AnalysisUnit codeListVersionID="1.0" xmlns="ddi:reusable:3_2">Household</AnalysisUnit>
+      <KindOfData codeListVersionID="1.0" xmlns="ddi:reusable:3_2">Survey Data</KindOfData>
+      <KindOfData codeListVersionID="1.0" xmlns="ddi:reusable:3_2">Demographic Data</KindOfData>
+      <KindOfData codeListVersionID="1.0" xmlns="ddi:reusable:3_2">Assessment Data</KindOfData>
+      <DataCollection isUniversallyUnique="true" versionDate="2019-10-29T09:04:19.8291508Z" xmlns="ddi:datacollection:3_2">
+        <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.iser:ccc5baf7-925b-4952-b01d-86e03ef9c3fe:13</URN>
+        <Agency xmlns="ddi:reusable:3_2">uk.iser</Agency>
+        <ID xmlns="ddi:reusable:3_2">ccc5baf7-925b-4952-b01d-86e03ef9c3fe</ID>
+        <Version xmlns="ddi:reusable:3_2">13</Version>
+        <DataCollectionModuleName>
+          <String xml:lang="en-GB" xmlns="ddi:reusable:3_2">us1</String>
+        </DataCollectionModuleName>
+        <Label xmlns="ddi:reusable:3_2">
+          <Content xml:lang="en-GB">Wave 1 Questionnaire</Content>
+        </Label>
+        <CollectionEvent isUniversallyUnique="true">
+          <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.iser:eb07d275-f098-4f26-820b-8da3b73bc506:13</URN>
+          <Agency xmlns="ddi:reusable:3_2">uk.iser</Agency>
+          <ID xmlns="ddi:reusable:3_2">eb07d275-f098-4f26-820b-8da3b73bc506</ID>
+          <Version xmlns="ddi:reusable:3_2">13</Version>
+          <DataCollectorOrganizationReference>
+            <Agency xmlns="ddi:reusable:3_2">uk.closer</Agency>
+            <ID xmlns="ddi:reusable:3_2">8a504fa0-6574-41dc-a2fc-dce99b33c820</ID>
+            <Version xmlns="ddi:reusable:3_2">1</Version>
+            <TypeOfObject xmlns="ddi:reusable:3_2">Organization</TypeOfObject>
+          </DataCollectorOrganizationReference>
+          <DataCollectorOrganizationReference>
+            <Agency xmlns="ddi:reusable:3_2">uk.closer</Agency>
+            <ID xmlns="ddi:reusable:3_2">7cae2e4d-9ac3-4b5e-b582-a20c4a6523b0</ID>
+            <Version xmlns="ddi:reusable:3_2">1</Version>
+            <TypeOfObject xmlns="ddi:reusable:3_2">Organization</TypeOfObject>
+          </DataCollectorOrganizationReference>
+          <DataCollectionDate>
+            <StartDate xmlns="ddi:reusable:3_2">2009-01</StartDate>
+            <EndDate xmlns="ddi:reusable:3_2">2010-12</EndDate>
+          </DataCollectionDate>
+          <ModeOfCollection isUniversallyUnique="true">
+            <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.iser:11834789-7b87-460d-8c35-7ec750c76da2:13</URN>
+            <Agency xmlns="ddi:reusable:3_2">uk.iser</Agency>
+            <ID xmlns="ddi:reusable:3_2">11834789-7b87-460d-8c35-7ec750c76da2</ID>
+            <Version xmlns="ddi:reusable:3_2">13</Version>
+            <TypeOfModeOfCollection codeListVersionID="1.0">Interview.FaceToFace.CAPI/CAMI</TypeOfModeOfCollection>
+            <Description xmlns="ddi:reusable:3_2">
+              <Content xml:lang="en-GB">Face-to-face computer-assisted personal interviewing.</Content>
+            </Description>
+          </ModeOfCollection>
+        </CollectionEvent>
+      </DataCollection>
+      <DataCollection isUniversallyUnique="true" versionDate="2019-10-29T09:04:48.7988866Z" xmlns="ddi:datacollection:3_2">
+        <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.iser:56acc464-6368-4405-ac28-0195a21c1f19:11</URN>
+        <Agency xmlns="ddi:reusable:3_2">uk.iser</Agency>
+        <ID xmlns="ddi:reusable:3_2">56acc464-6368-4405-ac28-0195a21c1f19</ID>
+        <Version xmlns="ddi:reusable:3_2">11</Version>
+        <DataCollectionModuleName>
+          <String xml:lang="en-GB" xmlns="ddi:reusable:3_2">us1_ysc</String>
+        </DataCollectionModuleName>
+        <Label xmlns="ddi:reusable:3_2">
+          <Content xml:lang="en-GB">Wave 1 Youth Self-Completion Questionnaire</Content>
+        </Label>
+        <CollectionEvent isUniversallyUnique="true">
+          <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.iser:094e05f4-c29b-4c11-ba6c-2e055ea712f0:11</URN>
+          <Agency xmlns="ddi:reusable:3_2">uk.iser</Agency>
+          <ID xmlns="ddi:reusable:3_2">094e05f4-c29b-4c11-ba6c-2e055ea712f0</ID>
+          <Version xmlns="ddi:reusable:3_2">11</Version>
+          <DataCollectorOrganizationReference>
+            <Agency xmlns="ddi:reusable:3_2">uk.closer</Agency>
+            <ID xmlns="ddi:reusable:3_2">8a504fa0-6574-41dc-a2fc-dce99b33c820</ID>
+            <Version xmlns="ddi:reusable:3_2">1</Version>
+            <TypeOfObject xmlns="ddi:reusable:3_2">Organization</TypeOfObject>
+          </DataCollectorOrganizationReference>
+          <DataCollectorOrganizationReference>
+            <Agency xmlns="ddi:reusable:3_2">uk.closer</Agency>
+            <ID xmlns="ddi:reusable:3_2">7cae2e4d-9ac3-4b5e-b582-a20c4a6523b0</ID>
+            <Version xmlns="ddi:reusable:3_2">1</Version>
+            <TypeOfObject xmlns="ddi:reusable:3_2">Organization</TypeOfObject>
+          </DataCollectorOrganizationReference>
+          <DataCollectionDate>
+            <StartDate xmlns="ddi:reusable:3_2">2009-01</StartDate>
+            <EndDate xmlns="ddi:reusable:3_2">2010-12</EndDate>
+          </DataCollectionDate>
+          <ModeOfCollection isUniversallyUnique="true">
+            <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.iser:a1679258-18fb-43dd-85b0-e45656910094:11</URN>
+            <Agency xmlns="ddi:reusable:3_2">uk.iser</Agency>
+            <ID xmlns="ddi:reusable:3_2">a1679258-18fb-43dd-85b0-e45656910094</ID>
+            <Version xmlns="ddi:reusable:3_2">11</Version>
+            <TypeOfModeOfCollection codeListVersionID="1.0">SelfAdministeredQuestionnaire.Paper</TypeOfModeOfCollection>
+            <Description xmlns="ddi:reusable:3_2">
+              <Content xml:lang="en-GB">Self-administered questionnaire using a traditional paper questionnaire.</Content>
+            </Description>
+          </ModeOfCollection>
+        </CollectionEvent>
+      </DataCollection>
+      <DataCollection isUniversallyUnique="true" versionDate="2019-10-29T09:05:08.9267902Z" xmlns="ddi:datacollection:3_2">
+        <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.iser:5c0dc714-2eb6-4cca-b6cd-1cc32287cb6b:9</URN>
+        <Agency xmlns="ddi:reusable:3_2">uk.iser</Agency>
+        <ID xmlns="ddi:reusable:3_2">5c0dc714-2eb6-4cca-b6cd-1cc32287cb6b</ID>
+        <Version xmlns="ddi:reusable:3_2">9</Version>
+        <DataCollectionModuleName>
+          <String xml:lang="en-GB" xmlns="ddi:reusable:3_2">us1_asc</String>
+        </DataCollectionModuleName>
+        <Label xmlns="ddi:reusable:3_2">
+          <Content xml:lang="en-GB">Wave 1 Adult Self-Completion Questionnaire</Content>
+        </Label>
+        <CollectionEvent isUniversallyUnique="true">
+          <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.iser:644f2767-e14e-4159-9408-5b9e6b8b875e:9</URN>
+          <Agency xmlns="ddi:reusable:3_2">uk.iser</Agency>
+          <ID xmlns="ddi:reusable:3_2">644f2767-e14e-4159-9408-5b9e6b8b875e</ID>
+          <Version xmlns="ddi:reusable:3_2">9</Version>
+          <DataCollectorOrganizationReference>
+            <Agency xmlns="ddi:reusable:3_2">uk.closer</Agency>
+            <ID xmlns="ddi:reusable:3_2">8a504fa0-6574-41dc-a2fc-dce99b33c820</ID>
+            <Version xmlns="ddi:reusable:3_2">1</Version>
+            <TypeOfObject xmlns="ddi:reusable:3_2">Organization</TypeOfObject>
+          </DataCollectorOrganizationReference>
+          <DataCollectorOrganizationReference>
+            <Agency xmlns="ddi:reusable:3_2">uk.closer</Agency>
+            <ID xmlns="ddi:reusable:3_2">7cae2e4d-9ac3-4b5e-b582-a20c4a6523b0</ID>
+            <Version xmlns="ddi:reusable:3_2">1</Version>
+            <TypeOfObject xmlns="ddi:reusable:3_2">Organization</TypeOfObject>
+          </DataCollectorOrganizationReference>
+          <DataCollectionDate>
+            <StartDate xmlns="ddi:reusable:3_2">2009-01</StartDate>
+            <EndDate xmlns="ddi:reusable:3_2">2010-12</EndDate>
+          </DataCollectionDate>
+          <ModeOfCollection isUniversallyUnique="true">
+            <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.iser:dd49fbb6-5972-4015-a7bc-9f33343570d1:9</URN>
+            <Agency xmlns="ddi:reusable:3_2">uk.iser</Agency>
+            <ID xmlns="ddi:reusable:3_2">dd49fbb6-5972-4015-a7bc-9f33343570d1</ID>
+            <Version xmlns="ddi:reusable:3_2">9</Version>
+            <TypeOfModeOfCollection codeListVersionID="1.0">SelfAdministeredQuestionnaire.Paper</TypeOfModeOfCollection>
+            <Description xmlns="ddi:reusable:3_2">
+              <Content xml:lang="en-GB">Self-administered questionnaire using a traditional paper questionnaire.</Content>
+            </Description>
+          </ModeOfCollection>
+        </CollectionEvent>
+      </DataCollection>
+    </StudyUnit>
+    <StudyUnit isUniversallyUnique="true" versionDate="2019-11-15T16:25:01.9562545Z" xmlns="ddi:studyunit:3_2">
+      <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.iser:d5ce421f-3020-4602-8de1-5aa00e826239:11</URN>
+      <Agency xmlns="ddi:reusable:3_2">uk.iser</Agency>
+      <ID xmlns="ddi:reusable:3_2">d5ce421f-3020-4602-8de1-5aa00e826239</ID>
+      <Version xmlns="ddi:reusable:3_2">11</Version>
+      <UserAttributePair xmlns="ddi:reusable:3_2">
+        <AttributeKey>extension:CustomField</AttributeKey>
+        <AttributeValue>{"Title":{"en-GB":"LifeStage"},"Description":{},"ValueType":0,"HasValue":true,"RelationshipTargetType":"00000000-0000-0000-0000-000000000000","StringValue":"Other","MultilingualStringValue":{},"HasDefinedType":false,"DisplayLabel":"LifeStage"}</AttributeValue>
+      </UserAttributePair>
+      <UserAttributePair xmlns="ddi:reusable:3_2">
+        <AttributeKey>extension:CustomField</AttributeKey>
+        <AttributeValue>{"Title":{"en-GB":"LifeStageDescription"},"Description":{},"ValueType":0,"HasValue":true,"RelationshipTargetType":"00000000-0000-0000-0000-000000000000","StringValue":"More than one life stage is covered","MultilingualStringValue":{},"HasDefinedType":false,"DisplayLabel":"LifeStageDescription"}</AttributeValue>
+      </UserAttributePair>
+      <Citation xmlns="ddi:reusable:3_2">
+        <Title>
+          <String xml:lang="en-GB">Wave 2</String>
+        </Title>
+        <Creator>
+          <CreatorName>
+            <String xml:lang="en-GB">Professor Nick Buck</String>
+          </CreatorName>
+        </Creator>
+        <Publisher>
+          <PublisherName>
+            <String xml:lang="en-GB">Institute for Social &amp; Economic Research, University of Essex</String>
+          </PublisherName>
+        </Publisher>
+      </Citation>
+      <Abstract xmlns="ddi:reusable:3_2">
+        <Content xml:lang="en-GB">This is the second wave of data collection for Understanding Society: The UK Household Longitudinal Study (UKHLS) studies 21st century UK life and how it is changing. It captures important information every year about the social and economic circumstances, attitudes, behaviours and health of people living in thousands of UK households.
+
+Information from the longitudinal survey is primarily used by academics, researchers and policy makers in their work, but the findings are of interest to a much wider group of people including those working in the third sector, health practitioners, business, the media and the general public.
+
+Interviews began in 2010 with eligible members of productive households from wave 1 invited to take part. Adults are interviewed and 10-15 year-olds fill in a paper self-completion questionnaire. Data collection is annual, but each wave takes place over a two year period. 
+
+UKHLS also has an ethnicity strand, with boost samples to ensure the study had at least 1,000 adults from the five main ethnicity groups in the UK. There are also extra questions asked each year of particular relevance to ethnic groups.
+
+Study website: &lt;a href="https://www.understandingsociety.ac.uk/" target="_blank" title="Understanding Society – The UK Household Longitudinal Study"&gt;https://www.understandingsociety.ac.uk/&lt;/a&gt;</Content>
+      </Abstract>
+      <UniverseReference xmlns="ddi:reusable:3_2">
+        <Agency>uk.iser</Agency>
+        <ID>3937e041-9f82-4789-a953-e26372f435b9</ID>
+        <Version>2</Version>
+        <TypeOfObject>Universe</TypeOfObject>
+      </UniverseReference>
+      <FundingInformation xmlns="ddi:reusable:3_2">
+        <AgencyOrganizationReference>
+          <Agency>uk.closer</Agency>
+          <ID>ced55fc1-3df1-4d66-a925-cf5e1b79167a</ID>
+          <Version>4</Version>
+          <TypeOfObject>Organization</TypeOfObject>
+        </AgencyOrganizationReference>
+      </FundingInformation>
+      <FundingInformation xmlns="ddi:reusable:3_2">
+        <AgencyOrganizationReference>
+          <Agency>uk.closer</Agency>
+          <ID>ef72e69a-bdec-4b8b-9d3f-5d0f757748c8</ID>
+          <Version>3</Version>
+          <TypeOfObject>Organization</TypeOfObject>
+        </AgencyOrganizationReference>
+      </FundingInformation>
+      <FundingInformation xmlns="ddi:reusable:3_2">
+        <AgencyOrganizationReference>
+          <Agency>uk.closer</Agency>
+          <ID>43d1af35-5459-4db2-b482-e1a8886d66fd</ID>
+          <Version>3</Version>
+          <TypeOfObject>Organization</TypeOfObject>
+        </AgencyOrganizationReference>
+      </FundingInformation>
+      <FundingInformation xmlns="ddi:reusable:3_2">
+        <AgencyOrganizationReference>
+          <Agency>uk.closer</Agency>
+          <ID>ad94baff-8e75-45aa-b41d-9c81bb546558</ID>
+          <Version>3</Version>
+          <TypeOfObject>Organization</TypeOfObject>
+        </AgencyOrganizationReference>
+      </FundingInformation>
+      <FundingInformation xmlns="ddi:reusable:3_2">
+        <AgencyOrganizationReference>
+          <Agency>uk.closer</Agency>
+          <ID>5cc4a914-edb6-46d9-a305-d82cc3c85340</ID>
+          <Version>3</Version>
+          <TypeOfObject>Organization</TypeOfObject>
+        </AgencyOrganizationReference>
+      </FundingInformation>
+      <FundingInformation xmlns="ddi:reusable:3_2">
+        <AgencyOrganizationReference>
+          <Agency>uk.closer</Agency>
+          <ID>f6ac9ba6-c3bc-4b0a-a047-42058b69f29e</ID>
+          <Version>3</Version>
+          <TypeOfObject>Organization</TypeOfObject>
+        </AgencyOrganizationReference>
+      </FundingInformation>
+      <FundingInformation xmlns="ddi:reusable:3_2">
+        <AgencyOrganizationReference>
+          <Agency>uk.closer</Agency>
+          <ID>b00a48eb-72a3-4956-b9ff-44d9a2c4a21c</ID>
+          <Version>3</Version>
+          <TypeOfObject>Organization</TypeOfObject>
+        </AgencyOrganizationReference>
+      </FundingInformation>
+      <FundingInformation xmlns="ddi:reusable:3_2">
+        <AgencyOrganizationReference>
+          <Agency>uk.closer</Agency>
+          <ID>fd79c1c6-a73d-4ec9-bc45-ee7d83364bb2</ID>
+          <Version>3</Version>
+          <TypeOfObject>Organization</TypeOfObject>
+        </AgencyOrganizationReference>
+      </FundingInformation>
+      <FundingInformation xmlns="ddi:reusable:3_2">
+        <AgencyOrganizationReference>
+          <Agency>uk.closer</Agency>
+          <ID>2c15399b-75d6-4617-a68a-d35e4313d132</ID>
+          <Version>3</Version>
+          <TypeOfObject>Organization</TypeOfObject>
+        </AgencyOrganizationReference>
+      </FundingInformation>
+      <FundingInformation xmlns="ddi:reusable:3_2">
+        <AgencyOrganizationReference>
+          <Agency>uk.closer</Agency>
+          <ID>d20b0a5a-c0d9-485b-b739-3eee24fe9cd1</ID>
+          <Version>3</Version>
+          <TypeOfObject>Organization</TypeOfObject>
+        </AgencyOrganizationReference>
+      </FundingInformation>
+      <FundingInformation xmlns="ddi:reusable:3_2">
+        <AgencyOrganizationReference>
+          <Agency>uk.closer</Agency>
+          <ID>cd3554cd-5e37-4387-9853-84ad37696074</ID>
+          <Version>3</Version>
+          <TypeOfObject>Organization</TypeOfObject>
+        </AgencyOrganizationReference>
+      </FundingInformation>
+      <FundingInformation xmlns="ddi:reusable:3_2">
+        <AgencyOrganizationReference>
+          <Agency>uk.closer</Agency>
+          <ID>7cbce8c8-7d86-4a6b-8752-b74a55f441bd</ID>
+          <Version>3</Version>
+          <TypeOfObject>Organization</TypeOfObject>
+        </AgencyOrganizationReference>
+      </FundingInformation>
+      <Coverage xmlns="ddi:reusable:3_2">
+        <SpatialCoverage isUniversallyUnique="true">
+          <URN>urn:ddi:uk.iser:3d4b40e8-48f2-4bd4-9da9-87679f32f1ed:11</URN>
+          <Agency>uk.iser</Agency>
+          <ID>3d4b40e8-48f2-4bd4-9da9-87679f32f1ed</ID>
+          <Version>11</Version>
+          <BoundingBox>
+            <WestLongitude>0</WestLongitude>
+            <EastLongitude>0</EastLongitude>
+            <SouthLatitude>0</SouthLatitude>
+            <NorthLatitude>0</NorthLatitude>
+          </BoundingBox>
+          <Country>GB-ENG</Country>
+          <Country>GB-WLS</Country>
+          <Country>GB-SCT</Country>
+          <Country>GB-NIR</Country>
+          <TopLevelReference>
+            <LevelName>Country</LevelName>
+          </TopLevelReference>
+          <LowestLevelReference>
+            <LevelName>EUL: Government Office Region, Special License: Lower Layer Super Output Areas, Secure Access: National Grid Reference</LevelName>
+          </LowestLevelReference>
+        </SpatialCoverage>
+        <TemporalCoverage isUniversallyUnique="true">
+          <URN>urn:ddi:uk.iser:d8cd607f-a0f8-4005-a01e-3581eb8dcdf2:11</URN>
+          <Agency>uk.iser</Agency>
+          <ID>d8cd607f-a0f8-4005-a01e-3581eb8dcdf2</ID>
+          <Version>11</Version>
+          <ReferenceDate>
+            <StartDate>2010-01</StartDate>
+            <EndDate>2012-04</EndDate>
+          </ReferenceDate>
+        </TemporalCoverage>
+      </Coverage>
+      <AnalysisUnit codeListVersionID="1.0" xmlns="ddi:reusable:3_2">Household</AnalysisUnit>
+      <KindOfData codeListVersionID="1.0" xmlns="ddi:reusable:3_2">Survey Data</KindOfData>
+      <KindOfData codeListVersionID="1.0" xmlns="ddi:reusable:3_2">Demographic Data</KindOfData>
+      <KindOfData codeListVersionID="1.0" xmlns="ddi:reusable:3_2">Measurement Data</KindOfData>
+      <KindOfData codeListVersionID="1.0" xmlns="ddi:reusable:3_2">Assessment Data</KindOfData>
+      <KindOfData codeListVersionID="1.0" xmlns="ddi:reusable:3_2">Biosample Data</KindOfData>
+      <DataCollection isUniversallyUnique="true" versionDate="2019-10-29T09:05:34.6386121Z" xmlns="ddi:datacollection:3_2">
+        <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.iser:16f8b9a6-6134-4604-b63f-49c93a0874e1:9</URN>
+        <Agency xmlns="ddi:reusable:3_2">uk.iser</Agency>
+        <ID xmlns="ddi:reusable:3_2">16f8b9a6-6134-4604-b63f-49c93a0874e1</ID>
+        <Version xmlns="ddi:reusable:3_2">9</Version>
+        <DataCollectionModuleName>
+          <String xml:lang="en-GB" xmlns="ddi:reusable:3_2">us2</String>
+        </DataCollectionModuleName>
+        <Label xmlns="ddi:reusable:3_2">
+          <Content xml:lang="en-GB">Wave 2 Questionnaire</Content>
+        </Label>
+        <CollectionEvent isUniversallyUnique="true">
+          <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.iser:fa4416e3-0f3c-432c-b9a3-206e4fa3be94:9</URN>
+          <Agency xmlns="ddi:reusable:3_2">uk.iser</Agency>
+          <ID xmlns="ddi:reusable:3_2">fa4416e3-0f3c-432c-b9a3-206e4fa3be94</ID>
+          <Version xmlns="ddi:reusable:3_2">9</Version>
+          <DataCollectorOrganizationReference>
+            <Agency xmlns="ddi:reusable:3_2">uk.closer</Agency>
+            <ID xmlns="ddi:reusable:3_2">8a504fa0-6574-41dc-a2fc-dce99b33c820</ID>
+            <Version xmlns="ddi:reusable:3_2">1</Version>
+            <TypeOfObject xmlns="ddi:reusable:3_2">Organization</TypeOfObject>
+          </DataCollectorOrganizationReference>
+          <DataCollectorOrganizationReference>
+            <Agency xmlns="ddi:reusable:3_2">uk.closer</Agency>
+            <ID xmlns="ddi:reusable:3_2">7cae2e4d-9ac3-4b5e-b582-a20c4a6523b0</ID>
+            <Version xmlns="ddi:reusable:3_2">1</Version>
+            <TypeOfObject xmlns="ddi:reusable:3_2">Organization</TypeOfObject>
+          </DataCollectorOrganizationReference>
+          <DataCollectionDate>
+            <StartDate xmlns="ddi:reusable:3_2">2010-01</StartDate>
+            <EndDate xmlns="ddi:reusable:3_2">2011-12</EndDate>
+          </DataCollectionDate>
+          <ModeOfCollection isUniversallyUnique="true">
+            <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.iser:ccf6df92-3aa0-4499-98af-be8250441769:9</URN>
+            <Agency xmlns="ddi:reusable:3_2">uk.iser</Agency>
+            <ID xmlns="ddi:reusable:3_2">ccf6df92-3aa0-4499-98af-be8250441769</ID>
+            <Version xmlns="ddi:reusable:3_2">9</Version>
+            <TypeOfModeOfCollection codeListVersionID="1.0">Interview.FaceToFace.CAPI/CAMI</TypeOfModeOfCollection>
+            <Description xmlns="ddi:reusable:3_2">
+              <Content xml:lang="en-GB">Face-to-face computer-assisted personal interviewing.</Content>
+            </Description>
+          </ModeOfCollection>
+        </CollectionEvent>
+      </DataCollection>
+      <DataCollection isUniversallyUnique="true" versionDate="2019-10-29T09:05:54.7509282Z" xmlns="ddi:datacollection:3_2">
+        <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.iser:28c2f4e9-59b8-4593-b655-d60a7c6bb3cf:9</URN>
+        <Agency xmlns="ddi:reusable:3_2">uk.iser</Agency>
+        <ID xmlns="ddi:reusable:3_2">28c2f4e9-59b8-4593-b655-d60a7c6bb3cf</ID>
+        <Version xmlns="ddi:reusable:3_2">9</Version>
+        <DataCollectionModuleName>
+          <String xml:lang="en-GB" xmlns="ddi:reusable:3_2">us2_asc</String>
+        </DataCollectionModuleName>
+        <Label xmlns="ddi:reusable:3_2">
+          <Content xml:lang="en-GB">Wave 2 Adult Self-Completion Questionnaire</Content>
+        </Label>
+        <CollectionEvent isUniversallyUnique="true">
+          <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.iser:6606927d-f1bd-423b-8ca8-20183af32bcf:9</URN>
+          <Agency xmlns="ddi:reusable:3_2">uk.iser</Agency>
+          <ID xmlns="ddi:reusable:3_2">6606927d-f1bd-423b-8ca8-20183af32bcf</ID>
+          <Version xmlns="ddi:reusable:3_2">9</Version>
+          <DataCollectorOrganizationReference>
+            <Agency xmlns="ddi:reusable:3_2">uk.closer</Agency>
+            <ID xmlns="ddi:reusable:3_2">8a504fa0-6574-41dc-a2fc-dce99b33c820</ID>
+            <Version xmlns="ddi:reusable:3_2">1</Version>
+            <TypeOfObject xmlns="ddi:reusable:3_2">Organization</TypeOfObject>
+          </DataCollectorOrganizationReference>
+          <DataCollectorOrganizationReference>
+            <Agency xmlns="ddi:reusable:3_2">uk.closer</Agency>
+            <ID xmlns="ddi:reusable:3_2">7cae2e4d-9ac3-4b5e-b582-a20c4a6523b0</ID>
+            <Version xmlns="ddi:reusable:3_2">1</Version>
+            <TypeOfObject xmlns="ddi:reusable:3_2">Organization</TypeOfObject>
+          </DataCollectorOrganizationReference>
+          <DataCollectionDate>
+            <StartDate xmlns="ddi:reusable:3_2">2010-01</StartDate>
+            <EndDate xmlns="ddi:reusable:3_2">2011-12</EndDate>
+          </DataCollectionDate>
+          <ModeOfCollection isUniversallyUnique="true">
+            <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.iser:bf8af49c-8ba8-4199-b63e-5d7974bff051:9</URN>
+            <Agency xmlns="ddi:reusable:3_2">uk.iser</Agency>
+            <ID xmlns="ddi:reusable:3_2">bf8af49c-8ba8-4199-b63e-5d7974bff051</ID>
+            <Version xmlns="ddi:reusable:3_2">9</Version>
+            <TypeOfModeOfCollection codeListVersionID="1.0">SelfAdministeredQuestionnaire.Paper</TypeOfModeOfCollection>
+            <Description xmlns="ddi:reusable:3_2">
+              <Content xml:lang="en-GB">Self-administered questionnaire using a traditional paper questionnaire.</Content>
+            </Description>
+          </ModeOfCollection>
+        </CollectionEvent>
+      </DataCollection>
+      <DataCollection isUniversallyUnique="true" versionDate="2019-10-29T09:06:17.149477Z" xmlns="ddi:datacollection:3_2">
+        <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.iser:4bc0e0b3-4075-489a-8d3e-2054d7d9f5f8:10</URN>
+        <Agency xmlns="ddi:reusable:3_2">uk.iser</Agency>
+        <ID xmlns="ddi:reusable:3_2">4bc0e0b3-4075-489a-8d3e-2054d7d9f5f8</ID>
+        <Version xmlns="ddi:reusable:3_2">10</Version>
+        <DataCollectionModuleName>
+          <String xml:lang="en-GB" xmlns="ddi:reusable:3_2">us2_ysc</String>
+        </DataCollectionModuleName>
+        <Label xmlns="ddi:reusable:3_2">
+          <Content xml:lang="en-GB">Wave 2 Youth Self-Completion Questionnaire</Content>
+        </Label>
+        <CollectionEvent isUniversallyUnique="true">
+          <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.iser:346b6948-aef3-418e-a4af-521b44f28afc:10</URN>
+          <Agency xmlns="ddi:reusable:3_2">uk.iser</Agency>
+          <ID xmlns="ddi:reusable:3_2">346b6948-aef3-418e-a4af-521b44f28afc</ID>
+          <Version xmlns="ddi:reusable:3_2">10</Version>
+          <DataCollectorOrganizationReference>
+            <Agency xmlns="ddi:reusable:3_2">uk.closer</Agency>
+            <ID xmlns="ddi:reusable:3_2">7cae2e4d-9ac3-4b5e-b582-a20c4a6523b0</ID>
+            <Version xmlns="ddi:reusable:3_2">1</Version>
+            <TypeOfObject xmlns="ddi:reusable:3_2">Organization</TypeOfObject>
+          </DataCollectorOrganizationReference>
+          <DataCollectorOrganizationReference>
+            <Agency xmlns="ddi:reusable:3_2">uk.closer</Agency>
+            <ID xmlns="ddi:reusable:3_2">8a504fa0-6574-41dc-a2fc-dce99b33c820</ID>
+            <Version xmlns="ddi:reusable:3_2">1</Version>
+            <TypeOfObject xmlns="ddi:reusable:3_2">Organization</TypeOfObject>
+          </DataCollectorOrganizationReference>
+          <DataCollectionDate>
+            <StartDate xmlns="ddi:reusable:3_2">2010-01</StartDate>
+            <EndDate xmlns="ddi:reusable:3_2">2011-12</EndDate>
+          </DataCollectionDate>
+          <ModeOfCollection isUniversallyUnique="true">
+            <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.iser:f524dbc5-6050-48d6-aed5-a6286f5c28c5:10</URN>
+            <Agency xmlns="ddi:reusable:3_2">uk.iser</Agency>
+            <ID xmlns="ddi:reusable:3_2">f524dbc5-6050-48d6-aed5-a6286f5c28c5</ID>
+            <Version xmlns="ddi:reusable:3_2">10</Version>
+            <TypeOfModeOfCollection codeListVersionID="1.0">SelfAdministeredQuestionnaire.Paper</TypeOfModeOfCollection>
+            <Description xmlns="ddi:reusable:3_2">
+              <Content xml:lang="en-GB">Self-administered questionnaire using a traditional paper questionnaire.</Content>
+            </Description>
+          </ModeOfCollection>
+        </CollectionEvent>
+      </DataCollection>
+    </StudyUnit>
+    <StudyUnit isUniversallyUnique="true" versionDate="2019-11-05T15:16:56.935135Z" xmlns="ddi:studyunit:3_2">
+      <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.iser:85de6102-b14b-4c21-8bc9-a04f8446c868:12</URN>
+      <Agency xmlns="ddi:reusable:3_2">uk.iser</Agency>
+      <ID xmlns="ddi:reusable:3_2">85de6102-b14b-4c21-8bc9-a04f8446c868</ID>
+      <Version xmlns="ddi:reusable:3_2">12</Version>
+      <Citation xmlns="ddi:reusable:3_2">
+        <Title>
+          <String xml:lang="en-GB">Wave 3</String>
+        </Title>
+        <Creator>
+          <CreatorName>
+            <String xml:lang="en-GB">Professor Nick Buck</String>
+          </CreatorName>
+        </Creator>
+        <Publisher>
+          <PublisherName>
+            <String xml:lang="en-GB">Institute for Social &amp; Economic Research, University of Essex</String>
+          </PublisherName>
+        </Publisher>
+      </Citation>
+      <Abstract xmlns="ddi:reusable:3_2">
+        <Content xml:lang="en-GB">This is the fourth wave of data collection for Understanding Society: The UK Household Longitudinal Study (UKHLS) studies 21st century UK life and how it is changing. It captures important information every year about the social and economic circumstances, attitudes, behaviours and health of people living in thousands of UK households.
+
+Information from the longitudinal survey is primarily used by academics, researchers and policy makers in their work, but the findings are of interest to a much wider group of people including those working in the third sector, health practitioners, business, the media and the general public.
+
+Interviews began in 2012 with eligible members of households from earlier waves invited to take part. Adults are interviewed and 10-15 year-olds fill in a paper self-completion questionnaire. Data collection is annual, but each wave takes place over a two year period. 
+
+UKHLS also has an ethnicity strand, with boost samples to ensure the study had at least 1,000 adults from the five main ethnicity groups in the UK. There are also extra questions asked each year of particular relevance to ethnic groups.
+
+Study website: &lt;a href="https://www.understandingsociety.ac.uk/" target="_blank" title="Understanding Society – The UK Household Longitudinal Study"&gt;https://www.understandingsociety.ac.uk/&lt;/a&gt;</Content>
+      </Abstract>
+      <UniverseReference xmlns="ddi:reusable:3_2">
+        <Agency>uk.iser</Agency>
+        <ID>fabb75ae-e265-4b79-87d0-e69499b27ff8</ID>
+        <Version>2</Version>
+        <TypeOfObject>Universe</TypeOfObject>
+      </UniverseReference>
+      <FundingInformation xmlns="ddi:reusable:3_2">
+        <AgencyOrganizationReference>
+          <Agency>uk.closer</Agency>
+          <ID>ced55fc1-3df1-4d66-a925-cf5e1b79167a</ID>
+          <Version>4</Version>
+          <TypeOfObject>Organization</TypeOfObject>
+        </AgencyOrganizationReference>
+      </FundingInformation>
+      <FundingInformation xmlns="ddi:reusable:3_2">
+        <AgencyOrganizationReference>
+          <Agency>uk.closer</Agency>
+          <ID>ef72e69a-bdec-4b8b-9d3f-5d0f757748c8</ID>
+          <Version>3</Version>
+          <TypeOfObject>Organization</TypeOfObject>
+        </AgencyOrganizationReference>
+      </FundingInformation>
+      <FundingInformation xmlns="ddi:reusable:3_2">
+        <AgencyOrganizationReference>
+          <Agency>uk.closer</Agency>
+          <ID>43d1af35-5459-4db2-b482-e1a8886d66fd</ID>
+          <Version>3</Version>
+          <TypeOfObject>Organization</TypeOfObject>
+        </AgencyOrganizationReference>
+      </FundingInformation>
+      <FundingInformation xmlns="ddi:reusable:3_2">
+        <AgencyOrganizationReference>
+          <Agency>uk.closer</Agency>
+          <ID>ad94baff-8e75-45aa-b41d-9c81bb546558</ID>
+          <Version>3</Version>
+          <TypeOfObject>Organization</TypeOfObject>
+        </AgencyOrganizationReference>
+      </FundingInformation>
+      <FundingInformation xmlns="ddi:reusable:3_2">
+        <AgencyOrganizationReference>
+          <Agency>uk.closer</Agency>
+          <ID>5cc4a914-edb6-46d9-a305-d82cc3c85340</ID>
+          <Version>3</Version>
+          <TypeOfObject>Organization</TypeOfObject>
+        </AgencyOrganizationReference>
+      </FundingInformation>
+      <FundingInformation xmlns="ddi:reusable:3_2">
+        <AgencyOrganizationReference>
+          <Agency>uk.closer</Agency>
+          <ID>f6ac9ba6-c3bc-4b0a-a047-42058b69f29e</ID>
+          <Version>3</Version>
+          <TypeOfObject>Organization</TypeOfObject>
+        </AgencyOrganizationReference>
+      </FundingInformation>
+      <FundingInformation xmlns="ddi:reusable:3_2">
+        <AgencyOrganizationReference>
+          <Agency>uk.closer</Agency>
+          <ID>b00a48eb-72a3-4956-b9ff-44d9a2c4a21c</ID>
+          <Version>3</Version>
+          <TypeOfObject>Organization</TypeOfObject>
+        </AgencyOrganizationReference>
+      </FundingInformation>
+      <FundingInformation xmlns="ddi:reusable:3_2">
+        <AgencyOrganizationReference>
+          <Agency>uk.closer</Agency>
+          <ID>fd79c1c6-a73d-4ec9-bc45-ee7d83364bb2</ID>
+          <Version>3</Version>
+          <TypeOfObject>Organization</TypeOfObject>
+        </AgencyOrganizationReference>
+      </FundingInformation>
+      <FundingInformation xmlns="ddi:reusable:3_2">
+        <AgencyOrganizationReference>
+          <Agency>uk.closer</Agency>
+          <ID>2c15399b-75d6-4617-a68a-d35e4313d132</ID>
+          <Version>3</Version>
+          <TypeOfObject>Organization</TypeOfObject>
+        </AgencyOrganizationReference>
+      </FundingInformation>
+      <FundingInformation xmlns="ddi:reusable:3_2">
+        <AgencyOrganizationReference>
+          <Agency>uk.closer</Agency>
+          <ID>d20b0a5a-c0d9-485b-b739-3eee24fe9cd1</ID>
+          <Version>3</Version>
+          <TypeOfObject>Organization</TypeOfObject>
+        </AgencyOrganizationReference>
+      </FundingInformation>
+      <FundingInformation xmlns="ddi:reusable:3_2">
+        <AgencyOrganizationReference>
+          <Agency>uk.closer</Agency>
+          <ID>cd3554cd-5e37-4387-9853-84ad37696074</ID>
+          <Version>3</Version>
+          <TypeOfObject>Organization</TypeOfObject>
+        </AgencyOrganizationReference>
+      </FundingInformation>
+      <FundingInformation xmlns="ddi:reusable:3_2">
+        <AgencyOrganizationReference>
+          <Agency>uk.closer</Agency>
+          <ID>7cbce8c8-7d86-4a6b-8752-b74a55f441bd</ID>
+          <Version>3</Version>
+          <TypeOfObject>Organization</TypeOfObject>
+        </AgencyOrganizationReference>
+      </FundingInformation>
+      <Coverage xmlns="ddi:reusable:3_2">
+        <SpatialCoverage isUniversallyUnique="true">
+          <URN>urn:ddi:uk.iser:60071132-a37c-4877-b080-fee0a2f2a8be:12</URN>
+          <Agency>uk.iser</Agency>
+          <ID>60071132-a37c-4877-b080-fee0a2f2a8be</ID>
+          <Version>12</Version>
+          <BoundingBox>
+            <WestLongitude>0</WestLongitude>
+            <EastLongitude>0</EastLongitude>
+            <SouthLatitude>0</SouthLatitude>
+            <NorthLatitude>0</NorthLatitude>
+          </BoundingBox>
+          <Country>GB-ENG</Country>
+          <Country>GB-WLS</Country>
+          <Country>GB-SCT</Country>
+          <Country>GB-NIR</Country>
+          <TopLevelReference>
+            <LevelName>Country</LevelName>
+          </TopLevelReference>
+          <LowestLevelReference>
+            <LevelName>EUL: Government Office Region, Special License: Lower Layer Super Output Areas, Secure Access: National Grid Reference</LevelName>
+          </LowestLevelReference>
+        </SpatialCoverage>
+        <TemporalCoverage isUniversallyUnique="true">
+          <URN>urn:ddi:uk.iser:73dde951-38b4-466f-a53f-56b3d18ff78e:12</URN>
+          <Agency>uk.iser</Agency>
+          <ID>73dde951-38b4-466f-a53f-56b3d18ff78e</ID>
+          <Version>12</Version>
+          <ReferenceDate>
+            <StartDate>2011-01</StartDate>
+            <EndDate>2013-04</EndDate>
+          </ReferenceDate>
+        </TemporalCoverage>
+      </Coverage>
+      <AnalysisUnit codeListVersionID="1.0" xmlns="ddi:reusable:3_2">Household</AnalysisUnit>
+      <KindOfData codeListVersionID="1.0" xmlns="ddi:reusable:3_2">Survey Data</KindOfData>
+      <KindOfData codeListVersionID="1.0" xmlns="ddi:reusable:3_2">Demographic Data</KindOfData>
+      <KindOfData codeListVersionID="1.0" xmlns="ddi:reusable:3_2">Measurement Data</KindOfData>
+      <KindOfData codeListVersionID="1.0" xmlns="ddi:reusable:3_2">Assessment Data</KindOfData>
+      <KindOfData codeListVersionID="1.0" xmlns="ddi:reusable:3_2">Biosample Data</KindOfData>
+      <DataCollection isUniversallyUnique="true" versionDate="2019-10-29T09:06:53.8072788Z" xmlns="ddi:datacollection:3_2">
+        <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.iser:a441e790-6b85-469c-8962-28ccb4deaa6c:6</URN>
+        <Agency xmlns="ddi:reusable:3_2">uk.iser</Agency>
+        <ID xmlns="ddi:reusable:3_2">a441e790-6b85-469c-8962-28ccb4deaa6c</ID>
+        <Version xmlns="ddi:reusable:3_2">6</Version>
+        <DataCollectionModuleName>
+          <String xml:lang="en-GB" xmlns="ddi:reusable:3_2">us3</String>
+        </DataCollectionModuleName>
+        <Label xmlns="ddi:reusable:3_2">
+          <Content xml:lang="en-GB">Wave 3 Questionnaire</Content>
+        </Label>
+        <CollectionEvent isUniversallyUnique="true">
+          <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.iser:f397db7e-3143-4868-a636-c3d0d17e5ee7:6</URN>
+          <Agency xmlns="ddi:reusable:3_2">uk.iser</Agency>
+          <ID xmlns="ddi:reusable:3_2">f397db7e-3143-4868-a636-c3d0d17e5ee7</ID>
+          <Version xmlns="ddi:reusable:3_2">6</Version>
+          <DataCollectorOrganizationReference>
+            <Agency xmlns="ddi:reusable:3_2">uk.closer</Agency>
+            <ID xmlns="ddi:reusable:3_2">8a504fa0-6574-41dc-a2fc-dce99b33c820</ID>
+            <Version xmlns="ddi:reusable:3_2">1</Version>
+            <TypeOfObject xmlns="ddi:reusable:3_2">Organization</TypeOfObject>
+          </DataCollectorOrganizationReference>
+          <DataCollectorOrganizationReference>
+            <Agency xmlns="ddi:reusable:3_2">uk.closer</Agency>
+            <ID xmlns="ddi:reusable:3_2">7cae2e4d-9ac3-4b5e-b582-a20c4a6523b0</ID>
+            <Version xmlns="ddi:reusable:3_2">1</Version>
+            <TypeOfObject xmlns="ddi:reusable:3_2">Organization</TypeOfObject>
+          </DataCollectorOrganizationReference>
+          <DataCollectionDate>
+            <StartDate xmlns="ddi:reusable:3_2">2011-01</StartDate>
+            <EndDate xmlns="ddi:reusable:3_2">2012-12</EndDate>
+          </DataCollectionDate>
+          <ModeOfCollection isUniversallyUnique="true">
+            <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.iser:d88cb1d6-94c4-415d-834a-9f95128faf43:6</URN>
+            <Agency xmlns="ddi:reusable:3_2">uk.iser</Agency>
+            <ID xmlns="ddi:reusable:3_2">d88cb1d6-94c4-415d-834a-9f95128faf43</ID>
+            <Version xmlns="ddi:reusable:3_2">6</Version>
+            <TypeOfModeOfCollection codeListVersionID="1.0">Interview.FaceToFace.CAPI/CAMI</TypeOfModeOfCollection>
+            <Description xmlns="ddi:reusable:3_2">
+              <Content xml:lang="en-GB">Face-to-face computer-assisted personal interviewing.</Content>
+            </Description>
+          </ModeOfCollection>
+        </CollectionEvent>
+      </DataCollection>
+      <DataCollection isUniversallyUnique="true" versionDate="2019-10-29T09:07:02.023863Z" xmlns="ddi:datacollection:3_2">
+        <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.iser:ad6d3c78-362b-4ae0-9b3b-d071165d37c9:9</URN>
+        <Agency xmlns="ddi:reusable:3_2">uk.iser</Agency>
+        <ID xmlns="ddi:reusable:3_2">ad6d3c78-362b-4ae0-9b3b-d071165d37c9</ID>
+        <Version xmlns="ddi:reusable:3_2">9</Version>
+        <DataCollectionModuleName>
+          <String xml:lang="en-GB" xmlns="ddi:reusable:3_2">us3_ysc</String>
+        </DataCollectionModuleName>
+        <Label xmlns="ddi:reusable:3_2">
+          <Content xml:lang="en-GB">Wave 3 Youth Self-Completion Questionnaire – Great Britain</Content>
+        </Label>
+        <CollectionEvent isUniversallyUnique="true">
+          <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.iser:2188b94c-65f5-4c3b-af91-1480089e7721:9</URN>
+          <Agency xmlns="ddi:reusable:3_2">uk.iser</Agency>
+          <ID xmlns="ddi:reusable:3_2">2188b94c-65f5-4c3b-af91-1480089e7721</ID>
+          <Version xmlns="ddi:reusable:3_2">9</Version>
+          <DataCollectorOrganizationReference>
+            <Agency xmlns="ddi:reusable:3_2">uk.closer</Agency>
+            <ID xmlns="ddi:reusable:3_2">7cae2e4d-9ac3-4b5e-b582-a20c4a6523b0</ID>
+            <Version xmlns="ddi:reusable:3_2">1</Version>
+            <TypeOfObject xmlns="ddi:reusable:3_2">Organization</TypeOfObject>
+          </DataCollectorOrganizationReference>
+          <DataCollectionDate>
+            <StartDate xmlns="ddi:reusable:3_2">2011-01</StartDate>
+            <EndDate xmlns="ddi:reusable:3_2">2012-12</EndDate>
+          </DataCollectionDate>
+          <ModeOfCollection isUniversallyUnique="true">
+            <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.iser:eaa405ff-4da6-4880-9678-f62ed0eab4bf:9</URN>
+            <Agency xmlns="ddi:reusable:3_2">uk.iser</Agency>
+            <ID xmlns="ddi:reusable:3_2">eaa405ff-4da6-4880-9678-f62ed0eab4bf</ID>
+            <Version xmlns="ddi:reusable:3_2">9</Version>
+            <TypeOfModeOfCollection codeListVersionID="1.0">SelfAdministeredQuestionnaire.Paper</TypeOfModeOfCollection>
+            <Description xmlns="ddi:reusable:3_2">
+              <Content xml:lang="en-GB">Self-administered questionnaire using a traditional paper questionnaire. </Content>
+            </Description>
+          </ModeOfCollection>
+        </CollectionEvent>
+      </DataCollection>
+      <DataCollection isUniversallyUnique="true" versionDate="2019-10-29T09:07:16.9513078Z" xmlns="ddi:datacollection:3_2">
+        <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.iser:adcb554b-c456-4da0-b584-9db6cf593635:5</URN>
+        <Agency xmlns="ddi:reusable:3_2">uk.iser</Agency>
+        <ID xmlns="ddi:reusable:3_2">adcb554b-c456-4da0-b584-9db6cf593635</ID>
+        <Version xmlns="ddi:reusable:3_2">5</Version>
+        <DataCollectionModuleName>
+          <String xml:lang="en-GB" xmlns="ddi:reusable:3_2">us3_ysc_ni</String>
+        </DataCollectionModuleName>
+        <Label xmlns="ddi:reusable:3_2">
+          <Content xml:lang="en-GB">Wave 3 Youth Self-Completion Questionnaire – Northern Ireland</Content>
+        </Label>
+        <CollectionEvent isUniversallyUnique="true">
+          <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.iser:8c7138a5-6392-45c9-a4d4-0903bd99c305:5</URN>
+          <Agency xmlns="ddi:reusable:3_2">uk.iser</Agency>
+          <ID xmlns="ddi:reusable:3_2">8c7138a5-6392-45c9-a4d4-0903bd99c305</ID>
+          <Version xmlns="ddi:reusable:3_2">5</Version>
+          <DataCollectorOrganizationReference>
+            <Agency xmlns="ddi:reusable:3_2">uk.closer</Agency>
+            <ID xmlns="ddi:reusable:3_2">8a504fa0-6574-41dc-a2fc-dce99b33c820</ID>
+            <Version xmlns="ddi:reusable:3_2">1</Version>
+            <TypeOfObject xmlns="ddi:reusable:3_2">Organization</TypeOfObject>
+          </DataCollectorOrganizationReference>
+          <DataCollectionDate>
+            <StartDate xmlns="ddi:reusable:3_2">2011-01</StartDate>
+            <EndDate xmlns="ddi:reusable:3_2">2012-12</EndDate>
+          </DataCollectionDate>
+          <ModeOfCollection isUniversallyUnique="true">
+            <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.iser:9fb3d5bd-1359-4577-8d73-38b03c75fb0b:5</URN>
+            <Agency xmlns="ddi:reusable:3_2">uk.iser</Agency>
+            <ID xmlns="ddi:reusable:3_2">9fb3d5bd-1359-4577-8d73-38b03c75fb0b</ID>
+            <Version xmlns="ddi:reusable:3_2">5</Version>
+            <TypeOfModeOfCollection codeListVersionID="1.0">SelfAdministeredQuestionnaire.Paper</TypeOfModeOfCollection>
+            <Description xmlns="ddi:reusable:3_2">
+              <Content xml:lang="en-GB">Self-administered questionnaire using a traditional paper questionnaire.</Content>
+            </Description>
+          </ModeOfCollection>
+        </CollectionEvent>
+      </DataCollection>
+    </StudyUnit>
+    <StudyUnit isUniversallyUnique="true" versionDate="2019-11-05T15:17:07.0894146Z" xmlns="ddi:studyunit:3_2">
+      <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.iser:d80fa375-c0e2-445a-a98b-c4fc29dedb0c:11</URN>
+      <Agency xmlns="ddi:reusable:3_2">uk.iser</Agency>
+      <ID xmlns="ddi:reusable:3_2">d80fa375-c0e2-445a-a98b-c4fc29dedb0c</ID>
+      <Version xmlns="ddi:reusable:3_2">11</Version>
+      <UserAttributePair xmlns="ddi:reusable:3_2">
+        <AttributeKey>extension:CustomField</AttributeKey>
+        <AttributeValue>{"Title":{"en-GB":"LifeStage"},"Description":{},"ValueType":0,"HasValue":true,"RelationshipTargetType":"00000000-0000-0000-0000-000000000000","StringValue":"Other","MultilingualStringValue":{},"HasDefinedType":false,"DisplayLabel":"LifeStage"}</AttributeValue>
+      </UserAttributePair>
+      <UserAttributePair xmlns="ddi:reusable:3_2">
+        <AttributeKey>extension:CustomField</AttributeKey>
+        <AttributeValue>{"Title":{"en-GB":"LifeStageDescription"},"Description":{},"ValueType":0,"HasValue":true,"RelationshipTargetType":"00000000-0000-0000-0000-000000000000","StringValue":"More than one life stage is covered","MultilingualStringValue":{},"HasDefinedType":false,"DisplayLabel":"LifeStageDescription"}</AttributeValue>
+      </UserAttributePair>
+      <Citation xmlns="ddi:reusable:3_2">
+        <Title>
+          <String xml:lang="en-GB">Wave 4</String>
+        </Title>
+        <Creator>
+          <CreatorName>
+            <String xml:lang="en-GB">Professor Nick Buck</String>
+          </CreatorName>
+        </Creator>
+        <Publisher>
+          <PublisherName>
+            <String xml:lang="en-GB">Institute for Social &amp; Economic Research, University of Essex</String>
+          </PublisherName>
+        </Publisher>
+      </Citation>
+      <Abstract xmlns="ddi:reusable:3_2">
+        <Content xml:lang="en-GB">This is the fourth wave of data collection for Understanding Society: The UK Household Longitudinal Study (UKHLS) studies 21st century UK life and how it is changing. It captures important information every year about the social and economic circumstances, attitudes, behaviours and health of people living in thousands of UK households.
+
+Information from the longitudinal survey is primarily used by academics, researchers and policy makers in their work, but the findings are of interest to a much wider group of people including those working in the third sector, health practitioners, business, the media and the general public.
+
+Interviews began in 2012 with eligible members of households from earlier waves invited to take part. Adults are interviewed and 10-15 year-olds fill in a paper self-completion questionnaire. Data collection is annual, but each wave takes place over a two year period. 
+
+UKHLS also has an ethnicity strand, with boost samples to ensure the study had at least 1,000 adults from the five main ethnicity groups in the UK. There are also extra questions asked each year of particular relevance to ethnic groups.
+
+Study website: &lt;a href="https://www.understandingsociety.ac.uk/" target="_blank" title="Understanding Society – The UK Household Longitudinal Study"&gt;https://www.understandingsociety.ac.uk/&lt;/a&gt;</Content>
+      </Abstract>
+      <UniverseReference xmlns="ddi:reusable:3_2">
+        <Agency>uk.iser</Agency>
+        <ID>397dbbe3-402c-4180-bc97-7a5238062b08</ID>
+        <Version>2</Version>
+        <TypeOfObject>Universe</TypeOfObject>
+      </UniverseReference>
+      <FundingInformation xmlns="ddi:reusable:3_2">
+        <AgencyOrganizationReference>
+          <Agency>uk.closer</Agency>
+          <ID>ced55fc1-3df1-4d66-a925-cf5e1b79167a</ID>
+          <Version>4</Version>
+          <TypeOfObject>Organization</TypeOfObject>
+        </AgencyOrganizationReference>
+      </FundingInformation>
+      <FundingInformation xmlns="ddi:reusable:3_2">
+        <AgencyOrganizationReference>
+          <Agency>uk.closer</Agency>
+          <ID>ef72e69a-bdec-4b8b-9d3f-5d0f757748c8</ID>
+          <Version>3</Version>
+          <TypeOfObject>Organization</TypeOfObject>
+        </AgencyOrganizationReference>
+      </FundingInformation>
+      <FundingInformation xmlns="ddi:reusable:3_2">
+        <AgencyOrganizationReference>
+          <Agency>uk.closer</Agency>
+          <ID>43d1af35-5459-4db2-b482-e1a8886d66fd</ID>
+          <Version>3</Version>
+          <TypeOfObject>Organization</TypeOfObject>
+        </AgencyOrganizationReference>
+      </FundingInformation>
+      <FundingInformation xmlns="ddi:reusable:3_2">
+        <AgencyOrganizationReference>
+          <Agency>uk.closer</Agency>
+          <ID>ad94baff-8e75-45aa-b41d-9c81bb546558</ID>
+          <Version>3</Version>
+          <TypeOfObject>Organization</TypeOfObject>
+        </AgencyOrganizationReference>
+      </FundingInformation>
+      <FundingInformation xmlns="ddi:reusable:3_2">
+        <AgencyOrganizationReference>
+          <Agency>uk.closer</Agency>
+          <ID>5cc4a914-edb6-46d9-a305-d82cc3c85340</ID>
+          <Version>3</Version>
+          <TypeOfObject>Organization</TypeOfObject>
+        </AgencyOrganizationReference>
+      </FundingInformation>
+      <FundingInformation xmlns="ddi:reusable:3_2">
+        <AgencyOrganizationReference>
+          <Agency>uk.closer</Agency>
+          <ID>f6ac9ba6-c3bc-4b0a-a047-42058b69f29e</ID>
+          <Version>3</Version>
+          <TypeOfObject>Organization</TypeOfObject>
+        </AgencyOrganizationReference>
+      </FundingInformation>
+      <FundingInformation xmlns="ddi:reusable:3_2">
+        <AgencyOrganizationReference>
+          <Agency>uk.closer</Agency>
+          <ID>b00a48eb-72a3-4956-b9ff-44d9a2c4a21c</ID>
+          <Version>3</Version>
+          <TypeOfObject>Organization</TypeOfObject>
+        </AgencyOrganizationReference>
+      </FundingInformation>
+      <FundingInformation xmlns="ddi:reusable:3_2">
+        <AgencyOrganizationReference>
+          <Agency>uk.closer</Agency>
+          <ID>fd79c1c6-a73d-4ec9-bc45-ee7d83364bb2</ID>
+          <Version>3</Version>
+          <TypeOfObject>Organization</TypeOfObject>
+        </AgencyOrganizationReference>
+      </FundingInformation>
+      <FundingInformation xmlns="ddi:reusable:3_2">
+        <AgencyOrganizationReference>
+          <Agency>uk.closer</Agency>
+          <ID>2c15399b-75d6-4617-a68a-d35e4313d132</ID>
+          <Version>3</Version>
+          <TypeOfObject>Organization</TypeOfObject>
+        </AgencyOrganizationReference>
+      </FundingInformation>
+      <FundingInformation xmlns="ddi:reusable:3_2">
+        <AgencyOrganizationReference>
+          <Agency>uk.closer</Agency>
+          <ID>d20b0a5a-c0d9-485b-b739-3eee24fe9cd1</ID>
+          <Version>3</Version>
+          <TypeOfObject>Organization</TypeOfObject>
+        </AgencyOrganizationReference>
+      </FundingInformation>
+      <FundingInformation xmlns="ddi:reusable:3_2">
+        <AgencyOrganizationReference>
+          <Agency>uk.closer</Agency>
+          <ID>cd3554cd-5e37-4387-9853-84ad37696074</ID>
+          <Version>3</Version>
+          <TypeOfObject>Organization</TypeOfObject>
+        </AgencyOrganizationReference>
+      </FundingInformation>
+      <FundingInformation xmlns="ddi:reusable:3_2">
+        <AgencyOrganizationReference>
+          <Agency>uk.closer</Agency>
+          <ID>7cbce8c8-7d86-4a6b-8752-b74a55f441bd</ID>
+          <Version>3</Version>
+          <TypeOfObject>Organization</TypeOfObject>
+        </AgencyOrganizationReference>
+      </FundingInformation>
+      <Coverage xmlns="ddi:reusable:3_2">
+        <SpatialCoverage isUniversallyUnique="true">
+          <URN>urn:ddi:uk.iser:fb1d6360-dfef-49a7-887b-7c39eccd9854:11</URN>
+          <Agency>uk.iser</Agency>
+          <ID>fb1d6360-dfef-49a7-887b-7c39eccd9854</ID>
+          <Version>11</Version>
+          <BoundingBox>
+            <WestLongitude>0</WestLongitude>
+            <EastLongitude>0</EastLongitude>
+            <SouthLatitude>0</SouthLatitude>
+            <NorthLatitude>0</NorthLatitude>
+          </BoundingBox>
+          <Country>GB-ENG</Country>
+          <Country>GB-WLS</Country>
+          <Country>GB-SCT</Country>
+          <Country>GB-NIR</Country>
+          <TopLevelReference>
+            <LevelName>Country</LevelName>
+          </TopLevelReference>
+          <LowestLevelReference>
+            <LevelName>EUL: Government Office Region, Special License: Lower Layer Super Output Areas, Secure Access: National Grid Reference</LevelName>
+          </LowestLevelReference>
+        </SpatialCoverage>
+        <TemporalCoverage isUniversallyUnique="true">
+          <URN>urn:ddi:uk.iser:2ad92d83-70a0-478c-abf6-3d5ff855bd79:11</URN>
+          <Agency>uk.iser</Agency>
+          <ID>2ad92d83-70a0-478c-abf6-3d5ff855bd79</ID>
+          <Version>11</Version>
+          <ReferenceDate>
+            <StartDate>2012-01</StartDate>
+            <EndDate>2014-04</EndDate>
+          </ReferenceDate>
+        </TemporalCoverage>
+      </Coverage>
+      <AnalysisUnit codeListVersionID="1.0" xmlns="ddi:reusable:3_2">Household</AnalysisUnit>
+      <KindOfData codeListVersionID="1.0" xmlns="ddi:reusable:3_2">Survey Data</KindOfData>
+      <KindOfData codeListVersionID="1.0" xmlns="ddi:reusable:3_2">Demographic Data</KindOfData>
+      <KindOfData codeListVersionID="1.0" xmlns="ddi:reusable:3_2">Assessment Data</KindOfData>
+      <DataCollection isUniversallyUnique="true" versionDate="2019-10-29T09:07:41.3356713Z" xmlns="ddi:datacollection:3_2">
+        <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.iser:a030c8b9-cbf2-4252-8aa0-b464c89b9a63:6</URN>
+        <Agency xmlns="ddi:reusable:3_2">uk.iser</Agency>
+        <ID xmlns="ddi:reusable:3_2">a030c8b9-cbf2-4252-8aa0-b464c89b9a63</ID>
+        <Version xmlns="ddi:reusable:3_2">6</Version>
+        <DataCollectionModuleName>
+          <String xml:lang="en-GB" xmlns="ddi:reusable:3_2">us4</String>
+        </DataCollectionModuleName>
+        <Label xmlns="ddi:reusable:3_2">
+          <Content xml:lang="en-GB">Wave 4 Main Questionnaire</Content>
+        </Label>
+        <CollectionEvent isUniversallyUnique="true">
+          <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.iser:e69112f6-4e6c-4b4e-8f3b-7e3d73f7da58:6</URN>
+          <Agency xmlns="ddi:reusable:3_2">uk.iser</Agency>
+          <ID xmlns="ddi:reusable:3_2">e69112f6-4e6c-4b4e-8f3b-7e3d73f7da58</ID>
+          <Version xmlns="ddi:reusable:3_2">6</Version>
+          <DataCollectorOrganizationReference>
+            <Agency xmlns="ddi:reusable:3_2">uk.closer</Agency>
+            <ID xmlns="ddi:reusable:3_2">8a504fa0-6574-41dc-a2fc-dce99b33c820</ID>
+            <Version xmlns="ddi:reusable:3_2">1</Version>
+            <TypeOfObject xmlns="ddi:reusable:3_2">Organization</TypeOfObject>
+          </DataCollectorOrganizationReference>
+          <DataCollectorOrganizationReference>
+            <Agency xmlns="ddi:reusable:3_2">uk.closer</Agency>
+            <ID xmlns="ddi:reusable:3_2">7cae2e4d-9ac3-4b5e-b582-a20c4a6523b0</ID>
+            <Version xmlns="ddi:reusable:3_2">1</Version>
+            <TypeOfObject xmlns="ddi:reusable:3_2">Organization</TypeOfObject>
+          </DataCollectorOrganizationReference>
+          <DataCollectionDate>
+            <StartDate xmlns="ddi:reusable:3_2">2012-01</StartDate>
+            <EndDate xmlns="ddi:reusable:3_2">2013-12</EndDate>
+          </DataCollectionDate>
+          <ModeOfCollection isUniversallyUnique="true">
+            <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.iser:d55f7eb4-20e0-45b6-86e5-993e98caf907:6</URN>
+            <Agency xmlns="ddi:reusable:3_2">uk.iser</Agency>
+            <ID xmlns="ddi:reusable:3_2">d55f7eb4-20e0-45b6-86e5-993e98caf907</ID>
+            <Version xmlns="ddi:reusable:3_2">6</Version>
+            <TypeOfModeOfCollection codeListVersionID="1.0">Interview.FaceToFace.CAPI/CAMI</TypeOfModeOfCollection>
+            <Description xmlns="ddi:reusable:3_2">
+              <Content xml:lang="en-GB">Face-to-face computer-assisted personal interviewing.</Content>
+            </Description>
+          </ModeOfCollection>
+        </CollectionEvent>
+      </DataCollection>
+      <DataCollection isUniversallyUnique="true" versionDate="2019-10-29T09:08:01.8559293Z" xmlns="ddi:datacollection:3_2">
+        <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.iser:a996fd2e-b2f6-4c0c-9b7b-07b0905d5e66:9</URN>
+        <Agency xmlns="ddi:reusable:3_2">uk.iser</Agency>
+        <ID xmlns="ddi:reusable:3_2">a996fd2e-b2f6-4c0c-9b7b-07b0905d5e66</ID>
+        <Version xmlns="ddi:reusable:3_2">9</Version>
+        <DataCollectionModuleName>
+          <String xml:lang="en-GB" xmlns="ddi:reusable:3_2">us4_ysc</String>
+        </DataCollectionModuleName>
+        <Label xmlns="ddi:reusable:3_2">
+          <Content xml:lang="en-GB">Wave 4 Youth Self-Completion Questionnaire</Content>
+        </Label>
+        <CollectionEvent isUniversallyUnique="true">
+          <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.iser:2b090442-19d7-49cf-8c0d-dd596b109c3a:9</URN>
+          <Agency xmlns="ddi:reusable:3_2">uk.iser</Agency>
+          <ID xmlns="ddi:reusable:3_2">2b090442-19d7-49cf-8c0d-dd596b109c3a</ID>
+          <Version xmlns="ddi:reusable:3_2">9</Version>
+          <DataCollectorOrganizationReference>
+            <Agency xmlns="ddi:reusable:3_2">uk.closer</Agency>
+            <ID xmlns="ddi:reusable:3_2">8a504fa0-6574-41dc-a2fc-dce99b33c820</ID>
+            <Version xmlns="ddi:reusable:3_2">1</Version>
+            <TypeOfObject xmlns="ddi:reusable:3_2">Organization</TypeOfObject>
+          </DataCollectorOrganizationReference>
+          <DataCollectorOrganizationReference>
+            <Agency xmlns="ddi:reusable:3_2">uk.closer</Agency>
+            <ID xmlns="ddi:reusable:3_2">7cae2e4d-9ac3-4b5e-b582-a20c4a6523b0</ID>
+            <Version xmlns="ddi:reusable:3_2">1</Version>
+            <TypeOfObject xmlns="ddi:reusable:3_2">Organization</TypeOfObject>
+          </DataCollectorOrganizationReference>
+          <DataCollectionDate>
+            <StartDate xmlns="ddi:reusable:3_2">2012-01</StartDate>
+            <EndDate xmlns="ddi:reusable:3_2">2013-12</EndDate>
+          </DataCollectionDate>
+          <ModeOfCollection isUniversallyUnique="true">
+            <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.iser:65117072-6ee1-451f-a1c1-11623503b4b3:9</URN>
+            <Agency xmlns="ddi:reusable:3_2">uk.iser</Agency>
+            <ID xmlns="ddi:reusable:3_2">65117072-6ee1-451f-a1c1-11623503b4b3</ID>
+            <Version xmlns="ddi:reusable:3_2">9</Version>
+            <TypeOfModeOfCollection codeListVersionID="1.0">SelfAdministeredQuestionnaire.Paper</TypeOfModeOfCollection>
+            <Description xmlns="ddi:reusable:3_2">
+              <Content xml:lang="en-GB">Self-administered questionnaire using a traditional paper questionnaire.</Content>
+            </Description>
+          </ModeOfCollection>
+        </CollectionEvent>
+      </DataCollection>
+    </StudyUnit>
+    <StudyUnit isUniversallyUnique="true" versionDate="2019-11-05T15:17:19.3326301Z" xmlns="ddi:studyunit:3_2">
+      <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.iser:f9541a02-9fed-43d5-ab1d-842fb5f3219a:11</URN>
+      <Agency xmlns="ddi:reusable:3_2">uk.iser</Agency>
+      <ID xmlns="ddi:reusable:3_2">f9541a02-9fed-43d5-ab1d-842fb5f3219a</ID>
+      <Version xmlns="ddi:reusable:3_2">11</Version>
+      <UserAttributePair xmlns="ddi:reusable:3_2">
+        <AttributeKey>extension:CustomField</AttributeKey>
+        <AttributeValue>{"Title":{"en-GB":"LifeStage"},"Description":{},"ValueType":0,"HasValue":true,"RelationshipTargetType":"00000000-0000-0000-0000-000000000000","StringValue":"Other","MultilingualStringValue":{},"HasDefinedType":false,"DisplayLabel":"LifeStage"}</AttributeValue>
+      </UserAttributePair>
+      <UserAttributePair xmlns="ddi:reusable:3_2">
+        <AttributeKey>extension:CustomField</AttributeKey>
+        <AttributeValue>{"Title":{"en-GB":"LifeStageDescription"},"Description":{},"ValueType":0,"HasValue":true,"RelationshipTargetType":"00000000-0000-0000-0000-000000000000","StringValue":"More than one life stage is covered","MultilingualStringValue":{},"HasDefinedType":false,"DisplayLabel":"LifeStageDescription"}</AttributeValue>
+      </UserAttributePair>
+      <Citation xmlns="ddi:reusable:3_2">
+        <Title>
+          <String xml:lang="en-GB">Wave 5</String>
+        </Title>
+        <Creator>
+          <CreatorName>
+            <String xml:lang="en-GB">Professor Nick Buck</String>
+          </CreatorName>
+        </Creator>
+        <Publisher>
+          <PublisherName>
+            <String xml:lang="en-GB">Institute for Social &amp; Economic Research, University of Essex</String>
+          </PublisherName>
+        </Publisher>
+      </Citation>
+      <Abstract xmlns="ddi:reusable:3_2">
+        <Content xml:lang="en-GB">This is the fifth wave of data collection for Understanding Society: The UK Household Longitudinal Study (UKHLS) studies 21st century UK life and how it is changing. It captures important information every year about the social and economic circumstances, attitudes, behaviours and health of people living in thousands of UK households.
+
+Information from the longitudinal survey is primarily used by academics, researchers and policy makers in their work, but the findings are of interest to a much wider group of people including those working in the third sector, health practitioners, business, the media and the general public.
+
+Interviews began in 2012 with eligible members of households from earlier waves invited to take part. Adults are interviewed and 10-15 year-olds fill in a paper self-completion questionnaire. Data collection is annual, but each wave takes place over a two year period. 
+
+UKHLS also has an ethnicity strand, with boost samples to ensure the study had at least 1,000 adults from the five main ethnicity groups in the UK. There are also extra questions asked each year of particular relevance to ethnic groups.
+
+Study website: &lt;a href="https://www.understandingsociety.ac.uk/" target="_blank" title="Understanding Society – The UK Household Longitudinal Study"&gt;https://www.understandingsociety.ac.uk/&lt;/a&gt;</Content>
+      </Abstract>
+      <UniverseReference xmlns="ddi:reusable:3_2">
+        <Agency>uk.iser</Agency>
+        <ID>7bd8f42d-96d6-4d28-b47a-c3e9bc37294a</ID>
+        <Version>2</Version>
+        <TypeOfObject>Universe</TypeOfObject>
+      </UniverseReference>
+      <FundingInformation xmlns="ddi:reusable:3_2">
+        <AgencyOrganizationReference>
+          <Agency>uk.closer</Agency>
+          <ID>ced55fc1-3df1-4d66-a925-cf5e1b79167a</ID>
+          <Version>4</Version>
+          <TypeOfObject>Organization</TypeOfObject>
+        </AgencyOrganizationReference>
+      </FundingInformation>
+      <FundingInformation xmlns="ddi:reusable:3_2">
+        <AgencyOrganizationReference>
+          <Agency>uk.closer</Agency>
+          <ID>ef72e69a-bdec-4b8b-9d3f-5d0f757748c8</ID>
+          <Version>3</Version>
+          <TypeOfObject>Organization</TypeOfObject>
+        </AgencyOrganizationReference>
+      </FundingInformation>
+      <FundingInformation xmlns="ddi:reusable:3_2">
+        <AgencyOrganizationReference>
+          <Agency>uk.closer</Agency>
+          <ID>43d1af35-5459-4db2-b482-e1a8886d66fd</ID>
+          <Version>3</Version>
+          <TypeOfObject>Organization</TypeOfObject>
+        </AgencyOrganizationReference>
+      </FundingInformation>
+      <FundingInformation xmlns="ddi:reusable:3_2">
+        <AgencyOrganizationReference>
+          <Agency>uk.closer</Agency>
+          <ID>ad94baff-8e75-45aa-b41d-9c81bb546558</ID>
+          <Version>3</Version>
+          <TypeOfObject>Organization</TypeOfObject>
+        </AgencyOrganizationReference>
+      </FundingInformation>
+      <FundingInformation xmlns="ddi:reusable:3_2">
+        <AgencyOrganizationReference>
+          <Agency>uk.closer</Agency>
+          <ID>5cc4a914-edb6-46d9-a305-d82cc3c85340</ID>
+          <Version>3</Version>
+          <TypeOfObject>Organization</TypeOfObject>
+        </AgencyOrganizationReference>
+      </FundingInformation>
+      <FundingInformation xmlns="ddi:reusable:3_2">
+        <AgencyOrganizationReference>
+          <Agency>uk.closer</Agency>
+          <ID>f6ac9ba6-c3bc-4b0a-a047-42058b69f29e</ID>
+          <Version>3</Version>
+          <TypeOfObject>Organization</TypeOfObject>
+        </AgencyOrganizationReference>
+      </FundingInformation>
+      <FundingInformation xmlns="ddi:reusable:3_2">
+        <AgencyOrganizationReference>
+          <Agency>uk.closer</Agency>
+          <ID>b00a48eb-72a3-4956-b9ff-44d9a2c4a21c</ID>
+          <Version>3</Version>
+          <TypeOfObject>Organization</TypeOfObject>
+        </AgencyOrganizationReference>
+      </FundingInformation>
+      <FundingInformation xmlns="ddi:reusable:3_2">
+        <AgencyOrganizationReference>
+          <Agency>uk.closer</Agency>
+          <ID>fd79c1c6-a73d-4ec9-bc45-ee7d83364bb2</ID>
+          <Version>3</Version>
+          <TypeOfObject>Organization</TypeOfObject>
+        </AgencyOrganizationReference>
+      </FundingInformation>
+      <FundingInformation xmlns="ddi:reusable:3_2">
+        <AgencyOrganizationReference>
+          <Agency>uk.closer</Agency>
+          <ID>2c15399b-75d6-4617-a68a-d35e4313d132</ID>
+          <Version>3</Version>
+          <TypeOfObject>Organization</TypeOfObject>
+        </AgencyOrganizationReference>
+      </FundingInformation>
+      <FundingInformation xmlns="ddi:reusable:3_2">
+        <AgencyOrganizationReference>
+          <Agency>uk.closer</Agency>
+          <ID>d20b0a5a-c0d9-485b-b739-3eee24fe9cd1</ID>
+          <Version>3</Version>
+          <TypeOfObject>Organization</TypeOfObject>
+        </AgencyOrganizationReference>
+      </FundingInformation>
+      <FundingInformation xmlns="ddi:reusable:3_2">
+        <AgencyOrganizationReference>
+          <Agency>uk.closer</Agency>
+          <ID>cd3554cd-5e37-4387-9853-84ad37696074</ID>
+          <Version>3</Version>
+          <TypeOfObject>Organization</TypeOfObject>
+        </AgencyOrganizationReference>
+      </FundingInformation>
+      <FundingInformation xmlns="ddi:reusable:3_2">
+        <AgencyOrganizationReference>
+          <Agency>uk.closer</Agency>
+          <ID>7cbce8c8-7d86-4a6b-8752-b74a55f441bd</ID>
+          <Version>3</Version>
+          <TypeOfObject>Organization</TypeOfObject>
+        </AgencyOrganizationReference>
+      </FundingInformation>
+      <Coverage xmlns="ddi:reusable:3_2">
+        <SpatialCoverage isUniversallyUnique="true">
+          <URN>urn:ddi:uk.iser:b79d0076-de9c-4167-8b0f-c5b918ac3cff:11</URN>
+          <Agency>uk.iser</Agency>
+          <ID>b79d0076-de9c-4167-8b0f-c5b918ac3cff</ID>
+          <Version>11</Version>
+          <BoundingBox>
+            <WestLongitude>0</WestLongitude>
+            <EastLongitude>0</EastLongitude>
+            <SouthLatitude>0</SouthLatitude>
+            <NorthLatitude>0</NorthLatitude>
+          </BoundingBox>
+          <Country>GB-ENG</Country>
+          <Country>GB-WLS</Country>
+          <Country>GB-SCT</Country>
+          <Country>GB-NIR</Country>
+          <TopLevelReference>
+            <LevelName>Country</LevelName>
+          </TopLevelReference>
+          <LowestLevelReference>
+            <LevelName>EUL: Government Office Region, Special License: Lower Layer Super Output Areas, Secure Access: National Grid Reference</LevelName>
+          </LowestLevelReference>
+        </SpatialCoverage>
+        <TemporalCoverage isUniversallyUnique="true">
+          <URN>urn:ddi:uk.iser:66de77ea-2d10-43f7-b064-20a8258d3873:11</URN>
+          <Agency>uk.iser</Agency>
+          <ID>66de77ea-2d10-43f7-b064-20a8258d3873</ID>
+          <Version>11</Version>
+          <ReferenceDate>
+            <StartDate>2013-01</StartDate>
+            <EndDate>2015-04</EndDate>
+          </ReferenceDate>
+        </TemporalCoverage>
+      </Coverage>
+      <AnalysisUnit codeListVersionID="1.0" xmlns="ddi:reusable:3_2">Household</AnalysisUnit>
+      <KindOfData codeListVersionID="1.0" xmlns="ddi:reusable:3_2">Survey Data</KindOfData>
+      <KindOfData codeListVersionID="1.0" xmlns="ddi:reusable:3_2">Demographic Data</KindOfData>
+      <DataCollection isUniversallyUnique="true" versionDate="2019-10-29T09:08:26.1765095Z" xmlns="ddi:datacollection:3_2">
+        <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.iser:0788b963-121b-4ec4-9b14-0e10e463e0b1:6</URN>
+        <Agency xmlns="ddi:reusable:3_2">uk.iser</Agency>
+        <ID xmlns="ddi:reusable:3_2">0788b963-121b-4ec4-9b14-0e10e463e0b1</ID>
+        <Version xmlns="ddi:reusable:3_2">6</Version>
+        <DataCollectionModuleName>
+          <String xml:lang="en-GB" xmlns="ddi:reusable:3_2">us5</String>
+        </DataCollectionModuleName>
+        <Label xmlns="ddi:reusable:3_2">
+          <Content xml:lang="en-GB">Wave 5 Questionnaire</Content>
+        </Label>
+        <CollectionEvent isUniversallyUnique="true">
+          <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.iser:8471e6b7-05bb-4818-9191-234ffaaa7350:6</URN>
+          <Agency xmlns="ddi:reusable:3_2">uk.iser</Agency>
+          <ID xmlns="ddi:reusable:3_2">8471e6b7-05bb-4818-9191-234ffaaa7350</ID>
+          <Version xmlns="ddi:reusable:3_2">6</Version>
+          <DataCollectorOrganizationReference>
+            <Agency xmlns="ddi:reusable:3_2">uk.closer</Agency>
+            <ID xmlns="ddi:reusable:3_2">8a504fa0-6574-41dc-a2fc-dce99b33c820</ID>
+            <Version xmlns="ddi:reusable:3_2">1</Version>
+            <TypeOfObject xmlns="ddi:reusable:3_2">Organization</TypeOfObject>
+          </DataCollectorOrganizationReference>
+          <DataCollectorOrganizationReference>
+            <Agency xmlns="ddi:reusable:3_2">uk.closer</Agency>
+            <ID xmlns="ddi:reusable:3_2">7cae2e4d-9ac3-4b5e-b582-a20c4a6523b0</ID>
+            <Version xmlns="ddi:reusable:3_2">1</Version>
+            <TypeOfObject xmlns="ddi:reusable:3_2">Organization</TypeOfObject>
+          </DataCollectorOrganizationReference>
+          <DataCollectionDate>
+            <StartDate xmlns="ddi:reusable:3_2">2013-01</StartDate>
+            <EndDate xmlns="ddi:reusable:3_2">2014-12</EndDate>
+          </DataCollectionDate>
+          <ModeOfCollection isUniversallyUnique="true">
+            <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.iser:254d3d46-0c57-4b18-9db0-c37a27e66af9:6</URN>
+            <Agency xmlns="ddi:reusable:3_2">uk.iser</Agency>
+            <ID xmlns="ddi:reusable:3_2">254d3d46-0c57-4b18-9db0-c37a27e66af9</ID>
+            <Version xmlns="ddi:reusable:3_2">6</Version>
+            <TypeOfModeOfCollection codeListVersionID="1.0">Interview.FaceToFace.CAPI/CAMI</TypeOfModeOfCollection>
+            <Description xmlns="ddi:reusable:3_2">
+              <Content xml:lang="en-GB">Face-to-face computer-assisted personal interviewing.</Content>
+            </Description>
+          </ModeOfCollection>
+        </CollectionEvent>
+      </DataCollection>
+      <DataCollection isUniversallyUnique="true" versionDate="2019-10-29T09:08:39.3935045Z" xmlns="ddi:datacollection:3_2">
+        <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.iser:0ee294fb-3956-41d3-bea4-13577eba3384:9</URN>
+        <Agency xmlns="ddi:reusable:3_2">uk.iser</Agency>
+        <ID xmlns="ddi:reusable:3_2">0ee294fb-3956-41d3-bea4-13577eba3384</ID>
+        <Version xmlns="ddi:reusable:3_2">9</Version>
+        <DataCollectionModuleName>
+          <String xml:lang="en-GB" xmlns="ddi:reusable:3_2">us5_ysc</String>
+        </DataCollectionModuleName>
+        <Label xmlns="ddi:reusable:3_2">
+          <Content xml:lang="en-GB">Wave 5 Youth Self-Completion Questionnaire – Great Britain</Content>
+        </Label>
+        <CollectionEvent isUniversallyUnique="true">
+          <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.iser:1310c4e1-b308-46f6-841a-e7b9d94d7b3a:9</URN>
+          <Agency xmlns="ddi:reusable:3_2">uk.iser</Agency>
+          <ID xmlns="ddi:reusable:3_2">1310c4e1-b308-46f6-841a-e7b9d94d7b3a</ID>
+          <Version xmlns="ddi:reusable:3_2">9</Version>
+          <DataCollectorOrganizationReference>
+            <Agency xmlns="ddi:reusable:3_2">uk.closer</Agency>
+            <ID xmlns="ddi:reusable:3_2">7cae2e4d-9ac3-4b5e-b582-a20c4a6523b0</ID>
+            <Version xmlns="ddi:reusable:3_2">1</Version>
+            <TypeOfObject xmlns="ddi:reusable:3_2">Organization</TypeOfObject>
+          </DataCollectorOrganizationReference>
+          <DataCollectionDate>
+            <StartDate xmlns="ddi:reusable:3_2">2013-01</StartDate>
+            <EndDate xmlns="ddi:reusable:3_2">2014-12</EndDate>
+          </DataCollectionDate>
+          <ModeOfCollection isUniversallyUnique="true">
+            <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.iser:b41f4541-8f2d-40a3-8501-d5162ddf4fad:9</URN>
+            <Agency xmlns="ddi:reusable:3_2">uk.iser</Agency>
+            <ID xmlns="ddi:reusable:3_2">b41f4541-8f2d-40a3-8501-d5162ddf4fad</ID>
+            <Version xmlns="ddi:reusable:3_2">9</Version>
+            <TypeOfModeOfCollection codeListVersionID="1.0">SelfAdministeredQuestionnaire.Paper</TypeOfModeOfCollection>
+            <Description xmlns="ddi:reusable:3_2">
+              <Content xml:lang="en-GB">Self-administered questionnaire using a traditional paper questionnaire.</Content>
+            </Description>
+          </ModeOfCollection>
+        </CollectionEvent>
+      </DataCollection>
+      <DataCollection isUniversallyUnique="true" versionDate="2019-10-29T09:08:53.9607724Z" xmlns="ddi:datacollection:3_2">
+        <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.iser:7cd863e1-165f-4661-bba7-921e8e67355e:4</URN>
+        <Agency xmlns="ddi:reusable:3_2">uk.iser</Agency>
+        <ID xmlns="ddi:reusable:3_2">7cd863e1-165f-4661-bba7-921e8e67355e</ID>
+        <Version xmlns="ddi:reusable:3_2">4</Version>
+        <DataCollectionModuleName>
+          <String xml:lang="en-GB" xmlns="ddi:reusable:3_2">us5_ysc_ni</String>
+        </DataCollectionModuleName>
+        <Label xmlns="ddi:reusable:3_2">
+          <Content xml:lang="en-GB">Wave 5 Youth Self-Completion Questionnaire – Northern Ireland</Content>
+        </Label>
+        <CollectionEvent isUniversallyUnique="true">
+          <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.iser:0e7fbae4-6b0f-43c1-830c-fe591409dd5f:4</URN>
+          <Agency xmlns="ddi:reusable:3_2">uk.iser</Agency>
+          <ID xmlns="ddi:reusable:3_2">0e7fbae4-6b0f-43c1-830c-fe591409dd5f</ID>
+          <Version xmlns="ddi:reusable:3_2">4</Version>
+          <DataCollectorOrganizationReference>
+            <Agency xmlns="ddi:reusable:3_2">uk.closer</Agency>
+            <ID xmlns="ddi:reusable:3_2">8a504fa0-6574-41dc-a2fc-dce99b33c820</ID>
+            <Version xmlns="ddi:reusable:3_2">1</Version>
+            <TypeOfObject xmlns="ddi:reusable:3_2">Organization</TypeOfObject>
+          </DataCollectorOrganizationReference>
+          <DataCollectionDate>
+            <StartDate xmlns="ddi:reusable:3_2">2013-01</StartDate>
+            <EndDate xmlns="ddi:reusable:3_2">2014-12</EndDate>
+          </DataCollectionDate>
+          <ModeOfCollection isUniversallyUnique="true">
+            <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.iser:54ea3ce9-2b6b-403e-a0c3-40bf1e5d2fda:4</URN>
+            <Agency xmlns="ddi:reusable:3_2">uk.iser</Agency>
+            <ID xmlns="ddi:reusable:3_2">54ea3ce9-2b6b-403e-a0c3-40bf1e5d2fda</ID>
+            <Version xmlns="ddi:reusable:3_2">4</Version>
+            <TypeOfModeOfCollection codeListVersionID="1.0">SelfAdministeredQuestionnaire.Paper</TypeOfModeOfCollection>
+            <Description xmlns="ddi:reusable:3_2">
+              <Content xml:lang="en-GB">Self-administered questionnaire using a traditional paper questionnaire.</Content>
+            </Description>
+          </ModeOfCollection>
+        </CollectionEvent>
+      </DataCollection>
+    </StudyUnit>
+    <StudyUnit isUniversallyUnique="true" versionDate="2019-11-05T15:17:28.1635815Z" xmlns="ddi:studyunit:3_2">
+      <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.iser:e946c1ac-ddbf-4179-8fb9-cd5b67101de6:13</URN>
+      <Agency xmlns="ddi:reusable:3_2">uk.iser</Agency>
+      <ID xmlns="ddi:reusable:3_2">e946c1ac-ddbf-4179-8fb9-cd5b67101de6</ID>
+      <Version xmlns="ddi:reusable:3_2">13</Version>
+      <UserAttributePair xmlns="ddi:reusable:3_2">
+        <AttributeKey>extension:CustomField</AttributeKey>
+        <AttributeValue>{"Title":{"en-GB":"LifeStage"},"Description":{},"ValueType":0,"HasValue":true,"RelationshipTargetType":"00000000-0000-0000-0000-000000000000","StringValue":"Other","MultilingualStringValue":{},"HasDefinedType":false,"DisplayLabel":"LifeStage"}</AttributeValue>
+      </UserAttributePair>
+      <UserAttributePair xmlns="ddi:reusable:3_2">
+        <AttributeKey>extension:CustomField</AttributeKey>
+        <AttributeValue>{"Title":{"en-GB":"LifeStageDescription"},"Description":{},"ValueType":0,"HasValue":true,"RelationshipTargetType":"00000000-0000-0000-0000-000000000000","StringValue":"More than one life stage is covered","MultilingualStringValue":{},"HasDefinedType":false,"DisplayLabel":"LifeStageDescription"}</AttributeValue>
+      </UserAttributePair>
+      <Citation xmlns="ddi:reusable:3_2">
+        <Title>
+          <String xml:lang="en-GB">Wave 6</String>
+        </Title>
+        <Creator>
+          <CreatorName>
+            <String xml:lang="en-GB">Professor Nick Buck and Professor Michaela Benzeval</String>
+          </CreatorName>
+        </Creator>
+        <Publisher>
+          <PublisherName>
+            <String xml:lang="en-GB">Institute for Social &amp; Economic Research, University of Essex</String>
+          </PublisherName>
+        </Publisher>
+      </Citation>
+      <Abstract xmlns="ddi:reusable:3_2">
+        <Content xml:lang="en-GB">This is the sixth wave of data collection for Understanding Society: The UK Household Longitudinal Study (UKHLS) studies 21st century UK life and how it is changing. It captures important information every year about the social and economic circumstances, attitudes, behaviours and health of people living in thousands of UK households.
+
+Information from the longitudinal survey is primarily used by academics, researchers and policy makers in their work, but the findings are of interest to a much wider group of people including those working in the third sector, health practitioners, business, the media and the general public.
+
+Interviews began in 2014 with eligible members of households from earlier waves invited to take part. Adults are interviewed and 10-15 year-olds fill in a paper self-completion questionnaire. Data collection is annual, but each wave takes place over a two year period. 
+
+UKHLS also has an ethnicity strand, with boost samples to ensure the study had at least 1,000 adults from the five main ethnicity groups in the UK. There are also extra questions asked each year of particular relevance to ethnic groups.
+
+Study website: &lt;a href="https://www.understandingsociety.ac.uk/" target="_blank" title="Understanding Society – The UK Household Longitudinal Study"&gt;https://www.understandingsociety.ac.uk/&lt;/a&gt;</Content>
+      </Abstract>
+      <UniverseReference xmlns="ddi:reusable:3_2">
+        <Agency>uk.iser</Agency>
+        <ID>da496e20-3ef1-471e-a138-3a5cfb8cd4a2</ID>
+        <Version>2</Version>
+        <TypeOfObject>Universe</TypeOfObject>
+      </UniverseReference>
+      <FundingInformation xmlns="ddi:reusable:3_2">
+        <AgencyOrganizationReference>
+          <Agency>uk.closer</Agency>
+          <ID>ced55fc1-3df1-4d66-a925-cf5e1b79167a</ID>
+          <Version>4</Version>
+          <TypeOfObject>Organization</TypeOfObject>
+        </AgencyOrganizationReference>
+      </FundingInformation>
+      <FundingInformation xmlns="ddi:reusable:3_2">
+        <AgencyOrganizationReference>
+          <Agency>uk.closer</Agency>
+          <ID>ef72e69a-bdec-4b8b-9d3f-5d0f757748c8</ID>
+          <Version>3</Version>
+          <TypeOfObject>Organization</TypeOfObject>
+        </AgencyOrganizationReference>
+      </FundingInformation>
+      <FundingInformation xmlns="ddi:reusable:3_2">
+        <AgencyOrganizationReference>
+          <Agency>uk.closer</Agency>
+          <ID>43d1af35-5459-4db2-b482-e1a8886d66fd</ID>
+          <Version>3</Version>
+          <TypeOfObject>Organization</TypeOfObject>
+        </AgencyOrganizationReference>
+      </FundingInformation>
+      <FundingInformation xmlns="ddi:reusable:3_2">
+        <AgencyOrganizationReference>
+          <Agency>uk.closer</Agency>
+          <ID>ad94baff-8e75-45aa-b41d-9c81bb546558</ID>
+          <Version>3</Version>
+          <TypeOfObject>Organization</TypeOfObject>
+        </AgencyOrganizationReference>
+      </FundingInformation>
+      <FundingInformation xmlns="ddi:reusable:3_2">
+        <AgencyOrganizationReference>
+          <Agency>uk.closer</Agency>
+          <ID>5cc4a914-edb6-46d9-a305-d82cc3c85340</ID>
+          <Version>3</Version>
+          <TypeOfObject>Organization</TypeOfObject>
+        </AgencyOrganizationReference>
+      </FundingInformation>
+      <FundingInformation xmlns="ddi:reusable:3_2">
+        <AgencyOrganizationReference>
+          <Agency>uk.closer</Agency>
+          <ID>f6ac9ba6-c3bc-4b0a-a047-42058b69f29e</ID>
+          <Version>3</Version>
+          <TypeOfObject>Organization</TypeOfObject>
+        </AgencyOrganizationReference>
+      </FundingInformation>
+      <FundingInformation xmlns="ddi:reusable:3_2">
+        <AgencyOrganizationReference>
+          <Agency>uk.closer</Agency>
+          <ID>b00a48eb-72a3-4956-b9ff-44d9a2c4a21c</ID>
+          <Version>3</Version>
+          <TypeOfObject>Organization</TypeOfObject>
+        </AgencyOrganizationReference>
+      </FundingInformation>
+      <FundingInformation xmlns="ddi:reusable:3_2">
+        <AgencyOrganizationReference>
+          <Agency>uk.closer</Agency>
+          <ID>fd79c1c6-a73d-4ec9-bc45-ee7d83364bb2</ID>
+          <Version>3</Version>
+          <TypeOfObject>Organization</TypeOfObject>
+        </AgencyOrganizationReference>
+      </FundingInformation>
+      <FundingInformation xmlns="ddi:reusable:3_2">
+        <AgencyOrganizationReference>
+          <Agency>uk.closer</Agency>
+          <ID>2c15399b-75d6-4617-a68a-d35e4313d132</ID>
+          <Version>3</Version>
+          <TypeOfObject>Organization</TypeOfObject>
+        </AgencyOrganizationReference>
+      </FundingInformation>
+      <FundingInformation xmlns="ddi:reusable:3_2">
+        <AgencyOrganizationReference>
+          <Agency>uk.closer</Agency>
+          <ID>d20b0a5a-c0d9-485b-b739-3eee24fe9cd1</ID>
+          <Version>3</Version>
+          <TypeOfObject>Organization</TypeOfObject>
+        </AgencyOrganizationReference>
+      </FundingInformation>
+      <FundingInformation xmlns="ddi:reusable:3_2">
+        <AgencyOrganizationReference>
+          <Agency>uk.closer</Agency>
+          <ID>cd3554cd-5e37-4387-9853-84ad37696074</ID>
+          <Version>3</Version>
+          <TypeOfObject>Organization</TypeOfObject>
+        </AgencyOrganizationReference>
+      </FundingInformation>
+      <FundingInformation xmlns="ddi:reusable:3_2">
+        <AgencyOrganizationReference>
+          <Agency>uk.closer</Agency>
+          <ID>7cbce8c8-7d86-4a6b-8752-b74a55f441bd</ID>
+          <Version>3</Version>
+          <TypeOfObject>Organization</TypeOfObject>
+        </AgencyOrganizationReference>
+      </FundingInformation>
+      <Coverage xmlns="ddi:reusable:3_2">
+        <SpatialCoverage isUniversallyUnique="true">
+          <URN>urn:ddi:uk.iser:47e70200-5d2c-4c2b-ba5f-30760e170e44:13</URN>
+          <Agency>uk.iser</Agency>
+          <ID>47e70200-5d2c-4c2b-ba5f-30760e170e44</ID>
+          <Version>13</Version>
+          <BoundingBox>
+            <WestLongitude>0</WestLongitude>
+            <EastLongitude>0</EastLongitude>
+            <SouthLatitude>0</SouthLatitude>
+            <NorthLatitude>0</NorthLatitude>
+          </BoundingBox>
+          <Country>GB-ENG</Country>
+          <Country>GB-WLS</Country>
+          <Country>GB-SCT</Country>
+          <Country>GB-NIR</Country>
+          <TopLevelReference>
+            <LevelName>Country</LevelName>
+          </TopLevelReference>
+          <LowestLevelReference>
+            <LevelName>EUL: Government Office Region, Special License: Lower Layer Super Output Areas, Secure Access: National Grid Reference</LevelName>
+          </LowestLevelReference>
+        </SpatialCoverage>
+        <TemporalCoverage isUniversallyUnique="true">
+          <URN>urn:ddi:uk.iser:ba87be10-61b3-4a7b-96d3-239e54a3b722:13</URN>
+          <Agency>uk.iser</Agency>
+          <ID>ba87be10-61b3-4a7b-96d3-239e54a3b722</ID>
+          <Version>13</Version>
+          <ReferenceDate>
+            <StartDate>2014-01</StartDate>
+            <EndDate>2016-04</EndDate>
+          </ReferenceDate>
+        </TemporalCoverage>
+      </Coverage>
+      <AnalysisUnit codeListVersionID="1.0" xmlns="ddi:reusable:3_2">Household</AnalysisUnit>
+      <KindOfData codeListVersionID="1.0" xmlns="ddi:reusable:3_2">Survey Data</KindOfData>
+      <KindOfData codeListVersionID="1.0" xmlns="ddi:reusable:3_2">Demographic Data</KindOfData>
+      <DataCollection isUniversallyUnique="true" versionDate="2019-10-29T09:23:31.8907379Z" xmlns="ddi:datacollection:3_2">
+        <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.iser:90ec80a4-e334-4cb7-8ef9-31e08f4369e9:7</URN>
+        <Agency xmlns="ddi:reusable:3_2">uk.iser</Agency>
+        <ID xmlns="ddi:reusable:3_2">90ec80a4-e334-4cb7-8ef9-31e08f4369e9</ID>
+        <Version xmlns="ddi:reusable:3_2">7</Version>
+        <DataCollectionModuleName>
+          <String xml:lang="en-GB" xmlns="ddi:reusable:3_2">us6</String>
+        </DataCollectionModuleName>
+        <Label xmlns="ddi:reusable:3_2">
+          <Content xml:lang="en-GB">Wave 6 Questionnaire</Content>
+        </Label>
+        <CollectionEvent isUniversallyUnique="true">
+          <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.iser:936c88f2-ff3d-408a-9c0d-6b688b2192c1:7</URN>
+          <Agency xmlns="ddi:reusable:3_2">uk.iser</Agency>
+          <ID xmlns="ddi:reusable:3_2">936c88f2-ff3d-408a-9c0d-6b688b2192c1</ID>
+          <Version xmlns="ddi:reusable:3_2">7</Version>
+          <DataCollectorOrganizationReference>
+            <Agency xmlns="ddi:reusable:3_2">uk.closer</Agency>
+            <ID xmlns="ddi:reusable:3_2">e8c02e92-8809-4eb5-96e9-4d6dfb219b7d</ID>
+            <Version xmlns="ddi:reusable:3_2">1</Version>
+            <TypeOfObject xmlns="ddi:reusable:3_2">Organization</TypeOfObject>
+          </DataCollectorOrganizationReference>
+          <DataCollectorOrganizationReference>
+            <Agency xmlns="ddi:reusable:3_2">uk.closer</Agency>
+            <ID xmlns="ddi:reusable:3_2">23e4f0a5-616c-4998-aaab-a1982ded5369</ID>
+            <Version xmlns="ddi:reusable:3_2">1</Version>
+            <TypeOfObject xmlns="ddi:reusable:3_2">Organization</TypeOfObject>
+          </DataCollectorOrganizationReference>
+          <DataCollectionDate>
+            <StartDate xmlns="ddi:reusable:3_2">2014-01</StartDate>
+            <EndDate xmlns="ddi:reusable:3_2">2015-12</EndDate>
+          </DataCollectionDate>
+          <ModeOfCollection isUniversallyUnique="true">
+            <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.iser:12d5a9ff-c28c-4852-8af5-740f898edbf0:7</URN>
+            <Agency xmlns="ddi:reusable:3_2">uk.iser</Agency>
+            <ID xmlns="ddi:reusable:3_2">12d5a9ff-c28c-4852-8af5-740f898edbf0</ID>
+            <Version xmlns="ddi:reusable:3_2">7</Version>
+            <TypeOfModeOfCollection codeListVersionID="1.0">Interview.FaceToFace.CAPI/CAMI</TypeOfModeOfCollection>
+            <Description xmlns="ddi:reusable:3_2">
+              <Content xml:lang="en-GB">Face-to-face computer-assisted personal interviewing.</Content>
+            </Description>
+          </ModeOfCollection>
+        </CollectionEvent>
+      </DataCollection>
+      <DataCollection isUniversallyUnique="true" versionDate="2019-10-29T09:23:59.6933598Z" xmlns="ddi:datacollection:3_2">
+        <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.iser:0ffcc039-a9c9-4ab9-9bef-49f758ea16e6:8</URN>
+        <Agency xmlns="ddi:reusable:3_2">uk.iser</Agency>
+        <ID xmlns="ddi:reusable:3_2">0ffcc039-a9c9-4ab9-9bef-49f758ea16e6</ID>
+        <Version xmlns="ddi:reusable:3_2">8</Version>
+        <DataCollectionModuleName>
+          <String xml:lang="en-GB" xmlns="ddi:reusable:3_2">us6_ysc</String>
+        </DataCollectionModuleName>
+        <Label xmlns="ddi:reusable:3_2">
+          <Content xml:lang="en-GB">Wave 6 Youth Self-Completion Questionnaire</Content>
+        </Label>
+        <CollectionEvent isUniversallyUnique="true">
+          <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.iser:199e3e0c-2d34-4742-a29a-ef3083ef29f3:8</URN>
+          <Agency xmlns="ddi:reusable:3_2">uk.iser</Agency>
+          <ID xmlns="ddi:reusable:3_2">199e3e0c-2d34-4742-a29a-ef3083ef29f3</ID>
+          <Version xmlns="ddi:reusable:3_2">8</Version>
+          <DataCollectorOrganizationReference>
+            <Agency xmlns="ddi:reusable:3_2">uk.closer</Agency>
+            <ID xmlns="ddi:reusable:3_2">e8c02e92-8809-4eb5-96e9-4d6dfb219b7d</ID>
+            <Version xmlns="ddi:reusable:3_2">1</Version>
+            <TypeOfObject xmlns="ddi:reusable:3_2">Organization</TypeOfObject>
+          </DataCollectorOrganizationReference>
+          <DataCollectorOrganizationReference>
+            <Agency xmlns="ddi:reusable:3_2">uk.closer</Agency>
+            <ID xmlns="ddi:reusable:3_2">23e4f0a5-616c-4998-aaab-a1982ded5369</ID>
+            <Version xmlns="ddi:reusable:3_2">1</Version>
+            <TypeOfObject xmlns="ddi:reusable:3_2">Organization</TypeOfObject>
+          </DataCollectorOrganizationReference>
+          <DataCollectionDate>
+            <StartDate xmlns="ddi:reusable:3_2">2014-01</StartDate>
+            <EndDate xmlns="ddi:reusable:3_2">2015-12</EndDate>
+          </DataCollectionDate>
+          <ModeOfCollection isUniversallyUnique="true">
+            <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.iser:cc2ac58f-ae8f-493e-a757-b9048cc8292f:8</URN>
+            <Agency xmlns="ddi:reusable:3_2">uk.iser</Agency>
+            <ID xmlns="ddi:reusable:3_2">cc2ac58f-ae8f-493e-a757-b9048cc8292f</ID>
+            <Version xmlns="ddi:reusable:3_2">8</Version>
+            <TypeOfModeOfCollection codeListVersionID="1.0">SelfAdministeredQuestionnaire.Paper</TypeOfModeOfCollection>
+            <Description xmlns="ddi:reusable:3_2">
+              <Content xml:lang="en-GB">Self-administered questionnaire using a traditional paper questionnaire.</Content>
+            </Description>
+          </ModeOfCollection>
+        </CollectionEvent>
+      </DataCollection>
+    </StudyUnit>
+  </Group>
+</DDIInstance>
