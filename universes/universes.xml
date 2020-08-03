@@ -1,0 +1,2208 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ddi:FragmentInstance xmlns:r="ddi:reusable:3_2" xmlns:ddi="ddi:instance:3_2">
+  <ddi:TopLevelReference>
+    <r:Agency>uk.closer</r:Agency>
+    <r:ID>240bac9f-8595-4019-847b-532be0055575</r:ID>
+    <r:Version>5</r:Version>
+    <r:TypeOfObject>UniverseScheme</r:TypeOfObject>
+  </ddi:TopLevelReference>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <UniverseScheme isUniversallyUnique="true" versionDate="2019-10-17T11:35:34.2428279Z" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:240bac9f-8595-4019-847b-532be0055575:5</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>240bac9f-8595-4019-847b-532be0055575</r:ID>
+      <r:Version>5</r:Version>
+      <r:VersionResponsibility>INST\mhadqssi</r:VersionResponsibility>
+      <UniverseSchemeName>
+        <r:String xml:lang="en-GB">Populations</r:String>
+      </UniverseSchemeName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Populations</r:Content>
+      </r:Label>
+      <r:Description>
+        <r:Content xml:lang="en-GB">Populations</r:Content>
+      </r:Description>
+      <r:UniverseReference>
+        <r:Agency>uk.alspac</r:Agency>
+        <r:ID>a1c43dd6-5af1-45d7-80db-f5de52601bbb</r:ID>
+        <r:Version>2</r:Version>
+        <r:TypeOfObject>Universe</r:TypeOfObject>
+      </r:UniverseReference>
+      <r:UniverseReference>
+        <r:Agency>uk.alspac</r:Agency>
+        <r:ID>304da7d4-1e5c-4804-b6d8-1009167d6575</r:ID>
+        <r:Version>3</r:Version>
+        <r:TypeOfObject>Universe</r:TypeOfObject>
+      </r:UniverseReference>
+      <r:UniverseReference>
+        <r:Agency>uk.alspac</r:Agency>
+        <r:ID>77c59011-fe1d-41ed-ada6-ac19dd997a90</r:ID>
+        <r:Version>2</r:Version>
+        <r:TypeOfObject>Universe</r:TypeOfObject>
+      </r:UniverseReference>
+      <r:UniverseReference>
+        <r:Agency>uk.alspac</r:Agency>
+        <r:ID>5ff0dc19-72d9-4121-bed3-2bff55f60f84</r:ID>
+        <r:Version>3</r:Version>
+        <r:TypeOfObject>Universe</r:TypeOfObject>
+      </r:UniverseReference>
+      <r:UniverseReference>
+        <r:Agency>uk.alspac</r:Agency>
+        <r:ID>99057990-c035-4786-af23-fc4015970667</r:ID>
+        <r:Version>2</r:Version>
+        <r:TypeOfObject>Universe</r:TypeOfObject>
+      </r:UniverseReference>
+      <r:UniverseReference>
+        <r:Agency>uk.alspac</r:Agency>
+        <r:ID>b5ba58ea-1617-44ed-a039-d2044054a846</r:ID>
+        <r:Version>2</r:Version>
+        <r:TypeOfObject>Universe</r:TypeOfObject>
+      </r:UniverseReference>
+      <r:UniverseReference>
+        <r:Agency>uk.cls.bcs70</r:Agency>
+        <r:ID>939289a7-7697-4d54-b911-23bf4a667d2b</r:ID>
+        <r:Version>2</r:Version>
+        <r:TypeOfObject>Universe</r:TypeOfObject>
+      </r:UniverseReference>
+      <r:UniverseReference>
+        <r:Agency>uk.cls.bcs70</r:Agency>
+        <r:ID>c370900e-5d71-4e47-b20e-109389560ddc</r:ID>
+        <r:Version>2</r:Version>
+        <r:TypeOfObject>Universe</r:TypeOfObject>
+      </r:UniverseReference>
+      <r:UniverseReference>
+        <r:Agency>uk.cls.bcs70</r:Agency>
+        <r:ID>d1198be8-d292-4245-b2d9-37c69dd0eb94</r:ID>
+        <r:Version>3</r:Version>
+        <r:TypeOfObject>Universe</r:TypeOfObject>
+      </r:UniverseReference>
+      <r:UniverseReference>
+        <r:Agency>uk.cls.bcs70</r:Agency>
+        <r:ID>bb954c66-b372-45ff-8c2e-244c8802cf56</r:ID>
+        <r:Version>2</r:Version>
+        <r:TypeOfObject>Universe</r:TypeOfObject>
+      </r:UniverseReference>
+      <r:UniverseReference>
+        <r:Agency>uk.cls.bcs70</r:Agency>
+        <r:ID>3b41c5ff-c5f5-4b37-8fe4-af2b746ad553</r:ID>
+        <r:Version>2</r:Version>
+        <r:TypeOfObject>Universe</r:TypeOfObject>
+      </r:UniverseReference>
+      <r:UniverseReference>
+        <r:Agency>uk.cls.bcs70</r:Agency>
+        <r:ID>0758f695-e97c-41dd-beb5-2e77ed96931f</r:ID>
+        <r:Version>3</r:Version>
+        <r:TypeOfObject>Universe</r:TypeOfObject>
+      </r:UniverseReference>
+      <r:UniverseReference>
+        <r:Agency>uk.cls.bcs70</r:Agency>
+        <r:ID>89f2eac0-69c2-4ca3-ac0b-ef032c5f5c49</r:ID>
+        <r:Version>3</r:Version>
+        <r:TypeOfObject>Universe</r:TypeOfObject>
+      </r:UniverseReference>
+      <r:UniverseReference>
+        <r:Agency>uk.cls.bcs70</r:Agency>
+        <r:ID>cac64ef7-90d4-4d4e-a52b-401fe51155fe</r:ID>
+        <r:Version>2</r:Version>
+        <r:TypeOfObject>Universe</r:TypeOfObject>
+      </r:UniverseReference>
+      <r:UniverseReference>
+        <r:Agency>uk.cls.bcs70</r:Agency>
+        <r:ID>269e56d3-de90-4529-97e3-cbe4e9392fd8</r:ID>
+        <r:Version>2</r:Version>
+        <r:TypeOfObject>Universe</r:TypeOfObject>
+      </r:UniverseReference>
+      <r:UniverseReference>
+        <r:Agency>uk.cls.bcs70</r:Agency>
+        <r:ID>91b31882-a7fb-40d3-a07b-33d4d73a815a</r:ID>
+        <r:Version>2</r:Version>
+        <r:TypeOfObject>Universe</r:TypeOfObject>
+      </r:UniverseReference>
+      <r:UniverseReference>
+        <r:Agency>uk.mrcleu-uos.hcs</r:Agency>
+        <r:ID>1ce3bdd5-c164-4420-9e6b-389739aa870c</r:ID>
+        <r:Version>2</r:Version>
+        <r:TypeOfObject>Universe</r:TypeOfObject>
+      </r:UniverseReference>
+      <r:UniverseReference>
+        <r:Agency>uk.mrcleu-uos.hcs</r:Agency>
+        <r:ID>8463c30f-38e5-4e4e-ae66-f4e9419d1991</r:ID>
+        <r:Version>2</r:Version>
+        <r:TypeOfObject>Universe</r:TypeOfObject>
+      </r:UniverseReference>
+      <r:UniverseReference>
+        <r:Agency>uk.cls.mcs</r:Agency>
+        <r:ID>d0dc9787-9112-4b79-b771-c5eb887ceb55</r:ID>
+        <r:Version>3</r:Version>
+        <r:TypeOfObject>Universe</r:TypeOfObject>
+      </r:UniverseReference>
+      <r:UniverseReference>
+        <r:Agency>uk.cls.ncds</r:Agency>
+        <r:ID>c5a33151-9e5b-4517-bab6-6e7a166226e5</r:ID>
+        <r:Version>2</r:Version>
+        <r:TypeOfObject>Universe</r:TypeOfObject>
+      </r:UniverseReference>
+      <r:UniverseReference>
+        <r:Agency>uk.cls.ncds</r:Agency>
+        <r:ID>c7954a96-d3b8-41dd-94df-ba23326ed547</r:ID>
+        <r:Version>3</r:Version>
+        <r:TypeOfObject>Universe</r:TypeOfObject>
+      </r:UniverseReference>
+      <r:UniverseReference>
+        <r:Agency>uk.cls.ncds</r:Agency>
+        <r:ID>8567b4ab-2e87-4993-b5d1-13c443472413</r:ID>
+        <r:Version>2</r:Version>
+        <r:TypeOfObject>Universe</r:TypeOfObject>
+      </r:UniverseReference>
+      <r:UniverseReference>
+        <r:Agency>uk.cls.ncds</r:Agency>
+        <r:ID>b32caba4-c7b1-4d7e-a829-cc4017e5dee6</r:ID>
+        <r:Version>2</r:Version>
+        <r:TypeOfObject>Universe</r:TypeOfObject>
+      </r:UniverseReference>
+      <r:UniverseReference>
+        <r:Agency>uk.cls.ncds</r:Agency>
+        <r:ID>99a54301-a0c5-4f98-80be-7a76f96461a7</r:ID>
+        <r:Version>3</r:Version>
+        <r:TypeOfObject>Universe</r:TypeOfObject>
+      </r:UniverseReference>
+      <r:UniverseReference>
+        <r:Agency>uk.cls.ncds</r:Agency>
+        <r:ID>0da6be12-d750-4ef6-b4cd-cc3f3abfb697</r:ID>
+        <r:Version>2</r:Version>
+        <r:TypeOfObject>Universe</r:TypeOfObject>
+      </r:UniverseReference>
+      <r:UniverseReference>
+        <r:Agency>uk.cls.ncds</r:Agency>
+        <r:ID>6ee6192b-cb10-4070-9c2b-63ccffde23eb</r:ID>
+        <r:Version>2</r:Version>
+        <r:TypeOfObject>Universe</r:TypeOfObject>
+      </r:UniverseReference>
+      <r:UniverseReference>
+        <r:Agency>uk.cls.ncds</r:Agency>
+        <r:ID>3d0b53f8-8545-4643-92c8-a84db705f2d7</r:ID>
+        <r:Version>2</r:Version>
+        <r:TypeOfObject>Universe</r:TypeOfObject>
+      </r:UniverseReference>
+      <r:UniverseReference>
+        <r:Agency>uk.cls.ncds</r:Agency>
+        <r:ID>fc06d6bc-918d-4696-b933-e688e0ff832a</r:ID>
+        <r:Version>2</r:Version>
+        <r:TypeOfObject>Universe</r:TypeOfObject>
+      </r:UniverseReference>
+      <r:UniverseReference>
+        <r:Agency>uk.cls.ncds</r:Agency>
+        <r:ID>71605537-cc3d-4ebf-af53-93134bc76192</r:ID>
+        <r:Version>2</r:Version>
+        <r:TypeOfObject>Universe</r:TypeOfObject>
+      </r:UniverseReference>
+      <r:UniverseReference>
+        <r:Agency>uk.cls.ncds</r:Agency>
+        <r:ID>e25dd2c8-5500-45c5-8f0f-cf36c426b956</r:ID>
+        <r:Version>2</r:Version>
+        <r:TypeOfObject>Universe</r:TypeOfObject>
+      </r:UniverseReference>
+      <r:UniverseReference>
+        <r:Agency>uk.lha</r:Agency>
+        <r:ID>4a3406cc-1acd-40c1-ba62-3c2243c046a4</r:ID>
+        <r:Version>3</r:Version>
+        <r:TypeOfObject>Universe</r:TypeOfObject>
+      </r:UniverseReference>
+      <r:UniverseReference>
+        <r:Agency>uk.lha</r:Agency>
+        <r:ID>f680fa3c-cad8-44b8-bbe5-3dd695f63cad</r:ID>
+        <r:Version>4</r:Version>
+        <r:TypeOfObject>Universe</r:TypeOfObject>
+      </r:UniverseReference>
+      <r:UniverseReference>
+        <r:Agency>uk.lha</r:Agency>
+        <r:ID>e74853f8-e1a6-4e59-b0cd-651b36aa0b34</r:ID>
+        <r:Version>2</r:Version>
+        <r:TypeOfObject>Universe</r:TypeOfObject>
+      </r:UniverseReference>
+      <r:UniverseReference>
+        <r:Agency>uk.lha</r:Agency>
+        <r:ID>60db6796-2d49-4ade-9597-6b230e0e6ae7</r:ID>
+        <r:Version>4</r:Version>
+        <r:TypeOfObject>Universe</r:TypeOfObject>
+      </r:UniverseReference>
+      <r:UniverseReference>
+        <r:Agency>uk.lha</r:Agency>
+        <r:ID>62fd60c6-7ba7-4aa1-b7b8-017d1f883fa9</r:ID>
+        <r:Version>2</r:Version>
+        <r:TypeOfObject>Universe</r:TypeOfObject>
+      </r:UniverseReference>
+      <r:UniverseReference>
+        <r:Agency>uk.lha</r:Agency>
+        <r:ID>fc7c0a39-24f2-49c8-8850-f74a8e0563c4</r:ID>
+        <r:Version>2</r:Version>
+        <r:TypeOfObject>Universe</r:TypeOfObject>
+      </r:UniverseReference>
+      <r:UniverseReference>
+        <r:Agency>uk.lha</r:Agency>
+        <r:ID>3ed9aca0-b234-43c5-9216-3aade8824cfd</r:ID>
+        <r:Version>2</r:Version>
+        <r:TypeOfObject>Universe</r:TypeOfObject>
+      </r:UniverseReference>
+      <r:UniverseReference>
+        <r:Agency>uk.lha</r:Agency>
+        <r:ID>565159f9-e2a1-499e-8bae-10b8516d0fd4</r:ID>
+        <r:Version>2</r:Version>
+        <r:TypeOfObject>Universe</r:TypeOfObject>
+      </r:UniverseReference>
+      <r:UniverseReference>
+        <r:Agency>uk.mrcleu-uos.sws</r:Agency>
+        <r:ID>b12d3cb3-171a-4ffa-b8b7-96e54e720449</r:ID>
+        <r:Version>3</r:Version>
+        <r:TypeOfObject>Universe</r:TypeOfObject>
+      </r:UniverseReference>
+      <r:UniverseReference>
+        <r:Agency>uk.mrcleu-uos.sws</r:Agency>
+        <r:ID>85bd8ebd-6863-4747-bb01-2da8d48d04cb</r:ID>
+        <r:Version>3</r:Version>
+        <r:TypeOfObject>Universe</r:TypeOfObject>
+      </r:UniverseReference>
+      <r:UniverseReference>
+        <r:Agency>uk.mrcleu-uos.sws</r:Agency>
+        <r:ID>27e83a7e-bc87-4edc-a273-530fbcacce99</r:ID>
+        <r:Version>3</r:Version>
+        <r:TypeOfObject>Universe</r:TypeOfObject>
+      </r:UniverseReference>
+      <r:UniverseReference>
+        <r:Agency>uk.mrcleu-uos.sws</r:Agency>
+        <r:ID>6738de62-89f1-423a-ae2f-f81569c476b4</r:ID>
+        <r:Version>3</r:Version>
+        <r:TypeOfObject>Universe</r:TypeOfObject>
+      </r:UniverseReference>
+      <r:UniverseReference>
+        <r:Agency>uk.mrcleu-uos.sws</r:Agency>
+        <r:ID>4ae2506e-6374-4b26-8541-16b52c30854a</r:ID>
+        <r:Version>2</r:Version>
+        <r:TypeOfObject>Universe</r:TypeOfObject>
+      </r:UniverseReference>
+      <r:UniverseReference>
+        <r:Agency>uk.mrcleu-uos.sws</r:Agency>
+        <r:ID>7bd4bf1e-0be1-423f-8be9-58e2b80b4917</r:ID>
+        <r:Version>3</r:Version>
+        <r:TypeOfObject>Universe</r:TypeOfObject>
+      </r:UniverseReference>
+      <r:UniverseReference>
+        <r:Agency>uk.mrcleu-uos.sws</r:Agency>
+        <r:ID>8c8f1337-a9a6-4b95-97f8-93af4bd9ba8f</r:ID>
+        <r:Version>2</r:Version>
+        <r:TypeOfObject>Universe</r:TypeOfObject>
+      </r:UniverseReference>
+      <r:UniverseReference>
+        <r:Agency>uk.mrcleu-uos.sws</r:Agency>
+        <r:ID>6ffd5f11-1688-467d-bcb1-fd8ffd9a5ef5</r:ID>
+        <r:Version>3</r:Version>
+        <r:TypeOfObject>Universe</r:TypeOfObject>
+      </r:UniverseReference>
+      <r:UniverseReference>
+        <r:Agency>uk.iser</r:Agency>
+        <r:ID>ec4775b7-42b3-434f-ab27-7f1eaf616b82</r:ID>
+        <r:Version>4</r:Version>
+        <r:TypeOfObject>Universe</r:TypeOfObject>
+      </r:UniverseReference>
+      <r:UniverseReference>
+        <r:Agency>uk.iser</r:Agency>
+        <r:ID>d1491600-20fb-4a68-826c-f88503821fa3</r:ID>
+        <r:Version>2</r:Version>
+        <r:TypeOfObject>Universe</r:TypeOfObject>
+      </r:UniverseReference>
+      <r:UniverseReference>
+        <r:Agency>uk.iser</r:Agency>
+        <r:ID>3937e041-9f82-4789-a953-e26372f435b9</r:ID>
+        <r:Version>2</r:Version>
+        <r:TypeOfObject>Universe</r:TypeOfObject>
+      </r:UniverseReference>
+      <r:UniverseReference>
+        <r:Agency>uk.iser</r:Agency>
+        <r:ID>fabb75ae-e265-4b79-87d0-e69499b27ff8</r:ID>
+        <r:Version>2</r:Version>
+        <r:TypeOfObject>Universe</r:TypeOfObject>
+      </r:UniverseReference>
+      <r:UniverseReference>
+        <r:Agency>uk.iser</r:Agency>
+        <r:ID>397dbbe3-402c-4180-bc97-7a5238062b08</r:ID>
+        <r:Version>2</r:Version>
+        <r:TypeOfObject>Universe</r:TypeOfObject>
+      </r:UniverseReference>
+      <r:UniverseReference>
+        <r:Agency>uk.iser</r:Agency>
+        <r:ID>7bd8f42d-96d6-4d28-b47a-c3e9bc37294a</r:ID>
+        <r:Version>2</r:Version>
+        <r:TypeOfObject>Universe</r:TypeOfObject>
+      </r:UniverseReference>
+      <r:UniverseReference>
+        <r:Agency>uk.iser</r:Agency>
+        <r:ID>da496e20-3ef1-471e-a138-3a5cfb8cd4a2</r:ID>
+        <r:Version>2</r:Version>
+        <r:TypeOfObject>Universe</r:TypeOfObject>
+      </r:UniverseReference>
+      <r:UniverseReference>
+        <r:Agency>uk.wchads</r:Agency>
+        <r:ID>1a875ff7-66b1-456f-8d49-17c6ce26f4f9</r:ID>
+        <r:Version>2</r:Version>
+        <r:TypeOfObject>Universe</r:TypeOfObject>
+      </r:UniverseReference>
+      <r:UniverseReference>
+        <r:Agency>uk.wchads</r:Agency>
+        <r:ID>a4247584-2fd5-4be8-a228-3278f1e403dd</r:ID>
+        <r:Version>2</r:Version>
+        <r:TypeOfObject>Universe</r:TypeOfObject>
+      </r:UniverseReference>
+      <UniverseGroupReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>3a98d1d9-dbd1-40eb-adb3-5b1547edfcc5</r:ID>
+        <r:Version>3</r:Version>
+        <r:TypeOfObject>UniverseGroup</r:TypeOfObject>
+      </UniverseGroupReference>
+      <UniverseGroupReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>77cf7262-858b-4893-b6b4-ff77982e1e27</r:ID>
+        <r:Version>2</r:Version>
+        <r:TypeOfObject>UniverseGroup</r:TypeOfObject>
+      </UniverseGroupReference>
+      <UniverseGroupReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>feb49e56-efbe-4c02-b89f-b71adc0bc065</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>UniverseGroup</r:TypeOfObject>
+      </UniverseGroupReference>
+      <UniverseGroupReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>3e128649-69c0-4ce1-b607-9e9b90b05b9f</r:ID>
+        <r:Version>2</r:Version>
+        <r:TypeOfObject>UniverseGroup</r:TypeOfObject>
+      </UniverseGroupReference>
+      <UniverseGroupReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>d2ec475e-2a67-4a23-9d0c-39a5570f6eeb</r:ID>
+        <r:Version>2</r:Version>
+        <r:TypeOfObject>UniverseGroup</r:TypeOfObject>
+      </UniverseGroupReference>
+      <UniverseGroupReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>fe6f7b8f-95e3-4a96-82db-bebaaa004595</r:ID>
+        <r:Version>3</r:Version>
+        <r:TypeOfObject>UniverseGroup</r:TypeOfObject>
+      </UniverseGroupReference>
+      <UniverseGroupReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>1566067a-a14d-4f32-86c3-67f5e779901f</r:ID>
+        <r:Version>2</r:Version>
+        <r:TypeOfObject>UniverseGroup</r:TypeOfObject>
+      </UniverseGroupReference>
+      <UniverseGroupReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>52b50048-fa06-4c2e-b31e-ba5102cff845</r:ID>
+        <r:Version>2</r:Version>
+        <r:TypeOfObject>UniverseGroup</r:TypeOfObject>
+      </UniverseGroupReference>
+      <UniverseGroupReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>d59dd42a-4678-4db9-ae33-845dd3a01a76</r:ID>
+        <r:Version>2</r:Version>
+        <r:TypeOfObject>UniverseGroup</r:TypeOfObject>
+      </UniverseGroupReference>
+    </UniverseScheme>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Universe isUniversallyUnique="true" versionDate="2019-10-17T10:09:47.251682Z" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.alspac:a1c43dd6-5af1-45d7-80db-f5de52601bbb:2</r:URN>
+      <r:Agency>uk.alspac</r:Agency>
+      <r:ID>a1c43dd6-5af1-45d7-80db-f5de52601bbb</r:ID>
+      <r:Version>2</r:Version>
+      <r:VersionResponsibility>INST\mhadqssi</r:VersionResponsibility>
+      <UniverseName>
+        <r:String xml:lang="en-GB">alspac_adolescence</r:String>
+      </UniverseName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">ALSPAC Adolescence Population</r:Content>
+      </r:Label>
+      <r:Description>
+        <r:Content xml:lang="en-GB">The mother and their study children aged 156-227 months with an EDD of between 1st April 1991 and 31st December 1992 born in the administrative county of Avon as defined at the time of recruitment.</r:Content>
+      </r:Description>
+    </Universe>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Universe isUniversallyUnique="true" versionDate="2019-10-17T10:38:52.0722822Z" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.alspac:304da7d4-1e5c-4804-b6d8-1009167d6575:3</r:URN>
+      <r:Agency>uk.alspac</r:Agency>
+      <r:ID>304da7d4-1e5c-4804-b6d8-1009167d6575</r:ID>
+      <r:Version>3</r:Version>
+      <r:VersionResponsibility>INST\mhadqssi</r:VersionResponsibility>
+      <r:VersionRationale>
+        <r:RationaleDescription>
+          <r:String xml:lang="en-GB">Changed Universe to Population</r:String>
+        </r:RationaleDescription>
+      </r:VersionRationale>
+      <UniverseName>
+        <r:String xml:lang="en-GB">alspac_birth</r:String>
+      </UniverseName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">ALSPAC Birth Population</r:Content>
+      </r:Label>
+      <r:Description>
+        <r:Content xml:lang="en-GB">The mother and partner of study babies aged 8 weeks gestation to 12 months, with an Estimated Due Date of between 1st April 1991 and 31st December 1992 and living in the administrative county of Avon as defined at the time of recruitment.</r:Content>
+      </r:Description>
+    </Universe>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Universe isUniversallyUnique="true" versionDate="2019-10-17T10:38:52.0722822Z" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.alspac:77c59011-fe1d-41ed-ada6-ac19dd997a90:2</r:URN>
+      <r:Agency>uk.alspac</r:Agency>
+      <r:ID>77c59011-fe1d-41ed-ada6-ac19dd997a90</r:ID>
+      <r:Version>2</r:Version>
+      <r:VersionResponsibility>INST\mhadqssi</r:VersionResponsibility>
+      <r:VersionRationale>
+        <r:RationaleDescription>
+          <r:String xml:lang="en-GB">Changed Universe to Population</r:String>
+        </r:RationaleDescription>
+      </r:VersionRationale>
+      <UniverseName>
+        <r:String xml:lang="en-GB">alspac_childhood</r:String>
+      </UniverseName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">ALSPAC Childhood Population</r:Content>
+      </r:Label>
+      <r:Description>
+        <r:Content xml:lang="en-GB">The mother, partner and their study children aged 60 to 155 months with an Estimated Due Date of between 1st April 1991 and 31st December 1992 born in the administrative county of Avon as defined at the time of recruitment.</r:Content>
+      </r:Description>
+    </Universe>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Universe isUniversallyUnique="true" versionDate="2019-10-17T10:38:52.0722822Z" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.alspac:5ff0dc19-72d9-4121-bed3-2bff55f60f84:3</r:URN>
+      <r:Agency>uk.alspac</r:Agency>
+      <r:ID>5ff0dc19-72d9-4121-bed3-2bff55f60f84</r:ID>
+      <r:Version>3</r:Version>
+      <r:VersionResponsibility>INST\mhadqssi</r:VersionResponsibility>
+      <r:VersionRationale>
+        <r:RationaleDescription>
+          <r:String xml:lang="en-GB">Changed Universe to Population</r:String>
+        </r:RationaleDescription>
+      </r:VersionRationale>
+      <UniverseName>
+        <r:String xml:lang="en-GB">alspac_early_adulthood</r:String>
+      </UniverseName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">ALSPAC Early Adulthood Population</r:Content>
+      </r:Label>
+      <r:Description>
+        <r:Content xml:lang="en-GB">The mother, partner and study son/daughter aged 228-371 months with an EDD of between 1st April 1991 and 31st December 1992 born in the administrative county of Avon as defined at the time of recruitment.</r:Content>
+      </r:Description>
+    </Universe>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Universe isUniversallyUnique="true" versionDate="2019-10-17T10:38:52.0722822Z" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.alspac:99057990-c035-4786-af23-fc4015970667:2</r:URN>
+      <r:Agency>uk.alspac</r:Agency>
+      <r:ID>99057990-c035-4786-af23-fc4015970667</r:ID>
+      <r:Version>2</r:Version>
+      <r:VersionResponsibility>INST\mhadqssi</r:VersionResponsibility>
+      <r:VersionRationale>
+        <r:RationaleDescription>
+          <r:String xml:lang="en-GB">Changed Universe to Population</r:String>
+        </r:RationaleDescription>
+      </r:VersionRationale>
+      <UniverseName>
+        <r:String xml:lang="en-GB">alspac_early</r:String>
+      </UniverseName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">ALSPAC Early Years Population</r:Content>
+      </r:Label>
+      <r:Description>
+        <r:Content xml:lang="en-GB">The mother and partner of study children aged 13 to 19 months with an Estimated Due Date of between 1st April 1991 and 31st December 1992 born in the administrative county of Avon as defined at the time of recruitment.</r:Content>
+      </r:Description>
+    </Universe>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Universe isUniversallyUnique="true" versionDate="2019-10-17T10:38:52.0722822Z" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.alspac:b5ba58ea-1617-44ed-a039-d2044054a846:2</r:URN>
+      <r:Agency>uk.alspac</r:Agency>
+      <r:ID>b5ba58ea-1617-44ed-a039-d2044054a846</r:ID>
+      <r:Version>2</r:Version>
+      <r:VersionResponsibility>INST\mhadqssi</r:VersionResponsibility>
+      <r:VersionRationale>
+        <r:RationaleDescription>
+          <r:String xml:lang="en-GB">Changed Universe to Population</r:String>
+        </r:RationaleDescription>
+      </r:VersionRationale>
+      <UniverseName>
+        <r:String xml:lang="en-GB">alspac_overall</r:String>
+      </UniverseName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">ALSPAC Population</r:Content>
+      </r:Label>
+      <r:Description>
+        <r:Content xml:lang="en-GB">The mother, partner and their study children with an Estimated Due Date of between 1st April 1991 and 31st December 1992 born in the administrative county of Avon as defined at the time of recruitment.</r:Content>
+      </r:Description>
+    </Universe>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Universe isUniversallyUnique="true" versionDate="2019-10-17T10:38:52.0722822Z" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.cls.bcs70:939289a7-7697-4d54-b911-23bf4a667d2b:2</r:URN>
+      <r:Agency>uk.cls.bcs70</r:Agency>
+      <r:ID>939289a7-7697-4d54-b911-23bf4a667d2b</r:ID>
+      <r:Version>2</r:Version>
+      <r:VersionResponsibility>INST\mhadqssi</r:VersionResponsibility>
+      <r:VersionRationale>
+        <r:RationaleDescription>
+          <r:String xml:lang="en-GB">Changed Universe to Population</r:String>
+        </r:RationaleDescription>
+      </r:VersionRationale>
+      <UniverseName>
+        <r:String xml:lang="en-GB">bcs_70_age10_univ</r:String>
+      </UniverseName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">BCS 1970 Age 10 Population</r:Content>
+      </r:Label>
+      <r:Description>
+        <r:Content xml:lang="en-GB">All children born in one particular week in 1970 in Great Britain or who, having been born in that week elsewhere, emigrated to Great Britain.</r:Content>
+      </r:Description>
+    </Universe>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Universe isUniversallyUnique="true" versionDate="2019-10-17T10:38:52.0722822Z" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.cls.bcs70:c370900e-5d71-4e47-b20e-109389560ddc:2</r:URN>
+      <r:Agency>uk.cls.bcs70</r:Agency>
+      <r:ID>c370900e-5d71-4e47-b20e-109389560ddc</r:ID>
+      <r:Version>2</r:Version>
+      <r:VersionResponsibility>INST\mhadqssi</r:VersionResponsibility>
+      <r:VersionRationale>
+        <r:RationaleDescription>
+          <r:String xml:lang="en-GB">Changed Universe to Population</r:String>
+        </r:RationaleDescription>
+      </r:VersionRationale>
+      <UniverseName>
+        <r:String xml:lang="en-GB">bcs_70_age16_univ</r:String>
+      </UniverseName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">BCS 1970 Age 16 Population</r:Content>
+      </r:Label>
+      <r:Description>
+        <r:Content xml:lang="en-GB">All children born in one particular week in 1970 in Great Britain or who, having been born in that week elsewhere, emigrated to Great Britain.</r:Content>
+      </r:Description>
+    </Universe>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Universe isUniversallyUnique="true" versionDate="2019-10-17T10:38:52.0722822Z" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.cls.bcs70:d1198be8-d292-4245-b2d9-37c69dd0eb94:3</r:URN>
+      <r:Agency>uk.cls.bcs70</r:Agency>
+      <r:ID>d1198be8-d292-4245-b2d9-37c69dd0eb94</r:ID>
+      <r:Version>3</r:Version>
+      <r:VersionResponsibility>INST\mhadqssi</r:VersionResponsibility>
+      <r:VersionRationale>
+        <r:RationaleDescription>
+          <r:String xml:lang="en-GB">Changed Universe to Population</r:String>
+        </r:RationaleDescription>
+      </r:VersionRationale>
+      <UniverseName>
+        <r:String xml:lang="en-GB">bcs_70_age26_univ</r:String>
+      </UniverseName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">BCS 1970 Age 26 Population</r:Content>
+      </r:Label>
+      <r:Description>
+        <r:Content xml:lang="en-GB">All children born in one particular week in 1970 in Great Britain or who, having been born in that week elsewhere, emigrated to Great Britain before their 16th birthday.</r:Content>
+      </r:Description>
+    </Universe>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Universe isUniversallyUnique="true" versionDate="2019-10-17T10:38:52.0722822Z" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.cls.bcs70:bb954c66-b372-45ff-8c2e-244c8802cf56:2</r:URN>
+      <r:Agency>uk.cls.bcs70</r:Agency>
+      <r:ID>bb954c66-b372-45ff-8c2e-244c8802cf56</r:ID>
+      <r:Version>2</r:Version>
+      <r:VersionResponsibility>INST\mhadqssi</r:VersionResponsibility>
+      <r:VersionRationale>
+        <r:RationaleDescription>
+          <r:String xml:lang="en-GB">Changed Universe to Population</r:String>
+        </r:RationaleDescription>
+      </r:VersionRationale>
+      <UniverseName>
+        <r:String xml:lang="en-GB">bcs_70_age30_univ</r:String>
+      </UniverseName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">BCS 1970 Age 30 Population</r:Content>
+      </r:Label>
+      <r:Description>
+        <r:Content xml:lang="en-GB">All children born in one particular week in 1970 in Great Britain or who, having been born in that week elsewhere, emigrated to Great Britain before their 16th birthday.</r:Content>
+      </r:Description>
+    </Universe>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Universe isUniversallyUnique="true" versionDate="2019-10-17T10:38:52.0722822Z" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.cls.bcs70:3b41c5ff-c5f5-4b37-8fe4-af2b746ad553:2</r:URN>
+      <r:Agency>uk.cls.bcs70</r:Agency>
+      <r:ID>3b41c5ff-c5f5-4b37-8fe4-af2b746ad553</r:ID>
+      <r:Version>2</r:Version>
+      <r:VersionResponsibility>INST\mhadqssi</r:VersionResponsibility>
+      <r:VersionRationale>
+        <r:RationaleDescription>
+          <r:String xml:lang="en-GB">Changed Universe to Population</r:String>
+        </r:RationaleDescription>
+      </r:VersionRationale>
+      <UniverseName>
+        <r:String xml:lang="en-GB">bcs_70_age34_univ</r:String>
+      </UniverseName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">BCS 1970 Age 34 Population</r:Content>
+      </r:Label>
+      <r:Description>
+        <r:Content xml:lang="en-GB">All children born in one particular week in 1970 in Great Britain or who, having been born in that week elsewhere, emigrated to Great Britain before their 16th birthday, less those who died, refused or had not taken part since the ten-year follow-up.</r:Content>
+      </r:Description>
+    </Universe>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Universe isUniversallyUnique="true" versionDate="2019-10-17T10:38:52.0722822Z" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.cls.bcs70:0758f695-e97c-41dd-beb5-2e77ed96931f:3</r:URN>
+      <r:Agency>uk.cls.bcs70</r:Agency>
+      <r:ID>0758f695-e97c-41dd-beb5-2e77ed96931f</r:ID>
+      <r:Version>3</r:Version>
+      <r:VersionResponsibility>INST\mhadqssi</r:VersionResponsibility>
+      <r:VersionRationale>
+        <r:RationaleDescription>
+          <r:String xml:lang="en-GB">Changed Universe to Population</r:String>
+        </r:RationaleDescription>
+      </r:VersionRationale>
+      <UniverseName>
+        <r:String xml:lang="en-GB">bcs_70_age38_univ</r:String>
+      </UniverseName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">BCS 1970 Age 38 Population</r:Content>
+      </r:Label>
+      <r:Description>
+        <r:Content xml:lang="en-GB">All those born in one particular week in April 1970 in Great Britain or, who having been born that week elsewhere, emigrated to Great Britain before their 16th birthday and who had either taken part in one of the previous two sweeps (in 2004 and 2000) or who had personally confirmed their address or who had been traced.</r:Content>
+      </r:Description>
+    </Universe>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Universe isUniversallyUnique="true" versionDate="2019-10-17T10:38:52.0722822Z" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.cls.bcs70:89f2eac0-69c2-4ca3-ac0b-ef032c5f5c49:3</r:URN>
+      <r:Agency>uk.cls.bcs70</r:Agency>
+      <r:ID>89f2eac0-69c2-4ca3-ac0b-ef032c5f5c49</r:ID>
+      <r:Version>3</r:Version>
+      <r:VersionResponsibility>INST\mhadqssi</r:VersionResponsibility>
+      <r:VersionRationale>
+        <r:RationaleDescription>
+          <r:String xml:lang="en-GB">Changed Universe to Population</r:String>
+        </r:RationaleDescription>
+      </r:VersionRationale>
+      <UniverseName>
+        <r:String xml:lang="en-GB">bcs_70_age42_univ</r:String>
+      </UniverseName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">BCS 1970 Age 42 Population</r:Content>
+      </r:Label>
+      <r:Description>
+        <r:Content xml:lang="en-GB">All those born in one particular week in April 1970 in Great Britain or, who having been born that week elsewhere, emigrated to Great Britain before their 16th birthday and who had either taken part in one of the previous two sweeps (in 2008 and 2004) or who had confirmed their address before 2004 or who had been traced.</r:Content>
+      </r:Description>
+    </Universe>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Universe isUniversallyUnique="true" versionDate="2019-10-17T10:38:52.0722822Z" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.cls.bcs70:cac64ef7-90d4-4d4e-a52b-401fe51155fe:2</r:URN>
+      <r:Agency>uk.cls.bcs70</r:Agency>
+      <r:ID>cac64ef7-90d4-4d4e-a52b-401fe51155fe</r:ID>
+      <r:Version>2</r:Version>
+      <r:VersionResponsibility>INST\mhadqssi</r:VersionResponsibility>
+      <r:VersionRationale>
+        <r:RationaleDescription>
+          <r:String xml:lang="en-GB">Changed Universe to Population</r:String>
+        </r:RationaleDescription>
+      </r:VersionRationale>
+      <UniverseName>
+        <r:String xml:lang="en-GB">bcs_70_age5_univ</r:String>
+      </UniverseName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">BCS 1970 Age 5 Population</r:Content>
+      </r:Label>
+      <r:Description>
+        <r:Content xml:lang="en-GB">All children born on a particular week in 1970 in Great Britain or who, having been born in that week elsewhere, emigrated to Great Britain.</r:Content>
+      </r:Description>
+    </Universe>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Universe isUniversallyUnique="true" versionDate="2019-10-17T10:38:52.0722822Z" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.cls.bcs70:269e56d3-de90-4529-97e3-cbe4e9392fd8:2</r:URN>
+      <r:Agency>uk.cls.bcs70</r:Agency>
+      <r:ID>269e56d3-de90-4529-97e3-cbe4e9392fd8</r:ID>
+      <r:Version>2</r:Version>
+      <r:VersionResponsibility>INST\mhadqssi</r:VersionResponsibility>
+      <r:VersionRationale>
+        <r:RationaleDescription>
+          <r:String xml:lang="en-GB">Changed Universe to Population</r:String>
+        </r:RationaleDescription>
+      </r:VersionRationale>
+      <UniverseName>
+        <r:String xml:lang="en-GB">bcs70_birth_univ</r:String>
+      </UniverseName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">BCS 1970 Birth Population</r:Content>
+      </r:Label>
+      <r:Description>
+        <r:Content xml:lang="en-GB">All babies (alive or dead) after the 24th week of gestation in one particular week in 1970 in the United Kingdom.</r:Content>
+      </r:Description>
+    </Universe>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Universe isUniversallyUnique="true" versionDate="2019-10-17T10:38:52.0722822Z" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.cls.bcs70:91b31882-a7fb-40d3-a07b-33d4d73a815a:2</r:URN>
+      <r:Agency>uk.cls.bcs70</r:Agency>
+      <r:ID>91b31882-a7fb-40d3-a07b-33d4d73a815a</r:ID>
+      <r:Version>2</r:Version>
+      <r:VersionResponsibility>INST\mhadqssi</r:VersionResponsibility>
+      <r:VersionRationale>
+        <r:RationaleDescription>
+          <r:String xml:lang="en-GB">Changed Universe to Population</r:String>
+        </r:RationaleDescription>
+      </r:VersionRationale>
+      <UniverseName>
+        <r:String xml:lang="en-GB">bcs70_univ</r:String>
+      </UniverseName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">BCS 1970 Study Population</r:Content>
+      </r:Label>
+      <r:Description>
+        <r:Content xml:lang="en-GB">All those born, including still births, in one particular week in April 1970 until they die or permanently emigrate from Great Britain.</r:Content>
+      </r:Description>
+    </Universe>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Universe isUniversallyUnique="true" versionDate="2019-10-17T10:38:52.0722822Z" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.mrcleu-uos.hcs:1ce3bdd5-c164-4420-9e6b-389739aa870c:2</r:URN>
+      <r:Agency>uk.mrcleu-uos.hcs</r:Agency>
+      <r:ID>1ce3bdd5-c164-4420-9e6b-389739aa870c</r:ID>
+      <r:Version>2</r:Version>
+      <r:VersionResponsibility>INST\mhadqssi</r:VersionResponsibility>
+      <r:VersionRationale>
+        <r:RationaleDescription>
+          <r:String xml:lang="en-GB">Changed Universe to Population</r:String>
+        </r:RationaleDescription>
+      </r:VersionRationale>
+      <UniverseName>
+        <r:String xml:lang="en-GB">hcs_overall</r:String>
+      </UniverseName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">HCS Overall Population</r:Content>
+      </r:Label>
+      <r:Description>
+        <r:Content xml:lang="en-GB">Men and women born in Hertfordshire between 1931 and 1939 who were still resident and registered with a GP in Hertfordshire in the 1990s.</r:Content>
+      </r:Description>
+    </Universe>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Universe isUniversallyUnique="true" versionDate="2019-10-17T10:38:52.0722822Z" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.mrcleu-uos.hcs:8463c30f-38e5-4e4e-ae66-f4e9419d1991:2</r:URN>
+      <r:Agency>uk.mrcleu-uos.hcs</r:Agency>
+      <r:ID>8463c30f-38e5-4e4e-ae66-f4e9419d1991</r:ID>
+      <r:Version>2</r:Version>
+      <r:VersionResponsibility>INST\mhadqssi</r:VersionResponsibility>
+      <r:VersionRationale>
+        <r:RationaleDescription>
+          <r:String xml:lang="en-GB">Changed Universe to Population</r:String>
+        </r:RationaleDescription>
+      </r:VersionRationale>
+      <UniverseName>
+        <r:String xml:lang="en-GB">hcs_sweep</r:String>
+      </UniverseName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">HCS Sweep Population</r:Content>
+      </r:Label>
+      <r:Description>
+        <r:Content xml:lang="en-GB">All births in Hertfordshire between 1931 and 1939 for people who were still resident and registered with a GP in Hertfordshire in the 1990's.</r:Content>
+      </r:Description>
+    </Universe>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Universe isUniversallyUnique="true" versionDate="2019-10-17T10:38:52.0722822Z" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.cls.mcs:d0dc9787-9112-4b79-b771-c5eb887ceb55:3</r:URN>
+      <r:Agency>uk.cls.mcs</r:Agency>
+      <r:ID>d0dc9787-9112-4b79-b771-c5eb887ceb55</r:ID>
+      <r:Version>3</r:Version>
+      <r:VersionResponsibility>INST\mhadqssi</r:VersionResponsibility>
+      <r:VersionRationale>
+        <r:RationaleDescription>
+          <r:String xml:lang="en-GB">Changed Universe to Population</r:String>
+        </r:RationaleDescription>
+      </r:VersionRationale>
+      <UniverseName>
+        <r:String xml:lang="en-GB">mcs_all</r:String>
+      </UniverseName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">MCS Birth Population</r:Content>
+      </r:Label>
+      <r:Description>
+        <r:Content xml:lang="en-GB">A stratified sample of babies born between 1 September 2000 and 31 August 2001 in England and Wales, and 23 November 2000 and 11 January 2002 in Scotland and Northern Ireland.</r:Content>
+      </r:Description>
+    </Universe>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Universe isUniversallyUnique="true" versionDate="2019-10-17T10:38:52.0722822Z" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.cls.ncds:c5a33151-9e5b-4517-bab6-6e7a166226e5:2</r:URN>
+      <r:Agency>uk.cls.ncds</r:Agency>
+      <r:ID>c5a33151-9e5b-4517-bab6-6e7a166226e5</r:ID>
+      <r:Version>2</r:Version>
+      <r:VersionResponsibility>INST\mhadqssi</r:VersionResponsibility>
+      <r:VersionRationale>
+        <r:RationaleDescription>
+          <r:String xml:lang="en-GB">Changed Universe to Population</r:String>
+        </r:RationaleDescription>
+      </r:VersionRationale>
+      <UniverseName>
+        <r:String xml:lang="en-GB">ncds_age11_univ</r:String>
+      </UniverseName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">NCDS Age 11 Population</r:Content>
+      </r:Label>
+      <r:Description>
+        <r:Content xml:lang="en-GB">All children born in Great Britain during a single week in 1958, or who, having been born elsewhere, migrated to Great Britain.</r:Content>
+      </r:Description>
+    </Universe>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Universe isUniversallyUnique="true" versionDate="2019-10-17T10:38:52.0722822Z" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.cls.ncds:c7954a96-d3b8-41dd-94df-ba23326ed547:3</r:URN>
+      <r:Agency>uk.cls.ncds</r:Agency>
+      <r:ID>c7954a96-d3b8-41dd-94df-ba23326ed547</r:ID>
+      <r:Version>3</r:Version>
+      <r:VersionResponsibility>INST\mhadqssi</r:VersionResponsibility>
+      <r:VersionRationale>
+        <r:RationaleDescription>
+          <r:String xml:lang="en-GB">Changed Universe to Population</r:String>
+        </r:RationaleDescription>
+      </r:VersionRationale>
+      <UniverseName>
+        <r:String xml:lang="en-GB">ncds_age16_univ</r:String>
+      </UniverseName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">NCDS Age 16 Population</r:Content>
+      </r:Label>
+      <r:Description>
+        <r:Content xml:lang="en-GB">All children born in Great Britain during a single week in 1958, or who, having been born elsewhere, migrated to Great Britain.</r:Content>
+      </r:Description>
+    </Universe>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Universe isUniversallyUnique="true" versionDate="2019-10-17T10:38:52.0722822Z" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.cls.ncds:8567b4ab-2e87-4993-b5d1-13c443472413:2</r:URN>
+      <r:Agency>uk.cls.ncds</r:Agency>
+      <r:ID>8567b4ab-2e87-4993-b5d1-13c443472413</r:ID>
+      <r:Version>2</r:Version>
+      <r:VersionResponsibility>INST\mhadqssi</r:VersionResponsibility>
+      <r:VersionRationale>
+        <r:RationaleDescription>
+          <r:String xml:lang="en-GB">Changed Universe to Population</r:String>
+        </r:RationaleDescription>
+      </r:VersionRationale>
+      <UniverseName>
+        <r:String xml:lang="en-GB">ncds_age23_univ</r:String>
+      </UniverseName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">NCDS Age 23 Population</r:Content>
+      </r:Label>
+      <r:Description>
+        <r:Content xml:lang="en-GB">All cohort members who had participated in at least one of the NCDS follow-ups.</r:Content>
+      </r:Description>
+    </Universe>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Universe isUniversallyUnique="true" versionDate="2019-10-17T10:38:52.0722822Z" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.cls.ncds:b32caba4-c7b1-4d7e-a829-cc4017e5dee6:2</r:URN>
+      <r:Agency>uk.cls.ncds</r:Agency>
+      <r:ID>b32caba4-c7b1-4d7e-a829-cc4017e5dee6</r:ID>
+      <r:Version>2</r:Version>
+      <r:VersionResponsibility>INST\mhadqssi</r:VersionResponsibility>
+      <r:VersionRationale>
+        <r:RationaleDescription>
+          <r:String xml:lang="en-GB">Changed Universe to Population</r:String>
+        </r:RationaleDescription>
+      </r:VersionRationale>
+      <UniverseName>
+        <r:String xml:lang="en-GB">ncds_age33_univ</r:String>
+      </UniverseName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">NCDS Age 33 Population</r:Content>
+      </r:Label>
+      <r:Description>
+        <r:Content xml:lang="en-GB">All cohort members; any husband, wife, or cohabitee; from the natural or adopted children of 1 in 3 cohort families; and from the mother of these children.</r:Content>
+      </r:Description>
+    </Universe>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Universe isUniversallyUnique="true" versionDate="2019-10-17T10:38:52.0722822Z" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.cls.ncds:99a54301-a0c5-4f98-80be-7a76f96461a7:3</r:URN>
+      <r:Agency>uk.cls.ncds</r:Agency>
+      <r:ID>99a54301-a0c5-4f98-80be-7a76f96461a7</r:ID>
+      <r:Version>3</r:Version>
+      <r:VersionResponsibility>INST\mhadqssi</r:VersionResponsibility>
+      <r:VersionRationale>
+        <r:RationaleDescription>
+          <r:String xml:lang="en-GB">Changed Universe to Population</r:String>
+        </r:RationaleDescription>
+      </r:VersionRationale>
+      <UniverseName>
+        <r:String xml:lang="en-GB">ncds_age42_univ</r:String>
+      </UniverseName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">NCDS Age 42 Population</r:Content>
+      </r:Label>
+      <r:Description>
+        <r:Content xml:lang="en-GB">All cohort members who had ever participated in NCDS, less those who had died, permanently refused or emigrated. </r:Content>
+      </r:Description>
+    </Universe>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Universe isUniversallyUnique="true" versionDate="2019-10-17T10:38:52.0722822Z" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.cls.ncds:0da6be12-d750-4ef6-b4cd-cc3f3abfb697:2</r:URN>
+      <r:Agency>uk.cls.ncds</r:Agency>
+      <r:ID>0da6be12-d750-4ef6-b4cd-cc3f3abfb697</r:ID>
+      <r:Version>2</r:Version>
+      <r:VersionResponsibility>INST\mhadqssi</r:VersionResponsibility>
+      <r:VersionRationale>
+        <r:RationaleDescription>
+          <r:String xml:lang="en-GB">Changed Universe to Population</r:String>
+        </r:RationaleDescription>
+      </r:VersionRationale>
+      <UniverseName>
+        <r:String xml:lang="en-GB">ncds_age46_univ</r:String>
+      </UniverseName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">NCDS Age 46 Population</r:Content>
+      </r:Label>
+      <r:Description>
+        <r:Content xml:lang="en-GB">All cohort members who had participated in at least one NCDS sweep since 1981, less those who had refused, died or emigrated.</r:Content>
+      </r:Description>
+    </Universe>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Universe isUniversallyUnique="true" versionDate="2019-10-17T10:38:52.0722822Z" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.cls.ncds:6ee6192b-cb10-4070-9c2b-63ccffde23eb:2</r:URN>
+      <r:Agency>uk.cls.ncds</r:Agency>
+      <r:ID>6ee6192b-cb10-4070-9c2b-63ccffde23eb</r:ID>
+      <r:Version>2</r:Version>
+      <r:VersionResponsibility>INST\mhadqssi</r:VersionResponsibility>
+      <r:VersionRationale>
+        <r:RationaleDescription>
+          <r:String xml:lang="en-GB">Changed Universe to Population</r:String>
+        </r:RationaleDescription>
+      </r:VersionRationale>
+      <UniverseName>
+        <r:String xml:lang="en-GB">ncds_age50_univ</r:String>
+      </UniverseName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">NCDS Age 50 Population</r:Content>
+      </r:Label>
+      <r:Description>
+        <r:Content xml:lang="en-GB">All cohort members who had participated in at least one NCDS sweep since Age 42, confirmed their address since 2000 or for whom a recent address had been traced.</r:Content>
+      </r:Description>
+    </Universe>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Universe isUniversallyUnique="true" versionDate="2019-10-17T10:38:52.0722822Z" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.cls.ncds:3d0b53f8-8545-4643-92c8-a84db705f2d7:2</r:URN>
+      <r:Agency>uk.cls.ncds</r:Agency>
+      <r:ID>3d0b53f8-8545-4643-92c8-a84db705f2d7</r:ID>
+      <r:Version>2</r:Version>
+      <r:VersionResponsibility>INST\mhadqssi</r:VersionResponsibility>
+      <r:VersionRationale>
+        <r:RationaleDescription>
+          <r:String xml:lang="en-GB">Changed Universe to Population</r:String>
+        </r:RationaleDescription>
+      </r:VersionRationale>
+      <UniverseName>
+        <r:String xml:lang="en-GB">ncds_age55_univ</r:String>
+      </UniverseName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">NCDS Age 55 Population</r:Content>
+      </r:Label>
+      <r:Description>
+        <r:Content xml:lang="en-GB">All cohort members who had participated in any of the last three surveys or had confirmed their address since 2000.</r:Content>
+      </r:Description>
+    </Universe>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Universe isUniversallyUnique="true" versionDate="2019-10-17T10:38:52.0722822Z" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.cls.ncds:fc06d6bc-918d-4696-b933-e688e0ff832a:2</r:URN>
+      <r:Agency>uk.cls.ncds</r:Agency>
+      <r:ID>fc06d6bc-918d-4696-b933-e688e0ff832a</r:ID>
+      <r:Version>2</r:Version>
+      <r:VersionResponsibility>INST\mhadqssi</r:VersionResponsibility>
+      <r:VersionRationale>
+        <r:RationaleDescription>
+          <r:String xml:lang="en-GB">Changed Universe to Population</r:String>
+        </r:RationaleDescription>
+      </r:VersionRationale>
+      <UniverseName>
+        <r:String xml:lang="en-GB">ncds_age7</r:String>
+      </UniverseName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">NCDS Age 7 Population</r:Content>
+      </r:Label>
+      <r:Description>
+        <r:Content xml:lang="en-GB">All children born in Great Britain during a single week in 1958 or who, having been born elsewhere, migrated to Great Britain.</r:Content>
+      </r:Description>
+    </Universe>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Universe isUniversallyUnique="true" versionDate="2019-10-17T10:38:52.0722822Z" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.cls.ncds:71605537-cc3d-4ebf-af53-93134bc76192:2</r:URN>
+      <r:Agency>uk.cls.ncds</r:Agency>
+      <r:ID>71605537-cc3d-4ebf-af53-93134bc76192</r:ID>
+      <r:Version>2</r:Version>
+      <r:VersionResponsibility>INST\mhadqssi</r:VersionResponsibility>
+      <r:VersionRationale>
+        <r:RationaleDescription>
+          <r:String xml:lang="en-GB">Changed Universe to Population</r:String>
+        </r:RationaleDescription>
+      </r:VersionRationale>
+      <UniverseName>
+        <r:String xml:lang="en-GB">ncds_biomed_univ</r:String>
+      </UniverseName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">NCDS Biomedical Population</r:Content>
+      </r:Label>
+      <r:Description>
+        <r:Content xml:lang="en-GB">12,037 cohort members who responded to the Age 23 Survey (NCDS4), Age 33 Survey (NCDS5) or Age 42 Survey (NCDS6).</r:Content>
+      </r:Description>
+    </Universe>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Universe isUniversallyUnique="true" versionDate="2019-10-17T10:38:52.0722822Z" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.cls.ncds:e25dd2c8-5500-45c5-8f0f-cf36c426b956:2</r:URN>
+      <r:Agency>uk.cls.ncds</r:Agency>
+      <r:ID>e25dd2c8-5500-45c5-8f0f-cf36c426b956</r:ID>
+      <r:Version>2</r:Version>
+      <r:VersionResponsibility>INST\mhadqssi</r:VersionResponsibility>
+      <r:VersionRationale>
+        <r:RationaleDescription>
+          <r:String xml:lang="en-GB">Changed Universe to Population</r:String>
+        </r:RationaleDescription>
+      </r:VersionRationale>
+      <UniverseName>
+        <r:String xml:lang="en-GB">ncds_birth</r:String>
+      </UniverseName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">NCDS Birth Population</r:Content>
+      </r:Label>
+      <r:Description>
+        <r:Content xml:lang="en-GB">All babies born during a single week in 1958, and all still births or infants dying before the age of 28 days within a three month period around the chosen week.</r:Content>
+      </r:Description>
+    </Universe>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Universe isUniversallyUnique="true" versionDate="2019-10-17T10:38:52.0722822Z" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.lha:4a3406cc-1acd-40c1-ba62-3c2243c046a4:3</r:URN>
+      <r:Agency>uk.lha</r:Agency>
+      <r:ID>4a3406cc-1acd-40c1-ba62-3c2243c046a4</r:ID>
+      <r:Version>3</r:Version>
+      <r:VersionResponsibility>INST\mhadqssi</r:VersionResponsibility>
+      <r:VersionRationale>
+        <r:RationaleDescription>
+          <r:String xml:lang="en-GB">Changed Universe to Population</r:String>
+        </r:RationaleDescription>
+      </r:VersionRationale>
+      <UniverseName>
+        <r:String xml:lang="en-GB">nshd_age_2</r:String>
+      </UniverseName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">NSHD Age 2 Population</r:Content>
+      </r:Label>
+      <r:Description>
+        <r:Content xml:lang="en-GB">A sample of the original infants.</r:Content>
+      </r:Description>
+    </Universe>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Universe isUniversallyUnique="true" versionDate="2019-10-17T11:35:34.2428279Z" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.lha:f680fa3c-cad8-44b8-bbe5-3dd695f63cad:4</r:URN>
+      <r:Agency>uk.lha</r:Agency>
+      <r:ID>f680fa3c-cad8-44b8-bbe5-3dd695f63cad</r:ID>
+      <r:Version>4</r:Version>
+      <r:VersionResponsibility>INST\mhadqssi</r:VersionResponsibility>
+      <UniverseName>
+        <r:String xml:lang="en-GB">nshd_maternity</r:String>
+      </UniverseName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">NSHD Maternity Population</r:Content>
+      </r:Label>
+      <r:Description>
+        <r:Content xml:lang="en-GB">All women who delivered during a single week in March 1946.</r:Content>
+      </r:Description>
+    </Universe>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Universe isUniversallyUnique="true" versionDate="2019-10-17T10:38:52.0722822Z" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.lha:e74853f8-e1a6-4e59-b0cd-651b36aa0b34:2</r:URN>
+      <r:Agency>uk.lha</r:Agency>
+      <r:ID>e74853f8-e1a6-4e59-b0cd-651b36aa0b34</r:ID>
+      <r:Version>2</r:Version>
+      <r:VersionResponsibility>INST\mhadqssi</r:VersionResponsibility>
+      <r:VersionRationale>
+        <r:RationaleDescription>
+          <r:String xml:lang="en-GB">Changed Universe to Population</r:String>
+        </r:RationaleDescription>
+      </r:VersionRationale>
+      <UniverseName>
+        <r:String xml:lang="en-GB">nshd_female</r:String>
+      </UniverseName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">NSHD Female Population</r:Content>
+      </r:Label>
+      <r:Description>
+        <r:Content xml:lang="en-GB">All eligible female study members.</r:Content>
+      </r:Description>
+    </Universe>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Universe isUniversallyUnique="true" versionDate="2019-10-17T10:38:52.0722822Z" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.lha:60db6796-2d49-4ade-9597-6b230e0e6ae7:4</r:URN>
+      <r:Agency>uk.lha</r:Agency>
+      <r:ID>60db6796-2d49-4ade-9597-6b230e0e6ae7</r:ID>
+      <r:Version>4</r:Version>
+      <r:VersionResponsibility>INST\mhadqssi</r:VersionResponsibility>
+      <r:VersionRationale>
+        <r:RationaleDescription>
+          <r:String xml:lang="en-GB">Changed Universe to Population</r:String>
+        </r:RationaleDescription>
+      </r:VersionRationale>
+      <UniverseName>
+        <r:String xml:lang="en-GB">nshd_study</r:String>
+      </UniverseName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">NSHD Overall Study Population</r:Content>
+      </r:Label>
+      <r:Description>
+        <r:Content xml:lang="en-GB">13,687 births recorded in England, Scotland and Wales during March 1946</r:Content>
+      </r:Description>
+    </Universe>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Universe isUniversallyUnique="true" versionDate="2019-10-17T10:38:52.0722822Z" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.lha:62fd60c6-7ba7-4aa1-b7b8-017d1f883fa9:2</r:URN>
+      <r:Agency>uk.lha</r:Agency>
+      <r:ID>62fd60c6-7ba7-4aa1-b7b8-017d1f883fa9</r:ID>
+      <r:Version>2</r:Version>
+      <r:VersionResponsibility>INST\mhadqssi</r:VersionResponsibility>
+      <r:VersionRationale>
+        <r:RationaleDescription>
+          <r:String xml:lang="en-GB">Changed Universe to Population</r:String>
+        </r:RationaleDescription>
+      </r:VersionRationale>
+      <UniverseName>
+        <r:String xml:lang="en-GB">nshd_overall</r:String>
+      </UniverseName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">NSHD Overall Population</r:Content>
+      </r:Label>
+      <r:Description>
+        <r:Content xml:lang="en-GB">All eligible study members.</r:Content>
+      </r:Description>
+    </Universe>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Universe isUniversallyUnique="true" versionDate="2019-10-17T10:38:52.0722822Z" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.lha:fc7c0a39-24f2-49c8-8850-f74a8e0563c4:2</r:URN>
+      <r:Agency>uk.lha</r:Agency>
+      <r:ID>fc7c0a39-24f2-49c8-8850-f74a8e0563c4</r:ID>
+      <r:Version>2</r:Version>
+      <r:VersionResponsibility>INST\mhadqssi</r:VersionResponsibility>
+      <r:VersionRationale>
+        <r:RationaleDescription>
+          <r:String xml:lang="en-GB">Changed Universe to Population</r:String>
+        </r:RationaleDescription>
+      </r:VersionRationale>
+      <UniverseName>
+        <r:String xml:lang="en-GB">nshd_prem</r:String>
+      </UniverseName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">NSHD Premature Sample Population</r:Content>
+      </r:Label>
+      <r:Description>
+        <r:Content xml:lang="en-GB">All 'premature' babies (birth weight 5.5lbs or less) born in a single week in March 1946 and a set of controls from the same or nearby local health authority areas and matched for sex, birth order, maternal age, social class and other unspecified social circumstances</r:Content>
+      </r:Description>
+    </Universe>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Universe isUniversallyUnique="true" versionDate="2019-10-17T10:38:52.0722822Z" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.lha:3ed9aca0-b234-43c5-9216-3aade8824cfd:2</r:URN>
+      <r:Agency>uk.lha</r:Agency>
+      <r:ID>3ed9aca0-b234-43c5-9216-3aade8824cfd</r:ID>
+      <r:Version>2</r:Version>
+      <r:VersionResponsibility>INST\mhadqssi</r:VersionResponsibility>
+      <r:VersionRationale>
+        <r:RationaleDescription>
+          <r:String xml:lang="en-GB">Changed Universe to Population</r:String>
+        </r:RationaleDescription>
+      </r:VersionRationale>
+      <UniverseName>
+        <r:String xml:lang="en-GB">nshd_schools</r:String>
+      </UniverseName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">NSHD School Population</r:Content>
+      </r:Label>
+      <r:Description>
+        <r:Content xml:lang="en-GB">The schools of all eligible study members.</r:Content>
+      </r:Description>
+    </Universe>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Universe isUniversallyUnique="true" versionDate="2019-10-17T10:38:52.0722822Z" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.lha:565159f9-e2a1-499e-8bae-10b8516d0fd4:2</r:URN>
+      <r:Agency>uk.lha</r:Agency>
+      <r:ID>565159f9-e2a1-499e-8bae-10b8516d0fd4</r:ID>
+      <r:Version>2</r:Version>
+      <r:VersionResponsibility>INST\mhadqssi</r:VersionResponsibility>
+      <r:VersionRationale>
+        <r:RationaleDescription>
+          <r:String xml:lang="en-GB">Changed Universe to Population</r:String>
+        </r:RationaleDescription>
+      </r:VersionRationale>
+      <UniverseName>
+        <r:String xml:lang="en-GB">nshd_students</r:String>
+      </UniverseName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">NSHD Student Population</r:Content>
+      </r:Label>
+      <r:Description>
+        <r:Content xml:lang="en-GB">Administrators of further and technical education establishments at which cohort members were students.</r:Content>
+      </r:Description>
+    </Universe>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Universe isUniversallyUnique="true" versionDate="2019-10-17T10:38:52.0722822Z" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.mrcleu-uos.sws:b12d3cb3-171a-4ffa-b8b7-96e54e720449:3</r:URN>
+      <r:Agency>uk.mrcleu-uos.sws</r:Agency>
+      <r:ID>b12d3cb3-171a-4ffa-b8b7-96e54e720449</r:ID>
+      <r:Version>3</r:Version>
+      <r:VersionResponsibility>INST\mhadqssi</r:VersionResponsibility>
+      <r:VersionRationale>
+        <r:RationaleDescription>
+          <r:String xml:lang="en-GB">Changed Universe to Population</r:String>
+        </r:RationaleDescription>
+      </r:VersionRationale>
+      <UniverseName>
+        <r:String xml:lang="en-GB">sws_12m</r:String>
+      </UniverseName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">SWS 12 Month Population</r:Content>
+      </r:Label>
+      <r:Description>
+        <r:Content xml:lang="en-GB">Women resident in Southampton aged 20 to 34 years who had participated in the initial interview phase of the SWS and reported they had become pregnant and gave birth and the child had reached 12 months of age.</r:Content>
+      </r:Description>
+    </Universe>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Universe isUniversallyUnique="true" versionDate="2019-10-17T10:38:52.0722822Z" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.mrcleu-uos.sws:85bd8ebd-6863-4747-bb01-2da8d48d04cb:3</r:URN>
+      <r:Agency>uk.mrcleu-uos.sws</r:Agency>
+      <r:ID>85bd8ebd-6863-4747-bb01-2da8d48d04cb</r:ID>
+      <r:Version>3</r:Version>
+      <r:VersionResponsibility>INST\mhadqssi</r:VersionResponsibility>
+      <r:VersionRationale>
+        <r:RationaleDescription>
+          <r:String xml:lang="en-GB">Changed Universe to Population</r:String>
+        </r:RationaleDescription>
+      </r:VersionRationale>
+      <UniverseName>
+        <r:String xml:lang="en-GB">sws_24m</r:String>
+      </UniverseName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">SWS 24 Month Population</r:Content>
+      </r:Label>
+      <r:Description>
+        <r:Content xml:lang="en-GB">Women resident in Southampton aged 20 to 34 years had participated in the initial interview phase of the SWS , reported they had become pregnant and gave birth and the child had reached 24 months of age.</r:Content>
+      </r:Description>
+    </Universe>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Universe isUniversallyUnique="true" versionDate="2019-10-17T10:38:52.0722822Z" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.mrcleu-uos.sws:27e83a7e-bc87-4edc-a273-530fbcacce99:3</r:URN>
+      <r:Agency>uk.mrcleu-uos.sws</r:Agency>
+      <r:ID>27e83a7e-bc87-4edc-a273-530fbcacce99</r:ID>
+      <r:Version>3</r:Version>
+      <r:VersionResponsibility>INST\mhadqssi</r:VersionResponsibility>
+      <r:VersionRationale>
+        <r:RationaleDescription>
+          <r:String xml:lang="en-GB">Changed Universe to Population</r:String>
+        </r:RationaleDescription>
+      </r:VersionRationale>
+      <UniverseName>
+        <r:String xml:lang="en-GB">sws_3y</r:String>
+      </UniverseName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">SWS 3 Years Population</r:Content>
+      </r:Label>
+      <r:Description>
+        <r:Content xml:lang="en-GB">Women resident in Southampton aged 20 to 34 years had participated in the initial interview phase of the SWS , reported they had become pregnant and gave birth and the child had reached 3 years of age.</r:Content>
+      </r:Description>
+    </Universe>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Universe isUniversallyUnique="true" versionDate="2019-10-17T10:38:52.0722822Z" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.mrcleu-uos.sws:6738de62-89f1-423a-ae2f-f81569c476b4:3</r:URN>
+      <r:Agency>uk.mrcleu-uos.sws</r:Agency>
+      <r:ID>6738de62-89f1-423a-ae2f-f81569c476b4</r:ID>
+      <r:Version>3</r:Version>
+      <r:VersionResponsibility>INST\mhadqssi</r:VersionResponsibility>
+      <r:VersionRationale>
+        <r:RationaleDescription>
+          <r:String xml:lang="en-GB">Changed Universe to Population</r:String>
+        </r:RationaleDescription>
+      </r:VersionRationale>
+      <UniverseName>
+        <r:String xml:lang="en-GB">sws_6m</r:String>
+      </UniverseName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">SWS 6 Month Population</r:Content>
+      </r:Label>
+      <r:Description>
+        <r:Content xml:lang="en-GB">Women resident in Southampton aged 20 to 34 years who had participated in the initial interview phase of the SWS and reported they had become pregnant and gave birth and the child had reached 6 months of age.</r:Content>
+      </r:Description>
+    </Universe>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Universe isUniversallyUnique="true" versionDate="2019-10-17T10:38:52.0722822Z" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.mrcleu-uos.sws:4ae2506e-6374-4b26-8541-16b52c30854a:2</r:URN>
+      <r:Agency>uk.mrcleu-uos.sws</r:Agency>
+      <r:ID>4ae2506e-6374-4b26-8541-16b52c30854a</r:ID>
+      <r:Version>2</r:Version>
+      <r:VersionResponsibility>INST\mhadqssi</r:VersionResponsibility>
+      <r:VersionRationale>
+        <r:RationaleDescription>
+          <r:String xml:lang="en-GB">Changed Universe to Population</r:String>
+        </r:RationaleDescription>
+      </r:VersionRationale>
+      <UniverseName>
+        <r:String xml:lang="en-GB">sws_initial</r:String>
+      </UniverseName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">SWS Initial Population</r:Content>
+      </r:Label>
+      <r:Description>
+        <r:Content xml:lang="en-GB">Women resident in Southampton aged 20 to 34 years</r:Content>
+      </r:Description>
+    </Universe>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Universe isUniversallyUnique="true" versionDate="2019-10-17T10:38:52.0722822Z" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.mrcleu-uos.sws:7bd4bf1e-0be1-423f-8be9-58e2b80b4917:3</r:URN>
+      <r:Agency>uk.mrcleu-uos.sws</r:Agency>
+      <r:ID>7bd4bf1e-0be1-423f-8be9-58e2b80b4917</r:ID>
+      <r:Version>3</r:Version>
+      <r:VersionResponsibility>INST\mhadqssi</r:VersionResponsibility>
+      <r:VersionRationale>
+        <r:RationaleDescription>
+          <r:String xml:lang="en-GB">Changed Universe to Population</r:String>
+        </r:RationaleDescription>
+      </r:VersionRationale>
+      <UniverseName>
+        <r:String xml:lang="en-GB">sws_obstetrics</r:String>
+      </UniverseName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">SWS Obstetrics Population</r:Content>
+      </r:Label>
+      <r:Description>
+        <r:Content xml:lang="en-GB">Women resident in Southampton aged 20 to 34 years who had participated in the initial interview phase of the SWS and reported they had become pregnant and gave birth.</r:Content>
+      </r:Description>
+    </Universe>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Universe isUniversallyUnique="true" versionDate="2019-10-17T10:38:52.0722822Z" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.mrcleu-uos.sws:8c8f1337-a9a6-4b95-97f8-93af4bd9ba8f:2</r:URN>
+      <r:Agency>uk.mrcleu-uos.sws</r:Agency>
+      <r:ID>8c8f1337-a9a6-4b95-97f8-93af4bd9ba8f</r:ID>
+      <r:Version>2</r:Version>
+      <r:VersionResponsibility>INST\mhadqssi</r:VersionResponsibility>
+      <r:VersionRationale>
+        <r:RationaleDescription>
+          <r:String xml:lang="en-GB">Changed Universe to Population</r:String>
+        </r:RationaleDescription>
+      </r:VersionRationale>
+      <UniverseName>
+        <r:String xml:lang="en-GB">sws_overall</r:String>
+      </UniverseName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">SWS Overall Population</r:Content>
+      </r:Label>
+      <r:Description>
+        <r:Content xml:lang="en-GB">Women resident in Southampton aged 20 to 34 years and their subsequent children</r:Content>
+      </r:Description>
+    </Universe>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Universe isUniversallyUnique="true" versionDate="2019-10-17T10:38:52.0722822Z" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.mrcleu-uos.sws:6ffd5f11-1688-467d-bcb1-fd8ffd9a5ef5:3</r:URN>
+      <r:Agency>uk.mrcleu-uos.sws</r:Agency>
+      <r:ID>6ffd5f11-1688-467d-bcb1-fd8ffd9a5ef5</r:ID>
+      <r:Version>3</r:Version>
+      <r:VersionResponsibility>INST\mhadqssi</r:VersionResponsibility>
+      <r:VersionRationale>
+        <r:RationaleDescription>
+          <r:String xml:lang="en-GB">Changed Universe to Population</r:String>
+        </r:RationaleDescription>
+      </r:VersionRationale>
+      <UniverseName>
+        <r:String xml:lang="en-GB">sws_pregnancy</r:String>
+      </UniverseName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">SWS Pregnancy Population</r:Content>
+      </r:Label>
+      <r:Description>
+        <r:Content xml:lang="en-GB">Women resident in Southampton aged 20 to 34 years who had participated in the initial interview phase of the SWS and reported they had become pregnant.</r:Content>
+      </r:Description>
+    </Universe>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Universe isUniversallyUnique="true" versionDate="2019-10-17T10:38:52.0722822Z" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.iser:ec4775b7-42b3-434f-ab27-7f1eaf616b82:4</r:URN>
+      <r:Agency>uk.iser</r:Agency>
+      <r:ID>ec4775b7-42b3-434f-ab27-7f1eaf616b82</r:ID>
+      <r:Version>4</r:Version>
+      <r:VersionResponsibility>INST\mhadqssi</r:VersionResponsibility>
+      <r:VersionRationale>
+        <r:RationaleDescription>
+          <r:String xml:lang="en-GB">Changed Universe to Population</r:String>
+        </r:RationaleDescription>
+      </r:VersionRationale>
+      <UniverseName>
+        <r:String xml:lang="en-GB">US_overall</r:String>
+      </UniverseName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">US Overall Population</r:Content>
+      </r:Label>
+      <r:Description>
+        <r:Content xml:lang="en-GB">UK residential population in 2009-10</r:Content>
+      </r:Description>
+    </Universe>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Universe isUniversallyUnique="true" versionDate="2019-10-17T10:38:52.0722822Z" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.iser:d1491600-20fb-4a68-826c-f88503821fa3:2</r:URN>
+      <r:Agency>uk.iser</r:Agency>
+      <r:ID>d1491600-20fb-4a68-826c-f88503821fa3</r:ID>
+      <r:Version>2</r:Version>
+      <r:VersionResponsibility>INST\mhadqssi</r:VersionResponsibility>
+      <r:VersionRationale>
+        <r:RationaleDescription>
+          <r:String xml:lang="en-GB">Changed Universe to Population</r:String>
+        </r:RationaleDescription>
+      </r:VersionRationale>
+      <UniverseName>
+        <r:String xml:lang="en-GB">US_wave1</r:String>
+      </UniverseName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">US Wave 1 Population</r:Content>
+      </r:Label>
+      <r:Description>
+        <r:Content xml:lang="en-GB">UK residential population in 2009-10</r:Content>
+      </r:Description>
+    </Universe>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Universe isUniversallyUnique="true" versionDate="2019-10-17T10:38:52.0722822Z" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.iser:3937e041-9f82-4789-a953-e26372f435b9:2</r:URN>
+      <r:Agency>uk.iser</r:Agency>
+      <r:ID>3937e041-9f82-4789-a953-e26372f435b9</r:ID>
+      <r:Version>2</r:Version>
+      <r:VersionResponsibility>INST\mhadqssi</r:VersionResponsibility>
+      <r:VersionRationale>
+        <r:RationaleDescription>
+          <r:String xml:lang="en-GB">Changed Universe to Population</r:String>
+        </r:RationaleDescription>
+      </r:VersionRationale>
+      <UniverseName>
+        <r:String xml:lang="en-GB">US_wave2</r:String>
+      </UniverseName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">US Wave 2 Population</r:Content>
+      </r:Label>
+      <r:Description>
+        <r:Content xml:lang="en-GB">UK residential population in 2010-11</r:Content>
+      </r:Description>
+    </Universe>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Universe isUniversallyUnique="true" versionDate="2019-10-17T10:38:52.0722822Z" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.iser:fabb75ae-e265-4b79-87d0-e69499b27ff8:2</r:URN>
+      <r:Agency>uk.iser</r:Agency>
+      <r:ID>fabb75ae-e265-4b79-87d0-e69499b27ff8</r:ID>
+      <r:Version>2</r:Version>
+      <r:VersionResponsibility>INST\mhadqssi</r:VersionResponsibility>
+      <r:VersionRationale>
+        <r:RationaleDescription>
+          <r:String xml:lang="en-GB">Changed Universe to Population</r:String>
+        </r:RationaleDescription>
+      </r:VersionRationale>
+      <UniverseName>
+        <r:String xml:lang="en-GB">US_wave3</r:String>
+      </UniverseName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">US Wave 3 Population</r:Content>
+      </r:Label>
+      <r:Description>
+        <r:Content xml:lang="en-GB">UK residential population in 2011-12</r:Content>
+      </r:Description>
+    </Universe>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Universe isUniversallyUnique="true" versionDate="2019-10-17T10:38:52.0722822Z" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.iser:397dbbe3-402c-4180-bc97-7a5238062b08:2</r:URN>
+      <r:Agency>uk.iser</r:Agency>
+      <r:ID>397dbbe3-402c-4180-bc97-7a5238062b08</r:ID>
+      <r:Version>2</r:Version>
+      <r:VersionResponsibility>INST\mhadqssi</r:VersionResponsibility>
+      <r:VersionRationale>
+        <r:RationaleDescription>
+          <r:String xml:lang="en-GB">Changed Universe to Population</r:String>
+        </r:RationaleDescription>
+      </r:VersionRationale>
+      <UniverseName>
+        <r:String xml:lang="en-GB">US_wave4</r:String>
+      </UniverseName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">US Wave 4 Population</r:Content>
+      </r:Label>
+      <r:Description>
+        <r:Content xml:lang="en-GB">UK residential population in 2012-13</r:Content>
+      </r:Description>
+    </Universe>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Universe isUniversallyUnique="true" versionDate="2019-10-17T10:38:52.0722822Z" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.iser:7bd8f42d-96d6-4d28-b47a-c3e9bc37294a:2</r:URN>
+      <r:Agency>uk.iser</r:Agency>
+      <r:ID>7bd8f42d-96d6-4d28-b47a-c3e9bc37294a</r:ID>
+      <r:Version>2</r:Version>
+      <r:VersionResponsibility>INST\mhadqssi</r:VersionResponsibility>
+      <r:VersionRationale>
+        <r:RationaleDescription>
+          <r:String xml:lang="en-GB">Changed Universe to Population</r:String>
+        </r:RationaleDescription>
+      </r:VersionRationale>
+      <UniverseName>
+        <r:String xml:lang="en-GB">US_wave5</r:String>
+      </UniverseName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">US Wave 5 Population</r:Content>
+      </r:Label>
+      <r:Description>
+        <r:Content xml:lang="en-GB">UK residential population in 2012-13</r:Content>
+      </r:Description>
+    </Universe>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Universe isUniversallyUnique="true" versionDate="2019-10-17T10:38:52.0722822Z" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.iser:da496e20-3ef1-471e-a138-3a5cfb8cd4a2:2</r:URN>
+      <r:Agency>uk.iser</r:Agency>
+      <r:ID>da496e20-3ef1-471e-a138-3a5cfb8cd4a2</r:ID>
+      <r:Version>2</r:Version>
+      <r:VersionResponsibility>INST\mhadqssi</r:VersionResponsibility>
+      <r:VersionRationale>
+        <r:RationaleDescription>
+          <r:String xml:lang="en-GB">Changed Universe to Population</r:String>
+        </r:RationaleDescription>
+      </r:VersionRationale>
+      <UniverseName>
+        <r:String xml:lang="en-GB">US_wave6</r:String>
+      </UniverseName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">US Wave 6 Population</r:Content>
+      </r:Label>
+      <r:Description>
+        <r:Content xml:lang="en-GB">UK residential population in 2014-15</r:Content>
+      </r:Description>
+    </Universe>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Universe isUniversallyUnique="true" versionDate="2019-10-17T10:38:52.0722822Z" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.wchads:1a875ff7-66b1-456f-8d49-17c6ce26f4f9:2</r:URN>
+      <r:Agency>uk.wchads</r:Agency>
+      <r:ID>1a875ff7-66b1-456f-8d49-17c6ce26f4f9</r:ID>
+      <r:Version>2</r:Version>
+      <r:VersionResponsibility>INST\mhadqssi</r:VersionResponsibility>
+      <r:VersionRationale>
+        <r:RationaleDescription>
+          <r:String xml:lang="en-GB">Changed Universe to Population</r:String>
+        </r:RationaleDescription>
+      </r:VersionRationale>
+      <UniverseName>
+        <r:String xml:lang="en-GB">wcahds_overall</r:String>
+      </UniverseName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">WCHADS Overall Population</r:Content>
+      </r:Label>
+      <r:Description>
+        <r:Content xml:lang="en-GB">Mothers, their partners and their first born children that were born between 2007 and 2009, who had their 20 week scan at Arrowe Park Hospital, Wirral.</r:Content>
+      </r:Description>
+    </Universe>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Universe isUniversallyUnique="true" versionDate="2019-10-17T10:38:52.0722822Z" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.wchads:a4247584-2fd5-4be8-a228-3278f1e403dd:2</r:URN>
+      <r:Agency>uk.wchads</r:Agency>
+      <r:ID>a4247584-2fd5-4be8-a228-3278f1e403dd</r:ID>
+      <r:Version>2</r:Version>
+      <r:VersionResponsibility>INST\mhadqssi</r:VersionResponsibility>
+      <r:VersionRationale>
+        <r:RationaleDescription>
+          <r:String xml:lang="en-GB">Changed Universe to Population</r:String>
+        </r:RationaleDescription>
+      </r:VersionRationale>
+      <UniverseName>
+        <r:String xml:lang="en-GB">wchads_phase_01</r:String>
+      </UniverseName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">WCHADS Phase 1 Population</r:Content>
+      </r:Label>
+      <r:Description>
+        <r:Content xml:lang="en-GB">First time mothers, their partners and subsequently their child, who attended for antenatal care at Arrowe Park Hospital, Wirral, between February 2007 and October 2008. </r:Content>
+      </r:Description>
+    </Universe>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <UniverseGroup isUniversallyUnique="true" versionDate="2019-10-17T10:38:52.0722822Z" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:3a98d1d9-dbd1-40eb-adb3-5b1547edfcc5:3</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>3a98d1d9-dbd1-40eb-adb3-5b1547edfcc5</r:ID>
+      <r:Version>3</r:Version>
+      <r:VersionResponsibility>INST\mhadqssi</r:VersionResponsibility>
+      <r:VersionRationale>
+        <r:RationaleDescription>
+          <r:String xml:lang="en-GB">Changed Universe to Population</r:String>
+        </r:RationaleDescription>
+      </r:VersionRationale>
+      <UniverseGroupName>
+        <r:String xml:lang="en-GB">ALSPAC Populations</r:String>
+      </UniverseGroupName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">ALSPAC Populations</r:Content>
+      </r:Label>
+      <r:Description>
+        <r:Content xml:lang="en-GB">ALSPAC Populations</r:Content>
+      </r:Description>
+      <r:UniverseReference>
+        <r:Agency>uk.alspac</r:Agency>
+        <r:ID>b5ba58ea-1617-44ed-a039-d2044054a846</r:ID>
+        <r:Version>2</r:Version>
+        <r:TypeOfObject>Universe</r:TypeOfObject>
+      </r:UniverseReference>
+      <r:UniverseReference>
+        <r:Agency>uk.alspac</r:Agency>
+        <r:ID>304da7d4-1e5c-4804-b6d8-1009167d6575</r:ID>
+        <r:Version>3</r:Version>
+        <r:TypeOfObject>Universe</r:TypeOfObject>
+      </r:UniverseReference>
+      <r:UniverseReference>
+        <r:Agency>uk.alspac</r:Agency>
+        <r:ID>99057990-c035-4786-af23-fc4015970667</r:ID>
+        <r:Version>2</r:Version>
+        <r:TypeOfObject>Universe</r:TypeOfObject>
+      </r:UniverseReference>
+      <r:UniverseReference>
+        <r:Agency>uk.alspac</r:Agency>
+        <r:ID>77c59011-fe1d-41ed-ada6-ac19dd997a90</r:ID>
+        <r:Version>2</r:Version>
+        <r:TypeOfObject>Universe</r:TypeOfObject>
+      </r:UniverseReference>
+      <r:UniverseReference>
+        <r:Agency>uk.alspac</r:Agency>
+        <r:ID>a1c43dd6-5af1-45d7-80db-f5de52601bbb</r:ID>
+        <r:Version>2</r:Version>
+        <r:TypeOfObject>Universe</r:TypeOfObject>
+      </r:UniverseReference>
+      <r:UniverseReference>
+        <r:Agency>uk.alspac</r:Agency>
+        <r:ID>5ff0dc19-72d9-4121-bed3-2bff55f60f84</r:ID>
+        <r:Version>3</r:Version>
+        <r:TypeOfObject>Universe</r:TypeOfObject>
+      </r:UniverseReference>
+    </UniverseGroup>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <UniverseGroup isUniversallyUnique="true" versionDate="2019-10-17T10:38:52.0722822Z" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:77cf7262-858b-4893-b6b4-ff77982e1e27:2</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>77cf7262-858b-4893-b6b4-ff77982e1e27</r:ID>
+      <r:Version>2</r:Version>
+      <r:VersionResponsibility>INST\mhadqssi</r:VersionResponsibility>
+      <r:VersionRationale>
+        <r:RationaleDescription>
+          <r:String xml:lang="en-GB">Changed Universe to Population</r:String>
+        </r:RationaleDescription>
+      </r:VersionRationale>
+      <UniverseGroupName>
+        <r:String xml:lang="en-GB">BCS70 Populations</r:String>
+      </UniverseGroupName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">BCS70 Populations</r:Content>
+      </r:Label>
+      <r:Description>
+        <r:Content xml:lang="en-GB">BCS70 Populations</r:Content>
+      </r:Description>
+      <r:UniverseReference>
+        <r:Agency>uk.cls.bcs70</r:Agency>
+        <r:ID>91b31882-a7fb-40d3-a07b-33d4d73a815a</r:ID>
+        <r:Version>2</r:Version>
+        <r:TypeOfObject>Universe</r:TypeOfObject>
+      </r:UniverseReference>
+      <r:UniverseReference>
+        <r:Agency>uk.cls.bcs70</r:Agency>
+        <r:ID>269e56d3-de90-4529-97e3-cbe4e9392fd8</r:ID>
+        <r:Version>2</r:Version>
+        <r:TypeOfObject>Universe</r:TypeOfObject>
+      </r:UniverseReference>
+      <r:UniverseReference>
+        <r:Agency>uk.cls.bcs70</r:Agency>
+        <r:ID>cac64ef7-90d4-4d4e-a52b-401fe51155fe</r:ID>
+        <r:Version>2</r:Version>
+        <r:TypeOfObject>Universe</r:TypeOfObject>
+      </r:UniverseReference>
+      <r:UniverseReference>
+        <r:Agency>uk.cls.bcs70</r:Agency>
+        <r:ID>939289a7-7697-4d54-b911-23bf4a667d2b</r:ID>
+        <r:Version>2</r:Version>
+        <r:TypeOfObject>Universe</r:TypeOfObject>
+      </r:UniverseReference>
+      <r:UniverseReference>
+        <r:Agency>uk.cls.bcs70</r:Agency>
+        <r:ID>c370900e-5d71-4e47-b20e-109389560ddc</r:ID>
+        <r:Version>2</r:Version>
+        <r:TypeOfObject>Universe</r:TypeOfObject>
+      </r:UniverseReference>
+      <r:UniverseReference>
+        <r:Agency>uk.cls.bcs70</r:Agency>
+        <r:ID>d1198be8-d292-4245-b2d9-37c69dd0eb94</r:ID>
+        <r:Version>3</r:Version>
+        <r:TypeOfObject>Universe</r:TypeOfObject>
+      </r:UniverseReference>
+      <r:UniverseReference>
+        <r:Agency>uk.cls.bcs70</r:Agency>
+        <r:ID>bb954c66-b372-45ff-8c2e-244c8802cf56</r:ID>
+        <r:Version>2</r:Version>
+        <r:TypeOfObject>Universe</r:TypeOfObject>
+      </r:UniverseReference>
+      <r:UniverseReference>
+        <r:Agency>uk.cls.bcs70</r:Agency>
+        <r:ID>3b41c5ff-c5f5-4b37-8fe4-af2b746ad553</r:ID>
+        <r:Version>2</r:Version>
+        <r:TypeOfObject>Universe</r:TypeOfObject>
+      </r:UniverseReference>
+      <r:UniverseReference>
+        <r:Agency>uk.cls.bcs70</r:Agency>
+        <r:ID>0758f695-e97c-41dd-beb5-2e77ed96931f</r:ID>
+        <r:Version>3</r:Version>
+        <r:TypeOfObject>Universe</r:TypeOfObject>
+      </r:UniverseReference>
+      <r:UniverseReference>
+        <r:Agency>uk.cls.bcs70</r:Agency>
+        <r:ID>89f2eac0-69c2-4ca3-ac0b-ef032c5f5c49</r:ID>
+        <r:Version>3</r:Version>
+        <r:TypeOfObject>Universe</r:TypeOfObject>
+      </r:UniverseReference>
+    </UniverseGroup>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <UniverseGroup isUniversallyUnique="true" versionDate="2019-08-30T07:09:14.0812158Z" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:feb49e56-efbe-4c02-b89f-b71adc0bc065:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>feb49e56-efbe-4c02-b89f-b71adc0bc065</r:ID>
+      <r:Version>1</r:Version>
+      <UniverseGroupName>
+        <r:String xml:lang="en-GB">HCS Populations</r:String>
+      </UniverseGroupName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">HCS Populations</r:Content>
+      </r:Label>
+      <r:Description>
+        <r:Content xml:lang="en-GB">HCS Populations</r:Content>
+      </r:Description>
+      <r:UniverseReference>
+        <r:Agency>uk.mrcleu-uos.sws</r:Agency>
+        <r:ID>1ce3bdd5-c164-4420-9e6b-389739aa870c</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Universe</r:TypeOfObject>
+      </r:UniverseReference>
+      <r:UniverseReference>
+        <r:Agency>uk.mrcleu-uos.sws</r:Agency>
+        <r:ID>8463c30f-38e5-4e4e-ae66-f4e9419d1991</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Universe</r:TypeOfObject>
+      </r:UniverseReference>
+    </UniverseGroup>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Universe isUniversallyUnique="true" versionDate="2019-10-03T14:01:02.6165101Z" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.mrcleu-uos.sws:1ce3bdd5-c164-4420-9e6b-389739aa870c:1</r:URN>
+      <r:Agency>uk.mrcleu-uos.sws</r:Agency>
+      <r:ID>1ce3bdd5-c164-4420-9e6b-389739aa870c</r:ID>
+      <r:Version>1</r:Version>
+    </Universe>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Universe isUniversallyUnique="true" versionDate="2019-10-03T14:01:02.6165101Z" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.mrcleu-uos.sws:8463c30f-38e5-4e4e-ae66-f4e9419d1991:1</r:URN>
+      <r:Agency>uk.mrcleu-uos.sws</r:Agency>
+      <r:ID>8463c30f-38e5-4e4e-ae66-f4e9419d1991</r:ID>
+      <r:Version>1</r:Version>
+    </Universe>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <UniverseGroup isUniversallyUnique="true" versionDate="2019-10-17T10:38:52.0722822Z" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:3e128649-69c0-4ce1-b607-9e9b90b05b9f:2</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>3e128649-69c0-4ce1-b607-9e9b90b05b9f</r:ID>
+      <r:Version>2</r:Version>
+      <r:VersionResponsibility>INST\mhadqssi</r:VersionResponsibility>
+      <r:VersionRationale>
+        <r:RationaleDescription>
+          <r:String xml:lang="en-GB">Changed Universe to Population</r:String>
+        </r:RationaleDescription>
+      </r:VersionRationale>
+      <UniverseGroupName>
+        <r:String xml:lang="en-GB">MCS Populations</r:String>
+      </UniverseGroupName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">MCS Populations</r:Content>
+      </r:Label>
+      <r:Description>
+        <r:Content xml:lang="en-GB">MCS Populations</r:Content>
+      </r:Description>
+      <r:UniverseReference>
+        <r:Agency>uk.cls.mcs</r:Agency>
+        <r:ID>d0dc9787-9112-4b79-b771-c5eb887ceb55</r:ID>
+        <r:Version>3</r:Version>
+        <r:TypeOfObject>Universe</r:TypeOfObject>
+      </r:UniverseReference>
+    </UniverseGroup>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <UniverseGroup isUniversallyUnique="true" versionDate="2019-10-17T10:38:52.0722822Z" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:d2ec475e-2a67-4a23-9d0c-39a5570f6eeb:2</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>d2ec475e-2a67-4a23-9d0c-39a5570f6eeb</r:ID>
+      <r:Version>2</r:Version>
+      <r:VersionResponsibility>INST\mhadqssi</r:VersionResponsibility>
+      <r:VersionRationale>
+        <r:RationaleDescription>
+          <r:String xml:lang="en-GB">Changed Universe to Population</r:String>
+        </r:RationaleDescription>
+      </r:VersionRationale>
+      <UniverseGroupName>
+        <r:String xml:lang="en-GB">NCDS Populations</r:String>
+      </UniverseGroupName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">NCDS Populations</r:Content>
+      </r:Label>
+      <r:Description>
+        <r:Content xml:lang="en-GB">NCDS Populations</r:Content>
+      </r:Description>
+      <r:UniverseReference>
+        <r:Agency>uk.cls.ncds</r:Agency>
+        <r:ID>e25dd2c8-5500-45c5-8f0f-cf36c426b956</r:ID>
+        <r:Version>2</r:Version>
+        <r:TypeOfObject>Universe</r:TypeOfObject>
+      </r:UniverseReference>
+      <r:UniverseReference>
+        <r:Agency>uk.cls.ncds</r:Agency>
+        <r:ID>fc06d6bc-918d-4696-b933-e688e0ff832a</r:ID>
+        <r:Version>2</r:Version>
+        <r:TypeOfObject>Universe</r:TypeOfObject>
+      </r:UniverseReference>
+      <r:UniverseReference>
+        <r:Agency>uk.cls.ncds</r:Agency>
+        <r:ID>c5a33151-9e5b-4517-bab6-6e7a166226e5</r:ID>
+        <r:Version>2</r:Version>
+        <r:TypeOfObject>Universe</r:TypeOfObject>
+      </r:UniverseReference>
+      <r:UniverseReference>
+        <r:Agency>uk.cls.ncds</r:Agency>
+        <r:ID>c7954a96-d3b8-41dd-94df-ba23326ed547</r:ID>
+        <r:Version>3</r:Version>
+        <r:TypeOfObject>Universe</r:TypeOfObject>
+      </r:UniverseReference>
+      <r:UniverseReference>
+        <r:Agency>uk.cls.ncds</r:Agency>
+        <r:ID>8567b4ab-2e87-4993-b5d1-13c443472413</r:ID>
+        <r:Version>2</r:Version>
+        <r:TypeOfObject>Universe</r:TypeOfObject>
+      </r:UniverseReference>
+      <r:UniverseReference>
+        <r:Agency>uk.cls.ncds</r:Agency>
+        <r:ID>b32caba4-c7b1-4d7e-a829-cc4017e5dee6</r:ID>
+        <r:Version>2</r:Version>
+        <r:TypeOfObject>Universe</r:TypeOfObject>
+      </r:UniverseReference>
+      <r:UniverseReference>
+        <r:Agency>uk.cls.ncds</r:Agency>
+        <r:ID>99a54301-a0c5-4f98-80be-7a76f96461a7</r:ID>
+        <r:Version>3</r:Version>
+        <r:TypeOfObject>Universe</r:TypeOfObject>
+      </r:UniverseReference>
+      <r:UniverseReference>
+        <r:Agency>uk.cls.ncds</r:Agency>
+        <r:ID>71605537-cc3d-4ebf-af53-93134bc76192</r:ID>
+        <r:Version>2</r:Version>
+        <r:TypeOfObject>Universe</r:TypeOfObject>
+      </r:UniverseReference>
+      <r:UniverseReference>
+        <r:Agency>uk.cls.ncds</r:Agency>
+        <r:ID>0da6be12-d750-4ef6-b4cd-cc3f3abfb697</r:ID>
+        <r:Version>2</r:Version>
+        <r:TypeOfObject>Universe</r:TypeOfObject>
+      </r:UniverseReference>
+      <r:UniverseReference>
+        <r:Agency>uk.cls.ncds</r:Agency>
+        <r:ID>6ee6192b-cb10-4070-9c2b-63ccffde23eb</r:ID>
+        <r:Version>2</r:Version>
+        <r:TypeOfObject>Universe</r:TypeOfObject>
+      </r:UniverseReference>
+      <r:UniverseReference>
+        <r:Agency>uk.cls.ncds</r:Agency>
+        <r:ID>3d0b53f8-8545-4643-92c8-a84db705f2d7</r:ID>
+        <r:Version>2</r:Version>
+        <r:TypeOfObject>Universe</r:TypeOfObject>
+      </r:UniverseReference>
+    </UniverseGroup>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <UniverseGroup isUniversallyUnique="true" versionDate="2019-10-17T11:35:34.2428279Z" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:fe6f7b8f-95e3-4a96-82db-bebaaa004595:3</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>fe6f7b8f-95e3-4a96-82db-bebaaa004595</r:ID>
+      <r:Version>3</r:Version>
+      <r:VersionResponsibility>INST\mhadqssi</r:VersionResponsibility>
+      <UniverseGroupName>
+        <r:String xml:lang="en-GB">NSHD Populations</r:String>
+      </UniverseGroupName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">NSHD Populations</r:Content>
+      </r:Label>
+      <r:Description>
+        <r:Content xml:lang="en-GB">NSHD Populations</r:Content>
+      </r:Description>
+      <r:UniverseReference>
+        <r:Agency>uk.lha</r:Agency>
+        <r:ID>62fd60c6-7ba7-4aa1-b7b8-017d1f883fa9</r:ID>
+        <r:Version>2</r:Version>
+        <r:TypeOfObject>Universe</r:TypeOfObject>
+      </r:UniverseReference>
+      <r:UniverseReference>
+        <r:Agency>uk.lha</r:Agency>
+        <r:ID>f680fa3c-cad8-44b8-bbe5-3dd695f63cad</r:ID>
+        <r:Version>4</r:Version>
+        <r:TypeOfObject>Universe</r:TypeOfObject>
+      </r:UniverseReference>
+      <r:UniverseReference>
+        <r:Agency>uk.lha</r:Agency>
+        <r:ID>fc7c0a39-24f2-49c8-8850-f74a8e0563c4</r:ID>
+        <r:Version>2</r:Version>
+        <r:TypeOfObject>Universe</r:TypeOfObject>
+      </r:UniverseReference>
+      <r:UniverseReference>
+        <r:Agency>uk.lha</r:Agency>
+        <r:ID>60db6796-2d49-4ade-9597-6b230e0e6ae7</r:ID>
+        <r:Version>4</r:Version>
+        <r:TypeOfObject>Universe</r:TypeOfObject>
+      </r:UniverseReference>
+      <r:UniverseReference>
+        <r:Agency>uk.lha</r:Agency>
+        <r:ID>4a3406cc-1acd-40c1-ba62-3c2243c046a4</r:ID>
+        <r:Version>3</r:Version>
+        <r:TypeOfObject>Universe</r:TypeOfObject>
+      </r:UniverseReference>
+      <r:UniverseReference>
+        <r:Agency>uk.lha</r:Agency>
+        <r:ID>3ed9aca0-b234-43c5-9216-3aade8824cfd</r:ID>
+        <r:Version>2</r:Version>
+        <r:TypeOfObject>Universe</r:TypeOfObject>
+      </r:UniverseReference>
+      <r:UniverseReference>
+        <r:Agency>uk.lha</r:Agency>
+        <r:ID>565159f9-e2a1-499e-8bae-10b8516d0fd4</r:ID>
+        <r:Version>2</r:Version>
+        <r:TypeOfObject>Universe</r:TypeOfObject>
+      </r:UniverseReference>
+      <r:UniverseReference>
+        <r:Agency>uk.lha</r:Agency>
+        <r:ID>e74853f8-e1a6-4e59-b0cd-651b36aa0b34</r:ID>
+        <r:Version>2</r:Version>
+        <r:TypeOfObject>Universe</r:TypeOfObject>
+      </r:UniverseReference>
+    </UniverseGroup>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <UniverseGroup isUniversallyUnique="true" versionDate="2019-10-17T10:38:52.0722822Z" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:1566067a-a14d-4f32-86c3-67f5e779901f:2</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>1566067a-a14d-4f32-86c3-67f5e779901f</r:ID>
+      <r:Version>2</r:Version>
+      <r:VersionResponsibility>INST\mhadqssi</r:VersionResponsibility>
+      <r:VersionRationale>
+        <r:RationaleDescription>
+          <r:String xml:lang="en-GB">Changed Universe to Population</r:String>
+        </r:RationaleDescription>
+      </r:VersionRationale>
+      <UniverseGroupName>
+        <r:String xml:lang="en-GB">SWS Populations</r:String>
+      </UniverseGroupName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">SWS Populations</r:Content>
+      </r:Label>
+      <r:Description>
+        <r:Content xml:lang="en-GB">SWS Populations</r:Content>
+      </r:Description>
+      <r:UniverseReference>
+        <r:Agency>uk.mrcleu-uos.sws</r:Agency>
+        <r:ID>8c8f1337-a9a6-4b95-97f8-93af4bd9ba8f</r:ID>
+        <r:Version>2</r:Version>
+        <r:TypeOfObject>Universe</r:TypeOfObject>
+      </r:UniverseReference>
+      <r:UniverseReference>
+        <r:Agency>uk.mrcleu-uos.sws</r:Agency>
+        <r:ID>4ae2506e-6374-4b26-8541-16b52c30854a</r:ID>
+        <r:Version>2</r:Version>
+        <r:TypeOfObject>Universe</r:TypeOfObject>
+      </r:UniverseReference>
+      <r:UniverseReference>
+        <r:Agency>uk.mrcleu-uos.sws</r:Agency>
+        <r:ID>7bd4bf1e-0be1-423f-8be9-58e2b80b4917</r:ID>
+        <r:Version>3</r:Version>
+        <r:TypeOfObject>Universe</r:TypeOfObject>
+      </r:UniverseReference>
+      <r:UniverseReference>
+        <r:Agency>uk.mrcleu-uos.sws</r:Agency>
+        <r:ID>6ffd5f11-1688-467d-bcb1-fd8ffd9a5ef5</r:ID>
+        <r:Version>3</r:Version>
+        <r:TypeOfObject>Universe</r:TypeOfObject>
+      </r:UniverseReference>
+      <r:UniverseReference>
+        <r:Agency>uk.mrcleu-uos.sws</r:Agency>
+        <r:ID>b12d3cb3-171a-4ffa-b8b7-96e54e720449</r:ID>
+        <r:Version>3</r:Version>
+        <r:TypeOfObject>Universe</r:TypeOfObject>
+      </r:UniverseReference>
+      <r:UniverseReference>
+        <r:Agency>uk.mrcleu-uos.sws</r:Agency>
+        <r:ID>6738de62-89f1-423a-ae2f-f81569c476b4</r:ID>
+        <r:Version>3</r:Version>
+        <r:TypeOfObject>Universe</r:TypeOfObject>
+      </r:UniverseReference>
+      <r:UniverseReference>
+        <r:Agency>uk.mrcleu-uos.sws</r:Agency>
+        <r:ID>85bd8ebd-6863-4747-bb01-2da8d48d04cb</r:ID>
+        <r:Version>3</r:Version>
+        <r:TypeOfObject>Universe</r:TypeOfObject>
+      </r:UniverseReference>
+      <r:UniverseReference>
+        <r:Agency>uk.mrcleu-uos.sws</r:Agency>
+        <r:ID>27e83a7e-bc87-4edc-a273-530fbcacce99</r:ID>
+        <r:Version>3</r:Version>
+        <r:TypeOfObject>Universe</r:TypeOfObject>
+      </r:UniverseReference>
+    </UniverseGroup>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <UniverseGroup isUniversallyUnique="true" versionDate="2019-10-17T10:38:52.0722822Z" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:52b50048-fa06-4c2e-b31e-ba5102cff845:2</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>52b50048-fa06-4c2e-b31e-ba5102cff845</r:ID>
+      <r:Version>2</r:Version>
+      <r:VersionResponsibility>INST\mhadqssi</r:VersionResponsibility>
+      <r:VersionRationale>
+        <r:RationaleDescription>
+          <r:String xml:lang="en-GB">Changed Universe to Population</r:String>
+        </r:RationaleDescription>
+      </r:VersionRationale>
+      <UniverseGroupName>
+        <r:String xml:lang="en-GB">Understanding Society Populations</r:String>
+      </UniverseGroupName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Understanding Society Populations</r:Content>
+      </r:Label>
+      <r:Description>
+        <r:Content xml:lang="en-GB">Understanding Society Populations</r:Content>
+      </r:Description>
+      <r:UniverseReference>
+        <r:Agency>uk.iser</r:Agency>
+        <r:ID>ec4775b7-42b3-434f-ab27-7f1eaf616b82</r:ID>
+        <r:Version>4</r:Version>
+        <r:TypeOfObject>Universe</r:TypeOfObject>
+      </r:UniverseReference>
+      <r:UniverseReference>
+        <r:Agency>uk.iser</r:Agency>
+        <r:ID>d1491600-20fb-4a68-826c-f88503821fa3</r:ID>
+        <r:Version>2</r:Version>
+        <r:TypeOfObject>Universe</r:TypeOfObject>
+      </r:UniverseReference>
+      <r:UniverseReference>
+        <r:Agency>uk.iser</r:Agency>
+        <r:ID>3937e041-9f82-4789-a953-e26372f435b9</r:ID>
+        <r:Version>2</r:Version>
+        <r:TypeOfObject>Universe</r:TypeOfObject>
+      </r:UniverseReference>
+      <r:UniverseReference>
+        <r:Agency>uk.iser</r:Agency>
+        <r:ID>fabb75ae-e265-4b79-87d0-e69499b27ff8</r:ID>
+        <r:Version>2</r:Version>
+        <r:TypeOfObject>Universe</r:TypeOfObject>
+      </r:UniverseReference>
+      <r:UniverseReference>
+        <r:Agency>uk.iser</r:Agency>
+        <r:ID>397dbbe3-402c-4180-bc97-7a5238062b08</r:ID>
+        <r:Version>2</r:Version>
+        <r:TypeOfObject>Universe</r:TypeOfObject>
+      </r:UniverseReference>
+      <r:UniverseReference>
+        <r:Agency>uk.iser</r:Agency>
+        <r:ID>7bd8f42d-96d6-4d28-b47a-c3e9bc37294a</r:ID>
+        <r:Version>2</r:Version>
+        <r:TypeOfObject>Universe</r:TypeOfObject>
+      </r:UniverseReference>
+      <r:UniverseReference>
+        <r:Agency>uk.iser</r:Agency>
+        <r:ID>da496e20-3ef1-471e-a138-3a5cfb8cd4a2</r:ID>
+        <r:Version>2</r:Version>
+        <r:TypeOfObject>Universe</r:TypeOfObject>
+      </r:UniverseReference>
+    </UniverseGroup>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <UniverseGroup isUniversallyUnique="true" versionDate="2019-10-17T10:38:52.0722822Z" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:d59dd42a-4678-4db9-ae33-845dd3a01a76:2</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>d59dd42a-4678-4db9-ae33-845dd3a01a76</r:ID>
+      <r:Version>2</r:Version>
+      <r:VersionResponsibility>INST\mhadqssi</r:VersionResponsibility>
+      <r:VersionRationale>
+        <r:RationaleDescription>
+          <r:String xml:lang="en-GB">Changed Universe to Population</r:String>
+        </r:RationaleDescription>
+      </r:VersionRationale>
+      <UniverseGroupName>
+        <r:String xml:lang="en-GB">WCHDS Populations</r:String>
+      </UniverseGroupName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">WCHDS Populations</r:Content>
+      </r:Label>
+      <r:Description>
+        <r:Content xml:lang="en-GB">WCHDS Populations</r:Content>
+      </r:Description>
+      <r:UniverseReference>
+        <r:Agency>uk.wchads</r:Agency>
+        <r:ID>1a875ff7-66b1-456f-8d49-17c6ce26f4f9</r:ID>
+        <r:Version>2</r:Version>
+        <r:TypeOfObject>Universe</r:TypeOfObject>
+      </r:UniverseReference>
+      <r:UniverseReference>
+        <r:Agency>uk.wchads</r:Agency>
+        <r:ID>a4247584-2fd5-4be8-a228-3278f1e403dd</r:ID>
+        <r:Version>2</r:Version>
+        <r:TypeOfObject>Universe</r:TypeOfObject>
+      </r:UniverseReference>
+    </UniverseGroup>
+  </ddi:Fragment>
+</ddi:FragmentInstance>
