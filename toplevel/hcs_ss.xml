@@ -1,0 +1,990 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DDIInstance isUniversallyUnique="true" versionDate="2020-07-03T10:02:11.7817092Z" xmlns="ddi:instance:3_2">
+  <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.closer:423dae72-d631-4ce3-a33a-9628f3aeb757:2</URN>
+  <Agency xmlns="ddi:reusable:3_2">uk.closer</Agency>
+  <ID xmlns="ddi:reusable:3_2">423dae72-d631-4ce3-a33a-9628f3aeb757</ID>
+  <Version xmlns="ddi:reusable:3_2">2</Version>
+  <Citation xmlns="ddi:reusable:3_2">
+    <Title>
+      <String xml:lang="en-GB">hcs</String>
+    </Title>
+  </Citation>
+  <Group isUniversallyUnique="true" versionDate="2020-07-03T10:02:11.7436473Z" xmlns="ddi:group:3_2">
+    <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.mrcleu-uos.hcs:d20a56d4-22e8-4d70-99cd-1d3a063073b1:19</URN>
+    <Agency xmlns="ddi:reusable:3_2">uk.mrcleu-uos.hcs</Agency>
+    <ID xmlns="ddi:reusable:3_2">d20a56d4-22e8-4d70-99cd-1d3a063073b1</ID>
+    <Version xmlns="ddi:reusable:3_2">19</Version>
+    <Citation xmlns="ddi:reusable:3_2">
+      <Title>
+        <String xml:lang="en-GB">Hertfordshire Cohort Study</String>
+      </Title>
+      <Creator>
+        <CreatorName>
+          <String xml:lang="en-GB">Professor Cyrus Cooper</String>
+        </CreatorName>
+      </Creator>
+      <Publisher>
+        <PublisherName>
+          <String xml:lang="en-GB">MRC Lifecourse Epidemiology Unit, University of Southampton</String>
+        </PublisherName>
+      </Publisher>
+      <InternationalIdentifier>
+        <IdentifierContent></IdentifierContent>
+        <ManagingAgency>unknown</ManagingAgency>
+      </InternationalIdentifier>
+      <Copyright>
+        <String xml:lang="en-GB">Copyright MRC Lifecourse Epidemiology Unit, University of Southampton. All rights reserved.</String>
+      </Copyright>
+    </Citation>
+    <Abstract xmlns="ddi:reusable:3_2">
+      <Content xml:lang="en-GB">The Hertfordshire Cohort Study (HCS) comprises a nationally unique study of 3,000 men and women born during the period 1931-1939 and still resident in the English county of Hertfordshire during the 1990s. The HCS was initiated, developed and maintained by the MRC Lifecourse Epidemiology Unit, University of Southampton.
+
+The principal objective of the study is to evaluate the relationship between early (prenatal and early postnatal) growth, genetic influences, adult lifestyles and the risk of common age-related disorders such as osteoporosis, sarcopenia, type 2 diabetes and cardiovascular disease. 
+
+The NHS Central Register at Southport was used to trace men and women whose birth and infant data were recorded. Information available on these individuals includes birth weight (recorded by the attending midwife), weight at age one year (recorded by a health visitor), the method of infant feeding, and details of childhood illnesses up to age five years.
+
+At follow-up, medical and social histories have been ascertained, as well as detailed anthropometry, blood pressure, glucose tolerance, fasting serum cholesterol and triglycerides, bone density and physical performance. DNA on all participants has been collected and is stored in the Lifecourse Epidemiology Unit. Participants are flagged for continuous notification of death on the NHS Central Register.
+
+Study website: &lt;a href="https://www.mrc.soton.ac.uk/herts/" target="_blank" title="Hertfordshire Cohort Study"&gt;https://www.mrc.soton.ac.uk/herts/&lt;/a&gt;</Content>
+    </Abstract>
+    <UniverseReference xmlns="ddi:reusable:3_2">
+      <Agency>uk.mrcleu-uos.hcs</Agency>
+      <ID>1ce3bdd5-c164-4420-9e6b-389739aa870c</ID>
+      <Version>2</Version>
+      <TypeOfObject>Universe</TypeOfObject>
+    </UniverseReference>
+    <FundingInformation xmlns="ddi:reusable:3_2">
+      <AgencyOrganizationReference>
+        <Agency>uk.closer</Agency>
+        <ID>a1bdc1c8-d24e-44e1-87f2-5bcd7ab98e22</ID>
+        <Version>3</Version>
+        <TypeOfObject>Organization</TypeOfObject>
+      </AgencyOrganizationReference>
+    </FundingInformation>
+    <FundingInformation xmlns="ddi:reusable:3_2">
+      <AgencyOrganizationReference>
+        <Agency>uk.closer</Agency>
+        <ID>d49d6bfe-87f7-4f55-bb6d-a112aa9156fa</ID>
+        <Version>2</Version>
+        <TypeOfObject>Organization</TypeOfObject>
+      </AgencyOrganizationReference>
+    </FundingInformation>
+    <FundingInformation xmlns="ddi:reusable:3_2">
+      <AgencyOrganizationReference>
+        <Agency>uk.closer</Agency>
+        <ID>a3d04bde-588c-4dcf-b555-b534ca5defb1</ID>
+        <Version>3</Version>
+        <TypeOfObject>Organization</TypeOfObject>
+      </AgencyOrganizationReference>
+    </FundingInformation>
+    <StudyUnit isUniversallyUnique="true" versionDate="2020-07-03T09:22:13.4996963Z" xmlns="ddi:studyunit:3_2">
+      <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.mrcleu-uos.hcs:83e0ff54-4e40-4790-b105-4926e24648db:7</URN>
+      <Agency xmlns="ddi:reusable:3_2">uk.mrcleu-uos.hcs</Agency>
+      <ID xmlns="ddi:reusable:3_2">83e0ff54-4e40-4790-b105-4926e24648db</ID>
+      <Version xmlns="ddi:reusable:3_2">7</Version>
+      <UserAttributePair xmlns="ddi:reusable:3_2">
+        <AttributeKey>extension:CustomField</AttributeKey>
+        <AttributeValue>{"Title":{"en-GB":"LifeStage"},"Description":{},"ValueType":0,"HasValue":true,"RelationshipTargetType":"00000000-0000-0000-0000-000000000000","StringValue":"Pregnancy, birth and infancy","MultilingualStringValue":{},"HasDefinedType":false,"DisplayLabel":"LifeStage"}</AttributeValue>
+      </UserAttributePair>
+      <UserAttributePair xmlns="ddi:reusable:3_2">
+        <AttributeKey>extension:CustomField</AttributeKey>
+        <AttributeValue>{"Title":{"en-GB":"LifeStageDescription"},"Description":{},"ValueType":0,"HasValue":true,"RelationshipTargetType":"00000000-0000-0000-0000-000000000000","StringValue":"Pregnancy - 1 year","MultilingualStringValue":{},"HasDefinedType":false,"DisplayLabel":"LifeStageDescription"}</AttributeValue>
+      </UserAttributePair>
+      <Citation xmlns="ddi:reusable:3_2">
+        <Title>
+          <String xml:lang="en-GB">Birth Records</String>
+        </Title>
+        <Creator>
+          <CreatorName>
+            <String xml:lang="en-GB">Professor Cyrus Cooper</String>
+          </CreatorName>
+        </Creator>
+        <Publisher>
+          <PublisherName>
+            <String xml:lang="en-GB">MRC Lifecourse Epidemiology Unit, University of Southampton</String>
+          </PublisherName>
+        </Publisher>
+      </Citation>
+      <Abstract xmlns="ddi:reusable:3_2">
+        <Content xml:lang="en-GB">From 1911 to 1948, health visitors recorded information on birth weight and weight at one year on infants born in Hertfordshire. In 1998, those born between1931-1939 were traced through the National Health Service central register and a total of 3822 men and 3284 women were found to still live in the county. They were approached to participate in studies examining the interactions between early life, diet, adult lifestyle, and genetic factors as determinants of adult disease as follows: Permission to contact 3126 (82%) men and 2973 (91%) women was obtained from their General Practitioners.
+
+Study website: &lt;a href="https://www.mrc.soton.ac.uk/herts/" target="_blank" title="Hertfordshire Cohort Study"&gt;https://www.mrc.soton.ac.uk/herts/&lt;/a&gt;</Content>
+      </Abstract>
+      <UniverseReference xmlns="ddi:reusable:3_2">
+        <Agency>uk.mrcleu-uos.hcs</Agency>
+        <ID>8463c30f-38e5-4e4e-ae66-f4e9419d1991</ID>
+        <Version>2</Version>
+        <TypeOfObject>Universe</TypeOfObject>
+      </UniverseReference>
+      <FundingInformation xmlns="ddi:reusable:3_2">
+        <AgencyOrganizationReference>
+          <Agency>uk.closer</Agency>
+          <ID>a1bdc1c8-d24e-44e1-87f2-5bcd7ab98e22</ID>
+          <Version>3</Version>
+          <TypeOfObject>Organization</TypeOfObject>
+        </AgencyOrganizationReference>
+      </FundingInformation>
+      <Coverage xmlns="ddi:reusable:3_2">
+        <SpatialCoverage isUniversallyUnique="true">
+          <URN>urn:ddi:uk.mrcleu-uos.hcs:c6756a3b-2d7f-41fc-aac0-4d11f6ce02b1:7</URN>
+          <Agency>uk.mrcleu-uos.hcs</Agency>
+          <ID>c6756a3b-2d7f-41fc-aac0-4d11f6ce02b1</ID>
+          <Version>7</Version>
+          <BoundingBox>
+            <WestLongitude>0</WestLongitude>
+            <EastLongitude>0</EastLongitude>
+            <SouthLatitude>0</SouthLatitude>
+            <NorthLatitude>0</NorthLatitude>
+          </BoundingBox>
+          <Description>
+            <Content xml:lang="en-GB">All participants were born and remain resident in the county of Hertfordshire.</Content>
+          </Description>
+          <Country>GB-ENG</Country>
+          <TopLevelReference>
+            <LevelName>County</LevelName>
+          </TopLevelReference>
+          <LowestLevelReference>
+            <LevelName>Postcode</LevelName>
+          </LowestLevelReference>
+        </SpatialCoverage>
+        <TemporalCoverage isUniversallyUnique="true">
+          <URN>urn:ddi:uk.mrcleu-uos.hcs:496c4432-a815-4e3d-aa26-f3ecc3b315ca:7</URN>
+          <Agency>uk.mrcleu-uos.hcs</Agency>
+          <ID>496c4432-a815-4e3d-aa26-f3ecc3b315ca</ID>
+          <Version>7</Version>
+          <ReferenceDate>
+            <StartDate>1931</StartDate>
+            <EndDate>1939</EndDate>
+          </ReferenceDate>
+        </TemporalCoverage>
+      </Coverage>
+      <AnalysisUnit codeListVersionID="1.0" xmlns="ddi:reusable:3_2">Individual</AnalysisUnit>
+      <KindOfData codeListVersionID="1.0" xmlns="ddi:reusable:3_2">Administrative Data</KindOfData>
+      <DataCollection isUniversallyUnique="true" versionDate="2020-07-03T09:22:24.9270078Z" xmlns="ddi:datacollection:3_2">
+        <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.mrcleu-uos.hcs:489ec62c-7ee6-4a62-82e3-367a04e156df:6</URN>
+        <Agency xmlns="ddi:reusable:3_2">uk.mrcleu-uos.hcs</Agency>
+        <ID xmlns="ddi:reusable:3_2">489ec62c-7ee6-4a62-82e3-367a04e156df</ID>
+        <Version xmlns="ddi:reusable:3_2">6</Version>
+        <DataCollectionModuleName>
+          <String xml:lang="en-GB" xmlns="ddi:reusable:3_2">hcs_birth</String>
+        </DataCollectionModuleName>
+        <Label xmlns="ddi:reusable:3_2">
+          <Content xml:lang="en-GB">Birth Records</Content>
+        </Label>
+        <CollectionEvent isUniversallyUnique="true">
+          <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.mrcleu-uos.hcs:38250225-bfc8-48b1-a907-7dd0a329d1c2:6</URN>
+          <Agency xmlns="ddi:reusable:3_2">uk.mrcleu-uos.hcs</Agency>
+          <ID xmlns="ddi:reusable:3_2">38250225-bfc8-48b1-a907-7dd0a329d1c2</ID>
+          <Version xmlns="ddi:reusable:3_2">6</Version>
+          <DataCollectorOrganizationReference>
+            <Agency xmlns="ddi:reusable:3_2">uk.mrcleu-uos.hcs</Agency>
+            <ID xmlns="ddi:reusable:3_2">d09fb68f-9d52-41d2-9e7e-936d9916ea62</ID>
+            <Version xmlns="ddi:reusable:3_2">2</Version>
+            <TypeOfObject xmlns="ddi:reusable:3_2">Organization</TypeOfObject>
+          </DataCollectorOrganizationReference>
+          <DataCollectionDate>
+            <StartDate xmlns="ddi:reusable:3_2">1931</StartDate>
+            <EndDate xmlns="ddi:reusable:3_2">1939</EndDate>
+          </DataCollectionDate>
+          <ModeOfCollection isUniversallyUnique="true">
+            <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.mrcleu-uos.hcs:7178002f-e2ae-451b-b12d-d90fc00acf5a:6</URN>
+            <Agency xmlns="ddi:reusable:3_2">uk.mrcleu-uos.hcs</Agency>
+            <ID xmlns="ddi:reusable:3_2">7178002f-e2ae-451b-b12d-d90fc00acf5a</ID>
+            <Version xmlns="ddi:reusable:3_2">6</Version>
+            <TypeOfModeOfCollection codeListVersionID="1.0">CompilationSynthesis</TypeOfModeOfCollection>
+            <Description xmlns="ddi:reusable:3_2">
+              <Content xml:lang="en-GB">Collecting and assembling data from multiple, often heterogeneous sources that have one or more reference points in common, and at least one of the sources was originally produced for other purposes.</Content>
+            </Description>
+          </ModeOfCollection>
+        </CollectionEvent>
+      </DataCollection>
+    </StudyUnit>
+    <StudyUnit isUniversallyUnique="true" versionDate="2020-07-03T10:02:11.6966488Z" xmlns="ddi:studyunit:3_2">
+      <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.mrcleu-uos.hcs:d9b981f9-3a36-4f9d-a920-dfbb955461bb:14</URN>
+      <Agency xmlns="ddi:reusable:3_2">uk.mrcleu-uos.hcs</Agency>
+      <ID xmlns="ddi:reusable:3_2">d9b981f9-3a36-4f9d-a920-dfbb955461bb</ID>
+      <Version xmlns="ddi:reusable:3_2">14</Version>
+      <UserAttributePair xmlns="ddi:reusable:3_2">
+        <AttributeKey>extension:CustomField</AttributeKey>
+        <AttributeValue>{"Title":{"en-GB":"LifeStage"},"Description":{},"ValueType":0,"HasValue":true,"RelationshipTargetType":"00000000-0000-0000-0000-000000000000","StringValue":"Third age","MultilingualStringValue":{},"HasDefinedType":false,"DisplayLabel":"LifeStage"}</AttributeValue>
+      </UserAttributePair>
+      <UserAttributePair xmlns="ddi:reusable:3_2">
+        <AttributeKey>extension:CustomField</AttributeKey>
+        <AttributeValue>{"Title":{"en-GB":"LifeStageDescription"},"Description":{},"ValueType":0,"HasValue":true,"RelationshipTargetType":"00000000-0000-0000-0000-000000000000","StringValue":"60 -74 years","MultilingualStringValue":{},"HasDefinedType":false,"DisplayLabel":"LifeStageDescription"}</AttributeValue>
+      </UserAttributePair>
+      <Citation xmlns="ddi:reusable:3_2">
+        <Title>
+          <String xml:lang="en-GB">HCS Home Interview and Clinic Visit</String>
+        </Title>
+        <Creator>
+          <CreatorName>
+            <String xml:lang="en-GB">Professor Cyrus Cooper</String>
+          </CreatorName>
+        </Creator>
+        <Publisher>
+          <PublisherName>
+            <String xml:lang="en-GB">MRC Lifecourse Epidemiology Unit, University of Southampton</String>
+          </PublisherName>
+        </Publisher>
+      </Citation>
+      <Abstract xmlns="ddi:reusable:3_2">
+        <Content xml:lang="en-GB">In 1998, a cohort of men and women born 1931-1939 in the county of Hertfordshire, United Kingdom and still resident there, was recruited to participate in studies examining the interactions between early life, diet, adult lifestyle, and genetic factors as determinants of adult disease. A total of 3225 men and women, aged 59-73 years, were interviewed at home where information was obtained on the participant’s medical and social history by a trained research nurse. Subsequently, 2997 men and women attended a clinic for further investigations.
+
+Study website: &lt;a href="https://www.mrc.soton.ac.uk/herts/" target="_blank" title="Hertfordshire Cohort Study"&gt;https://www.mrc.soton.ac.uk/herts/&lt;/a&gt;</Content>
+      </Abstract>
+      <UniverseReference xmlns="ddi:reusable:3_2">
+        <Agency>uk.mrcleu-uos.hcs</Agency>
+        <ID>8463c30f-38e5-4e4e-ae66-f4e9419d1991</ID>
+        <Version>2</Version>
+        <TypeOfObject>Universe</TypeOfObject>
+      </UniverseReference>
+      <FundingInformation xmlns="ddi:reusable:3_2">
+        <AgencyOrganizationReference>
+          <Agency>uk.closer</Agency>
+          <ID>a1bdc1c8-d24e-44e1-87f2-5bcd7ab98e22</ID>
+          <Version>3</Version>
+          <TypeOfObject>Organization</TypeOfObject>
+        </AgencyOrganizationReference>
+      </FundingInformation>
+      <FundingInformation xmlns="ddi:reusable:3_2">
+        <AgencyOrganizationReference>
+          <Agency>uk.closer</Agency>
+          <ID>d49d6bfe-87f7-4f55-bb6d-a112aa9156fa</ID>
+          <Version>2</Version>
+          <TypeOfObject>Organization</TypeOfObject>
+        </AgencyOrganizationReference>
+      </FundingInformation>
+      <FundingInformation xmlns="ddi:reusable:3_2">
+        <AgencyOrganizationReference>
+          <Agency>uk.closer</Agency>
+          <ID>a3d04bde-588c-4dcf-b555-b534ca5defb1</ID>
+          <Version>3</Version>
+          <TypeOfObject>Organization</TypeOfObject>
+        </AgencyOrganizationReference>
+      </FundingInformation>
+      <Coverage xmlns="ddi:reusable:3_2">
+        <SpatialCoverage isUniversallyUnique="true">
+          <URN>urn:ddi:uk.mrcleu-uos.hcs:1a6317b9-8e1c-4a04-9fbf-33b52196678e:14</URN>
+          <Agency>uk.mrcleu-uos.hcs</Agency>
+          <ID>1a6317b9-8e1c-4a04-9fbf-33b52196678e</ID>
+          <Version>14</Version>
+          <BoundingBox>
+            <WestLongitude>0</WestLongitude>
+            <EastLongitude>0</EastLongitude>
+            <SouthLatitude>0</SouthLatitude>
+            <NorthLatitude>0</NorthLatitude>
+          </BoundingBox>
+          <Description>
+            <Content xml:lang="en-GB">All participants were born and remain resident in the county of Hertfordshire.</Content>
+          </Description>
+          <Country>GB-ENG</Country>
+          <TopLevelReference>
+            <LevelName>County</LevelName>
+          </TopLevelReference>
+          <LowestLevelReference>
+            <LevelName>Postcode</LevelName>
+          </LowestLevelReference>
+        </SpatialCoverage>
+        <TemporalCoverage isUniversallyUnique="true">
+          <URN>urn:ddi:uk.mrcleu-uos.hcs:fe60e170-101f-441a-b782-45062179c342:14</URN>
+          <Agency>uk.mrcleu-uos.hcs</Agency>
+          <ID>fe60e170-101f-441a-b782-45062179c342</ID>
+          <Version>14</Version>
+          <ReferenceDate>
+            <StartDate>1998</StartDate>
+            <EndDate>2004</EndDate>
+          </ReferenceDate>
+        </TemporalCoverage>
+      </Coverage>
+      <AnalysisUnit codeListVersionID="1.0" xmlns="ddi:reusable:3_2">Individual</AnalysisUnit>
+      <KindOfData codeListVersionID="1.0" xmlns="ddi:reusable:3_2">Survey Data</KindOfData>
+      <KindOfData codeListVersionID="1.0" xmlns="ddi:reusable:3_2">Demographic Data</KindOfData>
+      <KindOfData codeListVersionID="1.0" xmlns="ddi:reusable:3_2">Measurement Data</KindOfData>
+      <KindOfData codeListVersionID="1.0" xmlns="ddi:reusable:3_2">Biosamples</KindOfData>
+      <DataCollection isUniversallyUnique="true" versionDate="2020-07-03T09:31:37.5438765Z" xmlns="ddi:datacollection:3_2">
+        <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.mrcleu-uos.hcs:99fec280-c404-4a03-b83b-35886506cd4c:7</URN>
+        <Agency xmlns="ddi:reusable:3_2">uk.mrcleu-uos.hcs</Agency>
+        <ID xmlns="ddi:reusable:3_2">99fec280-c404-4a03-b83b-35886506cd4c</ID>
+        <Version xmlns="ddi:reusable:3_2">7</Version>
+        <DataCollectionModuleName>
+          <String xml:lang="en-GB" xmlns="ddi:reusable:3_2">hcs_2_clinic_2</String>
+        </DataCollectionModuleName>
+        <Label xmlns="ddi:reusable:3_2">
+          <Content xml:lang="en-GB">Anthropometry Data 1</Content>
+        </Label>
+        <CollectionEvent isUniversallyUnique="true">
+          <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.mrcleu-uos.hcs:6670b058-245e-4628-b6d7-4a69f2ba34dd:7</URN>
+          <Agency xmlns="ddi:reusable:3_2">uk.mrcleu-uos.hcs</Agency>
+          <ID xmlns="ddi:reusable:3_2">6670b058-245e-4628-b6d7-4a69f2ba34dd</ID>
+          <Version xmlns="ddi:reusable:3_2">7</Version>
+          <DataCollectorOrganizationReference>
+            <Agency xmlns="ddi:reusable:3_2">uk.mrcleu-uos.hcs</Agency>
+            <ID xmlns="ddi:reusable:3_2">fa608cac-4f6b-4993-9cea-72063affeaa9</ID>
+            <Version xmlns="ddi:reusable:3_2">2</Version>
+            <TypeOfObject xmlns="ddi:reusable:3_2">Organization</TypeOfObject>
+          </DataCollectorOrganizationReference>
+          <DataCollectionDate>
+            <StartDate xmlns="ddi:reusable:3_2">1998</StartDate>
+            <EndDate xmlns="ddi:reusable:3_2">2004</EndDate>
+          </DataCollectionDate>
+          <ModeOfCollection isUniversallyUnique="true">
+            <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.mrcleu-uos.hcs:f37d1b28-6dc2-4fd9-9247-ae67670bb96d:7</URN>
+            <Agency xmlns="ddi:reusable:3_2">uk.mrcleu-uos.hcs</Agency>
+            <ID xmlns="ddi:reusable:3_2">f37d1b28-6dc2-4fd9-9247-ae67670bb96d</ID>
+            <Version xmlns="ddi:reusable:3_2">7</Version>
+            <TypeOfModeOfCollection codeListVersionID="1.0">MeasurementsAndTests.Physical</TypeOfModeOfCollection>
+            <Description xmlns="ddi:reusable:3_2">
+              <Content xml:lang="en-GB">Assessment of physical properties of living beings, objects, materials or natural phenomena. This includes medical and geographic data.</Content>
+            </Description>
+          </ModeOfCollection>
+        </CollectionEvent>
+      </DataCollection>
+      <DataCollection isUniversallyUnique="true" versionDate="2020-07-03T09:31:54.3236682Z" xmlns="ddi:datacollection:3_2">
+        <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.mrcleu-uos.hcs:6e581163-520d-4fdb-a684-63dccbca7299:8</URN>
+        <Agency xmlns="ddi:reusable:3_2">uk.mrcleu-uos.hcs</Agency>
+        <ID xmlns="ddi:reusable:3_2">6e581163-520d-4fdb-a684-63dccbca7299</ID>
+        <Version xmlns="ddi:reusable:3_2">8</Version>
+        <DataCollectionModuleName>
+          <String xml:lang="en-GB" xmlns="ddi:reusable:3_2">hcs_1_home_2</String>
+        </DataCollectionModuleName>
+        <Label xmlns="ddi:reusable:3_2">
+          <Content xml:lang="en-GB">Health Questionnaire</Content>
+        </Label>
+        <CollectionEvent isUniversallyUnique="true">
+          <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.mrcleu-uos.hcs:547f2035-33d4-4b40-9cdb-1f2d04ef6075:8</URN>
+          <Agency xmlns="ddi:reusable:3_2">uk.mrcleu-uos.hcs</Agency>
+          <ID xmlns="ddi:reusable:3_2">547f2035-33d4-4b40-9cdb-1f2d04ef6075</ID>
+          <Version xmlns="ddi:reusable:3_2">8</Version>
+          <DataCollectorOrganizationReference>
+            <Agency xmlns="ddi:reusable:3_2">uk.mrcleu-uos.hcs</Agency>
+            <ID xmlns="ddi:reusable:3_2">fa608cac-4f6b-4993-9cea-72063affeaa9</ID>
+            <Version xmlns="ddi:reusable:3_2">2</Version>
+            <TypeOfObject xmlns="ddi:reusable:3_2">Organization</TypeOfObject>
+          </DataCollectorOrganizationReference>
+          <DataCollectionDate>
+            <StartDate xmlns="ddi:reusable:3_2">1998</StartDate>
+            <EndDate xmlns="ddi:reusable:3_2">2004</EndDate>
+          </DataCollectionDate>
+          <ModeOfCollection isUniversallyUnique="true">
+            <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.mrcleu-uos.hcs:7cf48654-e247-4763-8bc2-12dae019f337:8</URN>
+            <Agency xmlns="ddi:reusable:3_2">uk.mrcleu-uos.hcs</Agency>
+            <ID xmlns="ddi:reusable:3_2">7cf48654-e247-4763-8bc2-12dae019f337</ID>
+            <Version xmlns="ddi:reusable:3_2">8</Version>
+            <TypeOfModeOfCollection codeListVersionID="1.0">Interview.FaceToFace.PAPI</TypeOfModeOfCollection>
+            <Description xmlns="ddi:reusable:3_2">
+              <Content xml:lang="en-GB">Face-to-face paper and pencil interviewing.</Content>
+            </Description>
+          </ModeOfCollection>
+        </CollectionEvent>
+      </DataCollection>
+      <DataCollection isUniversallyUnique="true" versionDate="2020-07-03T09:33:40.5549254Z" xmlns="ddi:datacollection:3_2">
+        <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.mrcleu-uos.hcs:90cbb08d-c03d-4d6a-ba5e-6654e080299c:8</URN>
+        <Agency xmlns="ddi:reusable:3_2">uk.mrcleu-uos.hcs</Agency>
+        <ID xmlns="ddi:reusable:3_2">90cbb08d-c03d-4d6a-ba5e-6654e080299c</ID>
+        <Version xmlns="ddi:reusable:3_2">8</Version>
+        <DataCollectionModuleName>
+          <String xml:lang="en-GB" xmlns="ddi:reusable:3_2">hcs_1_home_3</String>
+        </DataCollectionModuleName>
+        <Label xmlns="ddi:reusable:3_2">
+          <Content xml:lang="en-GB">Social Health Questionnaire</Content>
+        </Label>
+        <CollectionEvent isUniversallyUnique="true">
+          <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.mrcleu-uos.hcs:95af387d-e225-4ddf-a1f1-0d13bb234451:8</URN>
+          <Agency xmlns="ddi:reusable:3_2">uk.mrcleu-uos.hcs</Agency>
+          <ID xmlns="ddi:reusable:3_2">95af387d-e225-4ddf-a1f1-0d13bb234451</ID>
+          <Version xmlns="ddi:reusable:3_2">8</Version>
+          <DataCollectorOrganizationReference>
+            <Agency xmlns="ddi:reusable:3_2">uk.mrcleu-uos.hcs</Agency>
+            <ID xmlns="ddi:reusable:3_2">fa608cac-4f6b-4993-9cea-72063affeaa9</ID>
+            <Version xmlns="ddi:reusable:3_2">2</Version>
+            <TypeOfObject xmlns="ddi:reusable:3_2">Organization</TypeOfObject>
+          </DataCollectorOrganizationReference>
+          <DataCollectionDate>
+            <StartDate xmlns="ddi:reusable:3_2">1998</StartDate>
+            <EndDate xmlns="ddi:reusable:3_2">2004</EndDate>
+          </DataCollectionDate>
+          <ModeOfCollection isUniversallyUnique="true">
+            <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.mrcleu-uos.hcs:327e4013-2042-479e-b91c-a4a7550fbe69:8</URN>
+            <Agency xmlns="ddi:reusable:3_2">uk.mrcleu-uos.hcs</Agency>
+            <ID xmlns="ddi:reusable:3_2">327e4013-2042-479e-b91c-a4a7550fbe69</ID>
+            <Version xmlns="ddi:reusable:3_2">8</Version>
+            <TypeOfModeOfCollection codeListVersionID="1.0">SelfAdministeredQuestionnaire.Paper</TypeOfModeOfCollection>
+            <Description xmlns="ddi:reusable:3_2">
+              <Content xml:lang="en-GB">Self-administered survey using a traditional paper questionnaire.</Content>
+            </Description>
+          </ModeOfCollection>
+        </CollectionEvent>
+      </DataCollection>
+      <DataCollection isUniversallyUnique="true" versionDate="2020-07-03T09:34:01.8424517Z" xmlns="ddi:datacollection:3_2">
+        <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.mrcleu-uos.hcs:ce155571-dd62-48c0-a75f-a3dddbd927e5:8</URN>
+        <Agency xmlns="ddi:reusable:3_2">uk.mrcleu-uos.hcs</Agency>
+        <ID xmlns="ddi:reusable:3_2">ce155571-dd62-48c0-a75f-a3dddbd927e5</ID>
+        <Version xmlns="ddi:reusable:3_2">8</Version>
+        <DataCollectionModuleName>
+          <String xml:lang="en-GB" xmlns="ddi:reusable:3_2">hcs_2_clinic_1</String>
+        </DataCollectionModuleName>
+        <Label xmlns="ddi:reusable:3_2">
+          <Content xml:lang="en-GB">Dietary Questionnaire</Content>
+        </Label>
+        <CollectionEvent isUniversallyUnique="true">
+          <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.mrcleu-uos.hcs:01a70c80-909d-4fa6-aca4-bcae2e756421:8</URN>
+          <Agency xmlns="ddi:reusable:3_2">uk.mrcleu-uos.hcs</Agency>
+          <ID xmlns="ddi:reusable:3_2">01a70c80-909d-4fa6-aca4-bcae2e756421</ID>
+          <Version xmlns="ddi:reusable:3_2">8</Version>
+          <DataCollectorOrganizationReference>
+            <Agency xmlns="ddi:reusable:3_2">uk.mrcleu-uos.hcs</Agency>
+            <ID xmlns="ddi:reusable:3_2">fa608cac-4f6b-4993-9cea-72063affeaa9</ID>
+            <Version xmlns="ddi:reusable:3_2">2</Version>
+            <TypeOfObject xmlns="ddi:reusable:3_2">Organization</TypeOfObject>
+          </DataCollectorOrganizationReference>
+          <DataCollectionDate>
+            <StartDate xmlns="ddi:reusable:3_2">1998</StartDate>
+            <EndDate xmlns="ddi:reusable:3_2">2004</EndDate>
+          </DataCollectionDate>
+          <ModeOfCollection isUniversallyUnique="true">
+            <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.mrcleu-uos.hcs:1c0967df-d04f-4bf7-a7e4-bce1dee03ea3:8</URN>
+            <Agency xmlns="ddi:reusable:3_2">uk.mrcleu-uos.hcs</Agency>
+            <ID xmlns="ddi:reusable:3_2">1c0967df-d04f-4bf7-a7e4-bce1dee03ea3</ID>
+            <Version xmlns="ddi:reusable:3_2">8</Version>
+            <TypeOfModeOfCollection codeListVersionID="1.0">Interview.FaceToFace.PAPI</TypeOfModeOfCollection>
+            <Description xmlns="ddi:reusable:3_2">
+              <Content xml:lang="en-GB">Face-to-face paper and pencil interviewing.</Content>
+            </Description>
+          </ModeOfCollection>
+        </CollectionEvent>
+      </DataCollection>
+      <DataCollection isUniversallyUnique="true" versionDate="2020-07-03T09:34:37.4089848Z" xmlns="ddi:datacollection:3_2">
+        <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.mrcleu-uos.hcs:d70c466d-05a1-4f4d-9232-4c82fcade32b:8</URN>
+        <Agency xmlns="ddi:reusable:3_2">uk.mrcleu-uos.hcs</Agency>
+        <ID xmlns="ddi:reusable:3_2">d70c466d-05a1-4f4d-9232-4c82fcade32b</ID>
+        <Version xmlns="ddi:reusable:3_2">8</Version>
+        <DataCollectionModuleName>
+          <String xml:lang="en-GB" xmlns="ddi:reusable:3_2">hcs_2_clinic_3</String>
+        </DataCollectionModuleName>
+        <Label xmlns="ddi:reusable:3_2">
+          <Content xml:lang="en-GB">Blood Pressure Measurements 1</Content>
+        </Label>
+        <CollectionEvent isUniversallyUnique="true">
+          <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.mrcleu-uos.hcs:5f763603-8dac-48ad-9993-5d890ed4a65c:8</URN>
+          <Agency xmlns="ddi:reusable:3_2">uk.mrcleu-uos.hcs</Agency>
+          <ID xmlns="ddi:reusable:3_2">5f763603-8dac-48ad-9993-5d890ed4a65c</ID>
+          <Version xmlns="ddi:reusable:3_2">8</Version>
+          <DataCollectorOrganizationReference>
+            <Agency xmlns="ddi:reusable:3_2">uk.mrcleu-uos.hcs</Agency>
+            <ID xmlns="ddi:reusable:3_2">fa608cac-4f6b-4993-9cea-72063affeaa9</ID>
+            <Version xmlns="ddi:reusable:3_2">2</Version>
+            <TypeOfObject xmlns="ddi:reusable:3_2">Organization</TypeOfObject>
+          </DataCollectorOrganizationReference>
+          <DataCollectionDate>
+            <StartDate xmlns="ddi:reusable:3_2">1998</StartDate>
+            <EndDate xmlns="ddi:reusable:3_2">2004</EndDate>
+          </DataCollectionDate>
+          <ModeOfCollection isUniversallyUnique="true">
+            <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.mrcleu-uos.hcs:248a8d62-6cd9-4e64-b28c-6a742ed0eaec:8</URN>
+            <Agency xmlns="ddi:reusable:3_2">uk.mrcleu-uos.hcs</Agency>
+            <ID xmlns="ddi:reusable:3_2">248a8d62-6cd9-4e64-b28c-6a742ed0eaec</ID>
+            <Version xmlns="ddi:reusable:3_2">8</Version>
+            <TypeOfModeOfCollection codeListVersionID="1.0">MeasurementsAndTests.Physical</TypeOfModeOfCollection>
+            <Description xmlns="ddi:reusable:3_2">
+              <Content xml:lang="en-GB">Assessment of physical properties of living beings, objects, materials or natural phenomena. This includes medical and geographic data.</Content>
+            </Description>
+          </ModeOfCollection>
+        </CollectionEvent>
+      </DataCollection>
+      <DataCollection isUniversallyUnique="true" versionDate="2020-07-03T09:34:53.2283617Z" xmlns="ddi:datacollection:3_2">
+        <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.mrcleu-uos.hcs:21823efe-6b9c-4b0e-a48b-d79f39e055dc:8</URN>
+        <Agency xmlns="ddi:reusable:3_2">uk.mrcleu-uos.hcs</Agency>
+        <ID xmlns="ddi:reusable:3_2">21823efe-6b9c-4b0e-a48b-d79f39e055dc</ID>
+        <Version xmlns="ddi:reusable:3_2">8</Version>
+        <DataCollectionModuleName>
+          <String xml:lang="en-GB" xmlns="ddi:reusable:3_2">hcs_2_clinic_16</String>
+        </DataCollectionModuleName>
+        <Label xmlns="ddi:reusable:3_2">
+          <Content xml:lang="en-GB">Blood Pressure Measurements 2</Content>
+        </Label>
+        <CollectionEvent isUniversallyUnique="true">
+          <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.mrcleu-uos.hcs:d9452944-20fa-4220-9ed6-2b2823485776:8</URN>
+          <Agency xmlns="ddi:reusable:3_2">uk.mrcleu-uos.hcs</Agency>
+          <ID xmlns="ddi:reusable:3_2">d9452944-20fa-4220-9ed6-2b2823485776</ID>
+          <Version xmlns="ddi:reusable:3_2">8</Version>
+          <DataCollectorOrganizationReference>
+            <Agency xmlns="ddi:reusable:3_2">uk.mrcleu-uos.hcs</Agency>
+            <ID xmlns="ddi:reusable:3_2">fa608cac-4f6b-4993-9cea-72063affeaa9</ID>
+            <Version xmlns="ddi:reusable:3_2">2</Version>
+            <TypeOfObject xmlns="ddi:reusable:3_2">Organization</TypeOfObject>
+          </DataCollectorOrganizationReference>
+          <DataCollectionDate>
+            <StartDate xmlns="ddi:reusable:3_2">1998</StartDate>
+            <EndDate xmlns="ddi:reusable:3_2">2004</EndDate>
+          </DataCollectionDate>
+          <ModeOfCollection isUniversallyUnique="true">
+            <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.mrcleu-uos.hcs:f53a4143-6531-48bc-bc14-fbcc53a31dd0:8</URN>
+            <Agency xmlns="ddi:reusable:3_2">uk.mrcleu-uos.hcs</Agency>
+            <ID xmlns="ddi:reusable:3_2">f53a4143-6531-48bc-bc14-fbcc53a31dd0</ID>
+            <Version xmlns="ddi:reusable:3_2">8</Version>
+            <TypeOfModeOfCollection codeListVersionID="1.0">MeasurementsAndTests.Physical</TypeOfModeOfCollection>
+            <Description xmlns="ddi:reusable:3_2">
+              <Content xml:lang="en-GB">Assessment of physical properties of living beings, objects, materials or natural phenomena. This includes medical and geographic data.</Content>
+            </Description>
+          </ModeOfCollection>
+        </CollectionEvent>
+      </DataCollection>
+      <DataCollection isUniversallyUnique="true" versionDate="2020-07-03T09:35:06.7926719Z" xmlns="ddi:datacollection:3_2">
+        <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.mrcleu-uos.hcs:3f24ab2d-2684-482d-b4e4-39725c73b4dc:8</URN>
+        <Agency xmlns="ddi:reusable:3_2">uk.mrcleu-uos.hcs</Agency>
+        <ID xmlns="ddi:reusable:3_2">3f24ab2d-2684-482d-b4e4-39725c73b4dc</ID>
+        <Version xmlns="ddi:reusable:3_2">8</Version>
+        <DataCollectionModuleName>
+          <String xml:lang="en-GB" xmlns="ddi:reusable:3_2">hcs_2_clinic_4</String>
+        </DataCollectionModuleName>
+        <Label xmlns="ddi:reusable:3_2">
+          <Content xml:lang="en-GB">Chair Rises and Flamingo Stands</Content>
+        </Label>
+        <CollectionEvent isUniversallyUnique="true">
+          <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.mrcleu-uos.hcs:cde4aa6e-b4f1-4267-8cec-f721723a5a66:8</URN>
+          <Agency xmlns="ddi:reusable:3_2">uk.mrcleu-uos.hcs</Agency>
+          <ID xmlns="ddi:reusable:3_2">cde4aa6e-b4f1-4267-8cec-f721723a5a66</ID>
+          <Version xmlns="ddi:reusable:3_2">8</Version>
+          <DataCollectorOrganizationReference>
+            <Agency xmlns="ddi:reusable:3_2">uk.mrcleu-uos.hcs</Agency>
+            <ID xmlns="ddi:reusable:3_2">fa608cac-4f6b-4993-9cea-72063affeaa9</ID>
+            <Version xmlns="ddi:reusable:3_2">2</Version>
+            <TypeOfObject xmlns="ddi:reusable:3_2">Organization</TypeOfObject>
+          </DataCollectorOrganizationReference>
+          <DataCollectionDate>
+            <StartDate xmlns="ddi:reusable:3_2">1998</StartDate>
+            <EndDate xmlns="ddi:reusable:3_2">2004</EndDate>
+          </DataCollectionDate>
+          <ModeOfCollection isUniversallyUnique="true">
+            <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.mrcleu-uos.hcs:be892110-98d0-4fdd-8f7e-2b1af1f73596:8</URN>
+            <Agency xmlns="ddi:reusable:3_2">uk.mrcleu-uos.hcs</Agency>
+            <ID xmlns="ddi:reusable:3_2">be892110-98d0-4fdd-8f7e-2b1af1f73596</ID>
+            <Version xmlns="ddi:reusable:3_2">8</Version>
+            <TypeOfModeOfCollection codeListVersionID="1.0">MeasurementsAndTests.Physical</TypeOfModeOfCollection>
+            <Description xmlns="ddi:reusable:3_2">
+              <Content xml:lang="en-GB">Assessment of physical properties of living beings, objects, materials or natural phenomena. This includes medical and geographic data.</Content>
+            </Description>
+          </ModeOfCollection>
+        </CollectionEvent>
+      </DataCollection>
+      <DataCollection isUniversallyUnique="true" versionDate="2020-07-03T09:35:21.1665164Z" xmlns="ddi:datacollection:3_2">
+        <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.mrcleu-uos.hcs:d82be9f1-c422-479c-9baf-7a54bb1cfe79:8</URN>
+        <Agency xmlns="ddi:reusable:3_2">uk.mrcleu-uos.hcs</Agency>
+        <ID xmlns="ddi:reusable:3_2">d82be9f1-c422-479c-9baf-7a54bb1cfe79</ID>
+        <Version xmlns="ddi:reusable:3_2">8</Version>
+        <DataCollectionModuleName>
+          <String xml:lang="en-GB" xmlns="ddi:reusable:3_2">hcs_2_clinic_7</String>
+        </DataCollectionModuleName>
+        <Label xmlns="ddi:reusable:3_2">
+          <Content xml:lang="en-GB">Manual Muscle Testing</Content>
+        </Label>
+        <CollectionEvent isUniversallyUnique="true">
+          <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.mrcleu-uos.hcs:072acc26-9f9b-4969-bf53-a2a5aaa42087:8</URN>
+          <Agency xmlns="ddi:reusable:3_2">uk.mrcleu-uos.hcs</Agency>
+          <ID xmlns="ddi:reusable:3_2">072acc26-9f9b-4969-bf53-a2a5aaa42087</ID>
+          <Version xmlns="ddi:reusable:3_2">8</Version>
+          <DataCollectorOrganizationReference>
+            <Agency xmlns="ddi:reusable:3_2">uk.mrcleu-uos.hcs</Agency>
+            <ID xmlns="ddi:reusable:3_2">fa608cac-4f6b-4993-9cea-72063affeaa9</ID>
+            <Version xmlns="ddi:reusable:3_2">2</Version>
+            <TypeOfObject xmlns="ddi:reusable:3_2">Organization</TypeOfObject>
+          </DataCollectorOrganizationReference>
+          <DataCollectionDate>
+            <StartDate xmlns="ddi:reusable:3_2">1998</StartDate>
+            <EndDate xmlns="ddi:reusable:3_2">2004</EndDate>
+          </DataCollectionDate>
+          <ModeOfCollection isUniversallyUnique="true">
+            <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.mrcleu-uos.hcs:f6ef4217-7147-403b-a294-d7b7747add71:8</URN>
+            <Agency xmlns="ddi:reusable:3_2">uk.mrcleu-uos.hcs</Agency>
+            <ID xmlns="ddi:reusable:3_2">f6ef4217-7147-403b-a294-d7b7747add71</ID>
+            <Version xmlns="ddi:reusable:3_2">8</Version>
+            <TypeOfModeOfCollection codeListVersionID="1.0">MeasurementsAndTests.Physical</TypeOfModeOfCollection>
+            <Description xmlns="ddi:reusable:3_2">
+              <Content xml:lang="en-GB">Assessment of physical properties of living beings, objects, materials or natural phenomena. This includes medical and geographic data.</Content>
+            </Description>
+          </ModeOfCollection>
+        </CollectionEvent>
+      </DataCollection>
+      <DataCollection isUniversallyUnique="true" versionDate="2020-07-03T09:35:35.5150536Z" xmlns="ddi:datacollection:3_2">
+        <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.mrcleu-uos.hcs:60392c82-150f-4ff4-a346-931f8e25d3b6:8</URN>
+        <Agency xmlns="ddi:reusable:3_2">uk.mrcleu-uos.hcs</Agency>
+        <ID xmlns="ddi:reusable:3_2">60392c82-150f-4ff4-a346-931f8e25d3b6</ID>
+        <Version xmlns="ddi:reusable:3_2">8</Version>
+        <DataCollectionModuleName>
+          <String xml:lang="en-GB" xmlns="ddi:reusable:3_2">hcs_2_clinic_12</String>
+        </DataCollectionModuleName>
+        <Label xmlns="ddi:reusable:3_2">
+          <Content xml:lang="en-GB">Smallpox Vaccination Status</Content>
+        </Label>
+        <CollectionEvent isUniversallyUnique="true">
+          <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.mrcleu-uos.hcs:a0a22af2-19f5-40ad-95e9-43a4d9b825e7:8</URN>
+          <Agency xmlns="ddi:reusable:3_2">uk.mrcleu-uos.hcs</Agency>
+          <ID xmlns="ddi:reusable:3_2">a0a22af2-19f5-40ad-95e9-43a4d9b825e7</ID>
+          <Version xmlns="ddi:reusable:3_2">8</Version>
+          <DataCollectorOrganizationReference>
+            <Agency xmlns="ddi:reusable:3_2">uk.mrcleu-uos.hcs</Agency>
+            <ID xmlns="ddi:reusable:3_2">fa608cac-4f6b-4993-9cea-72063affeaa9</ID>
+            <Version xmlns="ddi:reusable:3_2">2</Version>
+            <TypeOfObject xmlns="ddi:reusable:3_2">Organization</TypeOfObject>
+          </DataCollectorOrganizationReference>
+          <DataCollectionDate>
+            <StartDate xmlns="ddi:reusable:3_2">1998</StartDate>
+            <EndDate xmlns="ddi:reusable:3_2">2004</EndDate>
+          </DataCollectionDate>
+          <ModeOfCollection isUniversallyUnique="true">
+            <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.mrcleu-uos.hcs:aacf632e-721b-4748-af81-291aa287831c:8</URN>
+            <Agency xmlns="ddi:reusable:3_2">uk.mrcleu-uos.hcs</Agency>
+            <ID xmlns="ddi:reusable:3_2">aacf632e-721b-4748-af81-291aa287831c</ID>
+            <Version xmlns="ddi:reusable:3_2">8</Version>
+            <TypeOfModeOfCollection codeListVersionID="1.0">MeasurementsAndTests.Physical</TypeOfModeOfCollection>
+            <Description xmlns="ddi:reusable:3_2">
+              <Content xml:lang="en-GB">Assessment of physical properties of living beings, objects, materials or natural phenomena. This includes medical and geographic data.</Content>
+            </Description>
+          </ModeOfCollection>
+        </CollectionEvent>
+      </DataCollection>
+      <DataCollection isUniversallyUnique="true" versionDate="2020-07-03T09:35:50.4910769Z" xmlns="ddi:datacollection:3_2">
+        <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.mrcleu-uos.hcs:b1698de4-e4bf-4ec8-90e9-b955abbe0ea1:8</URN>
+        <Agency xmlns="ddi:reusable:3_2">uk.mrcleu-uos.hcs</Agency>
+        <ID xmlns="ddi:reusable:3_2">b1698de4-e4bf-4ec8-90e9-b955abbe0ea1</ID>
+        <Version xmlns="ddi:reusable:3_2">8</Version>
+        <DataCollectionModuleName>
+          <String xml:lang="en-GB" xmlns="ddi:reusable:3_2">hcs_2_clinic_13</String>
+        </DataCollectionModuleName>
+        <Label xmlns="ddi:reusable:3_2">
+          <Content xml:lang="en-GB">Prostate Questionnaire</Content>
+        </Label>
+        <CollectionEvent isUniversallyUnique="true">
+          <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.mrcleu-uos.hcs:7326ac85-5e1e-46d0-a969-1619f613082e:8</URN>
+          <Agency xmlns="ddi:reusable:3_2">uk.mrcleu-uos.hcs</Agency>
+          <ID xmlns="ddi:reusable:3_2">7326ac85-5e1e-46d0-a969-1619f613082e</ID>
+          <Version xmlns="ddi:reusable:3_2">8</Version>
+          <DataCollectorOrganizationReference>
+            <Agency xmlns="ddi:reusable:3_2">uk.mrcleu-uos.hcs</Agency>
+            <ID xmlns="ddi:reusable:3_2">fa608cac-4f6b-4993-9cea-72063affeaa9</ID>
+            <Version xmlns="ddi:reusable:3_2">2</Version>
+            <TypeOfObject xmlns="ddi:reusable:3_2">Organization</TypeOfObject>
+          </DataCollectorOrganizationReference>
+          <DataCollectionDate>
+            <StartDate xmlns="ddi:reusable:3_2">1998</StartDate>
+            <EndDate xmlns="ddi:reusable:3_2">2004</EndDate>
+          </DataCollectionDate>
+          <ModeOfCollection isUniversallyUnique="true">
+            <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.mrcleu-uos.hcs:4bc343b8-d225-48a9-8502-af3931ff7974:8</URN>
+            <Agency xmlns="ddi:reusable:3_2">uk.mrcleu-uos.hcs</Agency>
+            <ID xmlns="ddi:reusable:3_2">4bc343b8-d225-48a9-8502-af3931ff7974</ID>
+            <Version xmlns="ddi:reusable:3_2">8</Version>
+            <TypeOfModeOfCollection codeListVersionID="1.0">SelfAdministeredQuestionnaire.Paper</TypeOfModeOfCollection>
+            <Description xmlns="ddi:reusable:3_2">
+              <Content xml:lang="en-GB">Self-administered survey using a traditional paper questionnaire.</Content>
+            </Description>
+          </ModeOfCollection>
+        </CollectionEvent>
+      </DataCollection>
+      <DataCollection isUniversallyUnique="true" versionDate="2020-07-03T09:36:05.8505297Z" xmlns="ddi:datacollection:3_2">
+        <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.mrcleu-uos.hcs:6acd160d-57cf-499c-8c2c-7c1850c49bf7:8</URN>
+        <Agency xmlns="ddi:reusable:3_2">uk.mrcleu-uos.hcs</Agency>
+        <ID xmlns="ddi:reusable:3_2">6acd160d-57cf-499c-8c2c-7c1850c49bf7</ID>
+        <Version xmlns="ddi:reusable:3_2">8</Version>
+        <DataCollectionModuleName>
+          <String xml:lang="en-GB" xmlns="ddi:reusable:3_2">hcs_2_clinic_14</String>
+        </DataCollectionModuleName>
+        <Label xmlns="ddi:reusable:3_2">
+          <Content xml:lang="en-GB">Spirometry</Content>
+        </Label>
+        <CollectionEvent isUniversallyUnique="true">
+          <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.mrcleu-uos.hcs:b48b9ce8-1d57-4968-bd18-f10b6a24d8fd:8</URN>
+          <Agency xmlns="ddi:reusable:3_2">uk.mrcleu-uos.hcs</Agency>
+          <ID xmlns="ddi:reusable:3_2">b48b9ce8-1d57-4968-bd18-f10b6a24d8fd</ID>
+          <Version xmlns="ddi:reusable:3_2">8</Version>
+          <DataCollectorOrganizationReference>
+            <Agency xmlns="ddi:reusable:3_2">uk.mrcleu-uos.hcs</Agency>
+            <ID xmlns="ddi:reusable:3_2">fa608cac-4f6b-4993-9cea-72063affeaa9</ID>
+            <Version xmlns="ddi:reusable:3_2">2</Version>
+            <TypeOfObject xmlns="ddi:reusable:3_2">Organization</TypeOfObject>
+          </DataCollectorOrganizationReference>
+          <DataCollectionDate>
+            <StartDate xmlns="ddi:reusable:3_2">1998</StartDate>
+            <EndDate xmlns="ddi:reusable:3_2">2004</EndDate>
+          </DataCollectionDate>
+          <ModeOfCollection isUniversallyUnique="true">
+            <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.mrcleu-uos.hcs:94aac97c-6f5f-4ee9-8c47-c96b20a01afa:8</URN>
+            <Agency xmlns="ddi:reusable:3_2">uk.mrcleu-uos.hcs</Agency>
+            <ID xmlns="ddi:reusable:3_2">94aac97c-6f5f-4ee9-8c47-c96b20a01afa</ID>
+            <Version xmlns="ddi:reusable:3_2">8</Version>
+            <TypeOfModeOfCollection codeListVersionID="1.0">MeasurementsAndTests.Physical</TypeOfModeOfCollection>
+            <Description xmlns="ddi:reusable:3_2">
+              <Content xml:lang="en-GB">Assessment of physical properties of living beings, objects, materials or natural phenomena. This includes medical and geographic data.</Content>
+            </Description>
+          </ModeOfCollection>
+        </CollectionEvent>
+      </DataCollection>
+      <DataCollection isUniversallyUnique="true" versionDate="2020-07-03T09:36:21.1135012Z" xmlns="ddi:datacollection:3_2">
+        <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.mrcleu-uos.hcs:478d094d-f1d3-4e57-8871-bada877fe96c:8</URN>
+        <Agency xmlns="ddi:reusable:3_2">uk.mrcleu-uos.hcs</Agency>
+        <ID xmlns="ddi:reusable:3_2">478d094d-f1d3-4e57-8871-bada877fe96c</ID>
+        <Version xmlns="ddi:reusable:3_2">8</Version>
+        <DataCollectionModuleName>
+          <String xml:lang="en-GB" xmlns="ddi:reusable:3_2">hcs_2_clinic_15</String>
+        </DataCollectionModuleName>
+        <Label xmlns="ddi:reusable:3_2">
+          <Content xml:lang="en-GB">Timed Up and Go</Content>
+        </Label>
+        <CollectionEvent isUniversallyUnique="true">
+          <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.mrcleu-uos.hcs:489239f1-8f19-425b-9fd9-dcaecf66f774:8</URN>
+          <Agency xmlns="ddi:reusable:3_2">uk.mrcleu-uos.hcs</Agency>
+          <ID xmlns="ddi:reusable:3_2">489239f1-8f19-425b-9fd9-dcaecf66f774</ID>
+          <Version xmlns="ddi:reusable:3_2">8</Version>
+          <DataCollectorOrganizationReference>
+            <Agency xmlns="ddi:reusable:3_2">uk.mrcleu-uos.hcs</Agency>
+            <ID xmlns="ddi:reusable:3_2">fa608cac-4f6b-4993-9cea-72063affeaa9</ID>
+            <Version xmlns="ddi:reusable:3_2">2</Version>
+            <TypeOfObject xmlns="ddi:reusable:3_2">Organization</TypeOfObject>
+          </DataCollectorOrganizationReference>
+          <DataCollectionDate>
+            <StartDate xmlns="ddi:reusable:3_2">1998</StartDate>
+            <EndDate xmlns="ddi:reusable:3_2">2004</EndDate>
+          </DataCollectionDate>
+          <ModeOfCollection isUniversallyUnique="true">
+            <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.mrcleu-uos.hcs:7e6d74af-f0ec-4fd9-a03e-ee232bd430fb:8</URN>
+            <Agency xmlns="ddi:reusable:3_2">uk.mrcleu-uos.hcs</Agency>
+            <ID xmlns="ddi:reusable:3_2">7e6d74af-f0ec-4fd9-a03e-ee232bd430fb</ID>
+            <Version xmlns="ddi:reusable:3_2">8</Version>
+            <TypeOfModeOfCollection codeListVersionID="1.0">MeasurementsAndTests.Physical</TypeOfModeOfCollection>
+            <Description xmlns="ddi:reusable:3_2">
+              <Content xml:lang="en-GB">Assessment of physical properties of living beings, objects, materials or natural phenomena. This includes medical and geographic data.</Content>
+            </Description>
+          </ModeOfCollection>
+        </CollectionEvent>
+      </DataCollection>
+      <DataCollection isUniversallyUnique="true" versionDate="2020-07-03T09:36:40.1809534Z" xmlns="ddi:datacollection:3_2">
+        <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.mrcleu-uos.hcs:b1540f51-0e49-40d1-a708-d460e5e8eb96:4</URN>
+        <Agency xmlns="ddi:reusable:3_2">uk.mrcleu-uos.hcs</Agency>
+        <ID xmlns="ddi:reusable:3_2">b1540f51-0e49-40d1-a708-d460e5e8eb96</ID>
+        <Version xmlns="ddi:reusable:3_2">4</Version>
+        <DataCollectionModuleName>
+          <String xml:lang="en-GB" xmlns="ddi:reusable:3_2">hcs_2_clinic_6</String>
+        </DataCollectionModuleName>
+        <Label xmlns="ddi:reusable:3_2">
+          <Content xml:lang="en-GB">Hand Examination</Content>
+        </Label>
+        <CollectionEvent isUniversallyUnique="true">
+          <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.mrcleu-uos.hcs:9f76af75-bcb9-4df9-9bed-b4f02ffc2475:4</URN>
+          <Agency xmlns="ddi:reusable:3_2">uk.mrcleu-uos.hcs</Agency>
+          <ID xmlns="ddi:reusable:3_2">9f76af75-bcb9-4df9-9bed-b4f02ffc2475</ID>
+          <Version xmlns="ddi:reusable:3_2">4</Version>
+          <DataCollectorOrganizationReference>
+            <Agency xmlns="ddi:reusable:3_2">uk.mrcleu-uos.hcs</Agency>
+            <ID xmlns="ddi:reusable:3_2">fa608cac-4f6b-4993-9cea-72063affeaa9</ID>
+            <Version xmlns="ddi:reusable:3_2">2</Version>
+            <TypeOfObject xmlns="ddi:reusable:3_2">Organization</TypeOfObject>
+          </DataCollectorOrganizationReference>
+          <DataCollectionDate>
+            <StartDate xmlns="ddi:reusable:3_2">1998</StartDate>
+            <EndDate xmlns="ddi:reusable:3_2">2004</EndDate>
+          </DataCollectionDate>
+          <ModeOfCollection isUniversallyUnique="true">
+            <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.mrcleu-uos.hcs:df78dce2-d5a2-4711-8dc4-469b9006a6e4:4</URN>
+            <Agency xmlns="ddi:reusable:3_2">uk.mrcleu-uos.hcs</Agency>
+            <ID xmlns="ddi:reusable:3_2">df78dce2-d5a2-4711-8dc4-469b9006a6e4</ID>
+            <Version xmlns="ddi:reusable:3_2">4</Version>
+            <TypeOfModeOfCollection codeListVersionID="1.0">MeasurementsAndTests.Physical</TypeOfModeOfCollection>
+            <Description xmlns="ddi:reusable:3_2">
+              <Content xml:lang="en-GB">Assessment of physical properties of living being, objects, materials, or natural phenomena. This includes medical and geographic data.</Content>
+            </Description>
+          </ModeOfCollection>
+        </CollectionEvent>
+      </DataCollection>
+      <DataCollection isUniversallyUnique="true" versionDate="2020-07-03T10:02:11.6551281Z" xmlns="ddi:datacollection:3_2">
+        <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.mrcleu-uos.hcs:ffa2aab8-cd2a-424c-b241-cc967ed2a01c:5</URN>
+        <Agency xmlns="ddi:reusable:3_2">uk.mrcleu-uos.hcs</Agency>
+        <ID xmlns="ddi:reusable:3_2">ffa2aab8-cd2a-424c-b241-cc967ed2a01c</ID>
+        <Version xmlns="ddi:reusable:3_2">5</Version>
+        <DataCollectionModuleName>
+          <String xml:lang="en-GB" xmlns="ddi:reusable:3_2">hcs_2_clinic_8</String>
+        </DataCollectionModuleName>
+        <Label xmlns="ddi:reusable:3_2">
+          <Content xml:lang="en-GB">Modified Minnesota Physical Activity Questionnaire</Content>
+        </Label>
+        <CollectionEvent isUniversallyUnique="true">
+          <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.mrcleu-uos.hcs:55563942-7d77-4b12-bf0f-3fe239c19579:5</URN>
+          <Agency xmlns="ddi:reusable:3_2">uk.mrcleu-uos.hcs</Agency>
+          <ID xmlns="ddi:reusable:3_2">55563942-7d77-4b12-bf0f-3fe239c19579</ID>
+          <Version xmlns="ddi:reusable:3_2">5</Version>
+          <DataCollectorOrganizationReference>
+            <Agency xmlns="ddi:reusable:3_2">uk.mrcleu-uos.hcs</Agency>
+            <ID xmlns="ddi:reusable:3_2">fa608cac-4f6b-4993-9cea-72063affeaa9</ID>
+            <Version xmlns="ddi:reusable:3_2">2</Version>
+            <TypeOfObject xmlns="ddi:reusable:3_2">Organization</TypeOfObject>
+          </DataCollectorOrganizationReference>
+          <DataCollectionDate>
+            <StartDate xmlns="ddi:reusable:3_2">1998</StartDate>
+            <EndDate xmlns="ddi:reusable:3_2">2004</EndDate>
+          </DataCollectionDate>
+          <ModeOfCollection isUniversallyUnique="true">
+            <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.mrcleu-uos.hcs:e055dfc5-762a-4b3b-9947-9ab7d69f8ab0:5</URN>
+            <Agency xmlns="ddi:reusable:3_2">uk.mrcleu-uos.hcs</Agency>
+            <ID xmlns="ddi:reusable:3_2">e055dfc5-762a-4b3b-9947-9ab7d69f8ab0</ID>
+            <Version xmlns="ddi:reusable:3_2">5</Version>
+            <TypeOfModeOfCollection codeListVersionID="1.0">SelfAdministeredQuestionnaire.Paper</TypeOfModeOfCollection>
+            <Description xmlns="ddi:reusable:3_2">
+              <Content xml:lang="en-GB">Self-administered questionnaire using a traditional paper questionnaire.</Content>
+            </Description>
+          </ModeOfCollection>
+        </CollectionEvent>
+      </DataCollection>
+      <DataCollection isUniversallyUnique="true" versionDate="2020-07-03T09:37:03.3026819Z" xmlns="ddi:datacollection:3_2">
+        <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.mrcleu-uos.hcs:17707bdc-b07f-4e95-ba26-1974cd4446ba:4</URN>
+        <Agency xmlns="ddi:reusable:3_2">uk.mrcleu-uos.hcs</Agency>
+        <ID xmlns="ddi:reusable:3_2">17707bdc-b07f-4e95-ba26-1974cd4446ba</ID>
+        <Version xmlns="ddi:reusable:3_2">4</Version>
+        <DataCollectionModuleName>
+          <String xml:lang="en-GB" xmlns="ddi:reusable:3_2">hcs_2_clinic_9</String>
+        </DataCollectionModuleName>
+        <Label xmlns="ddi:reusable:3_2">
+          <Content xml:lang="en-GB">Food Diary</Content>
+        </Label>
+        <CollectionEvent isUniversallyUnique="true">
+          <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.mrcleu-uos.hcs:1f33417a-93db-4070-98d2-423c1b410aa1:4</URN>
+          <Agency xmlns="ddi:reusable:3_2">uk.mrcleu-uos.hcs</Agency>
+          <ID xmlns="ddi:reusable:3_2">1f33417a-93db-4070-98d2-423c1b410aa1</ID>
+          <Version xmlns="ddi:reusable:3_2">4</Version>
+          <DataCollectorOrganizationReference>
+            <Agency xmlns="ddi:reusable:3_2">uk.mrcleu-uos.hcs</Agency>
+            <ID xmlns="ddi:reusable:3_2">fa608cac-4f6b-4993-9cea-72063affeaa9</ID>
+            <Version xmlns="ddi:reusable:3_2">2</Version>
+            <TypeOfObject xmlns="ddi:reusable:3_2">Organization</TypeOfObject>
+          </DataCollectorOrganizationReference>
+          <DataCollectionDate>
+            <StartDate xmlns="ddi:reusable:3_2">1998</StartDate>
+            <EndDate xmlns="ddi:reusable:3_2">2004</EndDate>
+          </DataCollectionDate>
+          <ModeOfCollection isUniversallyUnique="true">
+            <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.mrcleu-uos.hcs:42e5a0be-9718-4f4b-9e68-01022e11efca:4</URN>
+            <Agency xmlns="ddi:reusable:3_2">uk.mrcleu-uos.hcs</Agency>
+            <ID xmlns="ddi:reusable:3_2">42e5a0be-9718-4f4b-9e68-01022e11efca</ID>
+            <Version xmlns="ddi:reusable:3_2">4</Version>
+            <TypeOfModeOfCollection codeListVersionID="1.0">SelfAdministeredWritingsAndDiaries.Paper</TypeOfModeOfCollection>
+            <Description xmlns="ddi:reusable:3_2">
+              <Content xml:lang="en-GB">Self-administered writing and diaries to capture narratives, stories, diaries and written texts created and collected on paper.</Content>
+            </Description>
+          </ModeOfCollection>
+        </CollectionEvent>
+      </DataCollection>
+      <DataCollection isUniversallyUnique="true" versionDate="2020-07-03T09:37:20.1459287Z" xmlns="ddi:datacollection:3_2">
+        <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.mrcleu-uos.hcs:36dae805-681c-434c-b9ee-1dee3b636dbc:4</URN>
+        <Agency xmlns="ddi:reusable:3_2">uk.mrcleu-uos.hcs</Agency>
+        <ID xmlns="ddi:reusable:3_2">36dae805-681c-434c-b9ee-1dee3b636dbc</ID>
+        <Version xmlns="ddi:reusable:3_2">4</Version>
+        <DataCollectionModuleName>
+          <String xml:lang="en-GB" xmlns="ddi:reusable:3_2">hcs_2_clinic_10</String>
+        </DataCollectionModuleName>
+        <Label xmlns="ddi:reusable:3_2">
+          <Content xml:lang="en-GB">Overnight Urine Collection</Content>
+        </Label>
+        <CollectionEvent isUniversallyUnique="true">
+          <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.mrcleu-uos.hcs:5edf942c-7b31-4fa5-9080-67670e6f7d01:4</URN>
+          <Agency xmlns="ddi:reusable:3_2">uk.mrcleu-uos.hcs</Agency>
+          <ID xmlns="ddi:reusable:3_2">5edf942c-7b31-4fa5-9080-67670e6f7d01</ID>
+          <Version xmlns="ddi:reusable:3_2">4</Version>
+          <DataCollectorOrganizationReference>
+            <Agency xmlns="ddi:reusable:3_2">uk.mrcleu-uos.hcs</Agency>
+            <ID xmlns="ddi:reusable:3_2">fa608cac-4f6b-4993-9cea-72063affeaa9</ID>
+            <Version xmlns="ddi:reusable:3_2">2</Version>
+            <TypeOfObject xmlns="ddi:reusable:3_2">Organization</TypeOfObject>
+          </DataCollectorOrganizationReference>
+          <DataCollectionDate>
+            <StartDate xmlns="ddi:reusable:3_2">1998</StartDate>
+            <EndDate xmlns="ddi:reusable:3_2">2004</EndDate>
+          </DataCollectionDate>
+          <ModeOfCollection isUniversallyUnique="true">
+            <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.mrcleu-uos.hcs:fafc5f71-acff-4992-9433-76af19b78f6a:4</URN>
+            <Agency xmlns="ddi:reusable:3_2">uk.mrcleu-uos.hcs</Agency>
+            <ID xmlns="ddi:reusable:3_2">fafc5f71-acff-4992-9433-76af19b78f6a</ID>
+            <Version xmlns="ddi:reusable:3_2">4</Version>
+            <TypeOfModeOfCollection codeListVersionID="1.0">MeasurementsAndTests.Physical</TypeOfModeOfCollection>
+            <Description xmlns="ddi:reusable:3_2">
+              <Content xml:lang="en-GB">Assessment of physical properties of living being, objects, materials, or natural phenomena. This includes medical and geographic data.</Content>
+            </Description>
+          </ModeOfCollection>
+        </CollectionEvent>
+      </DataCollection>
+      <DataCollection isUniversallyUnique="true" versionDate="2020-07-03T09:38:12.98105Z" xmlns="ddi:datacollection:3_2">
+        <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.mrcleu-uos.hcs:6666c0da-8b2b-4e47-b63c-892944459e9e:5</URN>
+        <Agency xmlns="ddi:reusable:3_2">uk.mrcleu-uos.hcs</Agency>
+        <ID xmlns="ddi:reusable:3_2">6666c0da-8b2b-4e47-b63c-892944459e9e</ID>
+        <Version xmlns="ddi:reusable:3_2">5</Version>
+        <DataCollectionModuleName>
+          <String xml:lang="en-GB" xmlns="ddi:reusable:3_2">hcs_2_clinic_11</String>
+        </DataCollectionModuleName>
+        <Label xmlns="ddi:reusable:3_2">
+          <Content xml:lang="en-GB">Questionnaire for Knee Osteoarthritis Study</Content>
+        </Label>
+        <CollectionEvent isUniversallyUnique="true">
+          <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.mrcleu-uos.hcs:adb37f27-d0ad-489e-a6a2-99206dfc435b:5</URN>
+          <Agency xmlns="ddi:reusable:3_2">uk.mrcleu-uos.hcs</Agency>
+          <ID xmlns="ddi:reusable:3_2">adb37f27-d0ad-489e-a6a2-99206dfc435b</ID>
+          <Version xmlns="ddi:reusable:3_2">5</Version>
+          <DataCollectorOrganizationReference>
+            <Agency xmlns="ddi:reusable:3_2">uk.mrcleu-uos.hcs</Agency>
+            <ID xmlns="ddi:reusable:3_2">fa608cac-4f6b-4993-9cea-72063affeaa9</ID>
+            <Version xmlns="ddi:reusable:3_2">2</Version>
+            <TypeOfObject xmlns="ddi:reusable:3_2">Organization</TypeOfObject>
+          </DataCollectorOrganizationReference>
+          <DataCollectionDate>
+            <StartDate xmlns="ddi:reusable:3_2">1998</StartDate>
+            <EndDate xmlns="ddi:reusable:3_2">2004</EndDate>
+          </DataCollectionDate>
+          <ModeOfCollection isUniversallyUnique="true">
+            <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.mrcleu-uos.hcs:f0aaa904-a309-4cde-ad4d-587b87172a5a:5</URN>
+            <Agency xmlns="ddi:reusable:3_2">uk.mrcleu-uos.hcs</Agency>
+            <ID xmlns="ddi:reusable:3_2">f0aaa904-a309-4cde-ad4d-587b87172a5a</ID>
+            <Version xmlns="ddi:reusable:3_2">5</Version>
+            <TypeOfModeOfCollection codeListVersionID="1.0">SelfAdministeredQuestionnaire.Paper</TypeOfModeOfCollection>
+            <Description xmlns="ddi:reusable:3_2">
+              <Content xml:lang="en-GB">Self-administered questionnaire using a traditional paper questionnaire.</Content>
+            </Description>
+          </ModeOfCollection>
+        </CollectionEvent>
+      </DataCollection>
+      <DataCollection isUniversallyUnique="true" versionDate="2020-07-03T09:38:30.2378492Z" xmlns="ddi:datacollection:3_2">
+        <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.mrcleu-uos.hcs:cb9fcdc6-a836-4598-81cf-351e6572e66f:7</URN>
+        <Agency xmlns="ddi:reusable:3_2">uk.mrcleu-uos.hcs</Agency>
+        <ID xmlns="ddi:reusable:3_2">cb9fcdc6-a836-4598-81cf-351e6572e66f</ID>
+        <Version xmlns="ddi:reusable:3_2">7</Version>
+        <DataCollectionModuleName>
+          <String xml:lang="en-GB" xmlns="ddi:reusable:3_2">hcs_1_home_1</String>
+        </DataCollectionModuleName>
+        <Label xmlns="ddi:reusable:3_2">
+          <Content xml:lang="en-GB">Anthropometry Data 2</Content>
+        </Label>
+        <CollectionEvent isUniversallyUnique="true">
+          <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.mrcleu-uos.hcs:bbf9a83e-672b-4735-a60b-c131c98e9f50:7</URN>
+          <Agency xmlns="ddi:reusable:3_2">uk.mrcleu-uos.hcs</Agency>
+          <ID xmlns="ddi:reusable:3_2">bbf9a83e-672b-4735-a60b-c131c98e9f50</ID>
+          <Version xmlns="ddi:reusable:3_2">7</Version>
+          <DataCollectorOrganizationReference>
+            <Agency xmlns="ddi:reusable:3_2">uk.mrcleu-uos.hcs</Agency>
+            <ID xmlns="ddi:reusable:3_2">fa608cac-4f6b-4993-9cea-72063affeaa9</ID>
+            <Version xmlns="ddi:reusable:3_2">2</Version>
+            <TypeOfObject xmlns="ddi:reusable:3_2">Organization</TypeOfObject>
+          </DataCollectorOrganizationReference>
+          <DataCollectionDate>
+            <StartDate xmlns="ddi:reusable:3_2">1998</StartDate>
+            <EndDate xmlns="ddi:reusable:3_2">2004</EndDate>
+          </DataCollectionDate>
+          <ModeOfCollection isUniversallyUnique="true">
+            <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.mrcleu-uos.hcs:405856df-d38c-4256-8b58-16d3bb9a2607:7</URN>
+            <Agency xmlns="ddi:reusable:3_2">uk.mrcleu-uos.hcs</Agency>
+            <ID xmlns="ddi:reusable:3_2">405856df-d38c-4256-8b58-16d3bb9a2607</ID>
+            <Version xmlns="ddi:reusable:3_2">7</Version>
+            <TypeOfModeOfCollection codeListVersionID="1.0">MeasurementsAndTests.Physical</TypeOfModeOfCollection>
+            <Description xmlns="ddi:reusable:3_2">
+              <Content xml:lang="en-GB">Assessment of physical properties of living beings, objects, materials or natural phenomena. This includes medical and geographic data.</Content>
+            </Description>
+          </ModeOfCollection>
+        </CollectionEvent>
+      </DataCollection>
+    </StudyUnit>
+  </Group>
+</DDIInstance>

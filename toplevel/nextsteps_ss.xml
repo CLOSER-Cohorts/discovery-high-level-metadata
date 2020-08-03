@@ -1,0 +1,1331 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DDIInstance isUniversallyUnique="true" versionDate="2020-07-15T15:25:02.6330516Z" xmlns="ddi:instance:3_2">
+  <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.nextsteps:58c83249-d951-4742-956b-11fac9d34816:6</URN>
+  <Agency xmlns="ddi:reusable:3_2">uk.cls.nextsteps</Agency>
+  <ID xmlns="ddi:reusable:3_2">58c83249-d951-4742-956b-11fac9d34816</ID>
+  <Version xmlns="ddi:reusable:3_2">6</Version>
+  <Citation xmlns="ddi:reusable:3_2">
+    <Title>
+      <String xml:lang="en-GB">NextSteps</String>
+    </Title>
+  </Citation>
+  <Group isUniversallyUnique="true" versionDate="2020-07-15T15:30:37.5793449Z" xmlns="ddi:group:3_2">
+    <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.nextsteps:f25cb910-efa6-4938-b360-73f3f65d88a7:6</URN>
+    <Agency xmlns="ddi:reusable:3_2">uk.cls.nextsteps</Agency>
+    <ID xmlns="ddi:reusable:3_2">f25cb910-efa6-4938-b360-73f3f65d88a7</ID>
+    <Version xmlns="ddi:reusable:3_2">6</Version>
+    <Citation xmlns="ddi:reusable:3_2">
+      <Title>
+        <String xml:lang="en-GB">Next Steps</String>
+      </Title>
+      <AlternateTitle>
+        <String xml:lang="en-GB">LSYPE1; First Longitudinal Study of Young People in England</String>
+      </AlternateTitle>
+      <Creator>
+        <CreatorName>
+          <String xml:lang="en-GB">Lisa Calderwood</String>
+        </CreatorName>
+      </Creator>
+      <Publisher>
+        <PublisherName>
+          <String xml:lang="en-GB">Centre for Longitudinal Studies, UCL Institute of Education</String>
+        </PublisherName>
+      </Publisher>
+      <Copyright>
+        <String xml:lang="en-GB">Copyright Centre for Longitudinal Studies, UCL Institute of Education. All rights reserved.</String>
+      </Copyright>
+    </Citation>
+    <Abstract xmlns="ddi:reusable:3_2">
+      <Content xml:lang="en-GB">Next Steps (previously known as the Longitudinal Study of Young People in England (LSYPE1)) is a large and nationally representative longitudinal cohort study following the lives of around 16,000 people in England born in 1989-1990.
+
+The study started in 2004 and was funded and managed by the Department for Education until it transferred to CLS in 2013. Annual interviews with study members were carried out between 2004 and 2010 (ages 14 to 20), as well as interviews with parents for the first four sweeps. The study focused primarily on educational transitions and was supplemented by linked administrative data from the National Pupil Database. Following the initial survey at age 13-14, the cohort members were interviewed every year until 2010.
+
+In 2013 CLS successfully re-started the study and collected another sweep of data at age 25 (in 2015/2016). The scientific content of the study was broadened to provide a multidisciplinary research resource, supplemented by a wide-range of administrative data linkage consents. Extensive efforts were made to maximise the size and representativeness of the sample and interviews were achieved with almost 8,000 study members. 
+
+Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/next-steps/" target="_blank" title="Next Steps"&gt;www.cls.ucl.ac.uk/cls-studies/next-steps&lt;/a&gt;</Content>
+    </Abstract>
+    <UniverseReference xmlns="ddi:reusable:3_2">
+      <Agency>uk.closer</Agency>
+      <ID>e6060125-ad6b-489d-af6e-14344adf7295</ID>
+      <Version>2</Version>
+      <TypeOfObject>Universe</TypeOfObject>
+    </UniverseReference>
+    <FundingInformation xmlns="ddi:reusable:3_2">
+      <AgencyOrganizationReference>
+        <Agency>uk.closer</Agency>
+        <ID>ced55fc1-3df1-4d66-a925-cf5e1b79167a</ID>
+        <Version>4</Version>
+        <TypeOfObject>Organization</TypeOfObject>
+      </AgencyOrganizationReference>
+      <GrantNumber>ES/L000164/1</GrantNumber>
+    </FundingInformation>
+    <StudyUnit isUniversallyUnique="true" versionDate="2020-07-15T15:25:02.5459996Z" xmlns="ddi:studyunit:3_2">
+      <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.nextsteps:487eae00-70da-46fc-a2e4-c8eb081c5b8f:6</URN>
+      <Agency xmlns="ddi:reusable:3_2">uk.cls.nextsteps</Agency>
+      <ID xmlns="ddi:reusable:3_2">487eae00-70da-46fc-a2e4-c8eb081c5b8f</ID>
+      <Version xmlns="ddi:reusable:3_2">6</Version>
+      <UserAttributePair xmlns="ddi:reusable:3_2">
+        <AttributeKey>extension:CustomField</AttributeKey>
+        <AttributeValue>{"Title":{"en-GB":"LifeStage"},"Description":{},"ValueType":0,"HasValue":true,"RelationshipTargetType":"00000000-0000-0000-0000-000000000000","StringValue":"Adolescence","MultilingualStringValue":{},"HasDefinedType":false,"DisplayLabel":"LifeStage"}</AttributeValue>
+      </UserAttributePair>
+      <Citation xmlns="ddi:reusable:3_2">
+        <Title>
+          <String xml:lang="en-GB">Next Steps Age 14 Survey (2004)</String>
+        </Title>
+        <AlternateTitle>
+          <String xml:lang="en-GB">Longitudinal Study of Young People in England: Wave 1, 2004</String>
+        </AlternateTitle>
+        <Creator>
+          <CreatorName>
+            <String xml:lang="en-GB">Department for Education and Skills (DfES)</String>
+          </CreatorName>
+        </Creator>
+        <Publisher>
+          <PublisherName>
+            <String xml:lang="en-GB">Department for Education and Skills (DfES)</String>
+          </PublisherName>
+        </Publisher>
+      </Citation>
+      <Abstract xmlns="ddi:reusable:3_2">
+        <Content xml:lang="en-GB">The first survey of Next Steps, previously known as the 'Longitudinal Study of Young People in England' (LSYPE1) took place in 2004. The survey mainly focused on educational experiences, attitudes to school and involvement in education, expectations and aspirations. It also collected information on other aspects of cohort members’ lives such as risky-, crime- and anti-social behaviours, and health. In total the interview consisted of five modules. The sample member completed one module – the young person interview, which lasted approximately 35 minutes. Adult interviews were also completed for household information, the main parent interview, second parent interview and child history. These lasted approximately 55 minutes altogether. The total interview time was 1 hour and 30 minutes. Of the 21,000 young people sampled at sweep 1 the survey reached 15,770 households (74%) in England. 
+
+Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/next-steps/next-steps-age-14-sweep" target="_blank" title="Next Steps Age 14 Survey"&gt;www.cls.ucl.ac.uk/cls-studies/next-steps-age-14-sweep&lt;/a&gt;
+</Content>
+      </Abstract>
+      <UniverseReference xmlns="ddi:reusable:3_2">
+        <Agency>uk.closer</Agency>
+        <ID>c424b2a0-1970-4710-a683-9ae560fc47f3</ID>
+        <Version>1</Version>
+        <TypeOfObject>Universe</TypeOfObject>
+      </UniverseReference>
+      <FundingInformation xmlns="ddi:reusable:3_2">
+        <AgencyOrganizationReference>
+          <Agency>uk.closer</Agency>
+          <ID>e5fa2056-3c1c-438e-8736-86a62e42ab5d</ID>
+          <Version>2</Version>
+          <TypeOfObject>Organization</TypeOfObject>
+        </AgencyOrganizationReference>
+      </FundingInformation>
+      <Coverage xmlns="ddi:reusable:3_2">
+        <SpatialCoverage isUniversallyUnique="true">
+          <URN>urn:ddi:uk.cls.nextsteps:322a60e3-4d68-410a-a40a-1c98964110c6:6</URN>
+          <Agency>uk.cls.nextsteps</Agency>
+          <ID>322a60e3-4d68-410a-a40a-1c98964110c6</ID>
+          <Version>6</Version>
+          <BoundingBox>
+            <WestLongitude>0</WestLongitude>
+            <EastLongitude>0</EastLongitude>
+            <SouthLatitude>0</SouthLatitude>
+            <NorthLatitude>0</NorthLatitude>
+          </BoundingBox>
+          <Country>GB-ENG</Country>
+          <TopLevelReference>
+            <LevelName>Country</LevelName>
+          </TopLevelReference>
+          <LowestLevelReference>
+            <LevelName>Postcode</LevelName>
+          </LowestLevelReference>
+        </SpatialCoverage>
+        <TemporalCoverage isUniversallyUnique="true">
+          <URN>urn:ddi:uk.cls.nextsteps:73d28bf3-c546-4b54-a5f5-f3d7fac0a110:6</URN>
+          <Agency>uk.cls.nextsteps</Agency>
+          <ID>73d28bf3-c546-4b54-a5f5-f3d7fac0a110</ID>
+          <Version>6</Version>
+          <ReferenceDate>
+            <StartDate>2004-03</StartDate>
+            <EndDate>2004-10</EndDate>
+          </ReferenceDate>
+        </TemporalCoverage>
+      </Coverage>
+      <AnalysisUnit codeListVersionID="1.0" xmlns="ddi:reusable:3_2">Individual</AnalysisUnit>
+      <KindOfData codeListVersionID="1.0" xmlns="ddi:reusable:3_2">Survey Data</KindOfData>
+      <DataCollection isUniversallyUnique="true" versionDate="2020-07-15T15:26:18.2627611Z" xmlns="ddi:datacollection:3_2">
+        <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.nextsteps:80f93659-1adb-462f-9a93-593857d7cdde:3</URN>
+        <Agency xmlns="ddi:reusable:3_2">uk.cls.nextsteps</Agency>
+        <ID xmlns="ddi:reusable:3_2">80f93659-1adb-462f-9a93-593857d7cdde</ID>
+        <Version xmlns="ddi:reusable:3_2">3</Version>
+        <DataCollectionModuleName>
+          <String xml:lang="en-GB" xmlns="ddi:reusable:3_2">ns_04_w1</String>
+        </DataCollectionModuleName>
+        <Label xmlns="ddi:reusable:3_2">
+          <Content xml:lang="en-GB">Next Steps Age 14 Survey (2004)</Content>
+        </Label>
+        <CollectionEvent isUniversallyUnique="true">
+          <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.nextsteps:f01c39bb-3e49-4120-9945-440408d33f8f:3</URN>
+          <Agency xmlns="ddi:reusable:3_2">uk.cls.nextsteps</Agency>
+          <ID xmlns="ddi:reusable:3_2">f01c39bb-3e49-4120-9945-440408d33f8f</ID>
+          <Version xmlns="ddi:reusable:3_2">3</Version>
+          <DataCollectorOrganizationReference>
+            <Agency xmlns="ddi:reusable:3_2">uk.closer</Agency>
+            <ID xmlns="ddi:reusable:3_2">74c80340-4856-4b48-b345-701b66ae1c99</ID>
+            <Version xmlns="ddi:reusable:3_2">1</Version>
+            <TypeOfObject xmlns="ddi:reusable:3_2">Organization</TypeOfObject>
+          </DataCollectorOrganizationReference>
+          <DataCollectorOrganizationReference>
+            <Agency xmlns="ddi:reusable:3_2">uk.closer</Agency>
+            <ID xmlns="ddi:reusable:3_2">2b5de265-3b50-4b96-a27d-cd802e262c6c</ID>
+            <Version xmlns="ddi:reusable:3_2">1</Version>
+            <TypeOfObject xmlns="ddi:reusable:3_2">Organization</TypeOfObject>
+          </DataCollectorOrganizationReference>
+          <DataCollectorOrganizationReference>
+            <Agency xmlns="ddi:reusable:3_2">uk.closer</Agency>
+            <ID xmlns="ddi:reusable:3_2">03d1fb7b-da9c-4b73-9101-a4ea1f189aae</ID>
+            <Version xmlns="ddi:reusable:3_2">2</Version>
+            <TypeOfObject xmlns="ddi:reusable:3_2">Organization</TypeOfObject>
+          </DataCollectorOrganizationReference>
+          <DataCollectionDate>
+            <StartDate xmlns="ddi:reusable:3_2">2004-03</StartDate>
+            <EndDate xmlns="ddi:reusable:3_2">2004-10</EndDate>
+          </DataCollectionDate>
+          <ModeOfCollection isUniversallyUnique="true">
+            <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.nextsteps:04ba61cc-0069-4c85-a6cc-db4709f94358:3</URN>
+            <Agency xmlns="ddi:reusable:3_2">uk.cls.nextsteps</Agency>
+            <ID xmlns="ddi:reusable:3_2">04ba61cc-0069-4c85-a6cc-db4709f94358</ID>
+            <Version xmlns="ddi:reusable:3_2">3</Version>
+            <TypeOfModeOfCollection codeListVersionID="1.0">Interview.FaceToFace.CAPI/CAMI</TypeOfModeOfCollection>
+            <Description xmlns="ddi:reusable:3_2">
+              <Content xml:lang="en-GB">Face-to-face computer-assisted personal interviewing.</Content>
+            </Description>
+          </ModeOfCollection>
+        </CollectionEvent>
+      </DataCollection>
+    </StudyUnit>
+    <StudyUnit isUniversallyUnique="true" versionDate="2020-07-15T15:28:08.9750665Z" xmlns="ddi:studyunit:3_2">
+      <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.nextsteps:92f50262-1a83-4ad0-bfb4-6129a0a8d7ad:6</URN>
+      <Agency xmlns="ddi:reusable:3_2">uk.cls.nextsteps</Agency>
+      <ID xmlns="ddi:reusable:3_2">92f50262-1a83-4ad0-bfb4-6129a0a8d7ad</ID>
+      <Version xmlns="ddi:reusable:3_2">6</Version>
+      <UserAttributePair xmlns="ddi:reusable:3_2">
+        <AttributeKey>extension:CustomField</AttributeKey>
+        <AttributeValue>{"Title":{"en-GB":"LifeStage"},"Description":{},"ValueType":0,"HasValue":true,"RelationshipTargetType":"00000000-0000-0000-0000-000000000000","StringValue":"Adolescence","MultilingualStringValue":{},"HasDefinedType":false,"DisplayLabel":"LifeStage"}</AttributeValue>
+      </UserAttributePair>
+      <Citation xmlns="ddi:reusable:3_2">
+        <Title>
+          <String xml:lang="en-GB">Next Steps Age 15 Survey (2005)</String>
+        </Title>
+        <AlternateTitle>
+          <String xml:lang="en-GB">Longitudinal Study of Young People in England: Wave 2, 2005</String>
+        </AlternateTitle>
+        <Creator>
+          <CreatorName>
+            <String xml:lang="en-GB">Department for Education and Skills (DfES)</String>
+          </CreatorName>
+        </Creator>
+        <Publisher>
+          <PublisherName>
+            <String xml:lang="en-GB">Department for Education and Skills (DfES)</String>
+          </PublisherName>
+        </Publisher>
+        <Copyright>
+          <String xml:lang="en-GB">Department for Education and Skills (DfES)</String>
+        </Copyright>
+      </Citation>
+      <Abstract xmlns="ddi:reusable:3_2">
+        <Content xml:lang="en-GB">This was the first follow-up sweep, and the broad intention of the study was to map cohort members’ journeys from compulsory schooling to university, training and, ultimately, entry into the labour market. The survey content focused on educational experiences, attitudes to school and involvement in education, expectations and aspirations, as well as on aspects of cohort members’ lives including risky-, crime- and anti-social behaviours, health and wellbeing. Wherever possible, interviewers were assigned to the same households they had interviewed at Sweep 1. In total the interview consisted of five modules. 
+
+The sample member completed one module – the young person interview, which lasted approximately 35 minutes. Adult interviews were also completed for household information, the main parent interview, second parent interview and child history. These lasted approximately 35 minutes altogether. 
+
+As at Sweep 1, the main parent was defined as the parent most involved in the young person’s education, whilst the second parent was defined as an adult other than the main parent who had a parental relationship to the young person (i.e. a natural, step, adoptive or foster parent). Of the 15,678 young people issued at sweep 2 the survey reached 13,539 households (86%) in England. 
+
+Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/next-steps/next-steps-age-15-sweep" target="_blank" title="Next Steps Age 15 Survey"&gt;www.cls.ucl.ac.uk/cls-studies/next-steps-age-15-sweep&lt;/a&gt;</Content>
+      </Abstract>
+      <UniverseReference xmlns="ddi:reusable:3_2">
+        <Agency>uk.closer</Agency>
+        <ID>2c7d5d57-2506-4219-9ada-9c079d11230f</ID>
+        <Version>1</Version>
+        <TypeOfObject>Universe</TypeOfObject>
+      </UniverseReference>
+      <FundingInformation xmlns="ddi:reusable:3_2" />
+      <FundingInformation xmlns="ddi:reusable:3_2">
+        <AgencyOrganizationReference>
+          <Agency>uk.closer</Agency>
+          <ID>e5fa2056-3c1c-438e-8736-86a62e42ab5d</ID>
+          <Version>2</Version>
+          <TypeOfObject>Organization</TypeOfObject>
+        </AgencyOrganizationReference>
+      </FundingInformation>
+      <Coverage xmlns="ddi:reusable:3_2">
+        <SpatialCoverage isUniversallyUnique="true">
+          <URN>urn:ddi:uk.cls.nextsteps:9171b7a1-b781-4e96-a9ef-72c14365855a:6</URN>
+          <Agency>uk.cls.nextsteps</Agency>
+          <ID>9171b7a1-b781-4e96-a9ef-72c14365855a</ID>
+          <Version>6</Version>
+          <BoundingBox>
+            <WestLongitude>0</WestLongitude>
+            <EastLongitude>0</EastLongitude>
+            <SouthLatitude>0</SouthLatitude>
+            <NorthLatitude>0</NorthLatitude>
+          </BoundingBox>
+          <Description>
+            <Content xml:lang="en-GB">England</Content>
+          </Description>
+          <Country>GB-ENG</Country>
+          <TopLevelReference>
+            <LevelName>Country</LevelName>
+          </TopLevelReference>
+          <LowestLevelReference>
+            <LevelName>Postcode</LevelName>
+          </LowestLevelReference>
+        </SpatialCoverage>
+        <TemporalCoverage isUniversallyUnique="true">
+          <URN>urn:ddi:uk.cls.nextsteps:2418044a-513b-4ba5-bc57-c22e821b1597:6</URN>
+          <Agency>uk.cls.nextsteps</Agency>
+          <ID>2418044a-513b-4ba5-bc57-c22e821b1597</ID>
+          <Version>6</Version>
+          <ReferenceDate>
+            <StartDate>2005-04</StartDate>
+            <EndDate>2005-09</EndDate>
+          </ReferenceDate>
+        </TemporalCoverage>
+      </Coverage>
+      <AnalysisUnit codeListVersionID="1.0" xmlns="ddi:reusable:3_2">Individual</AnalysisUnit>
+      <KindOfData codeListVersionID="1.0" xmlns="ddi:reusable:3_2">Survey Data</KindOfData>
+      <DataCollection isUniversallyUnique="true" versionDate="2020-07-15T15:27:45.5738971Z" xmlns="ddi:datacollection:3_2">
+        <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.nextsteps:bc49488a-75e7-4fd6-8654-f2ebf1af011f:3</URN>
+        <Agency xmlns="ddi:reusable:3_2">uk.cls.nextsteps</Agency>
+        <ID xmlns="ddi:reusable:3_2">bc49488a-75e7-4fd6-8654-f2ebf1af011f</ID>
+        <Version xmlns="ddi:reusable:3_2">3</Version>
+        <DataCollectionModuleName>
+          <String xml:lang="en-GB" xmlns="ddi:reusable:3_2">ns_05_w2</String>
+        </DataCollectionModuleName>
+        <Label xmlns="ddi:reusable:3_2">
+          <Content xml:lang="en-GB">Next Steps Age 15 Survey (2005)</Content>
+        </Label>
+        <CollectionEvent isUniversallyUnique="true">
+          <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.nextsteps:440753b6-851e-4adb-a8cf-9183228a9f38:3</URN>
+          <Agency xmlns="ddi:reusable:3_2">uk.cls.nextsteps</Agency>
+          <ID xmlns="ddi:reusable:3_2">440753b6-851e-4adb-a8cf-9183228a9f38</ID>
+          <Version xmlns="ddi:reusable:3_2">3</Version>
+          <DataCollectorOrganizationReference>
+            <Agency xmlns="ddi:reusable:3_2">uk.closer</Agency>
+            <ID xmlns="ddi:reusable:3_2">74c80340-4856-4b48-b345-701b66ae1c99</ID>
+            <Version xmlns="ddi:reusable:3_2">1</Version>
+            <TypeOfObject xmlns="ddi:reusable:3_2">Organization</TypeOfObject>
+          </DataCollectorOrganizationReference>
+          <DataCollectorOrganizationReference>
+            <Agency xmlns="ddi:reusable:3_2">uk.closer</Agency>
+            <ID xmlns="ddi:reusable:3_2">03d1fb7b-da9c-4b73-9101-a4ea1f189aae</ID>
+            <Version xmlns="ddi:reusable:3_2">2</Version>
+            <TypeOfObject xmlns="ddi:reusable:3_2">Organization</TypeOfObject>
+          </DataCollectorOrganizationReference>
+          <DataCollectorOrganizationReference>
+            <Agency xmlns="ddi:reusable:3_2">uk.closer</Agency>
+            <ID xmlns="ddi:reusable:3_2">2b5de265-3b50-4b96-a27d-cd802e262c6c</ID>
+            <Version xmlns="ddi:reusable:3_2">1</Version>
+            <TypeOfObject xmlns="ddi:reusable:3_2">Organization</TypeOfObject>
+          </DataCollectorOrganizationReference>
+          <DataCollectionDate>
+            <StartDate xmlns="ddi:reusable:3_2">2005-04</StartDate>
+            <EndDate xmlns="ddi:reusable:3_2">2005-09</EndDate>
+          </DataCollectionDate>
+          <ModeOfCollection isUniversallyUnique="true">
+            <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.nextsteps:e6b39d8a-c69f-4f39-b423-5bcad625c54f:3</URN>
+            <Agency xmlns="ddi:reusable:3_2">uk.cls.nextsteps</Agency>
+            <ID xmlns="ddi:reusable:3_2">e6b39d8a-c69f-4f39-b423-5bcad625c54f</ID>
+            <Version xmlns="ddi:reusable:3_2">3</Version>
+            <TypeOfModeOfCollection codeListVersionID="1.0">Interview.FaceToFace.CAPI/CAMI</TypeOfModeOfCollection>
+            <Description xmlns="ddi:reusable:3_2">
+              <Content xml:lang="en-GB">Face-to-face computer-assisted personal interviewing</Content>
+            </Description>
+          </ModeOfCollection>
+        </CollectionEvent>
+      </DataCollection>
+    </StudyUnit>
+    <StudyUnit isUniversallyUnique="true" versionDate="2020-07-15T15:29:30.8303394Z" xmlns="ddi:studyunit:3_2">
+      <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.nextsteps:87e50bd9-321e-4e32-8317-d1437e3885ad:6</URN>
+      <Agency xmlns="ddi:reusable:3_2">uk.cls.nextsteps</Agency>
+      <ID xmlns="ddi:reusable:3_2">87e50bd9-321e-4e32-8317-d1437e3885ad</ID>
+      <Version xmlns="ddi:reusable:3_2">6</Version>
+      <UserAttributePair xmlns="ddi:reusable:3_2">
+        <AttributeKey>extension:CustomField</AttributeKey>
+        <AttributeValue>{"Title":{"en-GB":"LifeStage"},"Description":{},"ValueType":0,"HasValue":true,"RelationshipTargetType":"00000000-0000-0000-0000-000000000000","StringValue":"Adolescence","MultilingualStringValue":{},"HasDefinedType":false,"DisplayLabel":"LifeStage"}</AttributeValue>
+      </UserAttributePair>
+      <Citation xmlns="ddi:reusable:3_2">
+        <Title>
+          <String xml:lang="en-GB">Next Steps Age 16 Survey (2006)</String>
+        </Title>
+        <AlternateTitle>
+          <String xml:lang="en-GB">Longitudinal Study of Young People in England: Wave 3, 2006</String>
+        </AlternateTitle>
+        <Creator>
+          <CreatorName>
+            <String xml:lang="en-GB">Department for Children, Schools and Families (DCSF)</String>
+          </CreatorName>
+        </Creator>
+        <Publisher>
+          <PublisherName>
+            <String xml:lang="en-GB">Department for Children, Schools and Families (DCSF)</String>
+          </PublisherName>
+        </Publisher>
+        <Copyright>
+          <String xml:lang="en-GB">Department for Children, Schools and Families (DCSF)</String>
+        </Copyright>
+      </Citation>
+      <Abstract xmlns="ddi:reusable:3_2">
+        <Content xml:lang="en-GB">The survey content focused on educational experiences, attitudes to school and involvement in education, expectations and aspirations, as well as on aspects of young people’s lives including risky-, crime- and anti-social behaviours, and health. Wherever possible, interviewers were assigned to the same households they had interviewed at Sweep 2. In total the interview consisted of four modules.
+
+The sample member completed one module – the young person interview, which lasted approximately 20 minutes. Adult interviews were also completed for household information, the main parent interview and individual parent interviews. Unlike at previous sweeps, in households with 2 parents, there was no second parent interview. The main parent answered the individual parent questions on behalf of both parents, these lasted approximately 15 minutes altogether. Of the 13,525 young people issued at sweep 3 the survey reached 12,439 households (92%) in England. 
+
+Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/next-steps/next-steps-age-16-sweep" target="_blank" title="Next Steps Age 16 Survey"&gt;www.cls.ucl.ac.uk/cls-studies/next-steps-age-16-sweep&lt;/a&gt;</Content>
+      </Abstract>
+      <UniverseReference xmlns="ddi:reusable:3_2">
+        <Agency>uk.closer</Agency>
+        <ID>8b45559d-9433-443b-92f9-90eb0dd13ad2</ID>
+        <Version>1</Version>
+        <TypeOfObject>Universe</TypeOfObject>
+      </UniverseReference>
+      <FundingInformation xmlns="ddi:reusable:3_2" />
+      <Coverage xmlns="ddi:reusable:3_2">
+        <SpatialCoverage isUniversallyUnique="true">
+          <URN>urn:ddi:uk.cls.nextsteps:0c3b78fd-b33f-42b6-9efe-1ac0151ddb16:6</URN>
+          <Agency>uk.cls.nextsteps</Agency>
+          <ID>0c3b78fd-b33f-42b6-9efe-1ac0151ddb16</ID>
+          <Version>6</Version>
+          <BoundingBox>
+            <WestLongitude>0</WestLongitude>
+            <EastLongitude>0</EastLongitude>
+            <SouthLatitude>0</SouthLatitude>
+            <NorthLatitude>0</NorthLatitude>
+          </BoundingBox>
+          <Description>
+            <Content xml:lang="en-GB">England</Content>
+          </Description>
+          <Country>GB-ENG</Country>
+          <TopLevelReference>
+            <LevelName>Country</LevelName>
+          </TopLevelReference>
+          <LowestLevelReference>
+            <LevelName>Postcode</LevelName>
+          </LowestLevelReference>
+        </SpatialCoverage>
+        <TemporalCoverage isUniversallyUnique="true">
+          <URN>urn:ddi:uk.cls.nextsteps:28de888d-fd53-47b7-bcc3-def4441d5498:6</URN>
+          <Agency>uk.cls.nextsteps</Agency>
+          <ID>28de888d-fd53-47b7-bcc3-def4441d5498</ID>
+          <Version>6</Version>
+          <ReferenceDate>
+            <StartDate>2006-04</StartDate>
+            <EndDate>2006-09</EndDate>
+          </ReferenceDate>
+        </TemporalCoverage>
+      </Coverage>
+      <AnalysisUnit codeListVersionID="1.0" xmlns="ddi:reusable:3_2">Individual</AnalysisUnit>
+      <KindOfData codeListVersionID="1.0" xmlns="ddi:reusable:3_2">Survey Data</KindOfData>
+      <DataCollection isUniversallyUnique="true" versionDate="2020-07-15T15:29:20.6265914Z" xmlns="ddi:datacollection:3_2">
+        <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.nextsteps:523a6f17-95f1-4148-8e04-40a0e7029d40:3</URN>
+        <Agency xmlns="ddi:reusable:3_2">uk.cls.nextsteps</Agency>
+        <ID xmlns="ddi:reusable:3_2">523a6f17-95f1-4148-8e04-40a0e7029d40</ID>
+        <Version xmlns="ddi:reusable:3_2">3</Version>
+        <DataCollectionModuleName>
+          <String xml:lang="en-GB" xmlns="ddi:reusable:3_2">ns_06_w3</String>
+        </DataCollectionModuleName>
+        <Label xmlns="ddi:reusable:3_2">
+          <Content xml:lang="en-GB">Next Steps Age 16 Survey (2006)</Content>
+        </Label>
+        <CollectionEvent isUniversallyUnique="true">
+          <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.nextsteps:f2063633-1b6d-4b1e-9e14-8492bc5a9eae:3</URN>
+          <Agency xmlns="ddi:reusable:3_2">uk.cls.nextsteps</Agency>
+          <ID xmlns="ddi:reusable:3_2">f2063633-1b6d-4b1e-9e14-8492bc5a9eae</ID>
+          <Version xmlns="ddi:reusable:3_2">3</Version>
+          <DataCollectorOrganizationReference>
+            <Agency xmlns="ddi:reusable:3_2">uk.closer</Agency>
+            <ID xmlns="ddi:reusable:3_2">74c80340-4856-4b48-b345-701b66ae1c99</ID>
+            <Version xmlns="ddi:reusable:3_2">1</Version>
+            <TypeOfObject xmlns="ddi:reusable:3_2">Organization</TypeOfObject>
+          </DataCollectorOrganizationReference>
+          <DataCollectorOrganizationReference>
+            <Agency xmlns="ddi:reusable:3_2">uk.closer</Agency>
+            <ID xmlns="ddi:reusable:3_2">070cdc4f-be13-4862-95e3-da89b4c15465</ID>
+            <Version xmlns="ddi:reusable:3_2">1</Version>
+            <TypeOfObject xmlns="ddi:reusable:3_2">Organization</TypeOfObject>
+          </DataCollectorOrganizationReference>
+          <DataCollectorOrganizationReference>
+            <Agency xmlns="ddi:reusable:3_2">uk.closer</Agency>
+            <ID xmlns="ddi:reusable:3_2">03d1fb7b-da9c-4b73-9101-a4ea1f189aae</ID>
+            <Version xmlns="ddi:reusable:3_2">2</Version>
+            <TypeOfObject xmlns="ddi:reusable:3_2">Organization</TypeOfObject>
+          </DataCollectorOrganizationReference>
+          <DataCollectionDate>
+            <StartDate xmlns="ddi:reusable:3_2">2006-04</StartDate>
+            <EndDate xmlns="ddi:reusable:3_2">2006-09</EndDate>
+          </DataCollectionDate>
+          <ModeOfCollection isUniversallyUnique="true">
+            <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.nextsteps:aa85a877-8c1a-4a06-a5e7-b0f9cc1f9871:3</URN>
+            <Agency xmlns="ddi:reusable:3_2">uk.cls.nextsteps</Agency>
+            <ID xmlns="ddi:reusable:3_2">aa85a877-8c1a-4a06-a5e7-b0f9cc1f9871</ID>
+            <Version xmlns="ddi:reusable:3_2">3</Version>
+            <TypeOfModeOfCollection codeListVersionID="1.0">Interview.FaceToFace.CAPI/CAMI</TypeOfModeOfCollection>
+            <Description xmlns="ddi:reusable:3_2">
+              <Content xml:lang="en-GB">Face-to-face computer-assisted personal interviewing</Content>
+            </Description>
+          </ModeOfCollection>
+        </CollectionEvent>
+      </DataCollection>
+    </StudyUnit>
+    <StudyUnit isUniversallyUnique="true" versionDate="2020-07-15T15:30:37.5618223Z" xmlns="ddi:studyunit:3_2">
+      <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.nextsteps:e92c993b-f49f-4aea-bd60-68935965bdfc:6</URN>
+      <Agency xmlns="ddi:reusable:3_2">uk.cls.nextsteps</Agency>
+      <ID xmlns="ddi:reusable:3_2">e92c993b-f49f-4aea-bd60-68935965bdfc</ID>
+      <Version xmlns="ddi:reusable:3_2">6</Version>
+      <UserAttributePair xmlns="ddi:reusable:3_2">
+        <AttributeKey>extension:CustomField</AttributeKey>
+        <AttributeValue>{"Title":{"en-GB":"LifeStage"},"Description":{},"ValueType":0,"HasValue":true,"RelationshipTargetType":"00000000-0000-0000-0000-000000000000","StringValue":"Adolescence","MultilingualStringValue":{},"HasDefinedType":false,"DisplayLabel":"LifeStage"}</AttributeValue>
+      </UserAttributePair>
+      <Citation xmlns="ddi:reusable:3_2">
+        <Title>
+          <String xml:lang="en-GB">Next Steps Age 17 Survey (2007)</String>
+        </Title>
+        <AlternateTitle>
+          <String xml:lang="en-GB">Longitudinal Study of Young People in England: Wave 4, 2007</String>
+        </AlternateTitle>
+        <Creator>
+          <CreatorName>
+            <String xml:lang="en-GB">Department for Children, Schools and Families (DCSF)</String>
+          </CreatorName>
+        </Creator>
+        <Publisher>
+          <PublisherName>
+            <String xml:lang="en-GB">Department for Children, Schools and Families (DCSF)</String>
+          </PublisherName>
+        </Publisher>
+        <Copyright>
+          <String xml:lang="en-GB">Department for Children, Schools and Families (DCSF)</String>
+        </Copyright>
+      </Citation>
+      <Abstract xmlns="ddi:reusable:3_2">
+        <Content xml:lang="en-GB">The survey content was strongly focused on educational experiences, but was also broadened, to reflect the age of the cohort member, to include early labour market experiences and economic circumstances, as well as aspects of family formation, risky-, crime- and anti-social behaviours, health and wellbeing. Wherever possible, interviewers were assigned to the same households they had interviewed at Sweep 3. 
+
+Of the 12,468 young people issued from the main sample at sweep 4, the survey reached 11,449 households (92%) in England. Of the 600 young people issued to the boost sample at sweep 4, the survey reached a total of 352 interviews (59%). 
+
+Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/next-steps/next-steps-age-17-sweep" target="_blank" title="Next Steps Age 17 Survey"&gt;www.cls.ucl.ac.uk/cls-studies/next-steps-age-17-sweep&lt;/a&gt;</Content>
+      </Abstract>
+      <UniverseReference xmlns="ddi:reusable:3_2">
+        <Agency>uk.closer</Agency>
+        <ID>7893b035-c652-4a08-b362-345b9f74c5e0</ID>
+        <Version>1</Version>
+        <TypeOfObject>Universe</TypeOfObject>
+      </UniverseReference>
+      <FundingInformation xmlns="ddi:reusable:3_2">
+        <AgencyOrganizationReference>
+          <Agency>uk.closer</Agency>
+          <ID>e5fa2056-3c1c-438e-8736-86a62e42ab5d</ID>
+          <Version>2</Version>
+          <TypeOfObject>Organization</TypeOfObject>
+        </AgencyOrganizationReference>
+      </FundingInformation>
+      <Coverage xmlns="ddi:reusable:3_2">
+        <SpatialCoverage isUniversallyUnique="true">
+          <URN>urn:ddi:uk.cls.nextsteps:d0a85101-d754-4929-8ed6-32ccc32ec7a0:6</URN>
+          <Agency>uk.cls.nextsteps</Agency>
+          <ID>d0a85101-d754-4929-8ed6-32ccc32ec7a0</ID>
+          <Version>6</Version>
+          <BoundingBox>
+            <WestLongitude>0</WestLongitude>
+            <EastLongitude>0</EastLongitude>
+            <SouthLatitude>0</SouthLatitude>
+            <NorthLatitude>0</NorthLatitude>
+          </BoundingBox>
+          <Description>
+            <Content xml:lang="en-GB">England</Content>
+          </Description>
+          <Country>GB-ENG</Country>
+          <TopLevelReference>
+            <LevelName>Country</LevelName>
+          </TopLevelReference>
+          <LowestLevelReference>
+            <LevelName>Postcode</LevelName>
+          </LowestLevelReference>
+        </SpatialCoverage>
+        <TemporalCoverage isUniversallyUnique="true">
+          <URN>urn:ddi:uk.cls.nextsteps:ba03384e-4672-4b79-8514-9a9b6e952e06:6</URN>
+          <Agency>uk.cls.nextsteps</Agency>
+          <ID>ba03384e-4672-4b79-8514-9a9b6e952e06</ID>
+          <Version>6</Version>
+          <ReferenceDate>
+            <StartDate>2007-06</StartDate>
+            <EndDate>2007-10</EndDate>
+          </ReferenceDate>
+        </TemporalCoverage>
+      </Coverage>
+      <AnalysisUnit codeListVersionID="1.0" xmlns="ddi:reusable:3_2">Individual</AnalysisUnit>
+      <KindOfData codeListVersionID="1.0" xmlns="ddi:reusable:3_2">Survey Data</KindOfData>
+      <DataCollection isUniversallyUnique="true" versionDate="2020-07-15T15:30:37.5432945Z" xmlns="ddi:datacollection:3_2">
+        <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.nextsteps:babe265e-07f4-49f1-a07f-6fd0d3f12aee:3</URN>
+        <Agency xmlns="ddi:reusable:3_2">uk.cls.nextsteps</Agency>
+        <ID xmlns="ddi:reusable:3_2">babe265e-07f4-49f1-a07f-6fd0d3f12aee</ID>
+        <Version xmlns="ddi:reusable:3_2">3</Version>
+        <DataCollectionModuleName>
+          <String xml:lang="en-GB" xmlns="ddi:reusable:3_2">ns_07_w4</String>
+        </DataCollectionModuleName>
+        <Label xmlns="ddi:reusable:3_2">
+          <Content xml:lang="en-GB">Next Steps Age 17 Survey (2007)</Content>
+        </Label>
+        <CollectionEvent isUniversallyUnique="true">
+          <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.nextsteps:922b8819-0de0-4ad6-8b4f-34e21f1b2ee1:3</URN>
+          <Agency xmlns="ddi:reusable:3_2">uk.cls.nextsteps</Agency>
+          <ID xmlns="ddi:reusable:3_2">922b8819-0de0-4ad6-8b4f-34e21f1b2ee1</ID>
+          <Version xmlns="ddi:reusable:3_2">3</Version>
+          <DataCollectorOrganizationReference>
+            <Agency xmlns="ddi:reusable:3_2">uk.closer</Agency>
+            <ID xmlns="ddi:reusable:3_2">74c80340-4856-4b48-b345-701b66ae1c99</ID>
+            <Version xmlns="ddi:reusable:3_2">1</Version>
+            <TypeOfObject xmlns="ddi:reusable:3_2">Organization</TypeOfObject>
+          </DataCollectorOrganizationReference>
+          <DataCollectorOrganizationReference>
+            <Agency xmlns="ddi:reusable:3_2">uk.closer</Agency>
+            <ID xmlns="ddi:reusable:3_2">070cdc4f-be13-4862-95e3-da89b4c15465</ID>
+            <Version xmlns="ddi:reusable:3_2">1</Version>
+            <TypeOfObject xmlns="ddi:reusable:3_2">Organization</TypeOfObject>
+          </DataCollectorOrganizationReference>
+          <DataCollectorOrganizationReference>
+            <Agency xmlns="ddi:reusable:3_2">uk.closer</Agency>
+            <ID xmlns="ddi:reusable:3_2">03d1fb7b-da9c-4b73-9101-a4ea1f189aae</ID>
+            <Version xmlns="ddi:reusable:3_2">2</Version>
+            <TypeOfObject xmlns="ddi:reusable:3_2">Organization</TypeOfObject>
+          </DataCollectorOrganizationReference>
+          <DataCollectionDate>
+            <StartDate xmlns="ddi:reusable:3_2">2007-06</StartDate>
+            <EndDate xmlns="ddi:reusable:3_2">2007-10</EndDate>
+          </DataCollectionDate>
+          <ModeOfCollection isUniversallyUnique="true">
+            <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.nextsteps:0ae6d6a9-8541-43ae-b622-c5a31f824da3:3</URN>
+            <Agency xmlns="ddi:reusable:3_2">uk.cls.nextsteps</Agency>
+            <ID xmlns="ddi:reusable:3_2">0ae6d6a9-8541-43ae-b622-c5a31f824da3</ID>
+            <Version xmlns="ddi:reusable:3_2">3</Version>
+            <TypeOfModeOfCollection codeListVersionID="1.0">Interview.FaceToFace.CAPI/CAMI</TypeOfModeOfCollection>
+            <Description xmlns="ddi:reusable:3_2">
+              <Content xml:lang="en-GB">Face-to-face computer-assisted personal interviewing</Content>
+            </Description>
+          </ModeOfCollection>
+        </CollectionEvent>
+      </DataCollection>
+    </StudyUnit>
+    <StudyUnit isUniversallyUnique="true" versionDate="2020-07-15T13:48:45.3676347Z" xmlns="ddi:studyunit:3_2">
+      <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.nextsteps:595ba7f4-c4b5-4001-88c0-43fcbf51cff6:5</URN>
+      <Agency xmlns="ddi:reusable:3_2">uk.cls.nextsteps</Agency>
+      <ID xmlns="ddi:reusable:3_2">595ba7f4-c4b5-4001-88c0-43fcbf51cff6</ID>
+      <Version xmlns="ddi:reusable:3_2">5</Version>
+      <UserAttributePair xmlns="ddi:reusable:3_2">
+        <AttributeKey>extension:CustomField</AttributeKey>
+        <AttributeValue>{"Title":{"en-GB":"LifeStage"},"Description":{},"ValueType":0,"HasValue":true,"RelationshipTargetType":"00000000-0000-0000-0000-000000000000","StringValue":"Adolescence","MultilingualStringValue":{},"HasDefinedType":false,"DisplayLabel":"LifeStage"}</AttributeValue>
+      </UserAttributePair>
+      <Citation xmlns="ddi:reusable:3_2">
+        <Title>
+          <String xml:lang="en-GB">Next Steps Age 18 Survey (2008)</String>
+        </Title>
+        <AlternateTitle>
+          <String xml:lang="en-GB">Longitudinal Study of Young People in England: Wave 5, 2008</String>
+        </AlternateTitle>
+        <Creator>
+          <CreatorName>
+            <String xml:lang="en-GB">Department for Children, Schools and Families (DCSF)</String>
+          </CreatorName>
+        </Creator>
+        <Publisher>
+          <PublisherName>
+            <String xml:lang="en-GB">Department for Children, Schools and Families (DCSF)</String>
+          </PublisherName>
+        </Publisher>
+        <Copyright>
+          <String xml:lang="en-GB">Department for Children, Schools and Families (DCSF)</String>
+        </Copyright>
+      </Citation>
+      <Abstract xmlns="ddi:reusable:3_2">
+        <Content xml:lang="en-GB">Sweep 5 involved a number of significant changes in the way that the study was conducted compared to previous sweeps. The first change to the design of the study was the move to using a mixed mode data collection approach. From Wave 5 the young person could complete the interview either online, over the telephone or face to face with an interviewer in their own home as they had done previously. 
+
+In addition, Sweep 5 was the first sweep which interviewed the sampled young person only. The survey content focused on educational and early labour market experiences, but also included information on other aspects of cohort members’ lives such as social participation and attitudes, risky-, crime- and anti-social behaviours, health and wellbeing, family formation, and aspirations for the future. Of the 11,793 young people issued at sweep 5, the survey reached 10,430 households (88%) in England. 
+
+Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/next-steps/next-steps-age-18-sweep" target="_blank" title="Next Steps Age 18 Survey"&gt;www.cls.ucl.ac.uk/cls-studies/next-steps-age-18-sweep&lt;/a&gt;</Content>
+      </Abstract>
+      <UniverseReference xmlns="ddi:reusable:3_2">
+        <Agency>uk.closer</Agency>
+        <ID>3999040a-6b63-4545-9342-113df0a249bc</ID>
+        <Version>1</Version>
+        <TypeOfObject>Universe</TypeOfObject>
+      </UniverseReference>
+      <FundingInformation xmlns="ddi:reusable:3_2">
+        <AgencyOrganizationReference>
+          <Agency>uk.closer</Agency>
+          <ID>e5fa2056-3c1c-438e-8736-86a62e42ab5d</ID>
+          <Version>2</Version>
+          <TypeOfObject>Organization</TypeOfObject>
+        </AgencyOrganizationReference>
+      </FundingInformation>
+      <Coverage xmlns="ddi:reusable:3_2">
+        <SpatialCoverage isUniversallyUnique="true">
+          <URN>urn:ddi:uk.cls.nextsteps:b2ae0ad9-87d4-4a8e-86e6-afcb0e034acc:5</URN>
+          <Agency>uk.cls.nextsteps</Agency>
+          <ID>b2ae0ad9-87d4-4a8e-86e6-afcb0e034acc</ID>
+          <Version>5</Version>
+          <BoundingBox>
+            <WestLongitude>0</WestLongitude>
+            <EastLongitude>0</EastLongitude>
+            <SouthLatitude>0</SouthLatitude>
+            <NorthLatitude>0</NorthLatitude>
+          </BoundingBox>
+          <Description>
+            <Content xml:lang="en-GB">England</Content>
+          </Description>
+          <Country>GB-ENG</Country>
+          <TopLevelReference>
+            <LevelName>Country</LevelName>
+          </TopLevelReference>
+          <LowestLevelReference>
+            <LevelName>Postcode</LevelName>
+          </LowestLevelReference>
+        </SpatialCoverage>
+        <TemporalCoverage isUniversallyUnique="true">
+          <URN>urn:ddi:uk.cls.nextsteps:d3724c95-5f6e-4ef2-8ba9-ebcc8bfb7564:5</URN>
+          <Agency>uk.cls.nextsteps</Agency>
+          <ID>d3724c95-5f6e-4ef2-8ba9-ebcc8bfb7564</ID>
+          <Version>5</Version>
+          <ReferenceDate>
+            <StartDate>2008-06</StartDate>
+            <EndDate>2008-10</EndDate>
+          </ReferenceDate>
+        </TemporalCoverage>
+      </Coverage>
+      <AnalysisUnit codeListVersionID="1.0" xmlns="ddi:reusable:3_2">Individual</AnalysisUnit>
+      <KindOfData codeListVersionID="1.0" xmlns="ddi:reusable:3_2">Survey Data</KindOfData>
+      <DataCollection isUniversallyUnique="true" versionDate="2020-07-15T12:52:55.8676456Z" xmlns="ddi:datacollection:3_2">
+        <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.nextsteps:0333e658-b865-4d21-a9d2-4bee8f92c407:2</URN>
+        <Agency xmlns="ddi:reusable:3_2">uk.cls.nextsteps</Agency>
+        <ID xmlns="ddi:reusable:3_2">0333e658-b865-4d21-a9d2-4bee8f92c407</ID>
+        <Version xmlns="ddi:reusable:3_2">2</Version>
+        <DataCollectionModuleName>
+          <String xml:lang="en-GB" xmlns="ddi:reusable:3_2">ns_08_w5</String>
+        </DataCollectionModuleName>
+        <Label xmlns="ddi:reusable:3_2">
+          <Content xml:lang="en-GB">Next Steps Age 18 Survey (2008)</Content>
+        </Label>
+        <CollectionEvent isUniversallyUnique="true">
+          <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.nextsteps:65c78a55-2e50-406c-8b5b-b8b3405cd9b2:2</URN>
+          <Agency xmlns="ddi:reusable:3_2">uk.cls.nextsteps</Agency>
+          <ID xmlns="ddi:reusable:3_2">65c78a55-2e50-406c-8b5b-b8b3405cd9b2</ID>
+          <Version xmlns="ddi:reusable:3_2">2</Version>
+          <DataCollectorOrganizationReference>
+            <Agency xmlns="ddi:reusable:3_2">uk.closer</Agency>
+            <ID xmlns="ddi:reusable:3_2">74c80340-4856-4b48-b345-701b66ae1c99</ID>
+            <Version xmlns="ddi:reusable:3_2">1</Version>
+            <TypeOfObject xmlns="ddi:reusable:3_2">Organization</TypeOfObject>
+          </DataCollectorOrganizationReference>
+          <DataCollectorOrganizationReference>
+            <Agency xmlns="ddi:reusable:3_2">uk.closer</Agency>
+            <ID xmlns="ddi:reusable:3_2">070cdc4f-be13-4862-95e3-da89b4c15465</ID>
+            <Version xmlns="ddi:reusable:3_2">1</Version>
+            <TypeOfObject xmlns="ddi:reusable:3_2">Organization</TypeOfObject>
+          </DataCollectorOrganizationReference>
+          <DataCollectionDate>
+            <StartDate xmlns="ddi:reusable:3_2">2008-06</StartDate>
+            <EndDate xmlns="ddi:reusable:3_2">2008-10</EndDate>
+          </DataCollectionDate>
+          <ModeOfCollection isUniversallyUnique="true">
+            <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.nextsteps:8c48649c-685f-4a51-a2af-eb1703ea8a91:2</URN>
+            <Agency xmlns="ddi:reusable:3_2">uk.cls.nextsteps</Agency>
+            <ID xmlns="ddi:reusable:3_2">8c48649c-685f-4a51-a2af-eb1703ea8a91</ID>
+            <Version xmlns="ddi:reusable:3_2">2</Version>
+            <TypeOfModeOfCollection codeListVersionID="1.0">Interview.FaceToFace.CAPI/CAMI</TypeOfModeOfCollection>
+            <Description xmlns="ddi:reusable:3_2">
+              <Content xml:lang="en-GB">Face-to-face computer-assisted personal interviewing</Content>
+            </Description>
+          </ModeOfCollection>
+          <ModeOfCollection isUniversallyUnique="true">
+            <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.nextsteps:82529164-a808-4f4c-8022-aaf04ecc123d:2</URN>
+            <Agency xmlns="ddi:reusable:3_2">uk.cls.nextsteps</Agency>
+            <ID xmlns="ddi:reusable:3_2">82529164-a808-4f4c-8022-aaf04ecc123d</ID>
+            <Version xmlns="ddi:reusable:3_2">2</Version>
+            <TypeOfModeOfCollection codeListVersionID="1.0">Interview.Telephone.CATI</TypeOfModeOfCollection>
+            <Description xmlns="ddi:reusable:3_2">
+              <Content xml:lang="en-GB">Computer-assisted telephone interviewing</Content>
+            </Description>
+          </ModeOfCollection>
+          <ModeOfCollection isUniversallyUnique="true">
+            <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.nextsteps:1608b3b0-7756-486b-ad8b-19b09cfb72f2:2</URN>
+            <Agency xmlns="ddi:reusable:3_2">uk.cls.nextsteps</Agency>
+            <ID xmlns="ddi:reusable:3_2">1608b3b0-7756-486b-ad8b-19b09cfb72f2</ID>
+            <Version xmlns="ddi:reusable:3_2">2</Version>
+            <TypeOfModeOfCollection codeListVersionID="1.0">SelfAdministeredQuestionnaire.WebBased</TypeOfModeOfCollection>
+            <Description xmlns="ddi:reusable:3_2">
+              <Content xml:lang="en-GB">Computer-assisted web interviewing (CAWI). Data are collected using a web questionnaire, produced with a program for creating web surveys</Content>
+            </Description>
+          </ModeOfCollection>
+        </CollectionEvent>
+      </DataCollection>
+    </StudyUnit>
+    <StudyUnit isUniversallyUnique="true" versionDate="2020-07-15T13:52:45.1343057Z" xmlns="ddi:studyunit:3_2">
+      <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.nextsteps:2a9ccc04-e688-49d2-93c6-21e42bc5a77b:5</URN>
+      <Agency xmlns="ddi:reusable:3_2">uk.cls.nextsteps</Agency>
+      <ID xmlns="ddi:reusable:3_2">2a9ccc04-e688-49d2-93c6-21e42bc5a77b</ID>
+      <Version xmlns="ddi:reusable:3_2">5</Version>
+      <UserAttributePair xmlns="ddi:reusable:3_2">
+        <AttributeKey>extension:CustomField</AttributeKey>
+        <AttributeValue>{"Title":{"en-GB":"LifeStage"},"Description":{},"ValueType":0,"HasValue":true,"RelationshipTargetType":"00000000-0000-0000-0000-000000000000","StringValue":"Early adulthood","MultilingualStringValue":{},"HasDefinedType":false,"DisplayLabel":"LifeStage"}</AttributeValue>
+      </UserAttributePair>
+      <Citation xmlns="ddi:reusable:3_2">
+        <Title>
+          <String xml:lang="en-GB">Next Steps Age 19 Survey (2009)</String>
+        </Title>
+        <AlternateTitle>
+          <String xml:lang="en-GB">Longitudinal Study of Young People in England: Wave 6, 2009</String>
+        </AlternateTitle>
+        <Creator>
+          <CreatorName>
+            <String xml:lang="en-GB">Department for Children, Schools and Families (DCSF)</String>
+          </CreatorName>
+        </Creator>
+        <Publisher>
+          <PublisherName>
+            <String xml:lang="en-GB">Department for Children, Schools and Families (DCSF)</String>
+          </PublisherName>
+        </Publisher>
+        <Copyright>
+          <String xml:lang="en-GB">Department for Children, Schools and Families (DCSF)</String>
+        </Copyright>
+      </Citation>
+      <Abstract xmlns="ddi:reusable:3_2">
+        <Content xml:lang="en-GB">Sweep 6 followed the approach carried out in Sweep 5, where the young person could complete the interview either online, over the telephone or face to face with an interviewer in their own home as they had done previously. Additionally, in line with Sweep 5, only the sample young person was interviewed (there were no parental interviews). 
+
+The survey content focused on educational and early labour market experiences, but also included information on other aspects of cohort members’ lives including social participation and attitudes, risky-, crime- and anti-social behaviours, health and wellbeing, family formation, and aspirations for the future. Of the 11,225 young people issued at sweep 6, the survey reached 9,799 households (87%) in England. 
+
+Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/next-steps/next-steps-age-19-sweep" target="_blank" title="Next Steps Age 19 Survey"&gt;www.cls.ucl.ac.uk/cls-studies/next-steps-age-19-sweep&lt;/a&gt;</Content>
+      </Abstract>
+      <UniverseReference xmlns="ddi:reusable:3_2">
+        <Agency>uk.closer</Agency>
+        <ID>ab2fd7e6-6847-460d-903b-c56b93019ba6</ID>
+        <Version>1</Version>
+        <TypeOfObject>Universe</TypeOfObject>
+      </UniverseReference>
+      <FundingInformation xmlns="ddi:reusable:3_2">
+        <AgencyOrganizationReference>
+          <Agency>uk.closer</Agency>
+          <ID>e5fa2056-3c1c-438e-8736-86a62e42ab5d</ID>
+          <Version>2</Version>
+          <TypeOfObject>Organization</TypeOfObject>
+        </AgencyOrganizationReference>
+      </FundingInformation>
+      <Coverage xmlns="ddi:reusable:3_2">
+        <SpatialCoverage isUniversallyUnique="true">
+          <URN>urn:ddi:uk.cls.nextsteps:86ae2784-818e-4b48-a000-9f36c00312db:5</URN>
+          <Agency>uk.cls.nextsteps</Agency>
+          <ID>86ae2784-818e-4b48-a000-9f36c00312db</ID>
+          <Version>5</Version>
+          <BoundingBox>
+            <WestLongitude>0</WestLongitude>
+            <EastLongitude>0</EastLongitude>
+            <SouthLatitude>0</SouthLatitude>
+            <NorthLatitude>0</NorthLatitude>
+          </BoundingBox>
+          <Description>
+            <Content xml:lang="en-GB">England</Content>
+          </Description>
+          <Country>GB-ENG</Country>
+          <TopLevelReference>
+            <LevelName>Country</LevelName>
+          </TopLevelReference>
+          <LowestLevelReference>
+            <LevelName>Postcode</LevelName>
+          </LowestLevelReference>
+        </SpatialCoverage>
+        <TemporalCoverage isUniversallyUnique="true">
+          <URN>urn:ddi:uk.cls.nextsteps:690e4adb-a9bc-4e17-92a9-fa36398d4bfa:5</URN>
+          <Agency>uk.cls.nextsteps</Agency>
+          <ID>690e4adb-a9bc-4e17-92a9-fa36398d4bfa</ID>
+          <Version>5</Version>
+          <ReferenceDate>
+            <StartDate>2009-05</StartDate>
+            <EndDate>2009-10</EndDate>
+          </ReferenceDate>
+        </TemporalCoverage>
+      </Coverage>
+      <AnalysisUnit codeListVersionID="1.0" xmlns="ddi:reusable:3_2">Individual</AnalysisUnit>
+      <KindOfData codeListVersionID="1.0" xmlns="ddi:reusable:3_2">Survey Data</KindOfData>
+      <DataCollection isUniversallyUnique="true" versionDate="2020-07-15T12:54:14.6584393Z" xmlns="ddi:datacollection:3_2">
+        <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.nextsteps:88e074e1-c859-4073-8a7a-f637409bf5fb:2</URN>
+        <Agency xmlns="ddi:reusable:3_2">uk.cls.nextsteps</Agency>
+        <ID xmlns="ddi:reusable:3_2">88e074e1-c859-4073-8a7a-f637409bf5fb</ID>
+        <Version xmlns="ddi:reusable:3_2">2</Version>
+        <DataCollectionModuleName>
+          <String xml:lang="en-GB" xmlns="ddi:reusable:3_2">ns_09_w6</String>
+        </DataCollectionModuleName>
+        <Label xmlns="ddi:reusable:3_2">
+          <Content xml:lang="en-GB">Next Steps Age 19 Survey (2009)</Content>
+        </Label>
+        <CollectionEvent isUniversallyUnique="true">
+          <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.nextsteps:157a9143-a32a-412e-a7db-51814732684c:2</URN>
+          <Agency xmlns="ddi:reusable:3_2">uk.cls.nextsteps</Agency>
+          <ID xmlns="ddi:reusable:3_2">157a9143-a32a-412e-a7db-51814732684c</ID>
+          <Version xmlns="ddi:reusable:3_2">2</Version>
+          <DataCollectorOrganizationReference>
+            <Agency xmlns="ddi:reusable:3_2">uk.closer</Agency>
+            <ID xmlns="ddi:reusable:3_2">74c80340-4856-4b48-b345-701b66ae1c99</ID>
+            <Version xmlns="ddi:reusable:3_2">1</Version>
+            <TypeOfObject xmlns="ddi:reusable:3_2">Organization</TypeOfObject>
+          </DataCollectorOrganizationReference>
+          <DataCollectorOrganizationReference>
+            <Agency xmlns="ddi:reusable:3_2">uk.closer</Agency>
+            <ID xmlns="ddi:reusable:3_2">070cdc4f-be13-4862-95e3-da89b4c15465</ID>
+            <Version xmlns="ddi:reusable:3_2">1</Version>
+            <TypeOfObject xmlns="ddi:reusable:3_2">Organization</TypeOfObject>
+          </DataCollectorOrganizationReference>
+          <DataCollectionDate>
+            <StartDate xmlns="ddi:reusable:3_2">2009-05</StartDate>
+            <EndDate xmlns="ddi:reusable:3_2">2009-10</EndDate>
+          </DataCollectionDate>
+          <ModeOfCollection isUniversallyUnique="true">
+            <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.nextsteps:c4e8e359-cc2e-4c5b-a7cb-db479b085d35:2</URN>
+            <Agency xmlns="ddi:reusable:3_2">uk.cls.nextsteps</Agency>
+            <ID xmlns="ddi:reusable:3_2">c4e8e359-cc2e-4c5b-a7cb-db479b085d35</ID>
+            <Version xmlns="ddi:reusable:3_2">2</Version>
+            <TypeOfModeOfCollection codeListVersionID="1.0">Interview.FaceToFace.CAPI/CAMI</TypeOfModeOfCollection>
+            <Description xmlns="ddi:reusable:3_2">
+              <Content xml:lang="en-GB">Face-to-face computer-assisted personal interviewing</Content>
+            </Description>
+          </ModeOfCollection>
+          <ModeOfCollection isUniversallyUnique="true">
+            <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.nextsteps:8914b370-0b6a-4a9b-be91-c37cb7feddc8:2</URN>
+            <Agency xmlns="ddi:reusable:3_2">uk.cls.nextsteps</Agency>
+            <ID xmlns="ddi:reusable:3_2">8914b370-0b6a-4a9b-be91-c37cb7feddc8</ID>
+            <Version xmlns="ddi:reusable:3_2">2</Version>
+            <TypeOfModeOfCollection codeListVersionID="1.0">Interview.Telephone.CATI</TypeOfModeOfCollection>
+            <Description xmlns="ddi:reusable:3_2">
+              <Content xml:lang="en-GB">Computer-assisted telephone interviewing</Content>
+            </Description>
+          </ModeOfCollection>
+          <ModeOfCollection isUniversallyUnique="true">
+            <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.nextsteps:80c01539-c91c-4b24-a829-42afec56e9f1:2</URN>
+            <Agency xmlns="ddi:reusable:3_2">uk.cls.nextsteps</Agency>
+            <ID xmlns="ddi:reusable:3_2">80c01539-c91c-4b24-a829-42afec56e9f1</ID>
+            <Version xmlns="ddi:reusable:3_2">2</Version>
+            <TypeOfModeOfCollection codeListVersionID="1.0">SelfAdministeredQuestionnaire.WebBased</TypeOfModeOfCollection>
+            <Description xmlns="ddi:reusable:3_2">
+              <Content xml:lang="en-GB">Computer-assisted web interviewing (CAWI). Data are collected using a web questionnaire, produced with a program for creating web surveys</Content>
+            </Description>
+          </ModeOfCollection>
+        </CollectionEvent>
+      </DataCollection>
+    </StudyUnit>
+    <StudyUnit isUniversallyUnique="true" versionDate="2020-07-15T13:53:54.6858184Z" xmlns="ddi:studyunit:3_2">
+      <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.nextsteps:6403132e-fc8d-4c5a-b590-54a2ac62743c:5</URN>
+      <Agency xmlns="ddi:reusable:3_2">uk.cls.nextsteps</Agency>
+      <ID xmlns="ddi:reusable:3_2">6403132e-fc8d-4c5a-b590-54a2ac62743c</ID>
+      <Version xmlns="ddi:reusable:3_2">5</Version>
+      <UserAttributePair xmlns="ddi:reusable:3_2">
+        <AttributeKey>extension:CustomField</AttributeKey>
+        <AttributeValue>{"Title":{"en-GB":"LifeStage"},"Description":{},"ValueType":0,"HasValue":true,"RelationshipTargetType":"00000000-0000-0000-0000-000000000000","StringValue":"Early Adulthood","MultilingualStringValue":{},"HasDefinedType":false,"DisplayLabel":"LifeStage"}</AttributeValue>
+      </UserAttributePair>
+      <Citation xmlns="ddi:reusable:3_2">
+        <Title>
+          <String xml:lang="en-GB">Next Steps Age 20 Survey (2010)</String>
+        </Title>
+        <AlternateTitle>
+          <String xml:lang="en-GB">Longitudinal Study of Young People in England: Wave 7, 2010</String>
+        </AlternateTitle>
+        <Creator>
+          <CreatorName>
+            <String xml:lang="en-GB">Department for Education (DfE)</String>
+          </CreatorName>
+        </Creator>
+        <Publisher>
+          <PublisherName>
+            <String xml:lang="en-GB">Department for Education (DfE)</String>
+          </PublisherName>
+        </Publisher>
+        <Copyright>
+          <String xml:lang="en-GB">Department for Education (DfE)</String>
+        </Copyright>
+      </Citation>
+      <Abstract xmlns="ddi:reusable:3_2">
+        <Content xml:lang="en-GB">Sweep 7 followed the approach carried out in Sweeps 5 and 6, where the young person could complete the interview either online, over the telephone or face to face with an interviewer in their own home as they had done previously. Additionally, in line with the previous two sweeps only the sampled young person was interviewed (there were no parental interviews). 
+
+The survey content focused on educational and early labour market experiences, but also included information on other aspects of cohort members’ lives including social participation and attitudes, risky-, crime- and anti-social behaviours, health and wellbeing, family formation, and aspirations for the future. Of the 9,791 young people issued at sweep 7, the survey reached 8,682 households (90%). 
+
+Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/next-steps/next-steps-age-20-sweep" target="_blank" title="Next Steps Age 20 Survey"&gt;www.cls.ucl.ac.uk/cls-studies/next-steps-age-20-sweep&lt;/a&gt;</Content>
+      </Abstract>
+      <UniverseReference xmlns="ddi:reusable:3_2">
+        <Agency>uk.closer</Agency>
+        <ID>43c1ab11-6046-457d-9281-f206c999e876</ID>
+        <Version>1</Version>
+        <TypeOfObject>Universe</TypeOfObject>
+      </UniverseReference>
+      <FundingInformation xmlns="ddi:reusable:3_2">
+        <AgencyOrganizationReference>
+          <Agency>uk.closer</Agency>
+          <ID>43d1af35-5459-4db2-b482-e1a8886d66fd</ID>
+          <Version>4</Version>
+          <TypeOfObject>Organization</TypeOfObject>
+        </AgencyOrganizationReference>
+      </FundingInformation>
+      <Coverage xmlns="ddi:reusable:3_2">
+        <SpatialCoverage isUniversallyUnique="true">
+          <URN>urn:ddi:uk.cls.nextsteps:48d6c2f3-7bed-4531-bc31-16ec2f966864:5</URN>
+          <Agency>uk.cls.nextsteps</Agency>
+          <ID>48d6c2f3-7bed-4531-bc31-16ec2f966864</ID>
+          <Version>5</Version>
+          <BoundingBox>
+            <WestLongitude>0</WestLongitude>
+            <EastLongitude>0</EastLongitude>
+            <SouthLatitude>0</SouthLatitude>
+            <NorthLatitude>0</NorthLatitude>
+          </BoundingBox>
+          <Description>
+            <Content xml:lang="en-GB">England</Content>
+          </Description>
+          <Country>GB-ENG</Country>
+          <TopLevelReference>
+            <LevelName>Country</LevelName>
+          </TopLevelReference>
+          <LowestLevelReference>
+            <LevelName>Postcode</LevelName>
+          </LowestLevelReference>
+        </SpatialCoverage>
+        <TemporalCoverage isUniversallyUnique="true">
+          <URN>urn:ddi:uk.cls.nextsteps:c1d66c60-3fcf-47a3-ae7c-71138e501334:5</URN>
+          <Agency>uk.cls.nextsteps</Agency>
+          <ID>c1d66c60-3fcf-47a3-ae7c-71138e501334</ID>
+          <Version>5</Version>
+          <ReferenceDate>
+            <StartDate>2010-05</StartDate>
+            <EndDate>2011-10</EndDate>
+          </ReferenceDate>
+        </TemporalCoverage>
+      </Coverage>
+      <AnalysisUnit codeListVersionID="1.0" xmlns="ddi:reusable:3_2">Individual</AnalysisUnit>
+      <KindOfData codeListVersionID="1.0" xmlns="ddi:reusable:3_2">Survey Data</KindOfData>
+      <DataCollection isUniversallyUnique="true" versionDate="2020-07-15T13:08:00.0882537Z" xmlns="ddi:datacollection:3_2">
+        <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.nextsteps:0285abc5-7026-44d3-aa56-c0e0203c5236:2</URN>
+        <Agency xmlns="ddi:reusable:3_2">uk.cls.nextsteps</Agency>
+        <ID xmlns="ddi:reusable:3_2">0285abc5-7026-44d3-aa56-c0e0203c5236</ID>
+        <Version xmlns="ddi:reusable:3_2">2</Version>
+        <DataCollectionModuleName>
+          <String xml:lang="en-GB" xmlns="ddi:reusable:3_2">ns_10_w7</String>
+        </DataCollectionModuleName>
+        <Label xmlns="ddi:reusable:3_2">
+          <Content xml:lang="en-GB">Next Steps Age 20 Survey (2010)</Content>
+        </Label>
+        <CollectionEvent isUniversallyUnique="true">
+          <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.nextsteps:fb8c2cf6-61d8-4d04-bbac-9083e32e8040:2</URN>
+          <Agency xmlns="ddi:reusable:3_2">uk.cls.nextsteps</Agency>
+          <ID xmlns="ddi:reusable:3_2">fb8c2cf6-61d8-4d04-bbac-9083e32e8040</ID>
+          <Version xmlns="ddi:reusable:3_2">2</Version>
+          <DataCollectorOrganizationReference>
+            <Agency xmlns="ddi:reusable:3_2">uk.closer</Agency>
+            <ID xmlns="ddi:reusable:3_2">74c80340-4856-4b48-b345-701b66ae1c99</ID>
+            <Version xmlns="ddi:reusable:3_2">1</Version>
+            <TypeOfObject xmlns="ddi:reusable:3_2">Organization</TypeOfObject>
+          </DataCollectorOrganizationReference>
+          <DataCollectorOrganizationReference>
+            <Agency xmlns="ddi:reusable:3_2">uk.closer</Agency>
+            <ID xmlns="ddi:reusable:3_2">070cdc4f-be13-4862-95e3-da89b4c15465</ID>
+            <Version xmlns="ddi:reusable:3_2">1</Version>
+            <TypeOfObject xmlns="ddi:reusable:3_2">Organization</TypeOfObject>
+          </DataCollectorOrganizationReference>
+          <DataCollectionDate>
+            <StartDate xmlns="ddi:reusable:3_2">2010-05</StartDate>
+            <EndDate xmlns="ddi:reusable:3_2">2011-10</EndDate>
+          </DataCollectionDate>
+          <ModeOfCollection isUniversallyUnique="true">
+            <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.nextsteps:f99c514a-87a9-4509-8584-59a51db42355:2</URN>
+            <Agency xmlns="ddi:reusable:3_2">uk.cls.nextsteps</Agency>
+            <ID xmlns="ddi:reusable:3_2">f99c514a-87a9-4509-8584-59a51db42355</ID>
+            <Version xmlns="ddi:reusable:3_2">2</Version>
+            <TypeOfModeOfCollection codeListVersionID="1.0">Interview.FaceToFace.CAPI/CAMI</TypeOfModeOfCollection>
+            <Description xmlns="ddi:reusable:3_2">
+              <Content xml:lang="en-GB">Face-to-face computer-assisted personal interviewing</Content>
+            </Description>
+          </ModeOfCollection>
+          <ModeOfCollection isUniversallyUnique="true">
+            <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.nextsteps:f62d7a73-b4d2-4e2a-a8b3-20f69a12f15e:2</URN>
+            <Agency xmlns="ddi:reusable:3_2">uk.cls.nextsteps</Agency>
+            <ID xmlns="ddi:reusable:3_2">f62d7a73-b4d2-4e2a-a8b3-20f69a12f15e</ID>
+            <Version xmlns="ddi:reusable:3_2">2</Version>
+            <TypeOfModeOfCollection codeListVersionID="1.0">Interview.Telephone.CATI</TypeOfModeOfCollection>
+            <Description xmlns="ddi:reusable:3_2">
+              <Content xml:lang="en-GB">Computer-assisted telephone interviewing</Content>
+            </Description>
+          </ModeOfCollection>
+          <ModeOfCollection isUniversallyUnique="true">
+            <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.nextsteps:4f792b10-1d11-4834-a2b4-83167d3f97ab:2</URN>
+            <Agency xmlns="ddi:reusable:3_2">uk.cls.nextsteps</Agency>
+            <ID xmlns="ddi:reusable:3_2">4f792b10-1d11-4834-a2b4-83167d3f97ab</ID>
+            <Version xmlns="ddi:reusable:3_2">2</Version>
+            <TypeOfModeOfCollection codeListVersionID="1.0">SelfAdministeredQuestionnaire.WebBased</TypeOfModeOfCollection>
+            <Description xmlns="ddi:reusable:3_2">
+              <Content xml:lang="en-GB">Computer-assisted web interviewing (CAWI). Data are collected using a web questionnaire, produced with a program for creating web surveys</Content>
+            </Description>
+          </ModeOfCollection>
+        </CollectionEvent>
+      </DataCollection>
+    </StudyUnit>
+    <StudyUnit isUniversallyUnique="true" versionDate="2020-07-15T13:54:58.2619515Z" xmlns="ddi:studyunit:3_2">
+      <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.nextsteps:7d451bc1-8462-48c4-a380-755d95b5d0d4:5</URN>
+      <Agency xmlns="ddi:reusable:3_2">uk.cls.nextsteps</Agency>
+      <ID xmlns="ddi:reusable:3_2">7d451bc1-8462-48c4-a380-755d95b5d0d4</ID>
+      <Version xmlns="ddi:reusable:3_2">5</Version>
+      <UserAttributePair xmlns="ddi:reusable:3_2">
+        <AttributeKey>extension:CustomField</AttributeKey>
+        <AttributeValue>{"Title":{"en-GB":"LifeStage"},"Description":{},"ValueType":0,"HasValue":true,"RelationshipTargetType":"00000000-0000-0000-0000-000000000000","StringValue":"Early adulthood","MultilingualStringValue":{},"HasDefinedType":false,"DisplayLabel":"LifeStage"}</AttributeValue>
+      </UserAttributePair>
+      <Citation xmlns="ddi:reusable:3_2">
+        <Title>
+          <String xml:lang="en-GB">Next Steps Age 25 Survey (2015)</String>
+        </Title>
+        <Creator>
+          <CreatorName>
+            <String xml:lang="en-GB">Lisa Calderwood</String>
+          </CreatorName>
+        </Creator>
+        <Publisher>
+          <PublisherName>
+            <String xml:lang="en-GB">University College London, UCL Institute of Education, Centre for Longitudinal Studies</String>
+          </PublisherName>
+        </Publisher>
+        <Copyright>
+          <String xml:lang="en-GB">University College London, UCL Institute of Education, Centre for Longitudinal Studies</String>
+        </Copyright>
+      </Citation>
+      <Abstract xmlns="ddi:reusable:3_2">
+        <Content xml:lang="en-GB">Sweep 8 was the first survey under the management of the Centre for Longitudinal Studies (CLS). The aim of the sweep was to increase our understanding of the lives of young adults growing up today, and in particular transitions out of education and into early adult life. The content of the questionnaire was broadened to cover a range of different disciplinary areas, providing greater comparability with the other CLS cohort studies and a baseline for the study of later life outcomes, as well as maintaining comparability with previous sweeps of Next Steps in key areas. 
+
+Cohort members answered questions about their education and job training, employment and economic circumstances, housing and family life, physical and emotional health, and risky behaviours. A wide range of administrative data linkage consents were also collected covering health, education, economics and criminal behaviour.
+
+The survey sample design was to contact all cohort members who had ever taken part in any of the previous sweeps of the study (except those who had given a clear refusal or are ineligible). A total of 15,531 cohort members were issued for fieldwork and interviews were completed with 7,707 cohort members, representing a 51% response rate. The majority (62%) of fully productive interviews were achieved via web, 9% via telephone, and 29% of interviews were achieved face-to-face. 
+
+Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/next-steps/next-steps-age-25-sweep" target="_blank" title="Next Steps Age 25 Survey"&gt;www.cls.ucl.ac.uk/cls-studies/next-steps-age-25-sweep&lt;/a&gt;</Content>
+      </Abstract>
+      <UniverseReference xmlns="ddi:reusable:3_2">
+        <Agency>uk.closer</Agency>
+        <ID>44f41316-931c-41d7-9e25-386b6f2af7f8</ID>
+        <Version>2</Version>
+        <TypeOfObject>Universe</TypeOfObject>
+      </UniverseReference>
+      <FundingInformation xmlns="ddi:reusable:3_2">
+        <AgencyOrganizationReference>
+          <Agency>uk.closer</Agency>
+          <ID>ced55fc1-3df1-4d66-a925-cf5e1b79167a</ID>
+          <Version>4</Version>
+          <TypeOfObject>Organization</TypeOfObject>
+        </AgencyOrganizationReference>
+      </FundingInformation>
+      <Coverage xmlns="ddi:reusable:3_2">
+        <SpatialCoverage isUniversallyUnique="true">
+          <URN>urn:ddi:uk.cls.nextsteps:ef11f704-c630-4380-8d2d-775d4c5eb50c:5</URN>
+          <Agency>uk.cls.nextsteps</Agency>
+          <ID>ef11f704-c630-4380-8d2d-775d4c5eb50c</ID>
+          <Version>5</Version>
+          <BoundingBox>
+            <WestLongitude>0</WestLongitude>
+            <EastLongitude>0</EastLongitude>
+            <SouthLatitude>0</SouthLatitude>
+            <NorthLatitude>0</NorthLatitude>
+          </BoundingBox>
+          <Description>
+            <Content xml:lang="en-GB">United Kingdom</Content>
+          </Description>
+          <Country>GB-ENG</Country>
+          <Country>GB-SCT</Country>
+          <Country>GB-WLS</Country>
+          <Country>GB-NIR</Country>
+          <TopLevelReference>
+            <LevelName>Country</LevelName>
+          </TopLevelReference>
+          <LowestLevelReference>
+            <LevelName>Postcode</LevelName>
+          </LowestLevelReference>
+        </SpatialCoverage>
+        <TemporalCoverage isUniversallyUnique="true">
+          <URN>urn:ddi:uk.cls.nextsteps:8074368e-1acb-4a8c-9647-41de956677c7:5</URN>
+          <Agency>uk.cls.nextsteps</Agency>
+          <ID>8074368e-1acb-4a8c-9647-41de956677c7</ID>
+          <Version>5</Version>
+          <ReferenceDate>
+            <StartDate>2015-08</StartDate>
+            <EndDate>2016-09</EndDate>
+          </ReferenceDate>
+        </TemporalCoverage>
+      </Coverage>
+      <AnalysisUnit codeListVersionID="1.0" xmlns="ddi:reusable:3_2">Individual</AnalysisUnit>
+      <KindOfData codeListVersionID="1.0" xmlns="ddi:reusable:3_2">Survey Data</KindOfData>
+      <DataCollection isUniversallyUnique="true" versionDate="2020-07-15T13:10:45.6969931Z" xmlns="ddi:datacollection:3_2">
+        <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.nextsteps:44214bd3-cf3b-466d-8d02-593210abddb0:2</URN>
+        <Agency xmlns="ddi:reusable:3_2">uk.cls.nextsteps</Agency>
+        <ID xmlns="ddi:reusable:3_2">44214bd3-cf3b-466d-8d02-593210abddb0</ID>
+        <Version xmlns="ddi:reusable:3_2">2</Version>
+        <DataCollectionModuleName>
+          <String xml:lang="en-GB" xmlns="ddi:reusable:3_2">ns_15_w8</String>
+        </DataCollectionModuleName>
+        <Label xmlns="ddi:reusable:3_2">
+          <Content xml:lang="en-GB">Next Steps Age 25 Survey (2015)</Content>
+        </Label>
+        <CollectionEvent isUniversallyUnique="true">
+          <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.nextsteps:0304d6bc-63a3-4393-b496-f2c1c8c58c39:2</URN>
+          <Agency xmlns="ddi:reusable:3_2">uk.cls.nextsteps</Agency>
+          <ID xmlns="ddi:reusable:3_2">0304d6bc-63a3-4393-b496-f2c1c8c58c39</ID>
+          <Version xmlns="ddi:reusable:3_2">2</Version>
+          <DataCollectorOrganizationReference>
+            <Agency xmlns="ddi:reusable:3_2">uk.closer</Agency>
+            <ID xmlns="ddi:reusable:3_2">7cae2e4d-9ac3-4b5e-b582-a20c4a6523b0</ID>
+            <Version xmlns="ddi:reusable:3_2">1</Version>
+            <TypeOfObject xmlns="ddi:reusable:3_2">Organization</TypeOfObject>
+          </DataCollectorOrganizationReference>
+          <DataCollectionDate>
+            <StartDate xmlns="ddi:reusable:3_2">2015-08</StartDate>
+            <EndDate xmlns="ddi:reusable:3_2">2016-09</EndDate>
+          </DataCollectionDate>
+          <ModeOfCollection isUniversallyUnique="true">
+            <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.nextsteps:6120a45d-49ba-44d3-8beb-0a25ce1ad9dd:2</URN>
+            <Agency xmlns="ddi:reusable:3_2">uk.cls.nextsteps</Agency>
+            <ID xmlns="ddi:reusable:3_2">6120a45d-49ba-44d3-8beb-0a25ce1ad9dd</ID>
+            <Version xmlns="ddi:reusable:3_2">2</Version>
+            <TypeOfModeOfCollection codeListVersionID="1.0">Interview.FaceToFace.CAPI/CAMI</TypeOfModeOfCollection>
+            <Description xmlns="ddi:reusable:3_2">
+              <Content xml:lang="en-GB">Face-to-face computer-assisted personal interviewing</Content>
+            </Description>
+          </ModeOfCollection>
+          <ModeOfCollection isUniversallyUnique="true">
+            <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.nextsteps:675d9728-8b8e-4556-b6ac-c08170741906:2</URN>
+            <Agency xmlns="ddi:reusable:3_2">uk.cls.nextsteps</Agency>
+            <ID xmlns="ddi:reusable:3_2">675d9728-8b8e-4556-b6ac-c08170741906</ID>
+            <Version xmlns="ddi:reusable:3_2">2</Version>
+            <TypeOfModeOfCollection codeListVersionID="1.0">Interview.Telephone.CATI</TypeOfModeOfCollection>
+            <Description xmlns="ddi:reusable:3_2">
+              <Content xml:lang="en-GB">Computer-assisted telephone interviewing</Content>
+            </Description>
+          </ModeOfCollection>
+          <ModeOfCollection isUniversallyUnique="true">
+            <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.nextsteps:200d84bc-c561-45c8-a979-0b0d64ef10d3:2</URN>
+            <Agency xmlns="ddi:reusable:3_2">uk.cls.nextsteps</Agency>
+            <ID xmlns="ddi:reusable:3_2">200d84bc-c561-45c8-a979-0b0d64ef10d3</ID>
+            <Version xmlns="ddi:reusable:3_2">2</Version>
+            <TypeOfModeOfCollection codeListVersionID="1.0">SelfAdministeredQuestionnaire.WebBased</TypeOfModeOfCollection>
+            <Description xmlns="ddi:reusable:3_2">
+              <Content xml:lang="en-GB">Computer-assisted web interviewing (CAWI). Data are collected using a web questionnaire, produced with a program for creating web surveys</Content>
+            </Description>
+          </ModeOfCollection>
+        </CollectionEvent>
+      </DataCollection>
+    </StudyUnit>
+    <StudyUnit isUniversallyUnique="true" versionDate="2020-07-15T13:55:52.5576602Z" xmlns="ddi:studyunit:3_2">
+      <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.nextsteps:78572059-2541-4ce6-813f-10250a53c91b:3</URN>
+      <Agency xmlns="ddi:reusable:3_2">uk.cls.nextsteps</Agency>
+      <ID xmlns="ddi:reusable:3_2">78572059-2541-4ce6-813f-10250a53c91b</ID>
+      <Version xmlns="ddi:reusable:3_2">3</Version>
+      <UserAttributePair xmlns="ddi:reusable:3_2">
+        <AttributeKey>extension:CustomField</AttributeKey>
+        <AttributeValue>{"Title":{"en-GB":"LifeStage"},"Description":{},"ValueType":0,"HasValue":true,"RelationshipTargetType":"00000000-0000-0000-0000-000000000000","StringValue":"Early adulthood","MultilingualStringValue":{},"HasDefinedType":false,"DisplayLabel":"LifeStage"}</AttributeValue>
+      </UserAttributePair>
+      <Citation xmlns="ddi:reusable:3_2">
+        <Title>
+          <String xml:lang="en-GB">Next Steps COVID 19 Survey - Wave 1</String>
+        </Title>
+        <Creator>
+          <CreatorName>
+            <String xml:lang="en-GB">Alissa Goodman</String>
+          </CreatorName>
+        </Creator>
+        <Publisher>
+          <PublisherName>
+            <String xml:lang="en-GB">Centre for Longitudinal Studies, Institute of Education</String>
+          </PublisherName>
+        </Publisher>
+        <Copyright>
+          <String xml:lang="en-GB">Centre for Longitudinal Studies, Institute of Education</String>
+        </Copyright>
+      </Citation>
+      <Abstract xmlns="ddi:reusable:3_2">
+        <Content xml:lang="en-GB">The COVID 19 Survey collects information from participants in 5 national cohort studies about how the Coronavirus epidemic has affected their lives.  The data from the survey will help researchers understand the health, social, and economic impacts of the COVID-19 outbreak. It will be especially important for understanding how people at different life stages are being affected, and how prior life experiences shape resilience or vulnerability to its effects.  By following participants’ lives into the future, the studies will be able to track the longer-term consequences of the pandemic too.</Content>
+      </Abstract>
+      <UniverseReference xmlns="ddi:reusable:3_2">
+        <Agency>uk.closer</Agency>
+        <ID>9793f2d0-37d8-42be-9815-70be0b0a690f</ID>
+        <Version>1</Version>
+        <TypeOfObject>Universe</TypeOfObject>
+      </UniverseReference>
+      <FundingInformation xmlns="ddi:reusable:3_2">
+        <AgencyOrganizationReference>
+          <Agency>uk.closer</Agency>
+          <ID>ced55fc1-3df1-4d66-a925-cf5e1b79167a</ID>
+          <Version>4</Version>
+          <TypeOfObject>Organization</TypeOfObject>
+        </AgencyOrganizationReference>
+      </FundingInformation>
+      <Coverage xmlns="ddi:reusable:3_2">
+        <SpatialCoverage isUniversallyUnique="true">
+          <URN>urn:ddi:uk.cls.nextsteps:5ca86974-f020-43d3-84da-abcfeb0cfb85:3</URN>
+          <Agency>uk.cls.nextsteps</Agency>
+          <ID>5ca86974-f020-43d3-84da-abcfeb0cfb85</ID>
+          <Version>3</Version>
+          <BoundingBox>
+            <WestLongitude>0</WestLongitude>
+            <EastLongitude>0</EastLongitude>
+            <SouthLatitude>0</SouthLatitude>
+            <NorthLatitude>0</NorthLatitude>
+          </BoundingBox>
+          <Description>
+            <Content xml:lang="en-GB">Great Britain</Content>
+          </Description>
+          <Country>GB-ENG</Country>
+          <Country>GB-SCT</Country>
+          <Country>GB-WLS</Country>
+          <Country></Country>
+          <TopLevelReference>
+            <LevelName>Country</LevelName>
+          </TopLevelReference>
+          <LowestLevelReference>
+            <LevelName>Postcode</LevelName>
+          </LowestLevelReference>
+        </SpatialCoverage>
+        <TemporalCoverage isUniversallyUnique="true">
+          <URN>urn:ddi:uk.cls.nextsteps:b2d16bfe-603d-44aa-a944-aaa692c3b4ed:3</URN>
+          <Agency>uk.cls.nextsteps</Agency>
+          <ID>b2d16bfe-603d-44aa-a944-aaa692c3b4ed</ID>
+          <Version>3</Version>
+          <ReferenceDate>
+            <StartDate>2020-04</StartDate>
+            <EndDate>2020-05</EndDate>
+          </ReferenceDate>
+        </TemporalCoverage>
+      </Coverage>
+      <AnalysisUnit codeListVersionID="1.0" xmlns="ddi:reusable:3_2">Individual</AnalysisUnit>
+      <KindOfData codeListVersionID="1.0" xmlns="ddi:reusable:3_2">Survey Data</KindOfData>
+      <KindOfData codeListVersionID="1.0" xmlns="ddi:reusable:3_2">Demographic</KindOfData>
+      <DataCollection isUniversallyUnique="true" versionDate="2020-07-15T13:15:17.7278771Z" xmlns="ddi:datacollection:3_2">
+        <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.nextsteps:dfbd8b81-f806-4d39-b33c-37740b10be98:2</URN>
+        <Agency xmlns="ddi:reusable:3_2">uk.cls.nextsteps</Agency>
+        <ID xmlns="ddi:reusable:3_2">dfbd8b81-f806-4d39-b33c-37740b10be98</ID>
+        <Version xmlns="ddi:reusable:3_2">2</Version>
+        <DataCollectionModuleName>
+          <String xml:lang="en-GB" xmlns="ddi:reusable:3_2">ns_covid_q1</String>
+        </DataCollectionModuleName>
+        <Label xmlns="ddi:reusable:3_2">
+          <Content xml:lang="en-GB">Next Steps COVID 19 Survey - Wave 1</Content>
+        </Label>
+        <CollectionEvent isUniversallyUnique="true">
+          <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.nextsteps:62fd47b5-70b0-458d-b5cc-d3551d20b1bc:2</URN>
+          <Agency xmlns="ddi:reusable:3_2">uk.cls.nextsteps</Agency>
+          <ID xmlns="ddi:reusable:3_2">62fd47b5-70b0-458d-b5cc-d3551d20b1bc</ID>
+          <Version xmlns="ddi:reusable:3_2">2</Version>
+          <DataCollectorOrganizationReference>
+            <Agency xmlns="ddi:reusable:3_2">uk.closer</Agency>
+            <ID xmlns="ddi:reusable:3_2">f026f9ab-91c7-410c-a4a4-b389e3f72078</ID>
+            <Version xmlns="ddi:reusable:3_2">1</Version>
+            <TypeOfObject xmlns="ddi:reusable:3_2">Organization</TypeOfObject>
+          </DataCollectorOrganizationReference>
+          <DataCollectionDate>
+            <StartDate xmlns="ddi:reusable:3_2">2020-04</StartDate>
+            <EndDate xmlns="ddi:reusable:3_2">2020-05</EndDate>
+          </DataCollectionDate>
+          <ModeOfCollection isUniversallyUnique="true">
+            <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.nextsteps:a78119ee-d01d-4115-b1a6-e27114923f2d:2</URN>
+            <Agency xmlns="ddi:reusable:3_2">uk.cls.nextsteps</Agency>
+            <ID xmlns="ddi:reusable:3_2">a78119ee-d01d-4115-b1a6-e27114923f2d</ID>
+            <Version xmlns="ddi:reusable:3_2">2</Version>
+            <TypeOfModeOfCollection codeListVersionID="1.0">SelfAdministeredQuestionnaire.WebBased</TypeOfModeOfCollection>
+            <Description xmlns="ddi:reusable:3_2">
+              <Content xml:lang="en-GB">Computer-assisted web interviewing (CAWI). Data are collected using a web questionnaire, produced with a program for creating web surveys</Content>
+            </Description>
+          </ModeOfCollection>
+        </CollectionEvent>
+      </DataCollection>
+    </StudyUnit>
+  </Group>
+</DDIInstance>
