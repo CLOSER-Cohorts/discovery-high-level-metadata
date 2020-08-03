@@ -1,23 +1,19 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<DDIInstance isUniversallyUnique="true" versionDate="2019-11-05T12:15:42.5917786Z" xmlns="ddi:instance:3_2">
-  <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.closer:0ee34988-2a01-4469-b93e-5693e8e1d3a5:1</URN>
+<?xml version="1.0" encoding="utf-8"?>
+<DDIInstance isUniversallyUnique="true" versionDate="2020-07-06T13:02:47.9278871Z" xmlns="ddi:instance:3_2">
+  <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.closer:3fe6c953-ce9c-42ad-a1b4-597f8d83e3ef:2</URN>
   <Agency xmlns="ddi:reusable:3_2">uk.closer</Agency>
-  <ID xmlns="ddi:reusable:3_2">0ee34988-2a01-4469-b93e-5693e8e1d3a5</ID>
-  <Version xmlns="ddi:reusable:3_2">1</Version>
+  <ID xmlns="ddi:reusable:3_2">3fe6c953-ce9c-42ad-a1b4-597f8d83e3ef</ID>
+  <Version xmlns="ddi:reusable:3_2">2</Version>
   <Citation xmlns="ddi:reusable:3_2">
     <Title>
       <String xml:lang="en-GB">bcs70</String>
     </Title>
   </Citation>
-  <Group isUniversallyUnique="true" versionDate="2019-11-05T12:22:31.2445709Z" xmlns="ddi:group:3_2">
-    <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:75fe4705-0c94-4f75-b1e6-ad9c61ffde26:24</URN>
+  <Group isUniversallyUnique="true" versionDate="2020-07-06T13:02:47.898849Z" xmlns="ddi:group:3_2">
+    <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:75fe4705-0c94-4f75-b1e6-ad9c61ffde26:28</URN>
     <Agency xmlns="ddi:reusable:3_2">uk.cls.bcs70</Agency>
     <ID xmlns="ddi:reusable:3_2">75fe4705-0c94-4f75-b1e6-ad9c61ffde26</ID>
-    <Version xmlns="ddi:reusable:3_2">24</Version>
-    <UserAttributePair xmlns="ddi:reusable:3_2">
-      <AttributeKey>extension:CustomField</AttributeKey>
-      <AttributeValue>{"Title":{"en-GB":"LifeStage"},"Description":{},"ValueType":0,"HasValue":true,"RelationshipTargetType":"00000000-0000-0000-0000-000000000000","StringValue":"Early adulthood","MultilingualStringValue":{},"HasDefinedType":false,"DisplayLabel":"LifeStage"}</AttributeValue>
-    </UserAttributePair>
+    <Version xmlns="ddi:reusable:3_2">28</Version>
     <UserAttributePair xmlns="ddi:reusable:3_2">
       <AttributeKey>extension:CustomField</AttributeKey>
       <AttributeValue>{"Title":{},"Description":{},"ValueType":0,"HasValue":false,"RelationshipTargetType":"00000000-0000-0000-0000-000000000000","MultilingualStringValue":{},"HasDefinedType":false,"DisplayLabel":"Annotation"}</AttributeValue>
@@ -63,11 +59,11 @@ Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/1970-british-cohort
         <TypeOfObject>Organization</TypeOfObject>
       </AgencyOrganizationReference>
     </FundingInformation>
-    <StudyUnit isUniversallyUnique="true" versionDate="2019-11-05T12:22:41.054658Z" xmlns="ddi:studyunit:3_2">
-      <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:e9e9853d-639c-4c9b-bab1-94b22b84f506:13</URN>
+    <StudyUnit isUniversallyUnique="true" versionDate="2020-06-25T11:58:12.836831Z" xmlns="ddi:studyunit:3_2">
+      <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:e9e9853d-639c-4c9b-bab1-94b22b84f506:15</URN>
       <Agency xmlns="ddi:reusable:3_2">uk.cls.bcs70</Agency>
       <ID xmlns="ddi:reusable:3_2">e9e9853d-639c-4c9b-bab1-94b22b84f506</ID>
-      <Version xmlns="ddi:reusable:3_2">13</Version>
+      <Version xmlns="ddi:reusable:3_2">15</Version>
       <UserAttributePair xmlns="ddi:reusable:3_2">
         <AttributeKey>extension:CustomField</AttributeKey>
         <AttributeValue>{"Title":{"en-GB":"LifeStage"},"Description":{},"ValueType":0,"HasValue":true,"RelationshipTargetType":"00000000-0000-0000-0000-000000000000","StringValue":"Pregnancy, birth and infancy","MultilingualStringValue":{},"HasDefinedType":false,"DisplayLabel":"LifeStage"}</AttributeValue>
@@ -95,7 +91,7 @@ Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/1970-british-cohort
         </Publisher>
       </Citation>
       <Abstract xmlns="ddi:reusable:3_2">
-        <Content xml:lang="en-GB">The first survey of the British Cohort Study took place in 1970. Its aims were to examine the social and biological characteristics of the mother in relation to neonatal morbidity, and to compare those results with those of the National Child Development Study (NCDS).
+        <Content xml:lang="en-GB">The first survey of the British Cohort Study took place in 1970. It's aims were to examine the social and biological characteristics of the mother in relation to neonatal morbidity, and to compare those results with those of the National Child Development Study (NCDS).
 
 Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/1970-british-cohort-study/bcs70-birth-sweep/" target="_blank" title="1970 British Cohort Study (BCS70)"&gt;www.cls.ucl.ac.uk/cls-studies/1970-british-cohort-study/bcs70-birth-sweep&lt;/a&gt;</Content>
       </Abstract>
@@ -124,10 +120,10 @@ Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/1970-british-cohort
       </FundingInformation>
       <Coverage xmlns="ddi:reusable:3_2">
         <SpatialCoverage isUniversallyUnique="true">
-          <URN>urn:ddi:uk.cls.bcs70:761dd276-db43-49f6-a280-f6ceafa0dd3a:13</URN>
+          <URN>urn:ddi:uk.cls.bcs70:761dd276-db43-49f6-a280-f6ceafa0dd3a:15</URN>
           <Agency>uk.cls.bcs70</Agency>
           <ID>761dd276-db43-49f6-a280-f6ceafa0dd3a</ID>
-          <Version>13</Version>
+          <Version>15</Version>
           <BoundingBox>
             <WestLongitude>0</WestLongitude>
             <EastLongitude>0</EastLongitude>
@@ -146,10 +142,10 @@ Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/1970-british-cohort
           </LowestLevelReference>
         </SpatialCoverage>
         <TemporalCoverage isUniversallyUnique="true">
-          <URN>urn:ddi:uk.cls.bcs70:9ade7c6b-c407-4ccf-85a3-0107ebb3253f:13</URN>
+          <URN>urn:ddi:uk.cls.bcs70:9ade7c6b-c407-4ccf-85a3-0107ebb3253f:15</URN>
           <Agency>uk.cls.bcs70</Agency>
           <ID>9ade7c6b-c407-4ccf-85a3-0107ebb3253f</ID>
-          <Version>13</Version>
+          <Version>15</Version>
           <ReferenceDate>
             <SimpleDate>1970-04</SimpleDate>
           </ReferenceDate>
@@ -160,11 +156,11 @@ Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/1970-british-cohort
       <KindOfData codeListVersionID="1.0" xmlns="ddi:reusable:3_2">Demographic Data</KindOfData>
       <KindOfData codeListVersionID="1.0" xmlns="ddi:reusable:3_2">Measurement Data</KindOfData>
       <KindOfData codeListVersionID="1.0" xmlns="ddi:reusable:3_2">Administrative Data</KindOfData>
-      <DataCollection isUniversallyUnique="true" versionDate="2019-11-05T12:10:27.3400972Z" xmlns="ddi:datacollection:3_2">
-        <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:dc667547-2098-44d2-b0f9-8800864cd9a4:10</URN>
+      <DataCollection isUniversallyUnique="true" versionDate="2020-06-25T11:58:39.4271469Z" xmlns="ddi:datacollection:3_2">
+        <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:dc667547-2098-44d2-b0f9-8800864cd9a4:11</URN>
         <Agency xmlns="ddi:reusable:3_2">uk.cls.bcs70</Agency>
         <ID xmlns="ddi:reusable:3_2">dc667547-2098-44d2-b0f9-8800864cd9a4</ID>
-        <Version xmlns="ddi:reusable:3_2">10</Version>
+        <Version xmlns="ddi:reusable:3_2">11</Version>
         <DataCollectionModuleName>
           <String xml:lang="en-GB" xmlns="ddi:reusable:3_2">bcs_1970</String>
         </DataCollectionModuleName>
@@ -172,10 +168,10 @@ Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/1970-british-cohort
           <Content xml:lang="en-GB">BCS70 Birth Sweep Questionnaire</Content>
         </Label>
         <CollectionEvent isUniversallyUnique="true">
-          <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:b31fb637-61b5-41da-b598-3cc4d69d1fd8:10</URN>
+          <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:b31fb637-61b5-41da-b598-3cc4d69d1fd8:11</URN>
           <Agency xmlns="ddi:reusable:3_2">uk.cls.bcs70</Agency>
           <ID xmlns="ddi:reusable:3_2">b31fb637-61b5-41da-b598-3cc4d69d1fd8</ID>
-          <Version xmlns="ddi:reusable:3_2">10</Version>
+          <Version xmlns="ddi:reusable:3_2">11</Version>
           <DataCollectorOrganizationReference>
             <Agency xmlns="ddi:reusable:3_2">uk.cls.bcs70</Agency>
             <ID xmlns="ddi:reusable:3_2">3ea6128c-91b5-4be2-a3cc-0da833593e1d</ID>
@@ -192,10 +188,10 @@ Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/1970-british-cohort
             <SimpleDate xmlns="ddi:reusable:3_2">1970-04</SimpleDate>
           </DataCollectionDate>
           <ModeOfCollection isUniversallyUnique="true">
-            <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:08107145-8441-4fd6-9f3f-c474dff9a29b:10</URN>
+            <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:08107145-8441-4fd6-9f3f-c474dff9a29b:11</URN>
             <Agency xmlns="ddi:reusable:3_2">uk.cls.bcs70</Agency>
             <ID xmlns="ddi:reusable:3_2">08107145-8441-4fd6-9f3f-c474dff9a29b</ID>
-            <Version xmlns="ddi:reusable:3_2">10</Version>
+            <Version xmlns="ddi:reusable:3_2">11</Version>
             <TypeOfModeOfCollection codeListVersionID="1.0">Interview.FaceToFace.PAPI</TypeOfModeOfCollection>
             <Description xmlns="ddi:reusable:3_2">
               <Content xml:lang="en-GB">Face-to-face paper and pencil interviewing.</Content>
@@ -204,11 +200,11 @@ Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/1970-british-cohort
         </CollectionEvent>
       </DataCollection>
     </StudyUnit>
-    <StudyUnit isUniversallyUnique="true" versionDate="2019-11-05T12:22:47.5591491Z" xmlns="ddi:studyunit:3_2">
-      <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:210db3c9-b0a5-45bc-b911-80779e79d1a8:11</URN>
+    <StudyUnit isUniversallyUnique="true" versionDate="2020-06-25T12:01:02.2106615Z" xmlns="ddi:studyunit:3_2">
+      <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:210db3c9-b0a5-45bc-b911-80779e79d1a8:12</URN>
       <Agency xmlns="ddi:reusable:3_2">uk.cls.bcs70</Agency>
       <ID xmlns="ddi:reusable:3_2">210db3c9-b0a5-45bc-b911-80779e79d1a8</ID>
-      <Version xmlns="ddi:reusable:3_2">11</Version>
+      <Version xmlns="ddi:reusable:3_2">12</Version>
       <UserAttributePair xmlns="ddi:reusable:3_2">
         <AttributeKey>extension:CustomField</AttributeKey>
         <AttributeValue>{"Title":{"en-GB":"LifeStage"},"Description":{},"ValueType":0,"HasValue":true,"RelationshipTargetType":"00000000-0000-0000-0000-000000000000","StringValue":"Childhood","MultilingualStringValue":{},"HasDefinedType":false,"DisplayLabel":"LifeStage"}</AttributeValue>
@@ -256,10 +252,10 @@ Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/1970-british-cohort
       </FundingInformation>
       <Coverage xmlns="ddi:reusable:3_2">
         <SpatialCoverage isUniversallyUnique="true">
-          <URN>urn:ddi:uk.cls.bcs70:398eddcf-84fe-4ebd-af5f-f60d3144cc7b:11</URN>
+          <URN>urn:ddi:uk.cls.bcs70:398eddcf-84fe-4ebd-af5f-f60d3144cc7b:12</URN>
           <Agency>uk.cls.bcs70</Agency>
           <ID>398eddcf-84fe-4ebd-af5f-f60d3144cc7b</ID>
-          <Version>11</Version>
+          <Version>12</Version>
           <BoundingBox>
             <WestLongitude>0</WestLongitude>
             <EastLongitude>0</EastLongitude>
@@ -278,10 +274,10 @@ Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/1970-british-cohort
           </LowestLevelReference>
         </SpatialCoverage>
         <TemporalCoverage isUniversallyUnique="true">
-          <URN>urn:ddi:uk.cls.bcs70:ec712c80-b150-4b51-9fa8-0a41e1964238:11</URN>
+          <URN>urn:ddi:uk.cls.bcs70:ec712c80-b150-4b51-9fa8-0a41e1964238:12</URN>
           <Agency>uk.cls.bcs70</Agency>
           <ID>ec712c80-b150-4b51-9fa8-0a41e1964238</ID>
-          <Version>11</Version>
+          <Version>12</Version>
           <ReferenceDate>
             <SimpleDate>1975</SimpleDate>
           </ReferenceDate>
@@ -293,11 +289,11 @@ Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/1970-british-cohort
       <KindOfData codeListVersionID="1.0" xmlns="ddi:reusable:3_2">Measurement Data</KindOfData>
       <KindOfData codeListVersionID="1.0" xmlns="ddi:reusable:3_2">Assessment Data</KindOfData>
       <KindOfData codeListVersionID="1.0" xmlns="ddi:reusable:3_2">Administrative Data</KindOfData>
-      <DataCollection isUniversallyUnique="true" versionDate="2019-11-05T12:10:53.891467Z" xmlns="ddi:datacollection:3_2">
-        <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:1a4a2319-53fb-41de-be2a-37f9cd5bc55b:7</URN>
+      <DataCollection isUniversallyUnique="true" versionDate="2020-06-25T12:00:22.8082942Z" xmlns="ddi:datacollection:3_2">
+        <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:1a4a2319-53fb-41de-be2a-37f9cd5bc55b:8</URN>
         <Agency xmlns="ddi:reusable:3_2">uk.cls.bcs70</Agency>
         <ID xmlns="ddi:reusable:3_2">1a4a2319-53fb-41de-be2a-37f9cd5bc55b</ID>
-        <Version xmlns="ddi:reusable:3_2">7</Version>
+        <Version xmlns="ddi:reusable:3_2">8</Version>
         <DataCollectionModuleName>
           <String xml:lang="en-GB" xmlns="ddi:reusable:3_2">bcs_75_hi</String>
         </DataCollectionModuleName>
@@ -305,10 +301,10 @@ Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/1970-british-cohort
           <Content xml:lang="en-GB">BCS70 Age 5 Home Interview</Content>
         </Label>
         <CollectionEvent isUniversallyUnique="true">
-          <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:376ac3d9-ca2d-4269-8217-3eb7e878b8b4:7</URN>
+          <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:376ac3d9-ca2d-4269-8217-3eb7e878b8b4:8</URN>
           <Agency xmlns="ddi:reusable:3_2">uk.cls.bcs70</Agency>
           <ID xmlns="ddi:reusable:3_2">376ac3d9-ca2d-4269-8217-3eb7e878b8b4</ID>
-          <Version xmlns="ddi:reusable:3_2">7</Version>
+          <Version xmlns="ddi:reusable:3_2">8</Version>
           <DataCollectorOrganizationReference>
             <Agency xmlns="ddi:reusable:3_2">uk.cls.bcs70</Agency>
             <ID xmlns="ddi:reusable:3_2">f3b3ded7-01e8-480e-b7fc-8446195d597e</ID>
@@ -319,10 +315,10 @@ Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/1970-british-cohort
             <SimpleDate xmlns="ddi:reusable:3_2">1975</SimpleDate>
           </DataCollectionDate>
           <ModeOfCollection isUniversallyUnique="true">
-            <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:e0b69b7f-212b-47d9-83bc-c46798d9a2e2:7</URN>
+            <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:e0b69b7f-212b-47d9-83bc-c46798d9a2e2:8</URN>
             <Agency xmlns="ddi:reusable:3_2">uk.cls.bcs70</Agency>
             <ID xmlns="ddi:reusable:3_2">e0b69b7f-212b-47d9-83bc-c46798d9a2e2</ID>
-            <Version xmlns="ddi:reusable:3_2">7</Version>
+            <Version xmlns="ddi:reusable:3_2">8</Version>
             <TypeOfModeOfCollection codeListVersionID="1.0">Interview.FaceToFace.PAPI</TypeOfModeOfCollection>
             <Description xmlns="ddi:reusable:3_2">
               <Content xml:lang="en-GB">Face-to-face (paper and pencil) interview</Content>
@@ -330,11 +326,11 @@ Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/1970-british-cohort
           </ModeOfCollection>
         </CollectionEvent>
       </DataCollection>
-      <DataCollection isUniversallyUnique="true" versionDate="2019-11-05T12:10:53.891467Z" xmlns="ddi:datacollection:3_2">
-        <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:8ca05251-be74-47d6-aec5-9dc74320f146:7</URN>
+      <DataCollection isUniversallyUnique="true" versionDate="2020-06-25T12:00:43.9069889Z" xmlns="ddi:datacollection:3_2">
+        <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:8ca05251-be74-47d6-aec5-9dc74320f146:8</URN>
         <Agency xmlns="ddi:reusable:3_2">uk.cls.bcs70</Agency>
         <ID xmlns="ddi:reusable:3_2">8ca05251-be74-47d6-aec5-9dc74320f146</ID>
-        <Version xmlns="ddi:reusable:3_2">7</Version>
+        <Version xmlns="ddi:reusable:3_2">8</Version>
         <DataCollectionModuleName>
           <String xml:lang="en-GB" xmlns="ddi:reusable:3_2">bcs_75_dhs</String>
         </DataCollectionModuleName>
@@ -342,10 +338,10 @@ Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/1970-british-cohort
           <Content xml:lang="en-GB">BCS70 Age 5 Developmental Histories Schedule</Content>
         </Label>
         <CollectionEvent isUniversallyUnique="true">
-          <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:da8c4483-aee0-4cd2-b8f5-f59947a039da:7</URN>
+          <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:da8c4483-aee0-4cd2-b8f5-f59947a039da:8</URN>
           <Agency xmlns="ddi:reusable:3_2">uk.cls.bcs70</Agency>
           <ID xmlns="ddi:reusable:3_2">da8c4483-aee0-4cd2-b8f5-f59947a039da</ID>
-          <Version xmlns="ddi:reusable:3_2">7</Version>
+          <Version xmlns="ddi:reusable:3_2">8</Version>
           <DataCollectorOrganizationReference>
             <Agency xmlns="ddi:reusable:3_2">uk.cls.bcs70</Agency>
             <ID xmlns="ddi:reusable:3_2">f3b3ded7-01e8-480e-b7fc-8446195d597e</ID>
@@ -356,10 +352,10 @@ Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/1970-british-cohort
             <SimpleDate xmlns="ddi:reusable:3_2">1975</SimpleDate>
           </DataCollectionDate>
           <ModeOfCollection isUniversallyUnique="true">
-            <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:e2d77ecd-6f64-4ce6-8ed4-9465805dca5e:7</URN>
+            <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:e2d77ecd-6f64-4ce6-8ed4-9465805dca5e:8</URN>
             <Agency xmlns="ddi:reusable:3_2">uk.cls.bcs70</Agency>
             <ID xmlns="ddi:reusable:3_2">e2d77ecd-6f64-4ce6-8ed4-9465805dca5e</ID>
-            <Version xmlns="ddi:reusable:3_2">7</Version>
+            <Version xmlns="ddi:reusable:3_2">8</Version>
             <TypeOfModeOfCollection codeListVersionID="1.0">CompilationSynthesis</TypeOfModeOfCollection>
             <Description xmlns="ddi:reusable:3_2">
               <Content xml:lang="en-GB">Collecting and assembling data from multiple, often heterogeneous sources that have one or more reference points in common, and at least one of the sources was originally produced for other purposes.</Content>
@@ -367,11 +363,11 @@ Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/1970-british-cohort
           </ModeOfCollection>
         </CollectionEvent>
       </DataCollection>
-      <DataCollection isUniversallyUnique="true" versionDate="2019-11-05T12:10:53.891467Z" xmlns="ddi:datacollection:3_2">
-        <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:26882ef8-4fc0-43e8-92a5-92ce4c7979d3:7</URN>
+      <DataCollection isUniversallyUnique="true" versionDate="2020-06-25T12:01:10.925415Z" xmlns="ddi:datacollection:3_2">
+        <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:26882ef8-4fc0-43e8-92a5-92ce4c7979d3:8</URN>
         <Agency xmlns="ddi:reusable:3_2">uk.cls.bcs70</Agency>
         <ID xmlns="ddi:reusable:3_2">26882ef8-4fc0-43e8-92a5-92ce4c7979d3</ID>
-        <Version xmlns="ddi:reusable:3_2">7</Version>
+        <Version xmlns="ddi:reusable:3_2">8</Version>
         <DataCollectionModuleName>
           <String xml:lang="en-GB" xmlns="ddi:reusable:3_2">bcs_75_mcs</String>
         </DataCollectionModuleName>
@@ -379,10 +375,10 @@ Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/1970-british-cohort
           <Content xml:lang="en-GB">BCS70 Age 5 Maternal Self-Completion Questionnaire</Content>
         </Label>
         <CollectionEvent isUniversallyUnique="true">
-          <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:ad371d3a-d7f9-4a93-bd87-42cb1edf47bc:7</URN>
+          <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:ad371d3a-d7f9-4a93-bd87-42cb1edf47bc:8</URN>
           <Agency xmlns="ddi:reusable:3_2">uk.cls.bcs70</Agency>
           <ID xmlns="ddi:reusable:3_2">ad371d3a-d7f9-4a93-bd87-42cb1edf47bc</ID>
-          <Version xmlns="ddi:reusable:3_2">7</Version>
+          <Version xmlns="ddi:reusable:3_2">8</Version>
           <DataCollectorOrganizationReference>
             <Agency xmlns="ddi:reusable:3_2">uk.cls.bcs70</Agency>
             <ID xmlns="ddi:reusable:3_2">f3b3ded7-01e8-480e-b7fc-8446195d597e</ID>
@@ -393,10 +389,10 @@ Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/1970-british-cohort
             <SimpleDate xmlns="ddi:reusable:3_2">1975</SimpleDate>
           </DataCollectionDate>
           <ModeOfCollection isUniversallyUnique="true">
-            <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:85b9185e-727a-4403-9661-24f44c0a88a1:7</URN>
+            <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:85b9185e-727a-4403-9661-24f44c0a88a1:8</URN>
             <Agency xmlns="ddi:reusable:3_2">uk.cls.bcs70</Agency>
             <ID xmlns="ddi:reusable:3_2">85b9185e-727a-4403-9661-24f44c0a88a1</ID>
-            <Version xmlns="ddi:reusable:3_2">7</Version>
+            <Version xmlns="ddi:reusable:3_2">8</Version>
             <TypeOfModeOfCollection codeListVersionID="1.0">SelfAdministeredQuestionnaire.Paper</TypeOfModeOfCollection>
             <Description xmlns="ddi:reusable:3_2">
               <Content xml:lang="en-GB">Self-administered survey using a traditional paper questionnaire delivered and/or collected by mail (postal services), by fax, or in person by either interviewer, or respondent.</Content>
@@ -547,11 +543,11 @@ Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/1970-british-cohort
         </CollectionEvent>
       </DataCollection>
     </StudyUnit>
-    <StudyUnit isUniversallyUnique="true" versionDate="2019-11-05T12:22:53.0649527Z" xmlns="ddi:studyunit:3_2">
-      <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:769f42d4-c0bf-421a-b004-a33355291748:10</URN>
+    <StudyUnit isUniversallyUnique="true" versionDate="2020-06-25T12:07:06.6927513Z" xmlns="ddi:studyunit:3_2">
+      <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:769f42d4-c0bf-421a-b004-a33355291748:12</URN>
       <Agency xmlns="ddi:reusable:3_2">uk.cls.bcs70</Agency>
       <ID xmlns="ddi:reusable:3_2">769f42d4-c0bf-421a-b004-a33355291748</ID>
-      <Version xmlns="ddi:reusable:3_2">10</Version>
+      <Version xmlns="ddi:reusable:3_2">12</Version>
       <UserAttributePair xmlns="ddi:reusable:3_2">
         <AttributeKey>extension:CustomField</AttributeKey>
         <AttributeValue>{"Title":{"en-GB":"LifeStage"},"Description":{},"ValueType":0,"HasValue":true,"RelationshipTargetType":"00000000-0000-0000-0000-000000000000","StringValue":"Childhood","MultilingualStringValue":{},"HasDefinedType":false,"DisplayLabel":"LifeStage"}</AttributeValue>
@@ -635,10 +631,10 @@ Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/1970-british-cohort
       </FundingInformation>
       <Coverage xmlns="ddi:reusable:3_2">
         <SpatialCoverage isUniversallyUnique="true">
-          <URN>urn:ddi:uk.cls.bcs70:685d1666-bab0-469e-b472-6ddf5cab2698:10</URN>
+          <URN>urn:ddi:uk.cls.bcs70:685d1666-bab0-469e-b472-6ddf5cab2698:12</URN>
           <Agency>uk.cls.bcs70</Agency>
           <ID>685d1666-bab0-469e-b472-6ddf5cab2698</ID>
-          <Version>10</Version>
+          <Version>12</Version>
           <BoundingBox>
             <WestLongitude>0</WestLongitude>
             <EastLongitude>0</EastLongitude>
@@ -653,10 +649,10 @@ Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/1970-british-cohort
           </TopLevelReference>
         </SpatialCoverage>
         <TemporalCoverage isUniversallyUnique="true">
-          <URN>urn:ddi:uk.cls.bcs70:2c71afb8-29f8-43a6-85bd-4ad2672ba3bf:10</URN>
+          <URN>urn:ddi:uk.cls.bcs70:2c71afb8-29f8-43a6-85bd-4ad2672ba3bf:12</URN>
           <Agency>uk.cls.bcs70</Agency>
           <ID>2c71afb8-29f8-43a6-85bd-4ad2672ba3bf</ID>
-          <Version>10</Version>
+          <Version>12</Version>
           <ReferenceDate>
             <StartDate>1980</StartDate>
             <EndDate>1981</EndDate>
@@ -669,11 +665,11 @@ Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/1970-british-cohort
       <KindOfData codeListVersionID="1.0" xmlns="ddi:reusable:3_2">Measurement Data</KindOfData>
       <KindOfData codeListVersionID="1.0" xmlns="ddi:reusable:3_2">Assessment Data</KindOfData>
       <KindOfData codeListVersionID="1.0" xmlns="ddi:reusable:3_2">Administrative Data</KindOfData>
-      <DataCollection isUniversallyUnique="true" versionDate="2019-11-05T12:10:53.891467Z" xmlns="ddi:datacollection:3_2">
-        <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:5ef2a0ae-9f17-40ae-9c86-afb4e17bba8a:4</URN>
+      <DataCollection isUniversallyUnique="true" versionDate="2020-06-25T12:04:16.4847733Z" xmlns="ddi:datacollection:3_2">
+        <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:5ef2a0ae-9f17-40ae-9c86-afb4e17bba8a:5</URN>
         <Agency xmlns="ddi:reusable:3_2">uk.cls.bcs70</Agency>
         <ID xmlns="ddi:reusable:3_2">5ef2a0ae-9f17-40ae-9c86-afb4e17bba8a</ID>
-        <Version xmlns="ddi:reusable:3_2">4</Version>
+        <Version xmlns="ddi:reusable:3_2">5</Version>
         <DataCollectionModuleName>
           <String xml:lang="en-GB" xmlns="ddi:reusable:3_2">bcs_80_msc</String>
         </DataCollectionModuleName>
@@ -681,10 +677,10 @@ Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/1970-british-cohort
           <Content xml:lang="en-GB">BCS70 Age 10 Maternal Self-Completion Form</Content>
         </Label>
         <CollectionEvent isUniversallyUnique="true">
-          <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:a396a3b8-986c-4b71-8f48-e2c248eb2374:4</URN>
+          <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:a396a3b8-986c-4b71-8f48-e2c248eb2374:5</URN>
           <Agency xmlns="ddi:reusable:3_2">uk.cls.bcs70</Agency>
           <ID xmlns="ddi:reusable:3_2">a396a3b8-986c-4b71-8f48-e2c248eb2374</ID>
-          <Version xmlns="ddi:reusable:3_2">4</Version>
+          <Version xmlns="ddi:reusable:3_2">5</Version>
           <DataCollectorOrganizationReference>
             <Agency xmlns="ddi:reusable:3_2">uk.cls.bcs70</Agency>
             <ID xmlns="ddi:reusable:3_2">f3b3ded7-01e8-480e-b7fc-8446195d597e</ID>
@@ -696,10 +692,10 @@ Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/1970-british-cohort
             <EndDate xmlns="ddi:reusable:3_2">1981</EndDate>
           </DataCollectionDate>
           <ModeOfCollection isUniversallyUnique="true">
-            <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:4f1ef9a9-30c9-407c-9b97-1e83f8b1b6a7:4</URN>
+            <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:4f1ef9a9-30c9-407c-9b97-1e83f8b1b6a7:5</URN>
             <Agency xmlns="ddi:reusable:3_2">uk.cls.bcs70</Agency>
             <ID xmlns="ddi:reusable:3_2">4f1ef9a9-30c9-407c-9b97-1e83f8b1b6a7</ID>
-            <Version xmlns="ddi:reusable:3_2">4</Version>
+            <Version xmlns="ddi:reusable:3_2">5</Version>
             <TypeOfModeOfCollection codeListVersionID="1.0">SelfAdministeredQuestionnaire.Paper</TypeOfModeOfCollection>
             <Description xmlns="ddi:reusable:3_2">
               <Content xml:lang="en-GB">Self-administered survey using a traditional paper questionnaire delivered and/or collected by mail (postal services), by fax, or in person by either interviewer, or respondent.</Content>
@@ -707,11 +703,11 @@ Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/1970-british-cohort
           </ModeOfCollection>
         </CollectionEvent>
       </DataCollection>
-      <DataCollection isUniversallyUnique="true" versionDate="2019-11-05T12:10:53.891467Z" xmlns="ddi:datacollection:3_2">
-        <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:8b3bd728-a607-4262-84f6-9dd3c2980c89:8</URN>
+      <DataCollection isUniversallyUnique="true" versionDate="2020-06-25T12:04:42.0130664Z" xmlns="ddi:datacollection:3_2">
+        <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:8b3bd728-a607-4262-84f6-9dd3c2980c89:9</URN>
         <Agency xmlns="ddi:reusable:3_2">uk.cls.bcs70</Agency>
         <ID xmlns="ddi:reusable:3_2">8b3bd728-a607-4262-84f6-9dd3c2980c89</ID>
-        <Version xmlns="ddi:reusable:3_2">8</Version>
+        <Version xmlns="ddi:reusable:3_2">9</Version>
         <DataCollectionModuleName>
           <String xml:lang="en-GB" xmlns="ddi:reusable:3_2">bcs_80_pi</String>
         </DataCollectionModuleName>
@@ -719,9 +715,47 @@ Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/1970-british-cohort
           <Content xml:lang="en-GB">BCS70 Age 10 Parental Interview</Content>
         </Label>
         <CollectionEvent isUniversallyUnique="true">
-          <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:17dce471-f782-4a26-a7aa-274ef5a73236:8</URN>
+          <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:17dce471-f782-4a26-a7aa-274ef5a73236:9</URN>
           <Agency xmlns="ddi:reusable:3_2">uk.cls.bcs70</Agency>
           <ID xmlns="ddi:reusable:3_2">17dce471-f782-4a26-a7aa-274ef5a73236</ID>
+          <Version xmlns="ddi:reusable:3_2">9</Version>
+          <DataCollectorOrganizationReference>
+            <Agency xmlns="ddi:reusable:3_2">uk.cls.bcs70</Agency>
+            <ID xmlns="ddi:reusable:3_2">f3b3ded7-01e8-480e-b7fc-8446195d597e</ID>
+            <Version xmlns="ddi:reusable:3_2">2</Version>
+            <TypeOfObject xmlns="ddi:reusable:3_2">Organization</TypeOfObject>
+          </DataCollectorOrganizationReference>
+          <DataCollectionDate>
+            <StartDate xmlns="ddi:reusable:3_2">1980</StartDate>
+            <EndDate xmlns="ddi:reusable:3_2">1981</EndDate>
+          </DataCollectionDate>
+          <ModeOfCollection isUniversallyUnique="true">
+            <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:2e5ad43f-0335-4624-a350-eb864abe4371:9</URN>
+            <Agency xmlns="ddi:reusable:3_2">uk.cls.bcs70</Agency>
+            <ID xmlns="ddi:reusable:3_2">2e5ad43f-0335-4624-a350-eb864abe4371</ID>
+            <Version xmlns="ddi:reusable:3_2">9</Version>
+            <TypeOfModeOfCollection codeListVersionID="1.0">Interview.FaceToFace.PAPI</TypeOfModeOfCollection>
+            <Description xmlns="ddi:reusable:3_2">
+              <Content xml:lang="en-GB">Face-to-face (paper and pencil) interview</Content>
+            </Description>
+          </ModeOfCollection>
+        </CollectionEvent>
+      </DataCollection>
+      <DataCollection isUniversallyUnique="true" versionDate="2020-06-25T12:05:11.9714508Z" xmlns="ddi:datacollection:3_2">
+        <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:74b1a569-d7d2-43e8-8b36-3daf388a38ef:8</URN>
+        <Agency xmlns="ddi:reusable:3_2">uk.cls.bcs70</Agency>
+        <ID xmlns="ddi:reusable:3_2">74b1a569-d7d2-43e8-8b36-3daf388a38ef</ID>
+        <Version xmlns="ddi:reusable:3_2">8</Version>
+        <DataCollectionModuleName>
+          <String xml:lang="en-GB" xmlns="ddi:reusable:3_2">bcs_80_pqf</String>
+        </DataCollectionModuleName>
+        <Label xmlns="ddi:reusable:3_2">
+          <Content xml:lang="en-GB">BCS70 Age 10 Pupil Question Form</Content>
+        </Label>
+        <CollectionEvent isUniversallyUnique="true">
+          <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:a30bbf86-ec99-424d-93a2-e1410ec3236a:8</URN>
+          <Agency xmlns="ddi:reusable:3_2">uk.cls.bcs70</Agency>
+          <ID xmlns="ddi:reusable:3_2">a30bbf86-ec99-424d-93a2-e1410ec3236a</ID>
           <Version xmlns="ddi:reusable:3_2">8</Version>
           <DataCollectorOrganizationReference>
             <Agency xmlns="ddi:reusable:3_2">uk.cls.bcs70</Agency>
@@ -734,48 +768,10 @@ Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/1970-british-cohort
             <EndDate xmlns="ddi:reusable:3_2">1981</EndDate>
           </DataCollectionDate>
           <ModeOfCollection isUniversallyUnique="true">
-            <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:2e5ad43f-0335-4624-a350-eb864abe4371:8</URN>
-            <Agency xmlns="ddi:reusable:3_2">uk.cls.bcs70</Agency>
-            <ID xmlns="ddi:reusable:3_2">2e5ad43f-0335-4624-a350-eb864abe4371</ID>
-            <Version xmlns="ddi:reusable:3_2">8</Version>
-            <TypeOfModeOfCollection codeListVersionID="1.0">Interview.FaceToFace.PAPI</TypeOfModeOfCollection>
-            <Description xmlns="ddi:reusable:3_2">
-              <Content xml:lang="en-GB">Face-to-face (paper and pencil) interview</Content>
-            </Description>
-          </ModeOfCollection>
-        </CollectionEvent>
-      </DataCollection>
-      <DataCollection isUniversallyUnique="true" versionDate="2019-11-05T12:10:53.891467Z" xmlns="ddi:datacollection:3_2">
-        <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:74b1a569-d7d2-43e8-8b36-3daf388a38ef:7</URN>
-        <Agency xmlns="ddi:reusable:3_2">uk.cls.bcs70</Agency>
-        <ID xmlns="ddi:reusable:3_2">74b1a569-d7d2-43e8-8b36-3daf388a38ef</ID>
-        <Version xmlns="ddi:reusable:3_2">7</Version>
-        <DataCollectionModuleName>
-          <String xml:lang="en-GB" xmlns="ddi:reusable:3_2">bcs_80_pqf</String>
-        </DataCollectionModuleName>
-        <Label xmlns="ddi:reusable:3_2">
-          <Content xml:lang="en-GB">BCS70 Age 10 Pupil Question Form</Content>
-        </Label>
-        <CollectionEvent isUniversallyUnique="true">
-          <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:a30bbf86-ec99-424d-93a2-e1410ec3236a:7</URN>
-          <Agency xmlns="ddi:reusable:3_2">uk.cls.bcs70</Agency>
-          <ID xmlns="ddi:reusable:3_2">a30bbf86-ec99-424d-93a2-e1410ec3236a</ID>
-          <Version xmlns="ddi:reusable:3_2">7</Version>
-          <DataCollectorOrganizationReference>
-            <Agency xmlns="ddi:reusable:3_2">uk.cls.bcs70</Agency>
-            <ID xmlns="ddi:reusable:3_2">f3b3ded7-01e8-480e-b7fc-8446195d597e</ID>
-            <Version xmlns="ddi:reusable:3_2">2</Version>
-            <TypeOfObject xmlns="ddi:reusable:3_2">Organization</TypeOfObject>
-          </DataCollectorOrganizationReference>
-          <DataCollectionDate>
-            <StartDate xmlns="ddi:reusable:3_2">1980</StartDate>
-            <EndDate xmlns="ddi:reusable:3_2">1981</EndDate>
-          </DataCollectionDate>
-          <ModeOfCollection isUniversallyUnique="true">
-            <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:30216d4b-f897-45f6-b610-5f23a7e86f15:7</URN>
+            <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:30216d4b-f897-45f6-b610-5f23a7e86f15:8</URN>
             <Agency xmlns="ddi:reusable:3_2">uk.cls.bcs70</Agency>
             <ID xmlns="ddi:reusable:3_2">30216d4b-f897-45f6-b610-5f23a7e86f15</ID>
-            <Version xmlns="ddi:reusable:3_2">7</Version>
+            <Version xmlns="ddi:reusable:3_2">8</Version>
             <TypeOfModeOfCollection codeListVersionID="1.0">SelfAdministeredQuestionnaire.Paper</TypeOfModeOfCollection>
             <Description xmlns="ddi:reusable:3_2">
               <Content xml:lang="en-GB">Self-administered survey using a traditional paper questionnaire delivered and/or collected by mail (postal services), by fax, or in person by either interviewer, or respondent.</Content>
@@ -821,11 +817,11 @@ Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/1970-british-cohort
           </ModeOfCollection>
         </CollectionEvent>
       </DataCollection>
-      <DataCollection isUniversallyUnique="true" versionDate="2019-11-05T12:10:53.891467Z" xmlns="ddi:datacollection:3_2">
-        <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:da3de304-5a9b-4d47-afe2-1ad0316188fe:7</URN>
+      <DataCollection isUniversallyUnique="true" versionDate="2020-06-25T12:05:39.7102697Z" xmlns="ddi:datacollection:3_2">
+        <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:da3de304-5a9b-4d47-afe2-1ad0316188fe:8</URN>
         <Agency xmlns="ddi:reusable:3_2">uk.cls.bcs70</Agency>
         <ID xmlns="ddi:reusable:3_2">da3de304-5a9b-4d47-afe2-1ad0316188fe</ID>
-        <Version xmlns="ddi:reusable:3_2">7</Version>
+        <Version xmlns="ddi:reusable:3_2">8</Version>
         <DataCollectionModuleName>
           <String xml:lang="en-GB" xmlns="ddi:reusable:3_2">bcs_80_ossc</String>
         </DataCollectionModuleName>
@@ -833,10 +829,10 @@ Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/1970-british-cohort
           <Content xml:lang="en-GB">BCS70 Age 10 Educational Score Form</Content>
         </Label>
         <CollectionEvent isUniversallyUnique="true">
-          <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:5c98eea4-050c-4560-8006-5e0fcf48f623:7</URN>
+          <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:5c98eea4-050c-4560-8006-5e0fcf48f623:8</URN>
           <Agency xmlns="ddi:reusable:3_2">uk.cls.bcs70</Agency>
           <ID xmlns="ddi:reusable:3_2">5c98eea4-050c-4560-8006-5e0fcf48f623</ID>
-          <Version xmlns="ddi:reusable:3_2">7</Version>
+          <Version xmlns="ddi:reusable:3_2">8</Version>
           <DataCollectorOrganizationReference>
             <Agency xmlns="ddi:reusable:3_2">uk.cls.bcs70</Agency>
             <ID xmlns="ddi:reusable:3_2">f3b3ded7-01e8-480e-b7fc-8446195d597e</ID>
@@ -848,20 +844,20 @@ Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/1970-british-cohort
             <EndDate xmlns="ddi:reusable:3_2">1981</EndDate>
           </DataCollectionDate>
           <ModeOfCollection isUniversallyUnique="true">
-            <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:ba80725d-9256-47d3-bf5a-3e74047677bd:7</URN>
+            <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:ba80725d-9256-47d3-bf5a-3e74047677bd:8</URN>
             <Agency xmlns="ddi:reusable:3_2">uk.cls.bcs70</Agency>
             <ID xmlns="ddi:reusable:3_2">ba80725d-9256-47d3-bf5a-3e74047677bd</ID>
-            <Version xmlns="ddi:reusable:3_2">7</Version>
+            <Version xmlns="ddi:reusable:3_2">8</Version>
             <TypeOfModeOfCollection codeListVersionID="1.0">MeasurementsAndTests.Educational</TypeOfModeOfCollection>
             <Description xmlns="ddi:reusable:3_2">
               <Content xml:lang="en-GB">Assessment of knowledge, skills, aptitude or educational achievement by means of specialised measures or tests.</Content>
             </Description>
           </ModeOfCollection>
           <ModeOfCollection isUniversallyUnique="true">
-            <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:ca4f2b78-ad28-4947-9d7f-23b79c4c7314:7</URN>
+            <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:ca4f2b78-ad28-4947-9d7f-23b79c4c7314:8</URN>
             <Agency xmlns="ddi:reusable:3_2">uk.cls.bcs70</Agency>
             <ID xmlns="ddi:reusable:3_2">ca4f2b78-ad28-4947-9d7f-23b79c4c7314</ID>
-            <Version xmlns="ddi:reusable:3_2">7</Version>
+            <Version xmlns="ddi:reusable:3_2">8</Version>
             <TypeOfModeOfCollection codeListVersionID="1.0">MeasurementsAndTests.Psychological</TypeOfModeOfCollection>
             <Description xmlns="ddi:reusable:3_2">
               <Content xml:lang="en-GB">Assessment of personality traits or psychological behavioural responses by means of specialised measures or tests.</Content>
@@ -869,11 +865,11 @@ Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/1970-british-cohort
           </ModeOfCollection>
         </CollectionEvent>
       </DataCollection>
-      <DataCollection isUniversallyUnique="true" versionDate="2019-11-05T12:10:53.891467Z" xmlns="ddi:datacollection:3_2">
-        <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:cd1f9e55-5bf4-42e6-86c5-5466e1f6d923:4</URN>
+      <DataCollection isUniversallyUnique="true" versionDate="2020-06-25T12:06:11.6812229Z" xmlns="ddi:datacollection:3_2">
+        <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:cd1f9e55-5bf4-42e6-86c5-5466e1f6d923:5</URN>
         <Agency xmlns="ddi:reusable:3_2">uk.cls.bcs70</Agency>
         <ID xmlns="ddi:reusable:3_2">cd1f9e55-5bf4-42e6-86c5-5466e1f6d923</ID>
-        <Version xmlns="ddi:reusable:3_2">4</Version>
+        <Version xmlns="ddi:reusable:3_2">5</Version>
         <DataCollectionModuleName>
           <String xml:lang="en-GB" xmlns="ddi:reusable:3_2">bcs_80_qi</String>
         </DataCollectionModuleName>
@@ -881,10 +877,10 @@ Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/1970-british-cohort
           <Content xml:lang="en-GB">BCS70 Age 10 Educational (Teacher’s) Questionnaire</Content>
         </Label>
         <CollectionEvent isUniversallyUnique="true">
-          <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:0ca02338-4557-4fe5-973c-f6f65772f36c:4</URN>
+          <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:0ca02338-4557-4fe5-973c-f6f65772f36c:5</URN>
           <Agency xmlns="ddi:reusable:3_2">uk.cls.bcs70</Agency>
           <ID xmlns="ddi:reusable:3_2">0ca02338-4557-4fe5-973c-f6f65772f36c</ID>
-          <Version xmlns="ddi:reusable:3_2">4</Version>
+          <Version xmlns="ddi:reusable:3_2">5</Version>
           <DataCollectorOrganizationReference>
             <Agency xmlns="ddi:reusable:3_2">uk.cls.bcs70</Agency>
             <ID xmlns="ddi:reusable:3_2">f3b3ded7-01e8-480e-b7fc-8446195d597e</ID>
@@ -896,10 +892,10 @@ Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/1970-british-cohort
             <EndDate xmlns="ddi:reusable:3_2">1981</EndDate>
           </DataCollectionDate>
           <ModeOfCollection isUniversallyUnique="true">
-            <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:43cc505c-cd24-446f-9a5e-6a249571e81b:4</URN>
+            <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:43cc505c-cd24-446f-9a5e-6a249571e81b:5</URN>
             <Agency xmlns="ddi:reusable:3_2">uk.cls.bcs70</Agency>
             <ID xmlns="ddi:reusable:3_2">43cc505c-cd24-446f-9a5e-6a249571e81b</ID>
-            <Version xmlns="ddi:reusable:3_2">4</Version>
+            <Version xmlns="ddi:reusable:3_2">5</Version>
             <TypeOfModeOfCollection codeListVersionID="1.0">SelfAdministeredQuestionnaire.Paper</TypeOfModeOfCollection>
             <Description xmlns="ddi:reusable:3_2">
               <Content xml:lang="en-GB">Self-administered survey using a traditional paper questionnaire delivered and/or collected by mail (postal services), by fax, or in person by either interviewer, or respondent.</Content>
@@ -907,11 +903,11 @@ Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/1970-british-cohort
           </ModeOfCollection>
         </CollectionEvent>
       </DataCollection>
-      <DataCollection isUniversallyUnique="true" versionDate="2019-11-05T12:10:53.891467Z" xmlns="ddi:datacollection:3_2">
-        <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:c7d6e7ed-3d67-42be-be8f-7dbf9547b4dd:7</URN>
+      <DataCollection isUniversallyUnique="true" versionDate="2020-06-25T12:06:41.6170957Z" xmlns="ddi:datacollection:3_2">
+        <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:c7d6e7ed-3d67-42be-be8f-7dbf9547b4dd:9</URN>
         <Agency xmlns="ddi:reusable:3_2">uk.cls.bcs70</Agency>
         <ID xmlns="ddi:reusable:3_2">c7d6e7ed-3d67-42be-be8f-7dbf9547b4dd</ID>
-        <Version xmlns="ddi:reusable:3_2">7</Version>
+        <Version xmlns="ddi:reusable:3_2">9</Version>
         <DataCollectionModuleName>
           <String xml:lang="en-GB" xmlns="ddi:reusable:3_2">bcs_80_fmt</String>
         </DataCollectionModuleName>
@@ -919,10 +915,10 @@ Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/1970-british-cohort
           <Content xml:lang="en-GB">BCS70 Age 10 Friendly Maths Test</Content>
         </Label>
         <CollectionEvent isUniversallyUnique="true">
-          <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:2a975f46-b457-4aac-a897-577a5cb18e25:7</URN>
+          <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:2a975f46-b457-4aac-a897-577a5cb18e25:9</URN>
           <Agency xmlns="ddi:reusable:3_2">uk.cls.bcs70</Agency>
           <ID xmlns="ddi:reusable:3_2">2a975f46-b457-4aac-a897-577a5cb18e25</ID>
-          <Version xmlns="ddi:reusable:3_2">7</Version>
+          <Version xmlns="ddi:reusable:3_2">9</Version>
           <DataCollectorOrganizationReference>
             <Agency xmlns="ddi:reusable:3_2">uk.cls.bcs70</Agency>
             <ID xmlns="ddi:reusable:3_2">f3b3ded7-01e8-480e-b7fc-8446195d597e</ID>
@@ -934,10 +930,10 @@ Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/1970-british-cohort
             <EndDate xmlns="ddi:reusable:3_2">1980</EndDate>
           </DataCollectionDate>
           <ModeOfCollection isUniversallyUnique="true">
-            <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:55423c35-7e67-4be0-ad8d-833e9434211e:7</URN>
+            <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:55423c35-7e67-4be0-ad8d-833e9434211e:9</URN>
             <Agency xmlns="ddi:reusable:3_2">uk.cls.bcs70</Agency>
             <ID xmlns="ddi:reusable:3_2">55423c35-7e67-4be0-ad8d-833e9434211e</ID>
-            <Version xmlns="ddi:reusable:3_2">7</Version>
+            <Version xmlns="ddi:reusable:3_2">9</Version>
             <TypeOfModeOfCollection codeListVersionID="1.0">MeasurementsAndTests.Education</TypeOfModeOfCollection>
             <Description xmlns="ddi:reusable:3_2">
               <Content xml:lang="en-GB">Assessment of knowledge, skills, aptitude, or educational achievement by means of specialised measures or tests.</Content>
@@ -945,11 +941,11 @@ Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/1970-british-cohort
           </ModeOfCollection>
         </CollectionEvent>
       </DataCollection>
-      <DataCollection isUniversallyUnique="true" versionDate="2019-11-05T12:10:53.891467Z" xmlns="ddi:datacollection:3_2">
-        <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:769ef824-3a72-4880-93cd-956f01a41786:3</URN>
+      <DataCollection isUniversallyUnique="true" versionDate="2020-06-25T12:07:16.1539377Z" xmlns="ddi:datacollection:3_2">
+        <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:769ef824-3a72-4880-93cd-956f01a41786:5</URN>
         <Agency xmlns="ddi:reusable:3_2">uk.cls.bcs70</Agency>
         <ID xmlns="ddi:reusable:3_2">769ef824-3a72-4880-93cd-956f01a41786</ID>
-        <Version xmlns="ddi:reusable:3_2">3</Version>
+        <Version xmlns="ddi:reusable:3_2">5</Version>
         <DataCollectionModuleName>
           <String xml:lang="en-GB" xmlns="ddi:reusable:3_2">bcs_80_me</String>
         </DataCollectionModuleName>
@@ -957,10 +953,10 @@ Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/1970-british-cohort
           <Content xml:lang="en-GB">BCS70 Age 10 Medical Examination Form</Content>
         </Label>
         <CollectionEvent isUniversallyUnique="true">
-          <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:b0fe3a23-06e6-4604-9dcb-8c0c0537f2fc:3</URN>
+          <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:b0fe3a23-06e6-4604-9dcb-8c0c0537f2fc:5</URN>
           <Agency xmlns="ddi:reusable:3_2">uk.cls.bcs70</Agency>
           <ID xmlns="ddi:reusable:3_2">b0fe3a23-06e6-4604-9dcb-8c0c0537f2fc</ID>
-          <Version xmlns="ddi:reusable:3_2">3</Version>
+          <Version xmlns="ddi:reusable:3_2">5</Version>
           <DataCollectorOrganizationReference>
             <Agency xmlns="ddi:reusable:3_2">uk.cls.bcs70</Agency>
             <ID xmlns="ddi:reusable:3_2">f3b3ded7-01e8-480e-b7fc-8446195d597e</ID>
@@ -972,50 +968,50 @@ Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/1970-british-cohort
             <EndDate xmlns="ddi:reusable:3_2">1981</EndDate>
           </DataCollectionDate>
           <ModeOfCollection isUniversallyUnique="true">
-            <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:93eb3595-061f-47bf-98d5-b3f2ad9b2f59:3</URN>
+            <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:93eb3595-061f-47bf-98d5-b3f2ad9b2f59:5</URN>
             <Agency xmlns="ddi:reusable:3_2">uk.cls.bcs70</Agency>
             <ID xmlns="ddi:reusable:3_2">93eb3595-061f-47bf-98d5-b3f2ad9b2f59</ID>
-            <Version xmlns="ddi:reusable:3_2">3</Version>
+            <Version xmlns="ddi:reusable:3_2">5</Version>
             <TypeOfModeOfCollection codeListVersionID="1.0">Interview.FaceToFace</TypeOfModeOfCollection>
             <Description xmlns="ddi:reusable:3_2">
               <Content xml:lang="en-GB">Face-to-face interview</Content>
             </Description>
           </ModeOfCollection>
           <ModeOfCollection isUniversallyUnique="true">
-            <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:05a9aa82-1ef3-4dee-88ba-12f31223f701:3</URN>
+            <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:05a9aa82-1ef3-4dee-88ba-12f31223f701:5</URN>
             <Agency xmlns="ddi:reusable:3_2">uk.cls.bcs70</Agency>
             <ID xmlns="ddi:reusable:3_2">05a9aa82-1ef3-4dee-88ba-12f31223f701</ID>
-            <Version xmlns="ddi:reusable:3_2">3</Version>
+            <Version xmlns="ddi:reusable:3_2">5</Version>
             <TypeOfModeOfCollection codeListVersionID="1.0">SelfAdministeredQuestionnaire.Paper</TypeOfModeOfCollection>
             <Description xmlns="ddi:reusable:3_2">
               <Content xml:lang="en-GB">  Self-administered questionnaire: Paper</Content>
             </Description>
           </ModeOfCollection>
           <ModeOfCollection isUniversallyUnique="true">
-            <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:75e74f0a-136f-46ab-af34-6cd7e4329cad:3</URN>
+            <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:75e74f0a-136f-46ab-af34-6cd7e4329cad:5</URN>
             <Agency xmlns="ddi:reusable:3_2">uk.cls.bcs70</Agency>
             <ID xmlns="ddi:reusable:3_2">75e74f0a-136f-46ab-af34-6cd7e4329cad</ID>
-            <Version xmlns="ddi:reusable:3_2">3</Version>
+            <Version xmlns="ddi:reusable:3_2">5</Version>
             <TypeOfModeOfCollection codeListVersionID="1.0">MeasurementsAndTests.Educational</TypeOfModeOfCollection>
             <Description xmlns="ddi:reusable:3_2">
               <Content xml:lang="en-GB">Educational measurements and tests</Content>
             </Description>
           </ModeOfCollection>
           <ModeOfCollection isUniversallyUnique="true">
-            <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:28a70dce-2176-45a7-9bce-441148c2bcf6:3</URN>
+            <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:28a70dce-2176-45a7-9bce-441148c2bcf6:5</URN>
             <Agency xmlns="ddi:reusable:3_2">uk.cls.bcs70</Agency>
             <ID xmlns="ddi:reusable:3_2">28a70dce-2176-45a7-9bce-441148c2bcf6</ID>
-            <Version xmlns="ddi:reusable:3_2">3</Version>
+            <Version xmlns="ddi:reusable:3_2">5</Version>
             <TypeOfModeOfCollection codeListVersionID="1.0">MeasurementsAndTests.Physical</TypeOfModeOfCollection>
             <Description xmlns="ddi:reusable:3_2">
               <Content xml:lang="en-GB">Physical measurements and tests</Content>
             </Description>
           </ModeOfCollection>
           <ModeOfCollection isUniversallyUnique="true">
-            <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:3ae7d038-d9c7-4139-9743-a10495f8134e:3</URN>
+            <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:3ae7d038-d9c7-4139-9743-a10495f8134e:5</URN>
             <Agency xmlns="ddi:reusable:3_2">uk.cls.bcs70</Agency>
             <ID xmlns="ddi:reusable:3_2">3ae7d038-d9c7-4139-9743-a10495f8134e</ID>
-            <Version xmlns="ddi:reusable:3_2">3</Version>
+            <Version xmlns="ddi:reusable:3_2">5</Version>
             <TypeOfModeOfCollection codeListVersionID="1.0">MeasurementsAndTests.Psychological</TypeOfModeOfCollection>
             <Description xmlns="ddi:reusable:3_2">
               <Content xml:lang="en-GB">Psychological measurements and tests</Content>
@@ -1024,18 +1020,14 @@ Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/1970-british-cohort
         </CollectionEvent>
       </DataCollection>
     </StudyUnit>
-    <StudyUnit isUniversallyUnique="true" versionDate="2019-11-05T12:18:18.6094991Z" xmlns="ddi:studyunit:3_2">
-      <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:1d8bcf37-5d47-4af9-8b7a-d2807b3e4591:11</URN>
+    <StudyUnit isUniversallyUnique="true" versionDate="2020-06-25T13:27:54.08326Z" xmlns="ddi:studyunit:3_2">
+      <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:1d8bcf37-5d47-4af9-8b7a-d2807b3e4591:13</URN>
       <Agency xmlns="ddi:reusable:3_2">uk.cls.bcs70</Agency>
       <ID xmlns="ddi:reusable:3_2">1d8bcf37-5d47-4af9-8b7a-d2807b3e4591</ID>
-      <Version xmlns="ddi:reusable:3_2">11</Version>
+      <Version xmlns="ddi:reusable:3_2">13</Version>
       <UserAttributePair xmlns="ddi:reusable:3_2">
         <AttributeKey>extension:CustomField</AttributeKey>
-        <AttributeValue>{"Title":{"en-GB":"LifeStage"},"Description":{},"ValueType":0,"HasValue":true,"RelationshipTargetType":"00000000-0000-0000-0000-000000000000","StringValue":"Childhood","MultilingualStringValue":{},"HasDefinedType":false,"DisplayLabel":"LifeStage"}</AttributeValue>
-      </UserAttributePair>
-      <UserAttributePair xmlns="ddi:reusable:3_2">
-        <AttributeKey>extension:CustomField</AttributeKey>
-        <AttributeValue>{"Title":{"en-GB":"LifeStageDescription"},"Description":{},"ValueType":0,"HasValue":true,"RelationshipTargetType":"00000000-0000-0000-0000-000000000000","StringValue":"13 - 18 years","MultilingualStringValue":{},"HasDefinedType":false,"DisplayLabel":"LifeStageDescription"}</AttributeValue>
+        <AttributeValue>{"Title":{"en-GB":"LifeStage"},"Description":{},"ValueType":0,"HasValue":true,"RelationshipTargetType":"00000000-0000-0000-0000-000000000000","StringValue":"Adolescence","MultilingualStringValue":{},"HasDefinedType":false,"DisplayLabel":"LifeStage"}</AttributeValue>
       </UserAttributePair>
       <Citation xmlns="ddi:reusable:3_2">
         <Title>
@@ -1188,10 +1180,10 @@ Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/1970-british-cohort
       </FundingInformation>
       <Coverage xmlns="ddi:reusable:3_2">
         <SpatialCoverage isUniversallyUnique="true">
-          <URN>urn:ddi:uk.cls.bcs70:9e072262-1395-454f-a950-6bdae408a528:11</URN>
+          <URN>urn:ddi:uk.cls.bcs70:9e072262-1395-454f-a950-6bdae408a528:13</URN>
           <Agency>uk.cls.bcs70</Agency>
           <ID>9e072262-1395-454f-a950-6bdae408a528</ID>
-          <Version>11</Version>
+          <Version>13</Version>
           <BoundingBox>
             <WestLongitude>0</WestLongitude>
             <EastLongitude>0</EastLongitude>
@@ -1206,10 +1198,10 @@ Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/1970-british-cohort
           </TopLevelReference>
         </SpatialCoverage>
         <TemporalCoverage isUniversallyUnique="true">
-          <URN>urn:ddi:uk.cls.bcs70:2ca2384a-acdc-49ce-89bd-d718c6b357c4:11</URN>
+          <URN>urn:ddi:uk.cls.bcs70:2ca2384a-acdc-49ce-89bd-d718c6b357c4:13</URN>
           <Agency>uk.cls.bcs70</Agency>
           <ID>2ca2384a-acdc-49ce-89bd-d718c6b357c4</ID>
-          <Version>11</Version>
+          <Version>13</Version>
           <ReferenceDate>
             <StartDate>1986-04</StartDate>
             <EndDate>1986-12</EndDate>
@@ -1222,11 +1214,11 @@ Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/1970-british-cohort
       <KindOfData codeListVersionID="1.0" xmlns="ddi:reusable:3_2">Measurement Data</KindOfData>
       <KindOfData codeListVersionID="1.0" xmlns="ddi:reusable:3_2">Assessment Data</KindOfData>
       <KindOfData codeListVersionID="1.0" xmlns="ddi:reusable:3_2">Administrative Data</KindOfData>
-      <DataCollection isUniversallyUnique="true" versionDate="2019-11-05T15:50:53.117846Z" xmlns="ddi:datacollection:3_2">
-        <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:afad1032-f3d6-482d-a934-75f70f077da8:5</URN>
+      <DataCollection isUniversallyUnique="true" versionDate="2020-06-25T12:14:23.6501589Z" xmlns="ddi:datacollection:3_2">
+        <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:afad1032-f3d6-482d-a934-75f70f077da8:6</URN>
         <Agency xmlns="ddi:reusable:3_2">uk.cls.bcs70</Agency>
         <ID xmlns="ddi:reusable:3_2">afad1032-f3d6-482d-a934-75f70f077da8</ID>
-        <Version xmlns="ddi:reusable:3_2">5</Version>
+        <Version xmlns="ddi:reusable:3_2">6</Version>
         <DataCollectionModuleName>
           <String xml:lang="en-GB" xmlns="ddi:reusable:3_2">bcs_86_eq</String>
         </DataCollectionModuleName>
@@ -1234,10 +1226,10 @@ Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/1970-british-cohort
           <Content xml:lang="en-GB">BCS70 Age 16 Educational (Teacher’s) Questionnaire</Content>
         </Label>
         <CollectionEvent isUniversallyUnique="true">
-          <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:89401ff9-321d-436f-97e1-85651c68dfdb:5</URN>
+          <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:89401ff9-321d-436f-97e1-85651c68dfdb:6</URN>
           <Agency xmlns="ddi:reusable:3_2">uk.cls.bcs70</Agency>
           <ID xmlns="ddi:reusable:3_2">89401ff9-321d-436f-97e1-85651c68dfdb</ID>
-          <Version xmlns="ddi:reusable:3_2">5</Version>
+          <Version xmlns="ddi:reusable:3_2">6</Version>
           <DataCollectorOrganizationReference>
             <Agency xmlns="ddi:reusable:3_2">uk.closer</Agency>
             <ID xmlns="ddi:reusable:3_2">0a97fed5-6868-4ef3-b7da-e6911064adf5</ID>
@@ -1249,10 +1241,10 @@ Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/1970-british-cohort
             <EndDate xmlns="ddi:reusable:3_2">1986-12</EndDate>
           </DataCollectionDate>
           <ModeOfCollection isUniversallyUnique="true">
-            <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:e03ef1b1-490d-4675-9c1c-6d8f27cbc2e9:5</URN>
+            <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:e03ef1b1-490d-4675-9c1c-6d8f27cbc2e9:6</URN>
             <Agency xmlns="ddi:reusable:3_2">uk.cls.bcs70</Agency>
             <ID xmlns="ddi:reusable:3_2">e03ef1b1-490d-4675-9c1c-6d8f27cbc2e9</ID>
-            <Version xmlns="ddi:reusable:3_2">5</Version>
+            <Version xmlns="ddi:reusable:3_2">6</Version>
             <TypeOfModeOfCollection codeListVersionID="1.0">SelfAdministeredQuestionnaire.Paper</TypeOfModeOfCollection>
             <Description xmlns="ddi:reusable:3_2">
               <Content xml:lang="en-GB">Self-administered questionnaire using a traditional paper questionnaire. </Content>
@@ -1260,11 +1252,11 @@ Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/1970-british-cohort
           </ModeOfCollection>
         </CollectionEvent>
       </DataCollection>
-      <DataCollection isUniversallyUnique="true" versionDate="2019-11-05T15:53:10.2234276Z" xmlns="ddi:datacollection:3_2">
-        <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:51c55210-3b1f-4100-861c-a6981d840cfe:5</URN>
+      <DataCollection isUniversallyUnique="true" versionDate="2020-06-25T12:14:48.851681Z" xmlns="ddi:datacollection:3_2">
+        <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:51c55210-3b1f-4100-861c-a6981d840cfe:6</URN>
         <Agency xmlns="ddi:reusable:3_2">uk.cls.bcs70</Agency>
         <ID xmlns="ddi:reusable:3_2">51c55210-3b1f-4100-861c-a6981d840cfe</ID>
-        <Version xmlns="ddi:reusable:3_2">5</Version>
+        <Version xmlns="ddi:reusable:3_2">6</Version>
         <DataCollectionModuleName>
           <String xml:lang="en-GB" xmlns="ddi:reusable:3_2">bcs_86_ffuf</String>
         </DataCollectionModuleName>
@@ -1272,10 +1264,10 @@ Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/1970-british-cohort
           <Content xml:lang="en-GB">BCS70 Age 16 Family Follow-Up Form</Content>
         </Label>
         <CollectionEvent isUniversallyUnique="true">
-          <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:63113ff6-c74b-4014-a3fc-7e75313ae130:5</URN>
+          <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:63113ff6-c74b-4014-a3fc-7e75313ae130:6</URN>
           <Agency xmlns="ddi:reusable:3_2">uk.cls.bcs70</Agency>
           <ID xmlns="ddi:reusable:3_2">63113ff6-c74b-4014-a3fc-7e75313ae130</ID>
-          <Version xmlns="ddi:reusable:3_2">5</Version>
+          <Version xmlns="ddi:reusable:3_2">6</Version>
           <DataCollectorOrganizationReference>
             <Agency xmlns="ddi:reusable:3_2">uk.closer</Agency>
             <ID xmlns="ddi:reusable:3_2">0a97fed5-6868-4ef3-b7da-e6911064adf5</ID>
@@ -1287,10 +1279,10 @@ Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/1970-british-cohort
             <EndDate xmlns="ddi:reusable:3_2">1986-12</EndDate>
           </DataCollectionDate>
           <ModeOfCollection isUniversallyUnique="true">
-            <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:b02d0bb1-05c5-413f-96a3-bc2da21899a2:5</URN>
+            <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:b02d0bb1-05c5-413f-96a3-bc2da21899a2:6</URN>
             <Agency xmlns="ddi:reusable:3_2">uk.cls.bcs70</Agency>
             <ID xmlns="ddi:reusable:3_2">b02d0bb1-05c5-413f-96a3-bc2da21899a2</ID>
-            <Version xmlns="ddi:reusable:3_2">5</Version>
+            <Version xmlns="ddi:reusable:3_2">6</Version>
             <TypeOfModeOfCollection codeListVersionID="1.0">SelfAdministeredQuestionnaire.Paper</TypeOfModeOfCollection>
             <Description xmlns="ddi:reusable:3_2">
               <Content xml:lang="en-GB">Self-administered questionnaire using a traditional paper questionnaire. </Content>
@@ -1298,11 +1290,11 @@ Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/1970-british-cohort
           </ModeOfCollection>
         </CollectionEvent>
       </DataCollection>
-      <DataCollection isUniversallyUnique="true" versionDate="2019-11-05T15:53:34.5915122Z" xmlns="ddi:datacollection:3_2">
-        <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:2a4a57c2-69d7-499a-b541-c44d98210d1e:5</URN>
+      <DataCollection isUniversallyUnique="true" versionDate="2020-06-25T12:15:20.690025Z" xmlns="ddi:datacollection:3_2">
+        <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:2a4a57c2-69d7-499a-b541-c44d98210d1e:6</URN>
         <Agency xmlns="ddi:reusable:3_2">uk.cls.bcs70</Agency>
         <ID xmlns="ddi:reusable:3_2">2a4a57c2-69d7-499a-b541-c44d98210d1e</ID>
-        <Version xmlns="ddi:reusable:3_2">5</Version>
+        <Version xmlns="ddi:reusable:3_2">6</Version>
         <DataCollectionModuleName>
           <String xml:lang="en-GB" xmlns="ddi:reusable:3_2">bcs_86_hrb</String>
         </DataCollectionModuleName>
@@ -1310,237 +1302,9 @@ Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/1970-british-cohort
           <Content xml:lang="en-GB">BCS70 Age 16 ‘Health-Related Behaviour’ Student Self-Completion Questionnaire</Content>
         </Label>
         <CollectionEvent isUniversallyUnique="true">
-          <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:e9909089-b865-4594-8f45-ec97855a3e6a:5</URN>
+          <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:e9909089-b865-4594-8f45-ec97855a3e6a:6</URN>
           <Agency xmlns="ddi:reusable:3_2">uk.cls.bcs70</Agency>
           <ID xmlns="ddi:reusable:3_2">e9909089-b865-4594-8f45-ec97855a3e6a</ID>
-          <Version xmlns="ddi:reusable:3_2">5</Version>
-          <DataCollectorOrganizationReference>
-            <Agency xmlns="ddi:reusable:3_2">uk.closer</Agency>
-            <ID xmlns="ddi:reusable:3_2">0a97fed5-6868-4ef3-b7da-e6911064adf5</ID>
-            <Version xmlns="ddi:reusable:3_2">2</Version>
-            <TypeOfObject xmlns="ddi:reusable:3_2">Organization</TypeOfObject>
-          </DataCollectorOrganizationReference>
-          <DataCollectionDate>
-            <StartDate xmlns="ddi:reusable:3_2">1986-03</StartDate>
-            <EndDate xmlns="ddi:reusable:3_2">1986-12</EndDate>
-          </DataCollectionDate>
-          <ModeOfCollection isUniversallyUnique="true">
-            <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:e8f05761-6999-4218-80f2-77e2e1509658:5</URN>
-            <Agency xmlns="ddi:reusable:3_2">uk.cls.bcs70</Agency>
-            <ID xmlns="ddi:reusable:3_2">e8f05761-6999-4218-80f2-77e2e1509658</ID>
-            <Version xmlns="ddi:reusable:3_2">5</Version>
-            <TypeOfModeOfCollection codeListVersionID="1.0">SelfAdministeredQuestionnaire.Paper</TypeOfModeOfCollection>
-            <Description xmlns="ddi:reusable:3_2">
-              <Content xml:lang="en-GB">Self-administered questionnaire using a traditional paper questionnaire. </Content>
-            </Description>
-          </ModeOfCollection>
-        </CollectionEvent>
-      </DataCollection>
-      <DataCollection isUniversallyUnique="true" versionDate="2019-11-05T15:53:50.7192576Z" xmlns="ddi:datacollection:3_2">
-        <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:874197a8-7668-48c6-8070-6200d7d493a4:5</URN>
-        <Agency xmlns="ddi:reusable:3_2">uk.cls.bcs70</Agency>
-        <ID xmlns="ddi:reusable:3_2">874197a8-7668-48c6-8070-6200d7d493a4</ID>
-        <Version xmlns="ddi:reusable:3_2">5</Version>
-        <DataCollectionModuleName>
-          <String xml:lang="en-GB" xmlns="ddi:reusable:3_2">bcs_86_lal</String>
-        </DataCollectionModuleName>
-        <Label xmlns="ddi:reusable:3_2">
-          <Content xml:lang="en-GB">BCS70 Age 16 ‘Life and Leisure’ Student Self-Completion Questionnaire</Content>
-        </Label>
-        <CollectionEvent isUniversallyUnique="true">
-          <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:b7082fd9-9ab9-48f0-9349-694dfc541720:5</URN>
-          <Agency xmlns="ddi:reusable:3_2">uk.cls.bcs70</Agency>
-          <ID xmlns="ddi:reusable:3_2">b7082fd9-9ab9-48f0-9349-694dfc541720</ID>
-          <Version xmlns="ddi:reusable:3_2">5</Version>
-          <DataCollectorOrganizationReference>
-            <Agency xmlns="ddi:reusable:3_2">uk.closer</Agency>
-            <ID xmlns="ddi:reusable:3_2">0a97fed5-6868-4ef3-b7da-e6911064adf5</ID>
-            <Version xmlns="ddi:reusable:3_2">2</Version>
-            <TypeOfObject xmlns="ddi:reusable:3_2">Organization</TypeOfObject>
-          </DataCollectorOrganizationReference>
-          <DataCollectionDate>
-            <StartDate xmlns="ddi:reusable:3_2">1986-03</StartDate>
-            <EndDate xmlns="ddi:reusable:3_2">1986-12</EndDate>
-          </DataCollectionDate>
-          <ModeOfCollection isUniversallyUnique="true">
-            <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:e196267b-e01b-4bab-a881-e6417b7ea889:5</URN>
-            <Agency xmlns="ddi:reusable:3_2">uk.cls.bcs70</Agency>
-            <ID xmlns="ddi:reusable:3_2">e196267b-e01b-4bab-a881-e6417b7ea889</ID>
-            <Version xmlns="ddi:reusable:3_2">5</Version>
-            <TypeOfModeOfCollection codeListVersionID="1.0">SelfAdministeredQuestionnaire.Paper</TypeOfModeOfCollection>
-            <Description xmlns="ddi:reusable:3_2">
-              <Content xml:lang="en-GB">Self-administered questionnaire using a traditional paper questionnaire. </Content>
-            </Description>
-          </ModeOfCollection>
-        </CollectionEvent>
-      </DataCollection>
-      <DataCollection isUniversallyUnique="true" versionDate="2019-11-05T15:54:07.39136Z" xmlns="ddi:datacollection:3_2">
-        <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:f01f679c-113f-43ec-a0da-7e752d9e2f51:5</URN>
-        <Agency xmlns="ddi:reusable:3_2">uk.cls.bcs70</Agency>
-        <ID xmlns="ddi:reusable:3_2">f01f679c-113f-43ec-a0da-7e752d9e2f51</ID>
-        <Version xmlns="ddi:reusable:3_2">5</Version>
-        <DataCollectionModuleName>
-          <String xml:lang="en-GB" xmlns="ddi:reusable:3_2">bcs_86_pif</String>
-        </DataCollectionModuleName>
-        <Label xmlns="ddi:reusable:3_2">
-          <Content xml:lang="en-GB">BCS70 Age 16 Parental Interview Form</Content>
-        </Label>
-        <CollectionEvent isUniversallyUnique="true">
-          <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:07c85e56-5aca-47c0-802f-674c01919d5e:5</URN>
-          <Agency xmlns="ddi:reusable:3_2">uk.cls.bcs70</Agency>
-          <ID xmlns="ddi:reusable:3_2">07c85e56-5aca-47c0-802f-674c01919d5e</ID>
-          <Version xmlns="ddi:reusable:3_2">5</Version>
-          <DataCollectorOrganizationReference>
-            <Agency xmlns="ddi:reusable:3_2">uk.closer</Agency>
-            <ID xmlns="ddi:reusable:3_2">0a97fed5-6868-4ef3-b7da-e6911064adf5</ID>
-            <Version xmlns="ddi:reusable:3_2">2</Version>
-            <TypeOfObject xmlns="ddi:reusable:3_2">Organization</TypeOfObject>
-          </DataCollectorOrganizationReference>
-          <DataCollectionDate>
-            <StartDate xmlns="ddi:reusable:3_2">1986-03</StartDate>
-            <EndDate xmlns="ddi:reusable:3_2">1986-12</EndDate>
-          </DataCollectionDate>
-          <ModeOfCollection isUniversallyUnique="true">
-            <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:d7a95978-5226-4779-90a0-d218246b7151:5</URN>
-            <Agency xmlns="ddi:reusable:3_2">uk.cls.bcs70</Agency>
-            <ID xmlns="ddi:reusable:3_2">d7a95978-5226-4779-90a0-d218246b7151</ID>
-            <Version xmlns="ddi:reusable:3_2">5</Version>
-            <TypeOfModeOfCollection codeListVersionID="1.0">Interview.FaceToFace.PAPI</TypeOfModeOfCollection>
-            <Description xmlns="ddi:reusable:3_2">
-              <Content xml:lang="en-GB">Face-to-face paper and pencil interviewing.</Content>
-            </Description>
-          </ModeOfCollection>
-        </CollectionEvent>
-      </DataCollection>
-      <DataCollection isUniversallyUnique="true" versionDate="2019-11-05T15:54:33.2008583Z" xmlns="ddi:datacollection:3_2">
-        <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:6238a481-7fab-4217-a31b-dbd3fa38bad4:5</URN>
-        <Agency xmlns="ddi:reusable:3_2">uk.cls.bcs70</Agency>
-        <ID xmlns="ddi:reusable:3_2">6238a481-7fab-4217-a31b-dbd3fa38bad4</ID>
-        <Version xmlns="ddi:reusable:3_2">5</Version>
-        <DataCollectionModuleName>
-          <String xml:lang="en-GB" xmlns="ddi:reusable:3_2">bcs_86_ssc</String>
-        </DataCollectionModuleName>
-        <Label xmlns="ddi:reusable:3_2">
-          <Content xml:lang="en-GB">BCS70 Age 16 Student Self-Completion Health Questionnaire</Content>
-        </Label>
-        <CollectionEvent isUniversallyUnique="true">
-          <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:de399779-d2eb-4b1f-ab11-b34cb267a23c:5</URN>
-          <Agency xmlns="ddi:reusable:3_2">uk.cls.bcs70</Agency>
-          <ID xmlns="ddi:reusable:3_2">de399779-d2eb-4b1f-ab11-b34cb267a23c</ID>
-          <Version xmlns="ddi:reusable:3_2">5</Version>
-          <DataCollectorOrganizationReference>
-            <Agency xmlns="ddi:reusable:3_2">uk.closer</Agency>
-            <ID xmlns="ddi:reusable:3_2">0a97fed5-6868-4ef3-b7da-e6911064adf5</ID>
-            <Version xmlns="ddi:reusable:3_2">2</Version>
-            <TypeOfObject xmlns="ddi:reusable:3_2">Organization</TypeOfObject>
-          </DataCollectorOrganizationReference>
-          <DataCollectionDate>
-            <StartDate xmlns="ddi:reusable:3_2">1986-03</StartDate>
-            <EndDate xmlns="ddi:reusable:3_2">1986-12</EndDate>
-          </DataCollectionDate>
-          <ModeOfCollection isUniversallyUnique="true">
-            <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:571df28a-621a-49a7-aee6-e0c8f01f3878:5</URN>
-            <Agency xmlns="ddi:reusable:3_2">uk.cls.bcs70</Agency>
-            <ID xmlns="ddi:reusable:3_2">571df28a-621a-49a7-aee6-e0c8f01f3878</ID>
-            <Version xmlns="ddi:reusable:3_2">5</Version>
-            <TypeOfModeOfCollection codeListVersionID="1.0">SelfAdministeredQuestionnaire.Paper</TypeOfModeOfCollection>
-            <Description xmlns="ddi:reusable:3_2">
-              <Content xml:lang="en-GB">Self-administered questionnaire using a traditional paper questionnaire.</Content>
-            </Description>
-          </ModeOfCollection>
-        </CollectionEvent>
-      </DataCollection>
-      <DataCollection isUniversallyUnique="true" versionDate="2019-11-05T15:54:53.2717363Z" xmlns="ddi:datacollection:3_2">
-        <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:60f601cb-42af-4280-b98d-5b2bbeaae87f:5</URN>
-        <Agency xmlns="ddi:reusable:3_2">uk.cls.bcs70</Agency>
-        <ID xmlns="ddi:reusable:3_2">60f601cb-42af-4280-b98d-5b2bbeaae87f</ID>
-        <Version xmlns="ddi:reusable:3_2">5</Version>
-        <DataCollectionModuleName>
-          <String xml:lang="en-GB" xmlns="ddi:reusable:3_2">bcs_86_fatow</String>
-        </DataCollectionModuleName>
-        <Label xmlns="ddi:reusable:3_2">
-          <Content xml:lang="en-GB">BCS70 Age 16 ‘Friends and The Outside World’ Student Self-Completion Questionnaire</Content>
-        </Label>
-        <CollectionEvent isUniversallyUnique="true">
-          <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:44d754c1-03f4-461d-91ea-de41d6dfe95d:5</URN>
-          <Agency xmlns="ddi:reusable:3_2">uk.cls.bcs70</Agency>
-          <ID xmlns="ddi:reusable:3_2">44d754c1-03f4-461d-91ea-de41d6dfe95d</ID>
-          <Version xmlns="ddi:reusable:3_2">5</Version>
-          <DataCollectorOrganizationReference>
-            <Agency xmlns="ddi:reusable:3_2">uk.closer</Agency>
-            <ID xmlns="ddi:reusable:3_2">0a97fed5-6868-4ef3-b7da-e6911064adf5</ID>
-            <Version xmlns="ddi:reusable:3_2">2</Version>
-            <TypeOfObject xmlns="ddi:reusable:3_2">Organization</TypeOfObject>
-          </DataCollectorOrganizationReference>
-          <DataCollectionDate>
-            <StartDate xmlns="ddi:reusable:3_2">1986-03</StartDate>
-            <EndDate xmlns="ddi:reusable:3_2">1986-12</EndDate>
-          </DataCollectionDate>
-          <ModeOfCollection isUniversallyUnique="true">
-            <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:7fd97a53-df26-4fa1-b588-d56bc2c6287f:5</URN>
-            <Agency xmlns="ddi:reusable:3_2">uk.cls.bcs70</Agency>
-            <ID xmlns="ddi:reusable:3_2">7fd97a53-df26-4fa1-b588-d56bc2c6287f</ID>
-            <Version xmlns="ddi:reusable:3_2">5</Version>
-            <TypeOfModeOfCollection codeListVersionID="1.0">SelfAdministeredQuestionnaire.Paper</TypeOfModeOfCollection>
-            <Description xmlns="ddi:reusable:3_2">
-              <Content xml:lang="en-GB">Self-administered questionnaire using a traditional paper questionnaire. </Content>
-            </Description>
-          </ModeOfCollection>
-        </CollectionEvent>
-      </DataCollection>
-      <DataCollection isUniversallyUnique="true" versionDate="2019-11-04T14:01:07.5615415Z" xmlns="ddi:datacollection:3_2">
-        <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:22672eb0-7f71-4077-8e69-3e29ac6f3934:5</URN>
-        <Agency xmlns="ddi:reusable:3_2">uk.cls.bcs70</Agency>
-        <ID xmlns="ddi:reusable:3_2">22672eb0-7f71-4077-8e69-3e29ac6f3934</ID>
-        <Version xmlns="ddi:reusable:3_2">5</Version>
-        <DataCollectionModuleName>
-          <String xml:lang="en-GB" xmlns="ddi:reusable:3_2">bcs_86_haat</String>
-        </DataCollectionModuleName>
-        <Label xmlns="ddi:reusable:3_2">
-          <Content xml:lang="en-GB">BCS70 Age 16 ‘Home and All That’ Student Self-Completion Questionnaire</Content>
-        </Label>
-        <CollectionEvent isUniversallyUnique="true">
-          <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:841c7ba6-cd48-4186-96e2-670e7a531c2f:5</URN>
-          <Agency xmlns="ddi:reusable:3_2">uk.cls.bcs70</Agency>
-          <ID xmlns="ddi:reusable:3_2">841c7ba6-cd48-4186-96e2-670e7a531c2f</ID>
-          <Version xmlns="ddi:reusable:3_2">5</Version>
-          <DataCollectorOrganizationReference>
-            <Agency xmlns="ddi:reusable:3_2">uk.closer</Agency>
-            <ID xmlns="ddi:reusable:3_2">0a97fed5-6868-4ef3-b7da-e6911064adf5</ID>
-            <Version xmlns="ddi:reusable:3_2">2</Version>
-            <TypeOfObject xmlns="ddi:reusable:3_2">Organization</TypeOfObject>
-          </DataCollectorOrganizationReference>
-          <DataCollectionDate>
-            <StartDate xmlns="ddi:reusable:3_2">1986-03</StartDate>
-            <EndDate xmlns="ddi:reusable:3_2">1986-12</EndDate>
-          </DataCollectionDate>
-          <ModeOfCollection isUniversallyUnique="true">
-            <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:0bb1b27e-2905-46de-a23a-f571a594582f:5</URN>
-            <Agency xmlns="ddi:reusable:3_2">uk.cls.bcs70</Agency>
-            <ID xmlns="ddi:reusable:3_2">0bb1b27e-2905-46de-a23a-f571a594582f</ID>
-            <Version xmlns="ddi:reusable:3_2">5</Version>
-            <TypeOfModeOfCollection codeListVersionID="1.0">SelfAdministeredQuestionnaire.Paper</TypeOfModeOfCollection>
-            <Description xmlns="ddi:reusable:3_2">
-              <Content xml:lang="en-GB">Self-administered questionnaire using a traditional paper questionnaire. </Content>
-            </Description>
-          </ModeOfCollection>
-        </CollectionEvent>
-      </DataCollection>
-      <DataCollection isUniversallyUnique="true" versionDate="2019-11-05T15:55:13.8812615Z" xmlns="ddi:datacollection:3_2">
-        <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:f349a87e-8107-4229-beb4-3144430f05db:6</URN>
-        <Agency xmlns="ddi:reusable:3_2">uk.cls.bcs70</Agency>
-        <ID xmlns="ddi:reusable:3_2">f349a87e-8107-4229-beb4-3144430f05db</ID>
-        <Version xmlns="ddi:reusable:3_2">6</Version>
-        <DataCollectionModuleName>
-          <String xml:lang="en-GB" xmlns="ddi:reusable:3_2">bcs_86_htq</String>
-        </DataCollectionModuleName>
-        <Label xmlns="ddi:reusable:3_2">
-          <Content xml:lang="en-GB">BCS70 Age 16 Headteacher Questionnaire</Content>
-        </Label>
-        <CollectionEvent isUniversallyUnique="true">
-          <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:43bcc7f9-28ac-4fd7-a27a-f1c938fda3b2:6</URN>
-          <Agency xmlns="ddi:reusable:3_2">uk.cls.bcs70</Agency>
-          <ID xmlns="ddi:reusable:3_2">43bcc7f9-28ac-4fd7-a27a-f1c938fda3b2</ID>
           <Version xmlns="ddi:reusable:3_2">6</Version>
           <DataCollectorOrganizationReference>
             <Agency xmlns="ddi:reusable:3_2">uk.closer</Agency>
@@ -1553,10 +1317,238 @@ Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/1970-british-cohort
             <EndDate xmlns="ddi:reusable:3_2">1986-12</EndDate>
           </DataCollectionDate>
           <ModeOfCollection isUniversallyUnique="true">
-            <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:5ee1ca01-d7f8-4fbe-b0f1-346fbe27a8fd:6</URN>
+            <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:e8f05761-6999-4218-80f2-77e2e1509658:6</URN>
+            <Agency xmlns="ddi:reusable:3_2">uk.cls.bcs70</Agency>
+            <ID xmlns="ddi:reusable:3_2">e8f05761-6999-4218-80f2-77e2e1509658</ID>
+            <Version xmlns="ddi:reusable:3_2">6</Version>
+            <TypeOfModeOfCollection codeListVersionID="1.0">SelfAdministeredQuestionnaire.Paper</TypeOfModeOfCollection>
+            <Description xmlns="ddi:reusable:3_2">
+              <Content xml:lang="en-GB">Self-administered questionnaire using a traditional paper questionnaire. </Content>
+            </Description>
+          </ModeOfCollection>
+        </CollectionEvent>
+      </DataCollection>
+      <DataCollection isUniversallyUnique="true" versionDate="2020-06-25T12:15:43.1454437Z" xmlns="ddi:datacollection:3_2">
+        <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:874197a8-7668-48c6-8070-6200d7d493a4:6</URN>
+        <Agency xmlns="ddi:reusable:3_2">uk.cls.bcs70</Agency>
+        <ID xmlns="ddi:reusable:3_2">874197a8-7668-48c6-8070-6200d7d493a4</ID>
+        <Version xmlns="ddi:reusable:3_2">6</Version>
+        <DataCollectionModuleName>
+          <String xml:lang="en-GB" xmlns="ddi:reusable:3_2">bcs_86_lal</String>
+        </DataCollectionModuleName>
+        <Label xmlns="ddi:reusable:3_2">
+          <Content xml:lang="en-GB">BCS70 Age 16 ‘Life and Leisure’ Student Self-Completion Questionnaire</Content>
+        </Label>
+        <CollectionEvent isUniversallyUnique="true">
+          <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:b7082fd9-9ab9-48f0-9349-694dfc541720:6</URN>
+          <Agency xmlns="ddi:reusable:3_2">uk.cls.bcs70</Agency>
+          <ID xmlns="ddi:reusable:3_2">b7082fd9-9ab9-48f0-9349-694dfc541720</ID>
+          <Version xmlns="ddi:reusable:3_2">6</Version>
+          <DataCollectorOrganizationReference>
+            <Agency xmlns="ddi:reusable:3_2">uk.closer</Agency>
+            <ID xmlns="ddi:reusable:3_2">0a97fed5-6868-4ef3-b7da-e6911064adf5</ID>
+            <Version xmlns="ddi:reusable:3_2">2</Version>
+            <TypeOfObject xmlns="ddi:reusable:3_2">Organization</TypeOfObject>
+          </DataCollectorOrganizationReference>
+          <DataCollectionDate>
+            <StartDate xmlns="ddi:reusable:3_2">1986-03</StartDate>
+            <EndDate xmlns="ddi:reusable:3_2">1986-12</EndDate>
+          </DataCollectionDate>
+          <ModeOfCollection isUniversallyUnique="true">
+            <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:e196267b-e01b-4bab-a881-e6417b7ea889:6</URN>
+            <Agency xmlns="ddi:reusable:3_2">uk.cls.bcs70</Agency>
+            <ID xmlns="ddi:reusable:3_2">e196267b-e01b-4bab-a881-e6417b7ea889</ID>
+            <Version xmlns="ddi:reusable:3_2">6</Version>
+            <TypeOfModeOfCollection codeListVersionID="1.0">SelfAdministeredQuestionnaire.Paper</TypeOfModeOfCollection>
+            <Description xmlns="ddi:reusable:3_2">
+              <Content xml:lang="en-GB">Self-administered questionnaire using a traditional paper questionnaire. </Content>
+            </Description>
+          </ModeOfCollection>
+        </CollectionEvent>
+      </DataCollection>
+      <DataCollection isUniversallyUnique="true" versionDate="2020-06-25T12:16:12.3116725Z" xmlns="ddi:datacollection:3_2">
+        <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:f01f679c-113f-43ec-a0da-7e752d9e2f51:6</URN>
+        <Agency xmlns="ddi:reusable:3_2">uk.cls.bcs70</Agency>
+        <ID xmlns="ddi:reusable:3_2">f01f679c-113f-43ec-a0da-7e752d9e2f51</ID>
+        <Version xmlns="ddi:reusable:3_2">6</Version>
+        <DataCollectionModuleName>
+          <String xml:lang="en-GB" xmlns="ddi:reusable:3_2">bcs_86_pif</String>
+        </DataCollectionModuleName>
+        <Label xmlns="ddi:reusable:3_2">
+          <Content xml:lang="en-GB">BCS70 Age 16 Parental Interview Form</Content>
+        </Label>
+        <CollectionEvent isUniversallyUnique="true">
+          <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:07c85e56-5aca-47c0-802f-674c01919d5e:6</URN>
+          <Agency xmlns="ddi:reusable:3_2">uk.cls.bcs70</Agency>
+          <ID xmlns="ddi:reusable:3_2">07c85e56-5aca-47c0-802f-674c01919d5e</ID>
+          <Version xmlns="ddi:reusable:3_2">6</Version>
+          <DataCollectorOrganizationReference>
+            <Agency xmlns="ddi:reusable:3_2">uk.closer</Agency>
+            <ID xmlns="ddi:reusable:3_2">0a97fed5-6868-4ef3-b7da-e6911064adf5</ID>
+            <Version xmlns="ddi:reusable:3_2">2</Version>
+            <TypeOfObject xmlns="ddi:reusable:3_2">Organization</TypeOfObject>
+          </DataCollectorOrganizationReference>
+          <DataCollectionDate>
+            <StartDate xmlns="ddi:reusable:3_2">1986-03</StartDate>
+            <EndDate xmlns="ddi:reusable:3_2">1986-12</EndDate>
+          </DataCollectionDate>
+          <ModeOfCollection isUniversallyUnique="true">
+            <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:d7a95978-5226-4779-90a0-d218246b7151:6</URN>
+            <Agency xmlns="ddi:reusable:3_2">uk.cls.bcs70</Agency>
+            <ID xmlns="ddi:reusable:3_2">d7a95978-5226-4779-90a0-d218246b7151</ID>
+            <Version xmlns="ddi:reusable:3_2">6</Version>
+            <TypeOfModeOfCollection codeListVersionID="1.0">Interview.FaceToFace.PAPI</TypeOfModeOfCollection>
+            <Description xmlns="ddi:reusable:3_2">
+              <Content xml:lang="en-GB">Face-to-face paper and pencil interviewing.</Content>
+            </Description>
+          </ModeOfCollection>
+        </CollectionEvent>
+      </DataCollection>
+      <DataCollection isUniversallyUnique="true" versionDate="2020-06-25T13:21:54.1802972Z" xmlns="ddi:datacollection:3_2">
+        <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:6238a481-7fab-4217-a31b-dbd3fa38bad4:6</URN>
+        <Agency xmlns="ddi:reusable:3_2">uk.cls.bcs70</Agency>
+        <ID xmlns="ddi:reusable:3_2">6238a481-7fab-4217-a31b-dbd3fa38bad4</ID>
+        <Version xmlns="ddi:reusable:3_2">6</Version>
+        <DataCollectionModuleName>
+          <String xml:lang="en-GB" xmlns="ddi:reusable:3_2">bcs_86_ssc</String>
+        </DataCollectionModuleName>
+        <Label xmlns="ddi:reusable:3_2">
+          <Content xml:lang="en-GB">BCS70 Age 16 Student Self-Completion Health Questionnaire</Content>
+        </Label>
+        <CollectionEvent isUniversallyUnique="true">
+          <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:de399779-d2eb-4b1f-ab11-b34cb267a23c:6</URN>
+          <Agency xmlns="ddi:reusable:3_2">uk.cls.bcs70</Agency>
+          <ID xmlns="ddi:reusable:3_2">de399779-d2eb-4b1f-ab11-b34cb267a23c</ID>
+          <Version xmlns="ddi:reusable:3_2">6</Version>
+          <DataCollectorOrganizationReference>
+            <Agency xmlns="ddi:reusable:3_2">uk.closer</Agency>
+            <ID xmlns="ddi:reusable:3_2">0a97fed5-6868-4ef3-b7da-e6911064adf5</ID>
+            <Version xmlns="ddi:reusable:3_2">2</Version>
+            <TypeOfObject xmlns="ddi:reusable:3_2">Organization</TypeOfObject>
+          </DataCollectorOrganizationReference>
+          <DataCollectionDate>
+            <StartDate xmlns="ddi:reusable:3_2">1986-03</StartDate>
+            <EndDate xmlns="ddi:reusable:3_2">1986-12</EndDate>
+          </DataCollectionDate>
+          <ModeOfCollection isUniversallyUnique="true">
+            <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:571df28a-621a-49a7-aee6-e0c8f01f3878:6</URN>
+            <Agency xmlns="ddi:reusable:3_2">uk.cls.bcs70</Agency>
+            <ID xmlns="ddi:reusable:3_2">571df28a-621a-49a7-aee6-e0c8f01f3878</ID>
+            <Version xmlns="ddi:reusable:3_2">6</Version>
+            <TypeOfModeOfCollection codeListVersionID="1.0">SelfAdministeredQuestionnaire.Paper</TypeOfModeOfCollection>
+            <Description xmlns="ddi:reusable:3_2">
+              <Content xml:lang="en-GB">Self-administered questionnaire using a traditional paper questionnaire.</Content>
+            </Description>
+          </ModeOfCollection>
+        </CollectionEvent>
+      </DataCollection>
+      <DataCollection isUniversallyUnique="true" versionDate="2020-06-25T13:22:19.9835882Z" xmlns="ddi:datacollection:3_2">
+        <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:60f601cb-42af-4280-b98d-5b2bbeaae87f:6</URN>
+        <Agency xmlns="ddi:reusable:3_2">uk.cls.bcs70</Agency>
+        <ID xmlns="ddi:reusable:3_2">60f601cb-42af-4280-b98d-5b2bbeaae87f</ID>
+        <Version xmlns="ddi:reusable:3_2">6</Version>
+        <DataCollectionModuleName>
+          <String xml:lang="en-GB" xmlns="ddi:reusable:3_2">bcs_86_fatow</String>
+        </DataCollectionModuleName>
+        <Label xmlns="ddi:reusable:3_2">
+          <Content xml:lang="en-GB">BCS70 Age 16 ‘Friends and The Outside World’ Student Self-Completion Questionnaire</Content>
+        </Label>
+        <CollectionEvent isUniversallyUnique="true">
+          <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:44d754c1-03f4-461d-91ea-de41d6dfe95d:6</URN>
+          <Agency xmlns="ddi:reusable:3_2">uk.cls.bcs70</Agency>
+          <ID xmlns="ddi:reusable:3_2">44d754c1-03f4-461d-91ea-de41d6dfe95d</ID>
+          <Version xmlns="ddi:reusable:3_2">6</Version>
+          <DataCollectorOrganizationReference>
+            <Agency xmlns="ddi:reusable:3_2">uk.closer</Agency>
+            <ID xmlns="ddi:reusable:3_2">0a97fed5-6868-4ef3-b7da-e6911064adf5</ID>
+            <Version xmlns="ddi:reusable:3_2">2</Version>
+            <TypeOfObject xmlns="ddi:reusable:3_2">Organization</TypeOfObject>
+          </DataCollectorOrganizationReference>
+          <DataCollectionDate>
+            <StartDate xmlns="ddi:reusable:3_2">1986-03</StartDate>
+            <EndDate xmlns="ddi:reusable:3_2">1986-12</EndDate>
+          </DataCollectionDate>
+          <ModeOfCollection isUniversallyUnique="true">
+            <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:7fd97a53-df26-4fa1-b588-d56bc2c6287f:6</URN>
+            <Agency xmlns="ddi:reusable:3_2">uk.cls.bcs70</Agency>
+            <ID xmlns="ddi:reusable:3_2">7fd97a53-df26-4fa1-b588-d56bc2c6287f</ID>
+            <Version xmlns="ddi:reusable:3_2">6</Version>
+            <TypeOfModeOfCollection codeListVersionID="1.0">SelfAdministeredQuestionnaire.Paper</TypeOfModeOfCollection>
+            <Description xmlns="ddi:reusable:3_2">
+              <Content xml:lang="en-GB">Self-administered questionnaire using a traditional paper questionnaire. </Content>
+            </Description>
+          </ModeOfCollection>
+        </CollectionEvent>
+      </DataCollection>
+      <DataCollection isUniversallyUnique="true" versionDate="2020-06-25T13:22:42.9730506Z" xmlns="ddi:datacollection:3_2">
+        <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:22672eb0-7f71-4077-8e69-3e29ac6f3934:6</URN>
+        <Agency xmlns="ddi:reusable:3_2">uk.cls.bcs70</Agency>
+        <ID xmlns="ddi:reusable:3_2">22672eb0-7f71-4077-8e69-3e29ac6f3934</ID>
+        <Version xmlns="ddi:reusable:3_2">6</Version>
+        <DataCollectionModuleName>
+          <String xml:lang="en-GB" xmlns="ddi:reusable:3_2">bcs_86_haat</String>
+        </DataCollectionModuleName>
+        <Label xmlns="ddi:reusable:3_2">
+          <Content xml:lang="en-GB">BCS70 Age 16 ‘Home and All That’ Student Self-Completion Questionnaire</Content>
+        </Label>
+        <CollectionEvent isUniversallyUnique="true">
+          <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:841c7ba6-cd48-4186-96e2-670e7a531c2f:6</URN>
+          <Agency xmlns="ddi:reusable:3_2">uk.cls.bcs70</Agency>
+          <ID xmlns="ddi:reusable:3_2">841c7ba6-cd48-4186-96e2-670e7a531c2f</ID>
+          <Version xmlns="ddi:reusable:3_2">6</Version>
+          <DataCollectorOrganizationReference>
+            <Agency xmlns="ddi:reusable:3_2">uk.closer</Agency>
+            <ID xmlns="ddi:reusable:3_2">0a97fed5-6868-4ef3-b7da-e6911064adf5</ID>
+            <Version xmlns="ddi:reusable:3_2">2</Version>
+            <TypeOfObject xmlns="ddi:reusable:3_2">Organization</TypeOfObject>
+          </DataCollectorOrganizationReference>
+          <DataCollectionDate>
+            <StartDate xmlns="ddi:reusable:3_2">1986-03</StartDate>
+            <EndDate xmlns="ddi:reusable:3_2">1986-12</EndDate>
+          </DataCollectionDate>
+          <ModeOfCollection isUniversallyUnique="true">
+            <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:0bb1b27e-2905-46de-a23a-f571a594582f:6</URN>
+            <Agency xmlns="ddi:reusable:3_2">uk.cls.bcs70</Agency>
+            <ID xmlns="ddi:reusable:3_2">0bb1b27e-2905-46de-a23a-f571a594582f</ID>
+            <Version xmlns="ddi:reusable:3_2">6</Version>
+            <TypeOfModeOfCollection codeListVersionID="1.0">SelfAdministeredQuestionnaire.Paper</TypeOfModeOfCollection>
+            <Description xmlns="ddi:reusable:3_2">
+              <Content xml:lang="en-GB">Self-administered questionnaire using a traditional paper questionnaire. </Content>
+            </Description>
+          </ModeOfCollection>
+        </CollectionEvent>
+      </DataCollection>
+      <DataCollection isUniversallyUnique="true" versionDate="2020-06-25T13:23:19.1110202Z" xmlns="ddi:datacollection:3_2">
+        <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:f349a87e-8107-4229-beb4-3144430f05db:7</URN>
+        <Agency xmlns="ddi:reusable:3_2">uk.cls.bcs70</Agency>
+        <ID xmlns="ddi:reusable:3_2">f349a87e-8107-4229-beb4-3144430f05db</ID>
+        <Version xmlns="ddi:reusable:3_2">7</Version>
+        <DataCollectionModuleName>
+          <String xml:lang="en-GB" xmlns="ddi:reusable:3_2">bcs_86_htq</String>
+        </DataCollectionModuleName>
+        <Label xmlns="ddi:reusable:3_2">
+          <Content xml:lang="en-GB">BCS70 Age 16 Headteacher Questionnaire</Content>
+        </Label>
+        <CollectionEvent isUniversallyUnique="true">
+          <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:43bcc7f9-28ac-4fd7-a27a-f1c938fda3b2:7</URN>
+          <Agency xmlns="ddi:reusable:3_2">uk.cls.bcs70</Agency>
+          <ID xmlns="ddi:reusable:3_2">43bcc7f9-28ac-4fd7-a27a-f1c938fda3b2</ID>
+          <Version xmlns="ddi:reusable:3_2">7</Version>
+          <DataCollectorOrganizationReference>
+            <Agency xmlns="ddi:reusable:3_2">uk.closer</Agency>
+            <ID xmlns="ddi:reusable:3_2">0a97fed5-6868-4ef3-b7da-e6911064adf5</ID>
+            <Version xmlns="ddi:reusable:3_2">2</Version>
+            <TypeOfObject xmlns="ddi:reusable:3_2">Organization</TypeOfObject>
+          </DataCollectorOrganizationReference>
+          <DataCollectionDate>
+            <StartDate xmlns="ddi:reusable:3_2">1986-03</StartDate>
+            <EndDate xmlns="ddi:reusable:3_2">1986-12</EndDate>
+          </DataCollectionDate>
+          <ModeOfCollection isUniversallyUnique="true">
+            <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:5ee1ca01-d7f8-4fbe-b0f1-346fbe27a8fd:7</URN>
             <Agency xmlns="ddi:reusable:3_2">uk.cls.bcs70</Agency>
             <ID xmlns="ddi:reusable:3_2">5ee1ca01-d7f8-4fbe-b0f1-346fbe27a8fd</ID>
-            <Version xmlns="ddi:reusable:3_2">6</Version>
+            <Version xmlns="ddi:reusable:3_2">7</Version>
             <TypeOfModeOfCollection codeListVersionID="1.0">SelfAdministeredQuestionnaire.Paper</TypeOfModeOfCollection>
             <Description xmlns="ddi:reusable:3_2">
               <Content xml:lang="en-GB">Self-administered questionnaire using a traditional paper questionnaire. </Content>
@@ -1678,11 +1670,11 @@ Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/1970-british-cohort
           </ModeOfCollection>
         </CollectionEvent>
       </DataCollection>
-      <DataCollection isUniversallyUnique="true" versionDate="2019-11-05T15:56:21.8531623Z" xmlns="ddi:datacollection:3_2">
-        <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:4fcdb789-3795-47b5-83a4-aa09b64fd3db:5</URN>
+      <DataCollection isUniversallyUnique="true" versionDate="2020-06-25T13:23:56.6200853Z" xmlns="ddi:datacollection:3_2">
+        <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:4fcdb789-3795-47b5-83a4-aa09b64fd3db:6</URN>
         <Agency xmlns="ddi:reusable:3_2">uk.cls.bcs70</Agency>
         <ID xmlns="ddi:reusable:3_2">4fcdb789-3795-47b5-83a4-aa09b64fd3db</ID>
-        <Version xmlns="ddi:reusable:3_2">5</Version>
+        <Version xmlns="ddi:reusable:3_2">6</Version>
         <DataCollectionModuleName>
           <String xml:lang="en-GB" xmlns="ddi:reusable:3_2">bcs_86_me</String>
         </DataCollectionModuleName>
@@ -1690,10 +1682,10 @@ Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/1970-british-cohort
           <Content xml:lang="en-GB">BCS70 Age 16 Medical Examination Form</Content>
         </Label>
         <CollectionEvent isUniversallyUnique="true">
-          <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:692fd392-11de-4b1e-979e-c1d3938521e4:5</URN>
+          <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:692fd392-11de-4b1e-979e-c1d3938521e4:6</URN>
           <Agency xmlns="ddi:reusable:3_2">uk.cls.bcs70</Agency>
           <ID xmlns="ddi:reusable:3_2">692fd392-11de-4b1e-979e-c1d3938521e4</ID>
-          <Version xmlns="ddi:reusable:3_2">5</Version>
+          <Version xmlns="ddi:reusable:3_2">6</Version>
           <DataCollectorOrganizationReference>
             <Agency xmlns="ddi:reusable:3_2">uk.closer</Agency>
             <ID xmlns="ddi:reusable:3_2">0a97fed5-6868-4ef3-b7da-e6911064adf5</ID>
@@ -1705,10 +1697,10 @@ Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/1970-british-cohort
             <EndDate xmlns="ddi:reusable:3_2">1986-12</EndDate>
           </DataCollectionDate>
           <ModeOfCollection isUniversallyUnique="true">
-            <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:dc915f02-5f91-4589-ae6a-459d64391a4f:5</URN>
+            <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:dc915f02-5f91-4589-ae6a-459d64391a4f:6</URN>
             <Agency xmlns="ddi:reusable:3_2">uk.cls.bcs70</Agency>
             <ID xmlns="ddi:reusable:3_2">dc915f02-5f91-4589-ae6a-459d64391a4f</ID>
-            <Version xmlns="ddi:reusable:3_2">5</Version>
+            <Version xmlns="ddi:reusable:3_2">6</Version>
             <TypeOfModeOfCollection codeListVersionID="1.0">MeasurementsAndTests.Physical</TypeOfModeOfCollection>
             <Description xmlns="ddi:reusable:3_2">
               <Content xml:lang="en-GB">Assessment of physical properties of living being, objects, materials, or natural phenomena. This includes medical and geographic data.</Content>
@@ -1716,11 +1708,11 @@ Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/1970-british-cohort
           </ModeOfCollection>
         </CollectionEvent>
       </DataCollection>
-      <DataCollection isUniversallyUnique="true" versionDate="2019-11-05T15:56:40.5288263Z" xmlns="ddi:datacollection:3_2">
-        <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:8aba9a08-eac4-459c-ba3c-802daf1eecee:5</URN>
+      <DataCollection isUniversallyUnique="true" versionDate="2020-06-25T13:27:38.1972844Z" xmlns="ddi:datacollection:3_2">
+        <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:8aba9a08-eac4-459c-ba3c-802daf1eecee:6</URN>
         <Agency xmlns="ddi:reusable:3_2">uk.cls.bcs70</Agency>
         <ID xmlns="ddi:reusable:3_2">8aba9a08-eac4-459c-ba3c-802daf1eecee</ID>
-        <Version xmlns="ddi:reusable:3_2">5</Version>
+        <Version xmlns="ddi:reusable:3_2">6</Version>
         <DataCollectionModuleName>
           <String xml:lang="en-GB" xmlns="ddi:reusable:3_2">bcs_86_mo</String>
         </DataCollectionModuleName>
@@ -1728,9 +1720,47 @@ Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/1970-british-cohort
           <Content xml:lang="en-GB">BCS70 Age 16 ‘Moving On’ Student Test</Content>
         </Label>
         <CollectionEvent isUniversallyUnique="true">
-          <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:d0e731d5-d29e-47ba-a72e-efefcd5f19e9:5</URN>
+          <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:d0e731d5-d29e-47ba-a72e-efefcd5f19e9:6</URN>
           <Agency xmlns="ddi:reusable:3_2">uk.cls.bcs70</Agency>
           <ID xmlns="ddi:reusable:3_2">d0e731d5-d29e-47ba-a72e-efefcd5f19e9</ID>
+          <Version xmlns="ddi:reusable:3_2">6</Version>
+          <DataCollectorOrganizationReference>
+            <Agency xmlns="ddi:reusable:3_2">uk.closer</Agency>
+            <ID xmlns="ddi:reusable:3_2">0a97fed5-6868-4ef3-b7da-e6911064adf5</ID>
+            <Version xmlns="ddi:reusable:3_2">2</Version>
+            <TypeOfObject xmlns="ddi:reusable:3_2">Organization</TypeOfObject>
+          </DataCollectorOrganizationReference>
+          <DataCollectionDate>
+            <StartDate xmlns="ddi:reusable:3_2">1986-03</StartDate>
+            <EndDate xmlns="ddi:reusable:3_2">1986-12</EndDate>
+          </DataCollectionDate>
+          <ModeOfCollection isUniversallyUnique="true">
+            <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:0fbbfe0d-0440-478f-a3b1-bfe77a25513f:6</URN>
+            <Agency xmlns="ddi:reusable:3_2">uk.cls.bcs70</Agency>
+            <ID xmlns="ddi:reusable:3_2">0fbbfe0d-0440-478f-a3b1-bfe77a25513f</ID>
+            <Version xmlns="ddi:reusable:3_2">6</Version>
+            <TypeOfModeOfCollection codeListVersionID="1.0">SelfAdministeredQuestionnaire.Paper</TypeOfModeOfCollection>
+            <Description xmlns="ddi:reusable:3_2">
+              <Content xml:lang="en-GB">Self-administered questionnaire using a traditional paper questionnaire.</Content>
+            </Description>
+          </ModeOfCollection>
+        </CollectionEvent>
+      </DataCollection>
+      <DataCollection isUniversallyUnique="true" versionDate="2020-06-25T13:28:19.7999092Z" xmlns="ddi:datacollection:3_2">
+        <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:f9858862-f36a-4e73-a54e-deac8a5e938e:5</URN>
+        <Agency xmlns="ddi:reusable:3_2">uk.cls.bcs70</Agency>
+        <ID xmlns="ddi:reusable:3_2">f9858862-f36a-4e73-a54e-deac8a5e938e</ID>
+        <Version xmlns="ddi:reusable:3_2">5</Version>
+        <DataCollectionModuleName>
+          <String xml:lang="en-GB" xmlns="ddi:reusable:3_2">bcs_86_msc</String>
+        </DataCollectionModuleName>
+        <Label xmlns="ddi:reusable:3_2">
+          <Content xml:lang="en-GB">BCS70 Age 16 Maternal Self-Completion Form </Content>
+        </Label>
+        <CollectionEvent isUniversallyUnique="true">
+          <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:72115ece-3123-4ee4-8d2a-1eccac709413:5</URN>
+          <Agency xmlns="ddi:reusable:3_2">uk.cls.bcs70</Agency>
+          <ID xmlns="ddi:reusable:3_2">72115ece-3123-4ee4-8d2a-1eccac709413</ID>
           <Version xmlns="ddi:reusable:3_2">5</Version>
           <DataCollectorOrganizationReference>
             <Agency xmlns="ddi:reusable:3_2">uk.closer</Agency>
@@ -1743,48 +1773,10 @@ Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/1970-british-cohort
             <EndDate xmlns="ddi:reusable:3_2">1986-12</EndDate>
           </DataCollectionDate>
           <ModeOfCollection isUniversallyUnique="true">
-            <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:0fbbfe0d-0440-478f-a3b1-bfe77a25513f:5</URN>
-            <Agency xmlns="ddi:reusable:3_2">uk.cls.bcs70</Agency>
-            <ID xmlns="ddi:reusable:3_2">0fbbfe0d-0440-478f-a3b1-bfe77a25513f</ID>
-            <Version xmlns="ddi:reusable:3_2">5</Version>
-            <TypeOfModeOfCollection codeListVersionID="1.0">SelfAdministeredQuestionnaire.Paper</TypeOfModeOfCollection>
-            <Description xmlns="ddi:reusable:3_2">
-              <Content xml:lang="en-GB">Self-administered questionnaire using a traditional paper questionnaire.</Content>
-            </Description>
-          </ModeOfCollection>
-        </CollectionEvent>
-      </DataCollection>
-      <DataCollection isUniversallyUnique="true" versionDate="2019-11-05T15:56:58.9945184Z" xmlns="ddi:datacollection:3_2">
-        <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:f9858862-f36a-4e73-a54e-deac8a5e938e:4</URN>
-        <Agency xmlns="ddi:reusable:3_2">uk.cls.bcs70</Agency>
-        <ID xmlns="ddi:reusable:3_2">f9858862-f36a-4e73-a54e-deac8a5e938e</ID>
-        <Version xmlns="ddi:reusable:3_2">4</Version>
-        <DataCollectionModuleName>
-          <String xml:lang="en-GB" xmlns="ddi:reusable:3_2">bcs_86_msc</String>
-        </DataCollectionModuleName>
-        <Label xmlns="ddi:reusable:3_2">
-          <Content xml:lang="en-GB">BCS70 Age 16 Maternal Self-Completion Form </Content>
-        </Label>
-        <CollectionEvent isUniversallyUnique="true">
-          <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:72115ece-3123-4ee4-8d2a-1eccac709413:4</URN>
-          <Agency xmlns="ddi:reusable:3_2">uk.cls.bcs70</Agency>
-          <ID xmlns="ddi:reusable:3_2">72115ece-3123-4ee4-8d2a-1eccac709413</ID>
-          <Version xmlns="ddi:reusable:3_2">4</Version>
-          <DataCollectorOrganizationReference>
-            <Agency xmlns="ddi:reusable:3_2">uk.closer</Agency>
-            <ID xmlns="ddi:reusable:3_2">0a97fed5-6868-4ef3-b7da-e6911064adf5</ID>
-            <Version xmlns="ddi:reusable:3_2">2</Version>
-            <TypeOfObject xmlns="ddi:reusable:3_2">Organization</TypeOfObject>
-          </DataCollectorOrganizationReference>
-          <DataCollectionDate>
-            <StartDate xmlns="ddi:reusable:3_2">1986-03</StartDate>
-            <EndDate xmlns="ddi:reusable:3_2">1986-12</EndDate>
-          </DataCollectionDate>
-          <ModeOfCollection isUniversallyUnique="true">
-            <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:6f95d11e-d30e-45bf-ac17-71fdcfc57087:4</URN>
+            <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:6f95d11e-d30e-45bf-ac17-71fdcfc57087:5</URN>
             <Agency xmlns="ddi:reusable:3_2">uk.cls.bcs70</Agency>
             <ID xmlns="ddi:reusable:3_2">6f95d11e-d30e-45bf-ac17-71fdcfc57087</ID>
-            <Version xmlns="ddi:reusable:3_2">4</Version>
+            <Version xmlns="ddi:reusable:3_2">5</Version>
             <TypeOfModeOfCollection codeListVersionID="1.0">SelfAdministeredQuestionnaire.Paper</TypeOfModeOfCollection>
             <Description xmlns="ddi:reusable:3_2">
               <Content xml:lang="en-GB">Self-administered questionnaire using a traditional paper questionnaire. </Content>
@@ -1831,11 +1823,11 @@ Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/1970-british-cohort
         </CollectionEvent>
       </DataCollection>
     </StudyUnit>
-    <StudyUnit isUniversallyUnique="true" versionDate="2019-11-05T12:22:21.7757583Z" xmlns="ddi:studyunit:3_2">
-      <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:e4afc442-dfbc-4292-8a7f-835b31ca89e0:9</URN>
+    <StudyUnit isUniversallyUnique="true" versionDate="2020-06-25T13:30:15.8837948Z" xmlns="ddi:studyunit:3_2">
+      <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:e4afc442-dfbc-4292-8a7f-835b31ca89e0:10</URN>
       <Agency xmlns="ddi:reusable:3_2">uk.cls.bcs70</Agency>
       <ID xmlns="ddi:reusable:3_2">e4afc442-dfbc-4292-8a7f-835b31ca89e0</ID>
-      <Version xmlns="ddi:reusable:3_2">9</Version>
+      <Version xmlns="ddi:reusable:3_2">10</Version>
       <UserAttributePair xmlns="ddi:reusable:3_2">
         <AttributeKey>extension:CustomField</AttributeKey>
         <AttributeValue>{"Title":{"en-GB":"LifeStage"},"Description":{},"ValueType":0,"HasValue":true,"RelationshipTargetType":"00000000-0000-0000-0000-000000000000","StringValue":"Early adulthood","MultilingualStringValue":{},"HasDefinedType":false,"DisplayLabel":"LifeStage"}</AttributeValue>
@@ -1896,10 +1888,10 @@ Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/1970-british-cohort
       </FundingInformation>
       <Coverage xmlns="ddi:reusable:3_2">
         <SpatialCoverage isUniversallyUnique="true">
-          <URN>urn:ddi:uk.cls.bcs70:8a7326f4-38d9-4623-a97e-6c5b76a652ac:9</URN>
+          <URN>urn:ddi:uk.cls.bcs70:8a7326f4-38d9-4623-a97e-6c5b76a652ac:10</URN>
           <Agency>uk.cls.bcs70</Agency>
           <ID>8a7326f4-38d9-4623-a97e-6c5b76a652ac</ID>
-          <Version>9</Version>
+          <Version>10</Version>
           <BoundingBox>
             <WestLongitude>0</WestLongitude>
             <EastLongitude>0</EastLongitude>
@@ -1914,10 +1906,10 @@ Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/1970-british-cohort
           </TopLevelReference>
         </SpatialCoverage>
         <TemporalCoverage isUniversallyUnique="true">
-          <URN>urn:ddi:uk.cls.bcs70:2490d6a2-f3eb-45a8-a819-0e508541a397:9</URN>
+          <URN>urn:ddi:uk.cls.bcs70:2490d6a2-f3eb-45a8-a819-0e508541a397:10</URN>
           <Agency>uk.cls.bcs70</Agency>
           <ID>2490d6a2-f3eb-45a8-a819-0e508541a397</ID>
-          <Version>9</Version>
+          <Version>10</Version>
           <ReferenceDate>
             <StartDate>1996-04</StartDate>
             <EndDate>1996-09</EndDate>
@@ -1927,11 +1919,11 @@ Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/1970-british-cohort
       <AnalysisUnit codeListVersionID="1.0" xmlns="ddi:reusable:3_2">Individual</AnalysisUnit>
       <KindOfData codeListVersionID="1.0" xmlns="ddi:reusable:3_2">Survey Data</KindOfData>
       <KindOfData codeListVersionID="1.0" xmlns="ddi:reusable:3_2">Demographic Data</KindOfData>
-      <DataCollection isUniversallyUnique="true" versionDate="2019-10-22T11:43:59.6097635Z" xmlns="ddi:datacollection:3_2">
-        <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:1d42b315-5bc5-45b3-8e3d-d78bd1e98c5d:3</URN>
+      <DataCollection isUniversallyUnique="true" versionDate="2020-06-25T13:30:22.9906986Z" xmlns="ddi:datacollection:3_2">
+        <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:1d42b315-5bc5-45b3-8e3d-d78bd1e98c5d:4</URN>
         <Agency xmlns="ddi:reusable:3_2">uk.cls.bcs70</Agency>
         <ID xmlns="ddi:reusable:3_2">1d42b315-5bc5-45b3-8e3d-d78bd1e98c5d</ID>
-        <Version xmlns="ddi:reusable:3_2">3</Version>
+        <Version xmlns="ddi:reusable:3_2">4</Version>
         <DataCollectionModuleName>
           <String xml:lang="en-GB" xmlns="ddi:reusable:3_2">bcs_96_q</String>
         </DataCollectionModuleName>
@@ -1939,14 +1931,14 @@ Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/1970-british-cohort
           <Content xml:lang="en-GB">BCS70 Age 26 'Where Are You Now?' Self-Completion Questionnaire</Content>
         </Label>
         <CollectionEvent isUniversallyUnique="true">
-          <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:afb5cfbd-5797-4590-8b25-dd961bd24ae5:3</URN>
+          <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:afb5cfbd-5797-4590-8b25-dd961bd24ae5:4</URN>
           <Agency xmlns="ddi:reusable:3_2">uk.cls.bcs70</Agency>
           <ID xmlns="ddi:reusable:3_2">afb5cfbd-5797-4590-8b25-dd961bd24ae5</ID>
-          <Version xmlns="ddi:reusable:3_2">3</Version>
+          <Version xmlns="ddi:reusable:3_2">4</Version>
           <DataCollectorOrganizationReference>
             <Agency xmlns="ddi:reusable:3_2">uk.cls.bcs70</Agency>
             <ID xmlns="ddi:reusable:3_2">a27bfb72-b77a-49f7-9972-489611b4fa55</ID>
-            <Version xmlns="ddi:reusable:3_2">1</Version>
+            <Version xmlns="ddi:reusable:3_2">2</Version>
             <TypeOfObject xmlns="ddi:reusable:3_2">Organization</TypeOfObject>
           </DataCollectorOrganizationReference>
           <DataCollectionDate>
@@ -1954,10 +1946,10 @@ Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/1970-british-cohort
             <EndDate xmlns="ddi:reusable:3_2">1996-09</EndDate>
           </DataCollectionDate>
           <ModeOfCollection isUniversallyUnique="true">
-            <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:9df0c256-b9a7-4c0e-9012-c8f8bacb7698:3</URN>
+            <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:9df0c256-b9a7-4c0e-9012-c8f8bacb7698:4</URN>
             <Agency xmlns="ddi:reusable:3_2">uk.cls.bcs70</Agency>
             <ID xmlns="ddi:reusable:3_2">9df0c256-b9a7-4c0e-9012-c8f8bacb7698</ID>
-            <Version xmlns="ddi:reusable:3_2">3</Version>
+            <Version xmlns="ddi:reusable:3_2">4</Version>
             <TypeOfModeOfCollection codeListVersionID="1.0">SelfAdministeredQuestionnaire.Paper</TypeOfModeOfCollection>
             <Description xmlns="ddi:reusable:3_2">
               <Content xml:lang="en-GB">Self-administered questionnaire using a traditional paper questionnaire.</Content>
@@ -1966,309 +1958,11 @@ Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/1970-british-cohort
         </CollectionEvent>
       </DataCollection>
     </StudyUnit>
-    <StudyUnit isUniversallyUnique="true" versionDate="2019-11-05T12:08:01.1830154Z" xmlns="ddi:studyunit:3_2">
-      <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:8c1ae633-e59d-41ef-b476-4251b4ee0515:12</URN>
-      <Agency xmlns="ddi:reusable:3_2">uk.cls.bcs70</Agency>
-      <ID xmlns="ddi:reusable:3_2">8c1ae633-e59d-41ef-b476-4251b4ee0515</ID>
-      <Version xmlns="ddi:reusable:3_2">12</Version>
-      <UserAttributePair xmlns="ddi:reusable:3_2">
-        <AttributeKey>extension:CustomField</AttributeKey>
-        <AttributeValue>{"Title":{"en-GB":"LifeStage"},"Description":{},"ValueType":0,"HasValue":true,"RelationshipTargetType":"00000000-0000-0000-0000-000000000000","StringValue":"Mid-adulthood","MultilingualStringValue":{},"HasDefinedType":false,"DisplayLabel":"LifeStage"}</AttributeValue>
-      </UserAttributePair>
-      <UserAttributePair xmlns="ddi:reusable:3_2">
-        <AttributeKey>extension:CustomField</AttributeKey>
-        <AttributeValue>{"Title":{"en-GB":"LifeStageDescription"},"Description":{},"ValueType":0,"HasValue":true,"RelationshipTargetType":"00000000-0000-0000-0000-000000000000","StringValue":"31 - 59 years","MultilingualStringValue":{},"HasDefinedType":false,"DisplayLabel":"LifeStageDescription"}</AttributeValue>
-      </UserAttributePair>
-      <Citation xmlns="ddi:reusable:3_2">
-        <Title>
-          <String xml:lang="en-GB">Age 38 Survey (2008)</String>
-        </Title>
-        <Creator>
-          <CreatorName>
-            <String xml:lang="en-GB">Professor Jane Elliott</String>
-          </CreatorName>
-        </Creator>
-        <Publisher>
-          <PublisherName>
-            <String xml:lang="en-GB">Centre for Longitudinal Studies, Institute of Education</String>
-          </PublisherName>
-        </Publisher>
-      </Citation>
-      <Abstract xmlns="ddi:reusable:3_2">
-        <Content xml:lang="en-GB">The 1970 British Cohort Study thirty-eight year follow-up took place in 2008-9. This sweep was conducted for the first time as a telephone interview (CATI). The main aim was to explore the factors central to the formation and maintenance of adult identity in each of the following domains: lifelong learning; relationships, parenting and housing; employment and income; health and health behaviour; and citizenship and values.
-
-Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/1970-british-cohort-study/bcs70-age-38-sweep" target="_blank" title="1970 British Cohort Study (BCS70)"&gt;www.cls.ucl.ac.uk/cls-studies/1970-british-cohort-study/bcs70-age-38-sweep&lt;/a&gt;</Content>
-      </Abstract>
-      <UniverseReference xmlns="ddi:reusable:3_2">
-        <Agency>uk.cls.bcs70</Agency>
-        <ID>0758f695-e97c-41dd-beb5-2e77ed96931f</ID>
-        <Version>2</Version>
-        <TypeOfObject>Universe</TypeOfObject>
-      </UniverseReference>
-      <FundingInformation xmlns="ddi:reusable:3_2">
-        <AgencyOrganizationReference>
-          <Agency>uk.closer</Agency>
-          <ID>ced55fc1-3df1-4d66-a925-cf5e1b79167a</ID>
-          <Version>4</Version>
-          <TypeOfObject>Organization</TypeOfObject>
-        </AgencyOrganizationReference>
-        <GrantNumber>RES-579-28-5001</GrantNumber>
-      </FundingInformation>
-      <Coverage xmlns="ddi:reusable:3_2">
-        <SpatialCoverage isUniversallyUnique="true">
-          <URN>urn:ddi:uk.cls.bcs70:4b337146-9506-467d-9d8b-e7983496fc59:12</URN>
-          <Agency>uk.cls.bcs70</Agency>
-          <ID>4b337146-9506-467d-9d8b-e7983496fc59</ID>
-          <Version>12</Version>
-          <BoundingBox>
-            <WestLongitude>0</WestLongitude>
-            <EastLongitude>0</EastLongitude>
-            <SouthLatitude>0</SouthLatitude>
-            <NorthLatitude>0</NorthLatitude>
-          </BoundingBox>
-          <Country>GB-ENG</Country>
-          <Country>GB-WLS</Country>
-          <Country>GB-SCT</Country>
-          <TopLevelReference>
-            <LevelName>Country</LevelName>
-          </TopLevelReference>
-        </SpatialCoverage>
-        <TemporalCoverage isUniversallyUnique="true">
-          <URN>urn:ddi:uk.cls.bcs70:49eb9cb4-4701-403a-9763-c505afad8eaa:12</URN>
-          <Agency>uk.cls.bcs70</Agency>
-          <ID>49eb9cb4-4701-403a-9763-c505afad8eaa</ID>
-          <Version>12</Version>
-          <ReferenceDate>
-            <StartDate>2008-10</StartDate>
-            <EndDate>2009-05</EndDate>
-          </ReferenceDate>
-        </TemporalCoverage>
-      </Coverage>
-      <AnalysisUnit codeListVersionID="1.0" xmlns="ddi:reusable:3_2">Individual</AnalysisUnit>
-      <KindOfData codeListVersionID="1.0" xmlns="ddi:reusable:3_2">Survey Data</KindOfData>
-      <KindOfData codeListVersionID="1.0" xmlns="ddi:reusable:3_2">Demographic Data</KindOfData>
-      <DataCollection isUniversallyUnique="true" versionDate="2019-10-29T08:54:17.3924258Z" xmlns="ddi:datacollection:3_2">
-        <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:a2bb7d0e-9df1-482d-af19-bc8d1c8ca633:6</URN>
-        <Agency xmlns="ddi:reusable:3_2">uk.cls.bcs70</Agency>
-        <ID xmlns="ddi:reusable:3_2">a2bb7d0e-9df1-482d-af19-bc8d1c8ca633</ID>
-        <Version xmlns="ddi:reusable:3_2">6</Version>
-        <DataCollectionModuleName>
-          <String xml:lang="en-GB" xmlns="ddi:reusable:3_2">bcs8</String>
-        </DataCollectionModuleName>
-        <Label xmlns="ddi:reusable:3_2">
-          <Content xml:lang="en-GB">BCS70 Age 38 Questionnaire</Content>
-        </Label>
-        <CollectionEvent isUniversallyUnique="true">
-          <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:96076a65-ed0d-428a-8e34-4ee7f7788efa:6</URN>
-          <Agency xmlns="ddi:reusable:3_2">uk.cls.bcs70</Agency>
-          <ID xmlns="ddi:reusable:3_2">96076a65-ed0d-428a-8e34-4ee7f7788efa</ID>
-          <Version xmlns="ddi:reusable:3_2">6</Version>
-          <DataCollectorOrganizationReference>
-            <Agency xmlns="ddi:reusable:3_2">uk.closer</Agency>
-            <ID xmlns="ddi:reusable:3_2">7cae2e4d-9ac3-4b5e-b582-a20c4a6523b0</ID>
-            <Version xmlns="ddi:reusable:3_2">1</Version>
-            <TypeOfObject xmlns="ddi:reusable:3_2">Organization</TypeOfObject>
-          </DataCollectorOrganizationReference>
-          <DataCollectionDate>
-            <StartDate xmlns="ddi:reusable:3_2">2008-10</StartDate>
-            <EndDate xmlns="ddi:reusable:3_2">2009-05</EndDate>
-          </DataCollectionDate>
-          <ModeOfCollection isUniversallyUnique="true">
-            <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:11216ab7-ce51-4717-b194-64e74b90ecf2:6</URN>
-            <Agency xmlns="ddi:reusable:3_2">uk.cls.bcs70</Agency>
-            <ID xmlns="ddi:reusable:3_2">11216ab7-ce51-4717-b194-64e74b90ecf2</ID>
-            <Version xmlns="ddi:reusable:3_2">6</Version>
-            <TypeOfModeOfCollection codeListVersionID="1.0">Interview.Telephone.CATI</TypeOfModeOfCollection>
-            <Description xmlns="ddi:reusable:3_2">
-              <Content xml:lang="en-GB">Computer-assisted telephone interviewing.</Content>
-            </Description>
-          </ModeOfCollection>
-        </CollectionEvent>
-      </DataCollection>
-    </StudyUnit>
-    <StudyUnit isUniversallyUnique="true" versionDate="2019-11-05T12:18:13.5615549Z" xmlns="ddi:studyunit:3_2">
-      <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:c5355d32-6dd7-448f-83a1-08c9fd8034a9:12</URN>
-      <Agency xmlns="ddi:reusable:3_2">uk.cls.bcs70</Agency>
-      <ID xmlns="ddi:reusable:3_2">c5355d32-6dd7-448f-83a1-08c9fd8034a9</ID>
-      <Version xmlns="ddi:reusable:3_2">12</Version>
-      <UserAttributePair xmlns="ddi:reusable:3_2">
-        <AttributeKey>extension:CustomField</AttributeKey>
-        <AttributeValue>{"Title":{"en-GB":"LifeStage"},"Description":{},"ValueType":0,"HasValue":true,"RelationshipTargetType":"00000000-0000-0000-0000-000000000000","StringValue":"Early adulthood","MultilingualStringValue":{},"HasDefinedType":false,"DisplayLabel":"LifeStage"}</AttributeValue>
-      </UserAttributePair>
-      <UserAttributePair xmlns="ddi:reusable:3_2">
-        <AttributeKey>extension:CustomField</AttributeKey>
-        <AttributeValue>{"Title":{"en-GB":"LifeStageDescription"},"Description":{},"ValueType":0,"HasValue":true,"RelationshipTargetType":"00000000-0000-0000-0000-000000000000","StringValue":"19 - 30 years","MultilingualStringValue":{},"HasDefinedType":false,"DisplayLabel":"LifeStageDescription"}</AttributeValue>
-      </UserAttributePair>
-      <Citation xmlns="ddi:reusable:3_2">
-        <Title>
-          <String xml:lang="en-GB">Age 30 Survey (2000)</String>
-        </Title>
-        <Creator>
-          <CreatorName>
-            <String xml:lang="en-GB">Professor John Bynner</String>
-          </CreatorName>
-        </Creator>
-        <Publisher>
-          <PublisherName>
-            <String xml:lang="en-GB">Social Science Research Unit, City University</String>
-          </PublisherName>
-        </Publisher>
-      </Citation>
-      <Abstract xmlns="ddi:reusable:3_2">
-        <Content xml:lang="en-GB">The 1970 British Cohort Study: 1999-2000 was conducted when respondents were aged 29-30. Fieldwork was conducted alongside the sixth wave of the National Child Development Study (NCDS6).
-
-Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/1970-british-cohort-study/bcs70-age-30-sweep" target="_blank" title="1970 British Cohort Study (BCS70)"&gt;www.cls.ucl.ac.uk/cls-studies/1970-british-cohort-study/bcs70-age-30-sweep&lt;/a&gt;</Content>
-      </Abstract>
-      <UniverseReference xmlns="ddi:reusable:3_2">
-        <Agency>uk.cls.bcs70</Agency>
-        <ID>bb954c66-b372-45ff-8c2e-244c8802cf56</ID>
-        <Version>1</Version>
-        <TypeOfObject>Universe</TypeOfObject>
-      </UniverseReference>
-      <FundingInformation xmlns="ddi:reusable:3_2">
-        <AgencyOrganizationReference>
-          <Agency>uk.closer</Agency>
-          <ID>73d66768-fe23-4cfc-924a-704e17ba0d70</ID>
-          <Version>2</Version>
-          <TypeOfObject>Organization</TypeOfObject>
-        </AgencyOrganizationReference>
-      </FundingInformation>
-      <FundingInformation xmlns="ddi:reusable:3_2">
-        <AgencyOrganizationReference>
-          <Agency>uk.closer</Agency>
-          <ID>b00a48eb-72a3-4956-b9ff-44d9a2c4a21c</ID>
-          <Version>3</Version>
-          <TypeOfObject>Organization</TypeOfObject>
-        </AgencyOrganizationReference>
-      </FundingInformation>
-      <FundingInformation xmlns="ddi:reusable:3_2">
-        <AgencyOrganizationReference>
-          <Agency>uk.closer</Agency>
-          <ID>69d20063-f078-4551-9698-8f47f52d9372</ID>
-          <Version>2</Version>
-          <TypeOfObject>Organization</TypeOfObject>
-        </AgencyOrganizationReference>
-      </FundingInformation>
-      <FundingInformation xmlns="ddi:reusable:3_2">
-        <AgencyOrganizationReference>
-          <Agency>uk.closer</Agency>
-          <ID>fd79c1c6-a73d-4ec9-bc45-ee7d83364bb2</ID>
-          <Version>3</Version>
-          <TypeOfObject>Organization</TypeOfObject>
-        </AgencyOrganizationReference>
-      </FundingInformation>
-      <FundingInformation xmlns="ddi:reusable:3_2">
-        <AgencyOrganizationReference>
-          <Agency>uk.closer</Agency>
-          <ID>0803d6b1-c96e-46d9-9e03-8e24aa8d2a85</ID>
-          <Version>2</Version>
-          <TypeOfObject>Organization</TypeOfObject>
-        </AgencyOrganizationReference>
-      </FundingInformation>
-      <FundingInformation xmlns="ddi:reusable:3_2">
-        <AgencyOrganizationReference>
-          <Agency>uk.closer</Agency>
-          <ID>bc07fb85-5e9b-41c6-8f17-29824ac61860</ID>
-          <Version>2</Version>
-          <TypeOfObject>Organization</TypeOfObject>
-        </AgencyOrganizationReference>
-      </FundingInformation>
-      <FundingInformation xmlns="ddi:reusable:3_2">
-        <AgencyOrganizationReference>
-          <Agency>uk.closer</Agency>
-          <ID>ced55fc1-3df1-4d66-a925-cf5e1b79167a</ID>
-          <Version>4</Version>
-          <TypeOfObject>Organization</TypeOfObject>
-        </AgencyOrganizationReference>
-      </FundingInformation>
-      <Coverage xmlns="ddi:reusable:3_2">
-        <SpatialCoverage isUniversallyUnique="true">
-          <URN>urn:ddi:uk.cls.bcs70:fe9ae244-9d62-4a1b-8e07-4f913720c317:12</URN>
-          <Agency>uk.cls.bcs70</Agency>
-          <ID>fe9ae244-9d62-4a1b-8e07-4f913720c317</ID>
-          <Version>12</Version>
-          <BoundingBox>
-            <WestLongitude>0</WestLongitude>
-            <EastLongitude>0</EastLongitude>
-            <SouthLatitude>0</SouthLatitude>
-            <NorthLatitude>0</NorthLatitude>
-          </BoundingBox>
-          <Country>GB-ENG</Country>
-          <Country>GB-WLS</Country>
-          <Country>GB-SCT</Country>
-          <TopLevelReference>
-            <LevelName>Country</LevelName>
-          </TopLevelReference>
-        </SpatialCoverage>
-        <TemporalCoverage isUniversallyUnique="true">
-          <URN>urn:ddi:uk.cls.bcs70:c9dda4f9-2bad-40b4-939c-1adc64431bdd:12</URN>
-          <Agency>uk.cls.bcs70</Agency>
-          <ID>c9dda4f9-2bad-40b4-939c-1adc64431bdd</ID>
-          <Version>12</Version>
-          <ReferenceDate>
-            <StartDate>1999</StartDate>
-            <EndDate>2000</EndDate>
-          </ReferenceDate>
-        </TemporalCoverage>
-      </Coverage>
-      <AnalysisUnit codeListVersionID="1.0" xmlns="ddi:reusable:3_2">Individual</AnalysisUnit>
-      <KindOfData codeListVersionID="1.0" xmlns="ddi:reusable:3_2">Survey Data</KindOfData>
-      <KindOfData codeListVersionID="1.0" xmlns="ddi:reusable:3_2">Demographic Data</KindOfData>
-      <DataCollection isUniversallyUnique="true" versionDate="2019-10-29T08:54:46.7685465Z" xmlns="ddi:datacollection:3_2">
-        <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:b88de22a-9b7c-4181-85fe-3f678fe502dd:6</URN>
-        <Agency xmlns="ddi:reusable:3_2">uk.cls.bcs70</Agency>
-        <ID xmlns="ddi:reusable:3_2">b88de22a-9b7c-4181-85fe-3f678fe502dd</ID>
-        <Version xmlns="ddi:reusable:3_2">6</Version>
-        <DataCollectionModuleName>
-          <String xml:lang="en-GB" xmlns="ddi:reusable:3_2">bcs_00_q</String>
-        </DataCollectionModuleName>
-        <Label xmlns="ddi:reusable:3_2">
-          <Content xml:lang="en-GB">BCS70 Age 30 Questionnaire</Content>
-        </Label>
-        <CollectionEvent isUniversallyUnique="true">
-          <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:c0db7c39-7bde-4ff5-99c9-5d163e32695e:6</URN>
-          <Agency xmlns="ddi:reusable:3_2">uk.cls.bcs70</Agency>
-          <ID xmlns="ddi:reusable:3_2">c0db7c39-7bde-4ff5-99c9-5d163e32695e</ID>
-          <Version xmlns="ddi:reusable:3_2">6</Version>
-          <DataCollectorOrganizationReference>
-            <Agency xmlns="ddi:reusable:3_2">uk.closer</Agency>
-            <ID xmlns="ddi:reusable:3_2">7cae2e4d-9ac3-4b5e-b582-a20c4a6523b0</ID>
-            <Version xmlns="ddi:reusable:3_2">1</Version>
-            <TypeOfObject xmlns="ddi:reusable:3_2">Organization</TypeOfObject>
-          </DataCollectorOrganizationReference>
-          <DataCollectionDate>
-            <StartDate xmlns="ddi:reusable:3_2">1999</StartDate>
-            <EndDate xmlns="ddi:reusable:3_2">2000</EndDate>
-          </DataCollectionDate>
-          <ModeOfCollection isUniversallyUnique="true">
-            <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:e058bfd6-4821-4aad-95a6-9c946e63ac4c:6</URN>
-            <Agency xmlns="ddi:reusable:3_2">uk.cls.bcs70</Agency>
-            <ID xmlns="ddi:reusable:3_2">e058bfd6-4821-4aad-95a6-9c946e63ac4c</ID>
-            <Version xmlns="ddi:reusable:3_2">6</Version>
-            <TypeOfModeOfCollection codeListVersionID="1.0">Interview.FaceToFace.CAPI/CAMI</TypeOfModeOfCollection>
-            <Description xmlns="ddi:reusable:3_2">
-              <Content xml:lang="en-GB">Face-to-face computer-assisted personal interviewing.</Content>
-            </Description>
-          </ModeOfCollection>
-          <ModeOfCollection isUniversallyUnique="true">
-            <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:f2e79949-62db-419f-bd94-5f9104fc2654:6</URN>
-            <Agency xmlns="ddi:reusable:3_2">uk.cls.bcs70</Agency>
-            <ID xmlns="ddi:reusable:3_2">f2e79949-62db-419f-bd94-5f9104fc2654</ID>
-            <Version xmlns="ddi:reusable:3_2">6</Version>
-            <TypeOfModeOfCollection codeListVersionID="1.0">SelfAdministeredQuestionnaire.ComputerAssisted</TypeOfModeOfCollection>
-            <Description xmlns="ddi:reusable:3_2">
-              <Content xml:lang="en-GB">Self-administered survey via a custom interviewing programme that does not use real
-time data transfers (CASI).</Content>
-            </Description>
-          </ModeOfCollection>
-        </CollectionEvent>
-      </DataCollection>
-    </StudyUnit>
-    <StudyUnit isUniversallyUnique="true" versionDate="2019-11-05T12:08:01.1830154Z" xmlns="ddi:studyunit:3_2">
-      <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:f67b0300-538b-4086-8d5f-75ad05be7e90:11</URN>
+    <StudyUnit isUniversallyUnique="true" versionDate="2020-06-25T13:58:07.7752227Z" xmlns="ddi:studyunit:3_2">
+      <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:f67b0300-538b-4086-8d5f-75ad05be7e90:14</URN>
       <Agency xmlns="ddi:reusable:3_2">uk.cls.bcs70</Agency>
       <ID xmlns="ddi:reusable:3_2">f67b0300-538b-4086-8d5f-75ad05be7e90</ID>
-      <Version xmlns="ddi:reusable:3_2">11</Version>
+      <Version xmlns="ddi:reusable:3_2">14</Version>
       <UserAttributePair xmlns="ddi:reusable:3_2">
         <AttributeKey>extension:CustomField</AttributeKey>
         <AttributeValue>{"Title":{"en-GB":"LifeStage"},"Description":{},"ValueType":0,"HasValue":true,"RelationshipTargetType":"00000000-0000-0000-0000-000000000000","StringValue":"Mid-adulthood","MultilingualStringValue":{},"HasDefinedType":false,"DisplayLabel":"LifeStage"}</AttributeValue>
@@ -2300,7 +1994,7 @@ Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/1970-british-cohort
       <UniverseReference xmlns="ddi:reusable:3_2">
         <Agency>uk.cls.bcs70</Agency>
         <ID>3b41c5ff-c5f5-4b37-8fe4-af2b746ad553</ID>
-        <Version>1</Version>
+        <Version>2</Version>
         <TypeOfObject>Universe</TypeOfObject>
       </UniverseReference>
       <FundingInformation xmlns="ddi:reusable:3_2">
@@ -2314,10 +2008,10 @@ Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/1970-british-cohort
       </FundingInformation>
       <Coverage xmlns="ddi:reusable:3_2">
         <SpatialCoverage isUniversallyUnique="true">
-          <URN>urn:ddi:uk.cls.bcs70:b94e09a6-85e7-4d46-b8fd-3eaef9009b82:11</URN>
+          <URN>urn:ddi:uk.cls.bcs70:b94e09a6-85e7-4d46-b8fd-3eaef9009b82:14</URN>
           <Agency>uk.cls.bcs70</Agency>
           <ID>b94e09a6-85e7-4d46-b8fd-3eaef9009b82</ID>
-          <Version>11</Version>
+          <Version>14</Version>
           <BoundingBox>
             <WestLongitude>0</WestLongitude>
             <EastLongitude>0</EastLongitude>
@@ -2332,10 +2026,10 @@ Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/1970-british-cohort
           </TopLevelReference>
         </SpatialCoverage>
         <TemporalCoverage isUniversallyUnique="true">
-          <URN>urn:ddi:uk.cls.bcs70:62fef2f5-c8b8-42e2-9174-cdc145981d5d:11</URN>
+          <URN>urn:ddi:uk.cls.bcs70:62fef2f5-c8b8-42e2-9174-cdc145981d5d:14</URN>
           <Agency>uk.cls.bcs70</Agency>
           <ID>62fef2f5-c8b8-42e2-9174-cdc145981d5d</ID>
-          <Version>11</Version>
+          <Version>14</Version>
           <ReferenceDate>
             <StartDate>2004-02</StartDate>
             <EndDate>2005-06</EndDate>
@@ -2346,22 +2040,22 @@ Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/1970-british-cohort
       <KindOfData codeListVersionID="1.0" xmlns="ddi:reusable:3_2">Survey Data</KindOfData>
       <KindOfData codeListVersionID="1.0" xmlns="ddi:reusable:3_2">Demographic Data</KindOfData>
       <KindOfData codeListVersionID="1.0" xmlns="ddi:reusable:3_2">Assessment Data</KindOfData>
-      <DataCollection isUniversallyUnique="true" versionDate="2019-10-29T08:55:34.448266Z" xmlns="ddi:datacollection:3_2">
-        <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:e57615eb-cac6-4193-94f7-e01d6f70afdf:6</URN>
+      <DataCollection isUniversallyUnique="true" versionDate="2020-05-21T14:21:48.6279832Z" xmlns="ddi:datacollection:3_2">
+        <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:e57615eb-cac6-4193-94f7-e01d6f70afdf:7</URN>
         <Agency xmlns="ddi:reusable:3_2">uk.cls.bcs70</Agency>
         <ID xmlns="ddi:reusable:3_2">e57615eb-cac6-4193-94f7-e01d6f70afdf</ID>
-        <Version xmlns="ddi:reusable:3_2">6</Version>
+        <Version xmlns="ddi:reusable:3_2">7</Version>
         <DataCollectionModuleName>
-          <String xml:lang="en-GB" xmlns="ddi:reusable:3_2">bcs_04_fuc</String>
+          <String xml:lang="en-GB" xmlns="ddi:reusable:3_2">bcs_04_capi</String>
         </DataCollectionModuleName>
         <Label xmlns="ddi:reusable:3_2">
           <Content xml:lang="en-GB">BCS70 Age 34 Follow up CAPI Questionnaire</Content>
         </Label>
         <CollectionEvent isUniversallyUnique="true">
-          <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:04ffd9c7-8755-4475-9cb0-4a734f0ac0f7:6</URN>
+          <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:04ffd9c7-8755-4475-9cb0-4a734f0ac0f7:7</URN>
           <Agency xmlns="ddi:reusable:3_2">uk.cls.bcs70</Agency>
           <ID xmlns="ddi:reusable:3_2">04ffd9c7-8755-4475-9cb0-4a734f0ac0f7</ID>
-          <Version xmlns="ddi:reusable:3_2">6</Version>
+          <Version xmlns="ddi:reusable:3_2">7</Version>
           <DataCollectorOrganizationReference>
             <Agency xmlns="ddi:reusable:3_2">uk.closer</Agency>
             <ID xmlns="ddi:reusable:3_2">7cae2e4d-9ac3-4b5e-b582-a20c4a6523b0</ID>
@@ -2373,20 +2067,20 @@ Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/1970-british-cohort
             <EndDate xmlns="ddi:reusable:3_2">2005-06</EndDate>
           </DataCollectionDate>
           <ModeOfCollection isUniversallyUnique="true">
-            <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:eeb945c0-b371-41b3-a155-771b3395a74b:6</URN>
+            <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:eeb945c0-b371-41b3-a155-771b3395a74b:7</URN>
             <Agency xmlns="ddi:reusable:3_2">uk.cls.bcs70</Agency>
             <ID xmlns="ddi:reusable:3_2">eeb945c0-b371-41b3-a155-771b3395a74b</ID>
-            <Version xmlns="ddi:reusable:3_2">6</Version>
+            <Version xmlns="ddi:reusable:3_2">7</Version>
             <TypeOfModeOfCollection codeListVersionID="1.0">Interview.FaceToFace.CAPI/CAMI</TypeOfModeOfCollection>
             <Description xmlns="ddi:reusable:3_2">
               <Content xml:lang="en-GB">Face-to-face computer-assisted personal interviewing.</Content>
             </Description>
           </ModeOfCollection>
           <ModeOfCollection isUniversallyUnique="true">
-            <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:75178ab2-3d41-4de3-9ae1-164ac0d10e44:6</URN>
+            <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:75178ab2-3d41-4de3-9ae1-164ac0d10e44:7</URN>
             <Agency xmlns="ddi:reusable:3_2">uk.cls.bcs70</Agency>
             <ID xmlns="ddi:reusable:3_2">75178ab2-3d41-4de3-9ae1-164ac0d10e44</ID>
-            <Version xmlns="ddi:reusable:3_2">6</Version>
+            <Version xmlns="ddi:reusable:3_2">7</Version>
             <TypeOfModeOfCollection codeListVersionID="1.0">SelfAdministeredQuestionnaire.ComputerAssisted</TypeOfModeOfCollection>
             <Description xmlns="ddi:reusable:3_2">
               <Content xml:lang="en-GB">Self-administered survey via a custom interviewing programme that does not use real time data transfers (CASI).</Content>
@@ -2394,11 +2088,11 @@ Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/1970-british-cohort
           </ModeOfCollection>
         </CollectionEvent>
       </DataCollection>
-      <DataCollection isUniversallyUnique="true" versionDate="2019-10-28T16:42:41.9822318Z" xmlns="ddi:datacollection:3_2">
-        <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:46ac04ed-1c03-44d7-9458-4ff926ad33cf:6</URN>
+      <DataCollection isUniversallyUnique="true" versionDate="2020-06-25T13:56:28.9868432Z" xmlns="ddi:datacollection:3_2">
+        <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:46ac04ed-1c03-44d7-9458-4ff926ad33cf:7</URN>
         <Agency xmlns="ddi:reusable:3_2">uk.cls.bcs70</Agency>
         <ID xmlns="ddi:reusable:3_2">46ac04ed-1c03-44d7-9458-4ff926ad33cf</ID>
-        <Version xmlns="ddi:reusable:3_2">6</Version>
+        <Version xmlns="ddi:reusable:3_2">7</Version>
         <DataCollectionModuleName>
           <String xml:lang="en-GB" xmlns="ddi:reusable:3_2">bcs_04_pac_11m</String>
         </DataCollectionModuleName>
@@ -2406,10 +2100,10 @@ Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/1970-british-cohort
           <Content xml:lang="en-GB">BCS70 Age 34 Parent and Child Self-Completion 0-11 Months</Content>
         </Label>
         <CollectionEvent isUniversallyUnique="true">
-          <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:81c577dd-4b90-42df-bdf0-b2384d840cd2:6</URN>
+          <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:81c577dd-4b90-42df-bdf0-b2384d840cd2:7</URN>
           <Agency xmlns="ddi:reusable:3_2">uk.cls.bcs70</Agency>
           <ID xmlns="ddi:reusable:3_2">81c577dd-4b90-42df-bdf0-b2384d840cd2</ID>
-          <Version xmlns="ddi:reusable:3_2">6</Version>
+          <Version xmlns="ddi:reusable:3_2">7</Version>
           <DataCollectorOrganizationReference>
             <Agency xmlns="ddi:reusable:3_2">uk.closer</Agency>
             <ID xmlns="ddi:reusable:3_2">7cae2e4d-9ac3-4b5e-b582-a20c4a6523b0</ID>
@@ -2421,10 +2115,10 @@ Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/1970-british-cohort
             <EndDate xmlns="ddi:reusable:3_2">2005-06</EndDate>
           </DataCollectionDate>
           <ModeOfCollection isUniversallyUnique="true">
-            <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:4ca6b701-d679-4284-80db-1f73c49f8600:6</URN>
+            <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:4ca6b701-d679-4284-80db-1f73c49f8600:7</URN>
             <Agency xmlns="ddi:reusable:3_2">uk.cls.bcs70</Agency>
             <ID xmlns="ddi:reusable:3_2">4ca6b701-d679-4284-80db-1f73c49f8600</ID>
-            <Version xmlns="ddi:reusable:3_2">6</Version>
+            <Version xmlns="ddi:reusable:3_2">7</Version>
             <TypeOfModeOfCollection codeListVersionID="1.0">Interview.FaceToFace.CAPI/CAMI</TypeOfModeOfCollection>
             <Description xmlns="ddi:reusable:3_2">
               <Content xml:lang="en-GB">Face-to-face computer-assisted personal interviewing.</Content>
@@ -2432,11 +2126,11 @@ Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/1970-british-cohort
           </ModeOfCollection>
         </CollectionEvent>
       </DataCollection>
-      <DataCollection isUniversallyUnique="true" versionDate="2019-10-29T08:55:42.3282099Z" xmlns="ddi:datacollection:3_2">
-        <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:01f70f2a-0185-460a-a06b-4d21497c1491:6</URN>
+      <DataCollection isUniversallyUnique="true" versionDate="2020-06-25T13:57:02.6547868Z" xmlns="ddi:datacollection:3_2">
+        <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:01f70f2a-0185-460a-a06b-4d21497c1491:7</URN>
         <Agency xmlns="ddi:reusable:3_2">uk.cls.bcs70</Agency>
         <ID xmlns="ddi:reusable:3_2">01f70f2a-0185-460a-a06b-4d21497c1491</ID>
-        <Version xmlns="ddi:reusable:3_2">6</Version>
+        <Version xmlns="ddi:reusable:3_2">7</Version>
         <DataCollectionModuleName>
           <String xml:lang="en-GB" xmlns="ddi:reusable:3_2">bcs_04_pac_2y</String>
         </DataCollectionModuleName>
@@ -2444,10 +2138,10 @@ Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/1970-british-cohort
           <Content xml:lang="en-GB">BCS70 Age 34 Parent and Child Self-Completion 1-2 Years</Content>
         </Label>
         <CollectionEvent isUniversallyUnique="true">
-          <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:cbcc8362-080d-41da-baa4-20abfd630ea0:6</URN>
+          <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:cbcc8362-080d-41da-baa4-20abfd630ea0:7</URN>
           <Agency xmlns="ddi:reusable:3_2">uk.cls.bcs70</Agency>
           <ID xmlns="ddi:reusable:3_2">cbcc8362-080d-41da-baa4-20abfd630ea0</ID>
-          <Version xmlns="ddi:reusable:3_2">6</Version>
+          <Version xmlns="ddi:reusable:3_2">7</Version>
           <DataCollectorOrganizationReference>
             <Agency xmlns="ddi:reusable:3_2">uk.closer</Agency>
             <ID xmlns="ddi:reusable:3_2">7cae2e4d-9ac3-4b5e-b582-a20c4a6523b0</ID>
@@ -2459,10 +2153,10 @@ Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/1970-british-cohort
             <EndDate xmlns="ddi:reusable:3_2">2005-06</EndDate>
           </DataCollectionDate>
           <ModeOfCollection isUniversallyUnique="true">
-            <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:22c2e255-9b45-4c6d-a55e-6b8c13ba0dcf:6</URN>
+            <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:22c2e255-9b45-4c6d-a55e-6b8c13ba0dcf:7</URN>
             <Agency xmlns="ddi:reusable:3_2">uk.cls.bcs70</Agency>
             <ID xmlns="ddi:reusable:3_2">22c2e255-9b45-4c6d-a55e-6b8c13ba0dcf</ID>
-            <Version xmlns="ddi:reusable:3_2">6</Version>
+            <Version xmlns="ddi:reusable:3_2">7</Version>
             <TypeOfModeOfCollection codeListVersionID="1.0">Interview.FaceToFace.CAPI/CAMI</TypeOfModeOfCollection>
             <Description xmlns="ddi:reusable:3_2">
               <Content xml:lang="en-GB">Face-to-face computer-assisted personal interviewing.</Content>
@@ -2470,11 +2164,11 @@ Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/1970-british-cohort
           </ModeOfCollection>
         </CollectionEvent>
       </DataCollection>
-      <DataCollection isUniversallyUnique="true" versionDate="2019-10-29T08:55:59.2398994Z" xmlns="ddi:datacollection:3_2">
-        <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:b4e9c9e1-9422-4abc-a44e-5ddeb8aee77a:6</URN>
+      <DataCollection isUniversallyUnique="true" versionDate="2020-06-25T13:57:24.9037144Z" xmlns="ddi:datacollection:3_2">
+        <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:b4e9c9e1-9422-4abc-a44e-5ddeb8aee77a:7</URN>
         <Agency xmlns="ddi:reusable:3_2">uk.cls.bcs70</Agency>
         <ID xmlns="ddi:reusable:3_2">b4e9c9e1-9422-4abc-a44e-5ddeb8aee77a</ID>
-        <Version xmlns="ddi:reusable:3_2">6</Version>
+        <Version xmlns="ddi:reusable:3_2">7</Version>
         <DataCollectionModuleName>
           <String xml:lang="en-GB" xmlns="ddi:reusable:3_2">bcs_04_pac_5y</String>
         </DataCollectionModuleName>
@@ -2482,10 +2176,10 @@ Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/1970-british-cohort
           <Content xml:lang="en-GB">BCS70 Age 34 Questionnaire about Children 3-5 years</Content>
         </Label>
         <CollectionEvent isUniversallyUnique="true">
-          <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:7c9e8919-acfb-4627-be26-b9ece52c4cfd:6</URN>
+          <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:7c9e8919-acfb-4627-be26-b9ece52c4cfd:7</URN>
           <Agency xmlns="ddi:reusable:3_2">uk.cls.bcs70</Agency>
           <ID xmlns="ddi:reusable:3_2">7c9e8919-acfb-4627-be26-b9ece52c4cfd</ID>
-          <Version xmlns="ddi:reusable:3_2">6</Version>
+          <Version xmlns="ddi:reusable:3_2">7</Version>
           <DataCollectorOrganizationReference>
             <Agency xmlns="ddi:reusable:3_2">uk.closer</Agency>
             <ID xmlns="ddi:reusable:3_2">7cae2e4d-9ac3-4b5e-b582-a20c4a6523b0</ID>
@@ -2497,10 +2191,10 @@ Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/1970-british-cohort
             <EndDate xmlns="ddi:reusable:3_2">2005-06</EndDate>
           </DataCollectionDate>
           <ModeOfCollection isUniversallyUnique="true">
-            <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:6771f064-dd88-43c2-ae53-6b108976cbe2:6</URN>
+            <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:6771f064-dd88-43c2-ae53-6b108976cbe2:7</URN>
             <Agency xmlns="ddi:reusable:3_2">uk.cls.bcs70</Agency>
             <ID xmlns="ddi:reusable:3_2">6771f064-dd88-43c2-ae53-6b108976cbe2</ID>
-            <Version xmlns="ddi:reusable:3_2">6</Version>
+            <Version xmlns="ddi:reusable:3_2">7</Version>
             <TypeOfModeOfCollection codeListVersionID="1.0">Interview.FaceToFace.CAPI/CAMI</TypeOfModeOfCollection>
             <Description xmlns="ddi:reusable:3_2">
               <Content xml:lang="en-GB">Face-to-face computer-assisted personal interviewing.</Content>
@@ -2508,11 +2202,11 @@ Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/1970-british-cohort
           </ModeOfCollection>
         </CollectionEvent>
       </DataCollection>
-      <DataCollection isUniversallyUnique="true" versionDate="2019-10-29T08:56:30.1768447Z" xmlns="ddi:datacollection:3_2">
-        <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:98135db2-cc8f-4e68-bb76-4ef2cae99958:6</URN>
+      <DataCollection isUniversallyUnique="true" versionDate="2020-06-25T13:57:46.9689437Z" xmlns="ddi:datacollection:3_2">
+        <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:98135db2-cc8f-4e68-bb76-4ef2cae99958:7</URN>
         <Agency xmlns="ddi:reusable:3_2">uk.cls.bcs70</Agency>
         <ID xmlns="ddi:reusable:3_2">98135db2-cc8f-4e68-bb76-4ef2cae99958</ID>
-        <Version xmlns="ddi:reusable:3_2">6</Version>
+        <Version xmlns="ddi:reusable:3_2">7</Version>
         <DataCollectionModuleName>
           <String xml:lang="en-GB" xmlns="ddi:reusable:3_2">bcs_04_pac_16y</String>
         </DataCollectionModuleName>
@@ -2520,10 +2214,10 @@ Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/1970-british-cohort
           <Content xml:lang="en-GB">BCS70 Age 34 Questionnaire about Children 6-16 years</Content>
         </Label>
         <CollectionEvent isUniversallyUnique="true">
-          <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:62f5884c-09cd-47c3-a951-5387dfe1eece:6</URN>
+          <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:62f5884c-09cd-47c3-a951-5387dfe1eece:7</URN>
           <Agency xmlns="ddi:reusable:3_2">uk.cls.bcs70</Agency>
           <ID xmlns="ddi:reusable:3_2">62f5884c-09cd-47c3-a951-5387dfe1eece</ID>
-          <Version xmlns="ddi:reusable:3_2">6</Version>
+          <Version xmlns="ddi:reusable:3_2">7</Version>
           <DataCollectorOrganizationReference>
             <Agency xmlns="ddi:reusable:3_2">uk.closer</Agency>
             <ID xmlns="ddi:reusable:3_2">7cae2e4d-9ac3-4b5e-b582-a20c4a6523b0</ID>
@@ -2535,10 +2229,10 @@ Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/1970-british-cohort
             <EndDate xmlns="ddi:reusable:3_2">2005-06</EndDate>
           </DataCollectionDate>
           <ModeOfCollection isUniversallyUnique="true">
-            <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:ff29ca80-81d6-47f6-99db-e706d87ba40d:6</URN>
+            <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:ff29ca80-81d6-47f6-99db-e706d87ba40d:7</URN>
             <Agency xmlns="ddi:reusable:3_2">uk.cls.bcs70</Agency>
             <ID xmlns="ddi:reusable:3_2">ff29ca80-81d6-47f6-99db-e706d87ba40d</ID>
-            <Version xmlns="ddi:reusable:3_2">6</Version>
+            <Version xmlns="ddi:reusable:3_2">7</Version>
             <TypeOfModeOfCollection codeListVersionID="1.0">Interview.FaceToFace.CAPI/CAMI</TypeOfModeOfCollection>
             <Description xmlns="ddi:reusable:3_2">
               <Content xml:lang="en-GB">Face-to-face computer-assisted personal interviewing.</Content>
@@ -2546,11 +2240,11 @@ Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/1970-british-cohort
           </ModeOfCollection>
         </CollectionEvent>
       </DataCollection>
-      <DataCollection isUniversallyUnique="true" versionDate="2019-10-29T08:56:15.5209946Z" xmlns="ddi:datacollection:3_2">
-        <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:57d60db0-cde1-484e-9610-febbbacaead9:6</URN>
+      <DataCollection isUniversallyUnique="true" versionDate="2020-06-25T13:58:19.6854538Z" xmlns="ddi:datacollection:3_2">
+        <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:57d60db0-cde1-484e-9610-febbbacaead9:7</URN>
         <Agency xmlns="ddi:reusable:3_2">uk.cls.bcs70</Agency>
         <ID xmlns="ddi:reusable:3_2">57d60db0-cde1-484e-9610-febbbacaead9</ID>
-        <Version xmlns="ddi:reusable:3_2">6</Version>
+        <Version xmlns="ddi:reusable:3_2">7</Version>
         <DataCollectionModuleName>
           <String xml:lang="en-GB" xmlns="ddi:reusable:3_2">bcs_04_ypsc</String>
         </DataCollectionModuleName>
@@ -2558,10 +2252,10 @@ Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/1970-british-cohort
           <Content xml:lang="en-GB">BCS70 Age 34 Questionnaire for Young People 10-16 years</Content>
         </Label>
         <CollectionEvent isUniversallyUnique="true">
-          <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:24163b34-36a2-40da-ad01-60a0111e20ce:6</URN>
+          <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:24163b34-36a2-40da-ad01-60a0111e20ce:7</URN>
           <Agency xmlns="ddi:reusable:3_2">uk.cls.bcs70</Agency>
           <ID xmlns="ddi:reusable:3_2">24163b34-36a2-40da-ad01-60a0111e20ce</ID>
-          <Version xmlns="ddi:reusable:3_2">6</Version>
+          <Version xmlns="ddi:reusable:3_2">7</Version>
           <DataCollectorOrganizationReference>
             <Agency xmlns="ddi:reusable:3_2">uk.closer</Agency>
             <ID xmlns="ddi:reusable:3_2">7cae2e4d-9ac3-4b5e-b582-a20c4a6523b0</ID>
@@ -2573,10 +2267,10 @@ Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/1970-british-cohort
             <EndDate xmlns="ddi:reusable:3_2">2005-06</EndDate>
           </DataCollectionDate>
           <ModeOfCollection isUniversallyUnique="true">
-            <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:33a83468-e4d3-462f-ac01-a7bec370b879:6</URN>
+            <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:33a83468-e4d3-462f-ac01-a7bec370b879:7</URN>
             <Agency xmlns="ddi:reusable:3_2">uk.cls.bcs70</Agency>
             <ID xmlns="ddi:reusable:3_2">33a83468-e4d3-462f-ac01-a7bec370b879</ID>
-            <Version xmlns="ddi:reusable:3_2">6</Version>
+            <Version xmlns="ddi:reusable:3_2">7</Version>
             <TypeOfModeOfCollection codeListVersionID="1.0">SelfAdministeredQuestionnaire.Paper</TypeOfModeOfCollection>
             <Description xmlns="ddi:reusable:3_2">
               <Content xml:lang="en-GB">Self-administered questionnaire using a traditional paper questionnaire.</Content>
@@ -2585,11 +2279,131 @@ Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/1970-british-cohort
         </CollectionEvent>
       </DataCollection>
     </StudyUnit>
-    <StudyUnit isUniversallyUnique="true" versionDate="2019-11-05T12:22:06.2200631Z" xmlns="ddi:studyunit:3_2">
-      <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:5f4419cc-5f69-46bb-b775-ce82bdfc458a:12</URN>
+    <StudyUnit isUniversallyUnique="true" versionDate="2020-06-25T14:02:31.3918538Z" xmlns="ddi:studyunit:3_2">
+      <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:8c1ae633-e59d-41ef-b476-4251b4ee0515:15</URN>
+      <Agency xmlns="ddi:reusable:3_2">uk.cls.bcs70</Agency>
+      <ID xmlns="ddi:reusable:3_2">8c1ae633-e59d-41ef-b476-4251b4ee0515</ID>
+      <Version xmlns="ddi:reusable:3_2">15</Version>
+      <UserAttributePair xmlns="ddi:reusable:3_2">
+        <AttributeKey>extension:CustomField</AttributeKey>
+        <AttributeValue>{"Title":{"en-GB":"LifeStage"},"Description":{},"ValueType":0,"HasValue":true,"RelationshipTargetType":"00000000-0000-0000-0000-000000000000","StringValue":"Mid-adulthood","MultilingualStringValue":{},"HasDefinedType":false,"DisplayLabel":"LifeStage"}</AttributeValue>
+      </UserAttributePair>
+      <UserAttributePair xmlns="ddi:reusable:3_2">
+        <AttributeKey>extension:CustomField</AttributeKey>
+        <AttributeValue>{"Title":{"en-GB":"LifeStageDescription"},"Description":{},"ValueType":0,"HasValue":true,"RelationshipTargetType":"00000000-0000-0000-0000-000000000000","StringValue":"31 - 59 years","MultilingualStringValue":{},"HasDefinedType":false,"DisplayLabel":"LifeStageDescription"}</AttributeValue>
+      </UserAttributePair>
+      <Citation xmlns="ddi:reusable:3_2">
+        <Title>
+          <String xml:lang="en-GB">Age 38 Survey (2008)</String>
+        </Title>
+        <Creator>
+          <CreatorName>
+            <String xml:lang="en-GB">Professor Jane Elliott</String>
+          </CreatorName>
+        </Creator>
+        <Publisher>
+          <PublisherName>
+            <String xml:lang="en-GB">Centre for Longitudinal Studies, Institute of Education</String>
+          </PublisherName>
+        </Publisher>
+      </Citation>
+      <Abstract xmlns="ddi:reusable:3_2">
+        <Content xml:lang="en-GB">The 1970 British Cohort Study thirty-eight year follow-up took place in 2008-9. This sweep was conducted for the first time as a telephone interview (CATI). The main aim was to explore the factors central to the formation and maintenance of adult identity in each of the following domains: lifelong learning; relationships, parenting and housing; employment and income; health and health behaviour; and citizenship and values.
+
+Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/1970-british-cohort-study/bcs70-age-38-sweep" target="_blank" title="1970 British Cohort Study (BCS70)"&gt;www.cls.ucl.ac.uk/cls-studies/1970-british-cohort-study/bcs70-age-38-sweep&lt;/a&gt;</Content>
+      </Abstract>
+      <UniverseReference xmlns="ddi:reusable:3_2">
+        <Agency>uk.cls.bcs70</Agency>
+        <ID>0758f695-e97c-41dd-beb5-2e77ed96931f</ID>
+        <Version>3</Version>
+        <TypeOfObject>Universe</TypeOfObject>
+      </UniverseReference>
+      <FundingInformation xmlns="ddi:reusable:3_2">
+        <AgencyOrganizationReference>
+          <Agency>uk.closer</Agency>
+          <ID>ced55fc1-3df1-4d66-a925-cf5e1b79167a</ID>
+          <Version>4</Version>
+          <TypeOfObject>Organization</TypeOfObject>
+        </AgencyOrganizationReference>
+        <GrantNumber>RES-579-28-5001</GrantNumber>
+      </FundingInformation>
+      <Coverage xmlns="ddi:reusable:3_2">
+        <SpatialCoverage isUniversallyUnique="true">
+          <URN>urn:ddi:uk.cls.bcs70:4b337146-9506-467d-9d8b-e7983496fc59:15</URN>
+          <Agency>uk.cls.bcs70</Agency>
+          <ID>4b337146-9506-467d-9d8b-e7983496fc59</ID>
+          <Version>15</Version>
+          <BoundingBox>
+            <WestLongitude>0</WestLongitude>
+            <EastLongitude>0</EastLongitude>
+            <SouthLatitude>0</SouthLatitude>
+            <NorthLatitude>0</NorthLatitude>
+          </BoundingBox>
+          <Country>GB-ENG</Country>
+          <Country>GB-WLS</Country>
+          <Country>GB-SCT</Country>
+          <TopLevelReference>
+            <LevelName>Country</LevelName>
+          </TopLevelReference>
+        </SpatialCoverage>
+        <TemporalCoverage isUniversallyUnique="true">
+          <URN>urn:ddi:uk.cls.bcs70:49eb9cb4-4701-403a-9763-c505afad8eaa:15</URN>
+          <Agency>uk.cls.bcs70</Agency>
+          <ID>49eb9cb4-4701-403a-9763-c505afad8eaa</ID>
+          <Version>15</Version>
+          <ReferenceDate>
+            <StartDate>2008-10</StartDate>
+            <EndDate>2009-05</EndDate>
+          </ReferenceDate>
+        </TemporalCoverage>
+      </Coverage>
+      <AnalysisUnit codeListVersionID="1.0" xmlns="ddi:reusable:3_2">Individual</AnalysisUnit>
+      <KindOfData codeListVersionID="1.0" xmlns="ddi:reusable:3_2">Survey Data</KindOfData>
+      <KindOfData codeListVersionID="1.0" xmlns="ddi:reusable:3_2">Demographic Data</KindOfData>
+      <DataCollection isUniversallyUnique="true" versionDate="2020-06-25T14:02:45.6608794Z" xmlns="ddi:datacollection:3_2">
+        <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:a2bb7d0e-9df1-482d-af19-bc8d1c8ca633:9</URN>
+        <Agency xmlns="ddi:reusable:3_2">uk.cls.bcs70</Agency>
+        <ID xmlns="ddi:reusable:3_2">a2bb7d0e-9df1-482d-af19-bc8d1c8ca633</ID>
+        <Version xmlns="ddi:reusable:3_2">9</Version>
+        <DataCollectionModuleName>
+          <String xml:lang="en-GB" xmlns="ddi:reusable:3_2">bcs_08_capi</String>
+        </DataCollectionModuleName>
+        <Label xmlns="ddi:reusable:3_2">
+          <Content xml:lang="en-GB">BCS70 Age 38 Questionnaire</Content>
+        </Label>
+        <CollectionEvent isUniversallyUnique="true">
+          <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:96076a65-ed0d-428a-8e34-4ee7f7788efa:9</URN>
+          <Agency xmlns="ddi:reusable:3_2">uk.cls.bcs70</Agency>
+          <ID xmlns="ddi:reusable:3_2">96076a65-ed0d-428a-8e34-4ee7f7788efa</ID>
+          <Version xmlns="ddi:reusable:3_2">9</Version>
+          <DataCollectorOrganizationReference>
+            <Agency xmlns="ddi:reusable:3_2">uk.closer</Agency>
+            <ID xmlns="ddi:reusable:3_2">7cae2e4d-9ac3-4b5e-b582-a20c4a6523b0</ID>
+            <Version xmlns="ddi:reusable:3_2">1</Version>
+            <TypeOfObject xmlns="ddi:reusable:3_2">Organization</TypeOfObject>
+          </DataCollectorOrganizationReference>
+          <DataCollectionDate>
+            <StartDate xmlns="ddi:reusable:3_2">2008-10</StartDate>
+            <EndDate xmlns="ddi:reusable:3_2">2009-05</EndDate>
+          </DataCollectionDate>
+          <ModeOfCollection isUniversallyUnique="true">
+            <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:11216ab7-ce51-4717-b194-64e74b90ecf2:9</URN>
+            <Agency xmlns="ddi:reusable:3_2">uk.cls.bcs70</Agency>
+            <ID xmlns="ddi:reusable:3_2">11216ab7-ce51-4717-b194-64e74b90ecf2</ID>
+            <Version xmlns="ddi:reusable:3_2">9</Version>
+            <TypeOfModeOfCollection codeListVersionID="1.0">Interview.Telephone.CATI</TypeOfModeOfCollection>
+            <Description xmlns="ddi:reusable:3_2">
+              <Content xml:lang="en-GB">Computer-assisted telephone interviewing.</Content>
+            </Description>
+          </ModeOfCollection>
+        </CollectionEvent>
+      </DataCollection>
+    </StudyUnit>
+    <StudyUnit isUniversallyUnique="true" versionDate="2020-06-25T14:11:59.6762181Z" xmlns="ddi:studyunit:3_2">
+      <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:5f4419cc-5f69-46bb-b775-ce82bdfc458a:15</URN>
       <Agency xmlns="ddi:reusable:3_2">uk.cls.bcs70</Agency>
       <ID xmlns="ddi:reusable:3_2">5f4419cc-5f69-46bb-b775-ce82bdfc458a</ID>
-      <Version xmlns="ddi:reusable:3_2">12</Version>
+      <Version xmlns="ddi:reusable:3_2">15</Version>
       <UserAttributePair xmlns="ddi:reusable:3_2">
         <AttributeKey>extension:CustomField</AttributeKey>
         <AttributeValue>{"Title":{"en-GB":"LifeStage"},"Description":{},"ValueType":0,"HasValue":true,"RelationshipTargetType":"00000000-0000-0000-0000-000000000000","StringValue":"Mid-adulthood","MultilingualStringValue":{},"HasDefinedType":false,"DisplayLabel":"LifeStage"}</AttributeValue>
@@ -2635,10 +2449,10 @@ Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/1970-british-cohort
       </FundingInformation>
       <Coverage xmlns="ddi:reusable:3_2">
         <SpatialCoverage isUniversallyUnique="true">
-          <URN>urn:ddi:uk.cls.bcs70:da55e205-496e-4e97-ab8d-fb81026d337a:12</URN>
+          <URN>urn:ddi:uk.cls.bcs70:da55e205-496e-4e97-ab8d-fb81026d337a:15</URN>
           <Agency>uk.cls.bcs70</Agency>
           <ID>da55e205-496e-4e97-ab8d-fb81026d337a</ID>
-          <Version>12</Version>
+          <Version>15</Version>
           <BoundingBox>
             <WestLongitude>0</WestLongitude>
             <EastLongitude>0</EastLongitude>
@@ -2653,10 +2467,10 @@ Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/1970-british-cohort
           </TopLevelReference>
         </SpatialCoverage>
         <TemporalCoverage isUniversallyUnique="true">
-          <URN>urn:ddi:uk.cls.bcs70:a154e30d-2474-4626-8e55-b2ca7f9d11c7:12</URN>
+          <URN>urn:ddi:uk.cls.bcs70:a154e30d-2474-4626-8e55-b2ca7f9d11c7:15</URN>
           <Agency>uk.cls.bcs70</Agency>
           <ID>a154e30d-2474-4626-8e55-b2ca7f9d11c7</ID>
-          <Version>12</Version>
+          <Version>15</Version>
           <ReferenceDate>
             <StartDate>2012-05-01T00:00:00Z</StartDate>
             <EndDate>2013-04-30T00:00:00Z</EndDate>
@@ -2667,79 +2481,21 @@ Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/1970-british-cohort
       <KindOfData codeListVersionID="1.0" xmlns="ddi:reusable:3_2">Survey Data</KindOfData>
       <KindOfData codeListVersionID="1.0" xmlns="ddi:reusable:3_2">Demographic Data</KindOfData>
       <KindOfData codeListVersionID="1.0" xmlns="ddi:reusable:3_2">Assessment Data</KindOfData>
-      <DataCollection isUniversallyUnique="true" versionDate="2019-10-29T09:24:44.1016116Z" xmlns="ddi:datacollection:3_2">
-        <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:f3a09755-23db-45df-bab3-387f1fa66790:4</URN>
+      <DataCollection isUniversallyUnique="true" versionDate="2020-06-25T14:04:22.1242378Z" xmlns="ddi:datacollection:3_2">
+        <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:f3a09755-23db-45df-bab3-387f1fa66790:7</URN>
         <Agency xmlns="ddi:reusable:3_2">uk.cls.bcs70</Agency>
         <ID xmlns="ddi:reusable:3_2">f3a09755-23db-45df-bab3-387f1fa66790</ID>
-        <Version xmlns="ddi:reusable:3_2">4</Version>
+        <Version xmlns="ddi:reusable:3_2">7</Version>
         <DataCollectionModuleName>
-          <String xml:lang="en-GB" xmlns="ddi:reusable:3_2">bcs9</String>
+          <String xml:lang="en-GB" xmlns="ddi:reusable:3_2">bcs_12_capi</String>
         </DataCollectionModuleName>
         <Label xmlns="ddi:reusable:3_2">
           <Content xml:lang="en-GB">BCS70 Age 42 Main Stage Questionnaire</Content>
         </Label>
         <CollectionEvent isUniversallyUnique="true">
-          <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:5ac6aa38-cd38-4490-bcf6-fcc82ed6b3d6:4</URN>
+          <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:5ac6aa38-cd38-4490-bcf6-fcc82ed6b3d6:7</URN>
           <Agency xmlns="ddi:reusable:3_2">uk.cls.bcs70</Agency>
           <ID xmlns="ddi:reusable:3_2">5ac6aa38-cd38-4490-bcf6-fcc82ed6b3d6</ID>
-          <Version xmlns="ddi:reusable:3_2">4</Version>
-          <DataCollectorOrganizationReference>
-            <Agency xmlns="ddi:reusable:3_2">uk.closer</Agency>
-            <ID xmlns="ddi:reusable:3_2">23e4f0a5-616c-4998-aaab-a1982ded5369</ID>
-            <Version xmlns="ddi:reusable:3_2">1</Version>
-            <TypeOfObject xmlns="ddi:reusable:3_2">Organization</TypeOfObject>
-          </DataCollectorOrganizationReference>
-          <DataCollectionDate>
-            <StartDate xmlns="ddi:reusable:3_2">2012-05-01T00:00:00Z</StartDate>
-            <EndDate xmlns="ddi:reusable:3_2">2013-04-30T00:00:00Z</EndDate>
-          </DataCollectionDate>
-          <ModeOfCollection isUniversallyUnique="true">
-            <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:d2f4f3b6-0f18-47b3-a766-b416ea419375:4</URN>
-            <Agency xmlns="ddi:reusable:3_2">uk.cls.bcs70</Agency>
-            <ID xmlns="ddi:reusable:3_2">d2f4f3b6-0f18-47b3-a766-b416ea419375</ID>
-            <Version xmlns="ddi:reusable:3_2">4</Version>
-            <TypeOfModeOfCollection codeListVersionID="1.0">MeasurementsAndTests.Educational</TypeOfModeOfCollection>
-            <Description xmlns="ddi:reusable:3_2">
-              <Content xml:lang="en-GB">Assessment of knowledge, skills, aptitude or educational achievement by means of specialised measures or tests.</Content>
-            </Description>
-          </ModeOfCollection>
-          <ModeOfCollection isUniversallyUnique="true">
-            <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:81680011-43aa-4fdb-b7fe-838cf8bf3d64:4</URN>
-            <Agency xmlns="ddi:reusable:3_2">uk.cls.bcs70</Agency>
-            <ID xmlns="ddi:reusable:3_2">81680011-43aa-4fdb-b7fe-838cf8bf3d64</ID>
-            <Version xmlns="ddi:reusable:3_2">4</Version>
-            <TypeOfModeOfCollection codeListVersionID="1.0">Interview.FaceToFace.CAPI/CAMI</TypeOfModeOfCollection>
-            <Description xmlns="ddi:reusable:3_2">
-              <Content xml:lang="en-GB">Face-to-face computer-assisted personal interviewing.</Content>
-            </Description>
-          </ModeOfCollection>
-          <ModeOfCollection isUniversallyUnique="true">
-            <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:60694f83-80c8-4fbe-a56f-f4879ec37d3d:4</URN>
-            <Agency xmlns="ddi:reusable:3_2">uk.cls.bcs70</Agency>
-            <ID xmlns="ddi:reusable:3_2">60694f83-80c8-4fbe-a56f-f4879ec37d3d</ID>
-            <Version xmlns="ddi:reusable:3_2">4</Version>
-            <TypeOfModeOfCollection codeListVersionID="1.0">SelfAdministeredQuestionnaire.ComputerAssisted</TypeOfModeOfCollection>
-            <Description xmlns="ddi:reusable:3_2">
-              <Content xml:lang="en-GB">Computer-assisted self-interview (CASI). Respondents enter the responses into a computer by themselves.</Content>
-            </Description>
-          </ModeOfCollection>
-        </CollectionEvent>
-      </DataCollection>
-      <DataCollection isUniversallyUnique="true" versionDate="2019-10-29T09:24:57.5019265Z" xmlns="ddi:datacollection:3_2">
-        <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:522c0358-4234-4b3e-8a60-41495ad3e809:7</URN>
-        <Agency xmlns="ddi:reusable:3_2">uk.cls.bcs70</Agency>
-        <ID xmlns="ddi:reusable:3_2">522c0358-4234-4b3e-8a60-41495ad3e809</ID>
-        <Version xmlns="ddi:reusable:3_2">7</Version>
-        <DataCollectionModuleName>
-          <String xml:lang="en-GB" xmlns="ddi:reusable:3_2">bcs9_sc</String>
-        </DataCollectionModuleName>
-        <Label xmlns="ddi:reusable:3_2">
-          <Content xml:lang="en-GB">BCS70 Age 42 Self-Completion Questionnaire</Content>
-        </Label>
-        <CollectionEvent isUniversallyUnique="true">
-          <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:d63b2ffb-ee79-42f2-b035-855f2cda43e3:7</URN>
-          <Agency xmlns="ddi:reusable:3_2">uk.cls.bcs70</Agency>
-          <ID xmlns="ddi:reusable:3_2">d63b2ffb-ee79-42f2-b035-855f2cda43e3</ID>
           <Version xmlns="ddi:reusable:3_2">7</Version>
           <DataCollectorOrganizationReference>
             <Agency xmlns="ddi:reusable:3_2">uk.closer</Agency>
@@ -2752,10 +2508,68 @@ Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/1970-british-cohort
             <EndDate xmlns="ddi:reusable:3_2">2013-04-30T00:00:00Z</EndDate>
           </DataCollectionDate>
           <ModeOfCollection isUniversallyUnique="true">
-            <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:8c22e0fb-7c1e-4fbe-8ee9-58366cf27074:7</URN>
+            <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:d2f4f3b6-0f18-47b3-a766-b416ea419375:7</URN>
+            <Agency xmlns="ddi:reusable:3_2">uk.cls.bcs70</Agency>
+            <ID xmlns="ddi:reusable:3_2">d2f4f3b6-0f18-47b3-a766-b416ea419375</ID>
+            <Version xmlns="ddi:reusable:3_2">7</Version>
+            <TypeOfModeOfCollection codeListVersionID="1.0">MeasurementsAndTests.Educational</TypeOfModeOfCollection>
+            <Description xmlns="ddi:reusable:3_2">
+              <Content xml:lang="en-GB">Assessment of knowledge, skills, aptitude or educational achievement by means of specialised measures or tests.</Content>
+            </Description>
+          </ModeOfCollection>
+          <ModeOfCollection isUniversallyUnique="true">
+            <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:81680011-43aa-4fdb-b7fe-838cf8bf3d64:7</URN>
+            <Agency xmlns="ddi:reusable:3_2">uk.cls.bcs70</Agency>
+            <ID xmlns="ddi:reusable:3_2">81680011-43aa-4fdb-b7fe-838cf8bf3d64</ID>
+            <Version xmlns="ddi:reusable:3_2">7</Version>
+            <TypeOfModeOfCollection codeListVersionID="1.0">Interview.FaceToFace.CAPI/CAMI</TypeOfModeOfCollection>
+            <Description xmlns="ddi:reusable:3_2">
+              <Content xml:lang="en-GB">Face-to-face computer-assisted personal interviewing.</Content>
+            </Description>
+          </ModeOfCollection>
+          <ModeOfCollection isUniversallyUnique="true">
+            <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:60694f83-80c8-4fbe-a56f-f4879ec37d3d:7</URN>
+            <Agency xmlns="ddi:reusable:3_2">uk.cls.bcs70</Agency>
+            <ID xmlns="ddi:reusable:3_2">60694f83-80c8-4fbe-a56f-f4879ec37d3d</ID>
+            <Version xmlns="ddi:reusable:3_2">7</Version>
+            <TypeOfModeOfCollection codeListVersionID="1.0">SelfAdministeredQuestionnaire.ComputerAssisted</TypeOfModeOfCollection>
+            <Description xmlns="ddi:reusable:3_2">
+              <Content xml:lang="en-GB">Computer-assisted self-interview (CASI). Respondents enter the responses into a computer by themselves.</Content>
+            </Description>
+          </ModeOfCollection>
+        </CollectionEvent>
+      </DataCollection>
+      <DataCollection isUniversallyUnique="true" versionDate="2020-06-25T14:04:52.9973947Z" xmlns="ddi:datacollection:3_2">
+        <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:522c0358-4234-4b3e-8a60-41495ad3e809:8</URN>
+        <Agency xmlns="ddi:reusable:3_2">uk.cls.bcs70</Agency>
+        <ID xmlns="ddi:reusable:3_2">522c0358-4234-4b3e-8a60-41495ad3e809</ID>
+        <Version xmlns="ddi:reusable:3_2">8</Version>
+        <DataCollectionModuleName>
+          <String xml:lang="en-GB" xmlns="ddi:reusable:3_2">bcs9_sc</String>
+        </DataCollectionModuleName>
+        <Label xmlns="ddi:reusable:3_2">
+          <Content xml:lang="en-GB">BCS70 Age 42 Self-Completion Questionnaire</Content>
+        </Label>
+        <CollectionEvent isUniversallyUnique="true">
+          <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:d63b2ffb-ee79-42f2-b035-855f2cda43e3:8</URN>
+          <Agency xmlns="ddi:reusable:3_2">uk.cls.bcs70</Agency>
+          <ID xmlns="ddi:reusable:3_2">d63b2ffb-ee79-42f2-b035-855f2cda43e3</ID>
+          <Version xmlns="ddi:reusable:3_2">8</Version>
+          <DataCollectorOrganizationReference>
+            <Agency xmlns="ddi:reusable:3_2">uk.closer</Agency>
+            <ID xmlns="ddi:reusable:3_2">23e4f0a5-616c-4998-aaab-a1982ded5369</ID>
+            <Version xmlns="ddi:reusable:3_2">1</Version>
+            <TypeOfObject xmlns="ddi:reusable:3_2">Organization</TypeOfObject>
+          </DataCollectorOrganizationReference>
+          <DataCollectionDate>
+            <StartDate xmlns="ddi:reusable:3_2">2012-05-01T00:00:00Z</StartDate>
+            <EndDate xmlns="ddi:reusable:3_2">2013-04-30T00:00:00Z</EndDate>
+          </DataCollectionDate>
+          <ModeOfCollection isUniversallyUnique="true">
+            <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:8c22e0fb-7c1e-4fbe-8ee9-58366cf27074:8</URN>
             <Agency xmlns="ddi:reusable:3_2">uk.cls.bcs70</Agency>
             <ID xmlns="ddi:reusable:3_2">8c22e0fb-7c1e-4fbe-8ee9-58366cf27074</ID>
-            <Version xmlns="ddi:reusable:3_2">7</Version>
+            <Version xmlns="ddi:reusable:3_2">8</Version>
             <TypeOfModeOfCollection codeListVersionID="1.0">SelfAdministeredQuestionnaire.Paper</TypeOfModeOfCollection>
             <Description xmlns="ddi:reusable:3_2">
               <Content xml:lang="en-GB">Self-administered survey using a traditional paper questionnaire.</Content>
@@ -2764,12 +2578,127 @@ Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/1970-british-cohort
         </CollectionEvent>
       </DataCollection>
     </StudyUnit>
+    <StudyUnit isUniversallyUnique="true" versionDate="2020-07-06T13:31:46.899601Z" xmlns="ddi:studyunit:3_2">
+      <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:0198e606-1835-4595-9105-efa3b5cb2087:1</URN>
+      <Agency xmlns="ddi:reusable:3_2">uk.cls.bcs70</Agency>
+      <ID xmlns="ddi:reusable:3_2">0198e606-1835-4595-9105-efa3b5cb2087</ID>
+      <Version xmlns="ddi:reusable:3_2">1</Version>
+      <UserAttributePair xmlns="ddi:reusable:3_2">
+        <AttributeKey>extension:CustomField</AttributeKey>
+        <AttributeValue>{"Title":{"en-GB":"LifeStage"},"Description":{},"ValueType":0,"HasValue":true,"RelationshipTargetType":"00000000-0000-0000-0000-000000000000","StringValue":"Mid-adulthood","MultilingualStringValue":{},"HasDefinedType":false,"DisplayLabel":"LifeStage"}</AttributeValue>
+      </UserAttributePair>
+      <Citation xmlns="ddi:reusable:3_2">
+        <Title>
+          <String xml:lang="en-GB">Age 50 COVID-19 Survey Wave 1</String>
+        </Title>
+        <Creator>
+          <CreatorName>
+            <String xml:lang="en-GB">Alissa Goodman</String>
+          </CreatorName>
+        </Creator>
+        <Publisher>
+          <PublisherName>
+            <String xml:lang="en-GB">Centre for Longitudinal Studies, Institute of Education</String>
+          </PublisherName>
+        </Publisher>
+        <Copyright>
+          <String xml:lang="en-GB">Centre for Longitudinal Studies, Institute of Education</String>
+        </Copyright>
+      </Citation>
+      <Abstract xmlns="ddi:reusable:3_2">
+        <Content xml:lang="en-GB">The COVID 19 Survey collects information from participants in 5 national cohort studies about how the Coronavirus epidemic has affected their lives.  The data from the survey will help researchers understand the health, social, and economic impacts of the COVID-19 outbreak. It will be especially important for understanding how people at different life stages are being affected, and how prior life experiences shape resilience or vulnerability to its effects.  By following participants’ lives into the future, the studies will be able to track the longer-term consequences of the pandemic too.</Content>
+      </Abstract>
+      <UniverseReference xmlns="ddi:reusable:3_2">
+        <Agency>uk.closer</Agency>
+        <ID>26de4796-8fc2-45e1-b67d-14dc14cca780</ID>
+        <Version>1</Version>
+        <TypeOfObject>Universe</TypeOfObject>
+      </UniverseReference>
+      <FundingInformation xmlns="ddi:reusable:3_2">
+        <AgencyOrganizationReference>
+          <Agency>uk.closer</Agency>
+          <ID>ced55fc1-3df1-4d66-a925-cf5e1b79167a</ID>
+          <Version>4</Version>
+          <TypeOfObject>Organization</TypeOfObject>
+        </AgencyOrganizationReference>
+      </FundingInformation>
+      <Coverage xmlns="ddi:reusable:3_2">
+        <SpatialCoverage isUniversallyUnique="true">
+          <URN>urn:ddi:uk.cls.bcs70:a55090d6-c4a3-43ce-a08d-135a35fe3ebe:1</URN>
+          <Agency>uk.cls.bcs70</Agency>
+          <ID>a55090d6-c4a3-43ce-a08d-135a35fe3ebe</ID>
+          <Version>1</Version>
+          <BoundingBox>
+            <WestLongitude>0</WestLongitude>
+            <EastLongitude>0</EastLongitude>
+            <SouthLatitude>0</SouthLatitude>
+            <NorthLatitude>0</NorthLatitude>
+          </BoundingBox>
+          <Description>
+            <Content xml:lang="en-GB">Great Britain</Content>
+          </Description>
+          <Country>GB-ENG</Country>
+          <Country>GB-SCT</Country>
+          <Country>GB-WLS</Country>
+          <TopLevelReference>
+            <LevelName>Country</LevelName>
+          </TopLevelReference>
+          <LowestLevelReference>
+            <LevelName>Postcode</LevelName>
+          </LowestLevelReference>
+        </SpatialCoverage>
+        <TemporalCoverage isUniversallyUnique="true">
+          <URN>urn:ddi:uk.cls.bcs70:d1bf917f-1a56-4b23-b5e0-30e13799eb6a:1</URN>
+          <Agency>uk.cls.bcs70</Agency>
+          <ID>d1bf917f-1a56-4b23-b5e0-30e13799eb6a</ID>
+          <Version>1</Version>
+          <ReferenceDate>
+            <StartDate>2020-04</StartDate>
+            <EndDate>2020-05</EndDate>
+          </ReferenceDate>
+        </TemporalCoverage>
+      </Coverage>
+      <AnalysisUnit xmlns="ddi:reusable:3_2">Individual</AnalysisUnit>
+      <KindOfData xmlns="ddi:reusable:3_2">Survey Data</KindOfData>
+      <KindOfData xmlns="ddi:reusable:3_2">Demographic Data</KindOfData>
+      <DataCollection isUniversallyUnique="true" versionDate="2020-07-06T13:33:57.2493556Z" xmlns="ddi:datacollection:3_2">
+        <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:68214697-af7a-409d-ab76-8f272a16db60:1</URN>
+        <Agency xmlns="ddi:reusable:3_2">uk.cls.bcs70</Agency>
+        <ID xmlns="ddi:reusable:3_2">68214697-af7a-409d-ab76-8f272a16db60</ID>
+        <Version xmlns="ddi:reusable:3_2">1</Version>
+        <DataCollectionModuleName>
+          <String xml:lang="en-GB" xmlns="ddi:reusable:3_2">bcs_covid_q1</String>
+        </DataCollectionModuleName>
+        <Label xmlns="ddi:reusable:3_2">
+          <Content xml:lang="en-GB">BCS70 COVID 19 Survey - Wave 1</Content>
+        </Label>
+        <CollectionEvent isUniversallyUnique="true">
+          <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:497ecdfb-99b1-4cb1-97f0-96702ff8e920:1</URN>
+          <Agency xmlns="ddi:reusable:3_2">uk.cls.bcs70</Agency>
+          <ID xmlns="ddi:reusable:3_2">497ecdfb-99b1-4cb1-97f0-96702ff8e920</ID>
+          <Version xmlns="ddi:reusable:3_2">1</Version>
+          <DataCollectorOrganizationReference>
+            <Agency xmlns="ddi:reusable:3_2">uk.closer</Agency>
+            <ID xmlns="ddi:reusable:3_2">f026f9ab-91c7-410c-a4a4-b389e3f72078</ID>
+            <Version xmlns="ddi:reusable:3_2">1</Version>
+            <TypeOfObject xmlns="ddi:reusable:3_2">Organization</TypeOfObject>
+          </DataCollectorOrganizationReference>
+          <DataCollectionDate>
+            <StartDate xmlns="ddi:reusable:3_2">2020-04</StartDate>
+            <EndDate xmlns="ddi:reusable:3_2">2020-05</EndDate>
+          </DataCollectionDate>
+          <ModeOfCollection isUniversallyUnique="true">
+            <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.cls.bcs70:9e8fae72-a1a1-4e07-ae05-40a342b643b7:1</URN>
+            <Agency xmlns="ddi:reusable:3_2">uk.cls.bcs70</Agency>
+            <ID xmlns="ddi:reusable:3_2">9e8fae72-a1a1-4e07-ae05-40a342b643b7</ID>
+            <Version xmlns="ddi:reusable:3_2">1</Version>
+            <TypeOfModeOfCollection>SelfAdministeredQuestionnaire.WebBased</TypeOfModeOfCollection>
+            <Description xmlns="ddi:reusable:3_2">
+              <Content xml:lang="en-GB">Computer-assisted web interviewing (CAWI). Data are collected using a web questionnaire, produced with a program for creating web surveys</Content>
+            </Description>
+          </ModeOfCollection>
+        </CollectionEvent>
+      </DataCollection>
+    </StudyUnit>
   </Group>
-  <ResourcePackage isUniversallyUnique="true" versionDate="2019-11-18T10:58:26.7667124Z" xmlns="ddi:group:3_2">
-    <URN xmlns="ddi:reusable:3_2">urn:ddi:uk.closer:9ce03585-afe7-4b8d-842d-bb985f2aa112:1</URN>
-    <Agency xmlns="ddi:reusable:3_2">uk.closer</Agency>
-    <ID xmlns="ddi:reusable:3_2">9ce03585-afe7-4b8d-842d-bb985f2aa112</ID>
-    <Version xmlns="ddi:reusable:3_2">1</Version>
-    <Citation xmlns="ddi:reusable:3_2" />
-  </ResourcePackage>
 </DDIInstance>
