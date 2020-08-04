@@ -7,7 +7,7 @@
     <r:TypeOfObject>UniverseScheme</r:TypeOfObject>
   </ddi:TopLevelReference>
   <ddi:Fragment xmlns:r="ddi:reusable:3_2">
-    <UniverseScheme isUniversallyUnique="true" versionDate="2020-08-04T14:54:06.0902982Z" xmlns="ddi:conceptualcomponent:3_2">
+    <UniverseScheme isUniversallyUnique="true" versionDate="2020-08-04T17:06:32.2885781Z" xmlns="ddi:conceptualcomponent:3_2">
       <r:URN>urn:ddi:uk.closer:240bac9f-8595-4019-847b-532be0055575:9</r:URN>
       <r:Agency>uk.closer</r:Agency>
       <r:ID>240bac9f-8595-4019-847b-532be0055575</r:ID>
@@ -444,7 +444,7 @@
       <UniverseGroupReference>
         <r:Agency>uk.closer</r:Agency>
         <r:ID>fe6f7b8f-95e3-4a96-82db-bebaaa004595</r:ID>
-        <r:Version>3</r:Version>
+        <r:Version>4</r:Version>
         <r:TypeOfObject>UniverseGroup</r:TypeOfObject>
       </UniverseGroupReference>
       <UniverseGroupReference>
@@ -2326,12 +2326,11 @@
     </Universe>
   </ddi:Fragment>
   <ddi:Fragment xmlns:r="ddi:reusable:3_2">
-    <UniverseGroup isUniversallyUnique="true" versionDate="2019-10-17T11:35:34.2428279Z" xmlns="ddi:conceptualcomponent:3_2">
-      <r:URN>urn:ddi:uk.closer:fe6f7b8f-95e3-4a96-82db-bebaaa004595:3</r:URN>
+    <UniverseGroup isUniversallyUnique="true" versionDate="2020-08-04T17:06:32.2495831Z" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:fe6f7b8f-95e3-4a96-82db-bebaaa004595:4</r:URN>
       <r:Agency>uk.closer</r:Agency>
       <r:ID>fe6f7b8f-95e3-4a96-82db-bebaaa004595</r:ID>
-      <r:Version>3</r:Version>
-      <r:VersionResponsibility>INST\mhadqssi</r:VersionResponsibility>
+      <r:Version>4</r:Version>
       <UniverseGroupName>
         <r:String xml:lang="en-GB">NSHD Populations</r:String>
       </UniverseGroupName>
@@ -2389,7 +2388,30 @@
         <r:Version>2</r:Version>
         <r:TypeOfObject>Universe</r:TypeOfObject>
       </r:UniverseReference>
+      <r:UniverseReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>325609bf-1ec5-4517-b5be-ba9529a29cb8</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Universe</r:TypeOfObject>
+      </r:UniverseReference>
     </UniverseGroup>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Universe isUniversallyUnique="true" versionDate="2020-08-04T17:08:05.887064Z" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:325609bf-1ec5-4517-b5be-ba9529a29cb8:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>325609bf-1ec5-4517-b5be-ba9529a29cb8</r:ID>
+      <r:Version>1</r:Version>
+      <UniverseName>
+        <r:String xml:lang="en-GB">nshd_covid_wave1</r:String>
+      </UniverseName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">NSHD COVID-19 Wave 1 Population</r:Content>
+      </r:Label>
+      <r:Description>
+        <r:Content xml:lang="en-GB">Participants from the MRC National Survey of Health and Development. The invitation was initially sent to participates via email to all those for whom an email address was held, including emigrants, but not including those who have permanently withdrawn from the study, died or been defined as 'permanently untraced'.  A follow-up letter was then sent to all participants whom a postal addresses was held and whom had no email address, but not including those who emigrants, have permanently withdrawn from the study, died or been defined as 'permanently untraced'.</r:Content>
+      </r:Description>
+    </Universe>
   </ddi:Fragment>
   <ddi:Fragment xmlns:r="ddi:reusable:3_2">
     <UniverseGroup isUniversallyUnique="true" versionDate="2019-10-17T10:38:52.0722822Z" xmlns="ddi:conceptualcomponent:3_2">
