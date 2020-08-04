@@ -2,10 +2,1611 @@
 <ddi:FragmentInstance xmlns:r="ddi:reusable:3_2" xmlns:ddi="ddi:instance:3_2">
   <ddi:TopLevelReference>
     <r:Agency>uk.cls.nextsteps</r:Agency>
-    <r:ID>44214bd3-cf3b-466d-8d02-593210abddb0</r:ID>
-    <r:Version>2</r:Version>
-    <r:TypeOfObject>DataCollection</r:TypeOfObject>
+    <r:ID>abc93b61-ee59-4ed1-8d25-7b231f59e638</r:ID>
+    <r:Version>1</r:Version>
+    <r:TypeOfObject>DDIInstance</r:TypeOfObject>
   </ddi:TopLevelReference>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <ddi:DDIInstance isUniversallyUnique="true" versionDate="2020-08-04T11:44:35.7418403Z">
+      <r:URN>urn:ddi:uk.cls.nextsteps:abc93b61-ee59-4ed1-8d25-7b231f59e638:1</r:URN>
+      <r:Agency>uk.cls.nextsteps</r:Agency>
+      <r:ID>abc93b61-ee59-4ed1-8d25-7b231f59e638</r:ID>
+      <r:Version>1</r:Version>
+      <r:Citation>
+        <r:Title>
+          <r:String xml:lang="en-GB">NEXTSTEPS</r:String>
+        </r:Title>
+      </r:Citation>
+      <r:GroupReference>
+        <r:Agency>uk.cls.nextsteps</r:Agency>
+        <r:ID>f25cb910-efa6-4938-b360-73f3f65d88a7</r:ID>
+        <r:Version>7</r:Version>
+        <r:TypeOfObject>Group</r:TypeOfObject>
+      </r:GroupReference>
+    </ddi:DDIInstance>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Group isUniversallyUnique="true" versionDate="2020-08-04T15:14:29.7115904Z" xmlns="ddi:group:3_2">
+      <r:URN>urn:ddi:uk.cls.nextsteps:f25cb910-efa6-4938-b360-73f3f65d88a7:7</r:URN>
+      <r:Agency>uk.cls.nextsteps</r:Agency>
+      <r:ID>f25cb910-efa6-4938-b360-73f3f65d88a7</r:ID>
+      <r:Version>7</r:Version>
+      <r:Citation>
+        <r:Title>
+          <r:String xml:lang="en-GB">Next Steps</r:String>
+        </r:Title>
+        <r:AlternateTitle>
+          <r:String xml:lang="en-GB">LSYPE1; First Longitudinal Study of Young People in England</r:String>
+        </r:AlternateTitle>
+        <r:Creator>
+          <r:CreatorName>
+            <r:String xml:lang="en-GB">Professor Lisa Calderwood</r:String>
+          </r:CreatorName>
+        </r:Creator>
+        <r:Publisher>
+          <r:PublisherName>
+            <r:String xml:lang="en-GB">Centre for Longitudinal Studies, UCL Institute of Education</r:String>
+          </r:PublisherName>
+        </r:Publisher>
+        <r:Copyright>
+          <r:String xml:lang="en-GB">Copyright Centre for Longitudinal Studies, UCL Institute of Education. All rights reserved.</r:String>
+        </r:Copyright>
+      </r:Citation>
+      <r:Abstract>
+        <r:Content xml:lang="en-GB">Next Steps (previously known as the Longitudinal Study of Young People in England (LSYPE1)) is a large and nationally representative longitudinal cohort study following the lives of around 16,000 people in England born in 1989-1990.
+
+The study started in 2004 and was funded and managed by the Department for Education until it transferred to CLS in 2013. Annual interviews with study members were carried out between 2004 and 2010 (ages 14 to 20), as well as interviews with parents for the first four sweeps. The study focused primarily on educational transitions and was supplemented by linked administrative data from the National Pupil Database. Following the initial survey at age 13-14, the cohort members were interviewed every year until 2010.
+
+In 2013 CLS successfully re-started the study and collected another sweep of data at age 25 (in 2015/2016). The scientific content of the study was broadened to provide a multidisciplinary research resource, supplemented by a wide-range of administrative data linkage consents. Extensive efforts were made to maximise the size and representativeness of the sample and interviews were achieved with almost 8,000 study members. 
+
+Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/next-steps/" target="_blank" title="Next Steps"&gt;www.cls.ucl.ac.uk/cls-studies/next-steps&lt;/a&gt;</r:Content>
+      </r:Abstract>
+      <r:UniverseReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>e6060125-ad6b-489d-af6e-14344adf7295</r:ID>
+        <r:Version>2</r:Version>
+        <r:TypeOfObject>Universe</r:TypeOfObject>
+      </r:UniverseReference>
+      <r:FundingInformation>
+        <r:AgencyOrganizationReference>
+          <r:Agency>uk.closer</r:Agency>
+          <r:ID>ced55fc1-3df1-4d66-a925-cf5e1b79167a</r:ID>
+          <r:Version>4</r:Version>
+          <r:TypeOfObject>Organization</r:TypeOfObject>
+        </r:AgencyOrganizationReference>
+        <r:GrantNumber>ES/L000164/1</r:GrantNumber>
+      </r:FundingInformation>
+      <r:StudyUnitReference>
+        <r:Agency>uk.cls.nextsteps</r:Agency>
+        <r:ID>487eae00-70da-46fc-a2e4-c8eb081c5b8f</r:ID>
+        <r:Version>7</r:Version>
+        <r:TypeOfObject>StudyUnit</r:TypeOfObject>
+      </r:StudyUnitReference>
+      <r:StudyUnitReference>
+        <r:Agency>uk.cls.nextsteps</r:Agency>
+        <r:ID>92f50262-1a83-4ad0-bfb4-6129a0a8d7ad</r:ID>
+        <r:Version>7</r:Version>
+        <r:TypeOfObject>StudyUnit</r:TypeOfObject>
+      </r:StudyUnitReference>
+      <r:StudyUnitReference>
+        <r:Agency>uk.cls.nextsteps</r:Agency>
+        <r:ID>87e50bd9-321e-4e32-8317-d1437e3885ad</r:ID>
+        <r:Version>7</r:Version>
+        <r:TypeOfObject>StudyUnit</r:TypeOfObject>
+      </r:StudyUnitReference>
+      <r:StudyUnitReference>
+        <r:Agency>uk.cls.nextsteps</r:Agency>
+        <r:ID>e92c993b-f49f-4aea-bd60-68935965bdfc</r:ID>
+        <r:Version>7</r:Version>
+        <r:TypeOfObject>StudyUnit</r:TypeOfObject>
+      </r:StudyUnitReference>
+      <r:StudyUnitReference>
+        <r:Agency>uk.cls.nextsteps</r:Agency>
+        <r:ID>595ba7f4-c4b5-4001-88c0-43fcbf51cff6</r:ID>
+        <r:Version>6</r:Version>
+        <r:TypeOfObject>StudyUnit</r:TypeOfObject>
+      </r:StudyUnitReference>
+      <r:StudyUnitReference>
+        <r:Agency>uk.cls.nextsteps</r:Agency>
+        <r:ID>2a9ccc04-e688-49d2-93c6-21e42bc5a77b</r:ID>
+        <r:Version>6</r:Version>
+        <r:TypeOfObject>StudyUnit</r:TypeOfObject>
+      </r:StudyUnitReference>
+      <r:StudyUnitReference>
+        <r:Agency>uk.cls.nextsteps</r:Agency>
+        <r:ID>6403132e-fc8d-4c5a-b590-54a2ac62743c</r:ID>
+        <r:Version>6</r:Version>
+        <r:TypeOfObject>StudyUnit</r:TypeOfObject>
+      </r:StudyUnitReference>
+      <r:StudyUnitReference>
+        <r:Agency>uk.cls.nextsteps</r:Agency>
+        <r:ID>7d451bc1-8462-48c4-a380-755d95b5d0d4</r:ID>
+        <r:Version>6</r:Version>
+        <r:TypeOfObject>StudyUnit</r:TypeOfObject>
+      </r:StudyUnitReference>
+      <r:StudyUnitReference>
+        <r:Agency>uk.cls.nextsteps</r:Agency>
+        <r:ID>78572059-2541-4ce6-813f-10250a53c91b</r:ID>
+        <r:Version>4</r:Version>
+        <r:TypeOfObject>StudyUnit</r:TypeOfObject>
+      </r:StudyUnitReference>
+    </Group>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Organization isUniversallyUnique="true" versionDate="2019-11-13T09:41:22.5750254Z" xmlns="ddi:archive:3_2">
+      <r:URN>urn:ddi:uk.closer:ced55fc1-3df1-4d66-a925-cf5e1b79167a:4</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>ced55fc1-3df1-4d66-a925-cf5e1b79167a</r:ID>
+      <r:Version>4</r:Version>
+      <r:UserAttributePair>
+        <r:AttributeKey>ddi31:Nickname</r:AttributeKey>
+        <r:AttributeValue>{"en-GB":"ESRC"}</r:AttributeValue>
+      </r:UserAttributePair>
+      <OrganizationIdentification>
+        <OrganizationName>
+          <r:String xml:lang="en-GB">Economic and Social Research Council</r:String>
+        </OrganizationName>
+        <OrganizationImage>
+          <r:ImageLocation></r:ImageLocation>
+        </OrganizationImage>
+      </OrganizationIdentification>
+      <r:Description>
+        <r:Content xml:lang="en-GB">The ESRC provides funding and support for research and training in the social sciences. It is the UK's largest organisation for funding research on economic and social issues. The ESRC is part of UK Research and Innovation (UKRI) which is a non-departmental public body (NDPB) funded by the UK government (&lt;a href="https://en.wikipedia.org/w/index.php?title=Economic_and_Social_Research_Council&amp;oldid=920740618" target="_blank" &gt;Economic and Social Research Council, n.d.&lt;/a&gt;). </r:Content>
+      </r:Description>
+    </Organization>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Universe isUniversallyUnique="true" versionDate="2020-07-03T16:35:30.3981247Z" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:e6060125-ad6b-489d-af6e-14344adf7295:2</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>e6060125-ad6b-489d-af6e-14344adf7295</r:ID>
+      <r:Version>2</r:Version>
+      <UniverseName>
+        <r:String xml:lang="en-GB">ns_overall</r:String>
+      </UniverseName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Next Steps Overall Population</r:Content>
+      </r:Label>
+      <r:Description>
+        <r:Content xml:lang="en-GB">A stratified sample of young people who were in Year 9 in English state and independent schools and pupil referral units in February 2004.  between 1 September 2000 and 31 August 2001 in England and Wales, and 23 November 2000 and 11 January 2002 in Scotland and Northern Ireland</r:Content>
+      </r:Description>
+    </Universe>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <StudyUnit isUniversallyUnique="true" versionDate="2020-08-04T14:58:28.8839879Z" xmlns="ddi:studyunit:3_2">
+      <r:URN>urn:ddi:uk.cls.nextsteps:487eae00-70da-46fc-a2e4-c8eb081c5b8f:7</r:URN>
+      <r:Agency>uk.cls.nextsteps</r:Agency>
+      <r:ID>487eae00-70da-46fc-a2e4-c8eb081c5b8f</r:ID>
+      <r:Version>7</r:Version>
+      <r:UserAttributePair>
+        <r:AttributeKey>extension:CustomField</r:AttributeKey>
+        <r:AttributeValue>{"Title":{"en-GB":"LifeStage"},"Description":{},"ValueType":0,"HasValue":true,"RelationshipTargetType":"00000000-0000-0000-0000-000000000000","StringValue":"Adolescence","MultilingualStringValue":{},"HasDefinedType":false,"DisplayLabel":"LifeStage"}</r:AttributeValue>
+      </r:UserAttributePair>
+      <r:UserAttributePair>
+        <r:AttributeKey>extension:CustomField</r:AttributeKey>
+        <r:AttributeValue>{"Title":{"en-GB":"LifeStageDescription"},"Description":{},"ValueType":0,"HasValue":true,"RelationshipTargetType":"00000000-0000-0000-0000-000000000000","StringValue":"13 - 18 years","MultilingualStringValue":{},"HasDefinedType":false,"DisplayLabel":"LifeStageDescription"}</r:AttributeValue>
+      </r:UserAttributePair>
+      <r:Citation>
+        <r:Title>
+          <r:String xml:lang="en-GB">Next Steps Age 14 Survey (2004)</r:String>
+        </r:Title>
+        <r:AlternateTitle>
+          <r:String xml:lang="en-GB">Longitudinal Study of Young People in England: Wave 1, 2004</r:String>
+        </r:AlternateTitle>
+        <r:Creator>
+          <r:CreatorName>
+            <r:String xml:lang="en-GB">Department for Education and Skills (DfES)</r:String>
+          </r:CreatorName>
+        </r:Creator>
+        <r:Publisher>
+          <r:PublisherName>
+            <r:String xml:lang="en-GB">Department for Education and Skills (DfES)</r:String>
+          </r:PublisherName>
+        </r:Publisher>
+      </r:Citation>
+      <r:Abstract>
+        <r:Content xml:lang="en-GB">The first survey of Next Steps, previously known as the 'Longitudinal Study of Young People in England' (LSYPE1) took place in 2004. The survey mainly focused on educational experiences, attitudes to school and involvement in education, expectations and aspirations. It also collected information on other aspects of cohort members' lives such as risky-, crime- and anti-social behaviours, and health. In total the interview consisted of five modules. The sample member completed one module - the young person interview, which lasted approximately 35 minutes. Adult interviews were also completed for household information, the main parent interview, second parent interview and child history. These lasted approximately 55 minutes altogether. The total interview time was 1 hour and 30 minutes. Of the 21,000 young people sampled at sweep 1 the survey reached 15,770 households (74%) in England. 
+
+Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/next-steps/next-steps-age-14-sweep" target="_blank" title="Next Steps Age 14 Survey"&gt;www.cls.ucl.ac.uk/cls-studies/next-steps-age-14-sweep&lt;/a&gt;
+</r:Content>
+      </r:Abstract>
+      <r:UniverseReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>c424b2a0-1970-4710-a683-9ae560fc47f3</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Universe</r:TypeOfObject>
+      </r:UniverseReference>
+      <r:FundingInformation>
+        <r:AgencyOrganizationReference>
+          <r:Agency>uk.closer</r:Agency>
+          <r:ID>e5fa2056-3c1c-438e-8736-86a62e42ab5d</r:ID>
+          <r:Version>2</r:Version>
+          <r:TypeOfObject>Organization</r:TypeOfObject>
+        </r:AgencyOrganizationReference>
+      </r:FundingInformation>
+      <r:Coverage>
+        <r:SpatialCoverage isUniversallyUnique="true">
+          <r:URN>urn:ddi:uk.cls.nextsteps:322a60e3-4d68-410a-a40a-1c98964110c6:7</r:URN>
+          <r:Agency>uk.cls.nextsteps</r:Agency>
+          <r:ID>322a60e3-4d68-410a-a40a-1c98964110c6</r:ID>
+          <r:Version>7</r:Version>
+          <r:BoundingBox>
+            <r:WestLongitude>0</r:WestLongitude>
+            <r:EastLongitude>0</r:EastLongitude>
+            <r:SouthLatitude>0</r:SouthLatitude>
+            <r:NorthLatitude>0</r:NorthLatitude>
+          </r:BoundingBox>
+          <r:Country>GB-ENG</r:Country>
+          <r:TopLevelReference>
+            <r:LevelName>Country</r:LevelName>
+          </r:TopLevelReference>
+          <r:LowestLevelReference>
+            <r:LevelName>Postcode</r:LevelName>
+          </r:LowestLevelReference>
+        </r:SpatialCoverage>
+        <r:TemporalCoverage isUniversallyUnique="true">
+          <r:URN>urn:ddi:uk.cls.nextsteps:73d28bf3-c546-4b54-a5f5-f3d7fac0a110:7</r:URN>
+          <r:Agency>uk.cls.nextsteps</r:Agency>
+          <r:ID>73d28bf3-c546-4b54-a5f5-f3d7fac0a110</r:ID>
+          <r:Version>7</r:Version>
+          <r:ReferenceDate>
+            <r:StartDate>2004-03-30</r:StartDate>
+            <r:EndDate>2004-10-19</r:EndDate>
+          </r:ReferenceDate>
+        </r:TemporalCoverage>
+      </r:Coverage>
+      <r:AnalysisUnit codeListVersionID="1.0">Individual</r:AnalysisUnit>
+      <r:KindOfData codeListVersionID="1.0">Survey Data</r:KindOfData>
+      <r:DataCollectionReference>
+        <r:Agency>uk.cls.nextsteps</r:Agency>
+        <r:ID>80f93659-1adb-462f-9a93-593857d7cdde</r:ID>
+        <r:Version>4</r:Version>
+        <r:TypeOfObject>DataCollection</r:TypeOfObject>
+      </r:DataCollectionReference>
+    </StudyUnit>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <DataCollection isUniversallyUnique="true" versionDate="2020-08-04T15:15:15.1356657Z" xmlns="ddi:datacollection:3_2">
+      <r:URN>urn:ddi:uk.cls.nextsteps:80f93659-1adb-462f-9a93-593857d7cdde:4</r:URN>
+      <r:Agency>uk.cls.nextsteps</r:Agency>
+      <r:ID>80f93659-1adb-462f-9a93-593857d7cdde</r:ID>
+      <r:Version>4</r:Version>
+      <DataCollectionModuleName>
+        <r:String xml:lang="en-GB">ns_04_w1</r:String>
+      </DataCollectionModuleName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Next Steps Age 14 Survey (2004)</r:Content>
+      </r:Label>
+      <CollectionEvent isUniversallyUnique="true">
+        <r:URN>urn:ddi:uk.cls.nextsteps:f01c39bb-3e49-4120-9945-440408d33f8f:4</r:URN>
+        <r:Agency>uk.cls.nextsteps</r:Agency>
+        <r:ID>f01c39bb-3e49-4120-9945-440408d33f8f</r:ID>
+        <r:Version>4</r:Version>
+        <DataCollectorOrganizationReference>
+          <r:Agency>uk.closer</r:Agency>
+          <r:ID>74c80340-4856-4b48-b345-701b66ae1c99</r:ID>
+          <r:Version>1</r:Version>
+          <r:TypeOfObject>Organization</r:TypeOfObject>
+        </DataCollectorOrganizationReference>
+        <DataCollectorOrganizationReference>
+          <r:Agency>uk.closer</r:Agency>
+          <r:ID>2b5de265-3b50-4b96-a27d-cd802e262c6c</r:ID>
+          <r:Version>1</r:Version>
+          <r:TypeOfObject>Organization</r:TypeOfObject>
+        </DataCollectorOrganizationReference>
+        <DataCollectorOrganizationReference>
+          <r:Agency>uk.closer</r:Agency>
+          <r:ID>03d1fb7b-da9c-4b73-9101-a4ea1f189aae</r:ID>
+          <r:Version>2</r:Version>
+          <r:TypeOfObject>Organization</r:TypeOfObject>
+        </DataCollectorOrganizationReference>
+        <DataCollectionDate>
+          <r:StartDate>2004-04-30</r:StartDate>
+          <r:EndDate>2004-10-19</r:EndDate>
+        </DataCollectionDate>
+        <ModeOfCollection isUniversallyUnique="true">
+          <r:URN>urn:ddi:uk.cls.nextsteps:04ba61cc-0069-4c85-a6cc-db4709f94358:4</r:URN>
+          <r:Agency>uk.cls.nextsteps</r:Agency>
+          <r:ID>04ba61cc-0069-4c85-a6cc-db4709f94358</r:ID>
+          <r:Version>4</r:Version>
+          <TypeOfModeOfCollection codeListVersionID="1.0">Interview.FaceToFace.CAPI/CAMI</TypeOfModeOfCollection>
+          <r:Description>
+            <r:Content xml:lang="en-GB">Face-to-face computer-assisted personal interviewing.</r:Content>
+          </r:Description>
+        </ModeOfCollection>
+      </CollectionEvent>
+    </DataCollection>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Organization isUniversallyUnique="true" versionDate="2020-07-06T09:06:38.3693149Z" xmlns="ddi:archive:3_2">
+      <r:URN>urn:ddi:uk.closer:74c80340-4856-4b48-b345-701b66ae1c99:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>74c80340-4856-4b48-b345-701b66ae1c99</r:ID>
+      <r:Version>1</r:Version>
+      <r:UserAttributePair>
+        <r:AttributeKey>ddi31:Nickname</r:AttributeKey>
+        <r:AttributeValue>{"en-GB":"BMRB"}</r:AttributeValue>
+      </r:UserAttributePair>
+      <OrganizationIdentification>
+        <OrganizationName>
+          <r:String xml:lang="en-GB">BMRB</r:String>
+        </OrganizationName>
+      </OrganizationIdentification>
+      <r:Description>
+        <r:Content xml:lang="en-GB">BMRB which is now known as Kantar Public UK was established in 1933 and is now part of global Kantar Public network. It is a global market research and market information group</r:Content>
+      </r:Description>
+    </Organization>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Organization isUniversallyUnique="true" versionDate="2019-11-13T10:50:50.4392008Z" xmlns="ddi:archive:3_2">
+      <r:URN>urn:ddi:uk.closer:2b5de265-3b50-4b96-a27d-cd802e262c6c:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>2b5de265-3b50-4b96-a27d-cd802e262c6c</r:ID>
+      <r:Version>1</r:Version>
+      <OrganizationIdentification>
+        <OrganizationName>
+          <r:String xml:lang="en-GB">National Opinion Polls Market Research Ltd</r:String>
+        </OrganizationName>
+      </OrganizationIdentification>
+      <r:Description>
+        <r:Content xml:lang="en-GB">NOP was a market research organisation which was acquired by GfK to become GfK NOP in 2005 (&lt;a href="https://en.wikipedia.org/w/index.php?title=GfK&amp;oldid=916672979" target="_blank" &gt;GfK, n.d. &lt;/a&gt;).</r:Content>
+      </r:Description>
+    </Organization>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Organization isUniversallyUnique="true" versionDate="2020-07-15T14:09:27.499935Z" xmlns="ddi:archive:3_2">
+      <r:URN>urn:ddi:uk.closer:03d1fb7b-da9c-4b73-9101-a4ea1f189aae:2</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>03d1fb7b-da9c-4b73-9101-a4ea1f189aae</r:ID>
+      <r:Version>2</r:Version>
+      <r:UserAttributePair>
+        <r:AttributeKey>ddi31:Nickname</r:AttributeKey>
+        <r:AttributeValue>{"en-GB":"Ipsos-MORI"}</r:AttributeValue>
+      </r:UserAttributePair>
+      <OrganizationIdentification>
+        <OrganizationName>
+          <r:String xml:lang="en-GB">Ipsos-MORI</r:String>
+        </OrganizationName>
+      </OrganizationIdentification>
+      <r:Description>
+        <r:Content xml:lang="en-GB">Ipsos MORI is a market research company in the UK. It was formed by a merger of Ipsos UK and MORI in 2005. Ipsos MORI conduct surveys for a wide range of major organisations as well as other market research agencies (&lt;a href="https://en.wikipedia.org/w/index.php?title=Ipsos_MORI&amp;oldid=922247492" target="_blank" &gt;Ipsos_MORI&lt;/a&gt;).</r:Content>
+      </r:Description>
+    </Organization>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Organization isUniversallyUnique="true" versionDate="2019-11-13T10:16:45.6526335Z" xmlns="ddi:archive:3_2">
+      <r:URN>urn:ddi:uk.closer:e5fa2056-3c1c-438e-8736-86a62e42ab5d:2</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>e5fa2056-3c1c-438e-8736-86a62e42ab5d</r:ID>
+      <r:Version>2</r:Version>
+      <r:UserAttributePair>
+        <r:AttributeKey>ddi31:Nickname</r:AttributeKey>
+        <r:AttributeValue>{"en-GB":"DCSF"}</r:AttributeValue>
+      </r:UserAttributePair>
+      <OrganizationIdentification>
+        <OrganizationName>
+          <r:String xml:lang="en-GB">UK Department for Children, Schools and Families</r:String>
+        </OrganizationName>
+      </OrganizationIdentification>
+      <r:Description>
+        <r:Content xml:lang="en-GB">The DCSF was a department of the UK government between 2007 and 2010, with responsibility for issues affecting people in England up to the age of 19, including child protection and education. DCSF was replaced by the Department for Education in 2010 (&lt;a href="https://en.wikipedia.org/w/index.php?title=Department_for_Children,_Schools_and_Families&amp;oldid=916312877" target="_blank" &gt;Department for Children, Schools and Families, n.d.&lt;/a&gt;).</r:Content>
+      </r:Description>
+    </Organization>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Universe isUniversallyUnique="true" versionDate="2020-07-03T16:36:11.3935095Z" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:c424b2a0-1970-4710-a683-9ae560fc47f3:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>c424b2a0-1970-4710-a683-9ae560fc47f3</r:ID>
+      <r:Version>1</r:Version>
+      <UniverseName>
+        <r:String xml:lang="en-GB">ns_age14</r:String>
+      </UniverseName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Next Steps Age 14 Population</r:Content>
+      </r:Label>
+      <r:Description>
+        <r:Content xml:lang="en-GB">A stratified sample of young people who were in Year 9 in English state and independent schools and pupil referral units in February 2004. </r:Content>
+      </r:Description>
+    </Universe>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <StudyUnit isUniversallyUnique="true" versionDate="2020-08-04T15:16:10.9748218Z" xmlns="ddi:studyunit:3_2">
+      <r:URN>urn:ddi:uk.cls.nextsteps:92f50262-1a83-4ad0-bfb4-6129a0a8d7ad:7</r:URN>
+      <r:Agency>uk.cls.nextsteps</r:Agency>
+      <r:ID>92f50262-1a83-4ad0-bfb4-6129a0a8d7ad</r:ID>
+      <r:Version>7</r:Version>
+      <r:UserAttributePair>
+        <r:AttributeKey>extension:CustomField</r:AttributeKey>
+        <r:AttributeValue>{"Title":{"en-GB":"LifeStage"},"Description":{},"ValueType":0,"HasValue":true,"RelationshipTargetType":"00000000-0000-0000-0000-000000000000","StringValue":"Adolescence","MultilingualStringValue":{},"HasDefinedType":false,"DisplayLabel":"LifeStage"}</r:AttributeValue>
+      </r:UserAttributePair>
+      <r:UserAttributePair>
+        <r:AttributeKey>extension:CustomField</r:AttributeKey>
+        <r:AttributeValue>{"Title":{"en-GB":"LifeStageDescription"},"Description":{},"ValueType":0,"HasValue":true,"RelationshipTargetType":"00000000-0000-0000-0000-000000000000","StringValue":"13 - 18 years","MultilingualStringValue":{},"HasDefinedType":false,"DisplayLabel":"LifeStageDescription"}</r:AttributeValue>
+      </r:UserAttributePair>
+      <r:Citation>
+        <r:Title>
+          <r:String xml:lang="en-GB">Next Steps Age 15 Survey (2005)</r:String>
+        </r:Title>
+        <r:AlternateTitle>
+          <r:String xml:lang="en-GB">Longitudinal Study of Young People in England: Wave 2, 2005</r:String>
+        </r:AlternateTitle>
+        <r:Creator>
+          <r:CreatorName>
+            <r:String xml:lang="en-GB">Department for Education and Skills (DfES)</r:String>
+          </r:CreatorName>
+        </r:Creator>
+        <r:Publisher>
+          <r:PublisherName>
+            <r:String xml:lang="en-GB">Department for Education and Skills (DfES)</r:String>
+          </r:PublisherName>
+        </r:Publisher>
+        <r:Copyright>
+          <r:String xml:lang="en-GB">Department for Education and Skills (DfES)</r:String>
+        </r:Copyright>
+      </r:Citation>
+      <r:Abstract>
+        <r:Content xml:lang="en-GB">This was the first follow-up sweep, and the broad intention of the study was to map cohort members' journeys from compulsory schooling to university, training and, ultimately, entry into the labour market. The survey content focused on educational experiences, attitudes to school and involvement in education, expectations and aspirations, as well as on aspects of cohort members' lives including risky-, crime- and anti-social behaviours, health and wellbeing. Wherever possible, interviewers were assigned to the same households they had interviewed at Sweep 1. In total the interview consisted of five modules. 
+
+The sample member completed one module - the young person interview, which lasted approximately 35 minutes. Adult interviews were also completed for household information, the main parent interview, second parent interview and child history. These lasted approximately 35 minutes altogether. 
+
+As at Sweep 1, the main parent was defined as the parent most involved in the young person's education, whilst the second parent was defined as an adult other than the main parent who had a parental relationship to the young person (i.e. a natural, step, adoptive or foster parent). Of the 15,678 young people issued at sweep 2 the survey reached 13,539 households (86%) in England. 
+
+Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/next-steps/next-steps-age-15-sweep" target="_blank" title="Next Steps Age 15 Survey"&gt;www.cls.ucl.ac.uk/cls-studies/next-steps-age-15-sweep&lt;/a&gt;</r:Content>
+      </r:Abstract>
+      <r:UniverseReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>2c7d5d57-2506-4219-9ada-9c079d11230f</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Universe</r:TypeOfObject>
+      </r:UniverseReference>
+      <r:FundingInformation>
+        <r:AgencyOrganizationReference>
+          <r:Agency>uk.closer</r:Agency>
+          <r:ID>e5fa2056-3c1c-438e-8736-86a62e42ab5d</r:ID>
+          <r:Version>2</r:Version>
+          <r:TypeOfObject>Organization</r:TypeOfObject>
+        </r:AgencyOrganizationReference>
+      </r:FundingInformation>
+      <r:Coverage>
+        <r:SpatialCoverage isUniversallyUnique="true">
+          <r:URN>urn:ddi:uk.cls.nextsteps:9171b7a1-b781-4e96-a9ef-72c14365855a:7</r:URN>
+          <r:Agency>uk.cls.nextsteps</r:Agency>
+          <r:ID>9171b7a1-b781-4e96-a9ef-72c14365855a</r:ID>
+          <r:Version>7</r:Version>
+          <r:BoundingBox>
+            <r:WestLongitude>0</r:WestLongitude>
+            <r:EastLongitude>0</r:EastLongitude>
+            <r:SouthLatitude>0</r:SouthLatitude>
+            <r:NorthLatitude>0</r:NorthLatitude>
+          </r:BoundingBox>
+          <r:Description>
+            <r:Content xml:lang="en-GB">England</r:Content>
+          </r:Description>
+          <r:Country>GB-ENG</r:Country>
+          <r:TopLevelReference>
+            <r:LevelName>Country</r:LevelName>
+          </r:TopLevelReference>
+          <r:LowestLevelReference>
+            <r:LevelName>Postcode</r:LevelName>
+          </r:LowestLevelReference>
+        </r:SpatialCoverage>
+        <r:TemporalCoverage isUniversallyUnique="true">
+          <r:URN>urn:ddi:uk.cls.nextsteps:2418044a-513b-4ba5-bc57-c22e821b1597:7</r:URN>
+          <r:Agency>uk.cls.nextsteps</r:Agency>
+          <r:ID>2418044a-513b-4ba5-bc57-c22e821b1597</r:ID>
+          <r:Version>7</r:Version>
+          <r:ReferenceDate>
+            <r:StartDate>2005-04-18</r:StartDate>
+            <r:EndDate>2005-09-18</r:EndDate>
+          </r:ReferenceDate>
+        </r:TemporalCoverage>
+      </r:Coverage>
+      <r:AnalysisUnit codeListVersionID="1.0">Individual</r:AnalysisUnit>
+      <r:KindOfData codeListVersionID="1.0">Survey Data</r:KindOfData>
+      <r:DataCollectionReference>
+        <r:Agency>uk.cls.nextsteps</r:Agency>
+        <r:ID>bc49488a-75e7-4fd6-8654-f2ebf1af011f</r:ID>
+        <r:Version>4</r:Version>
+        <r:TypeOfObject>DataCollection</r:TypeOfObject>
+      </r:DataCollectionReference>
+    </StudyUnit>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <DataCollection isUniversallyUnique="true" versionDate="2020-08-04T15:16:10.9577945Z" xmlns="ddi:datacollection:3_2">
+      <r:URN>urn:ddi:uk.cls.nextsteps:bc49488a-75e7-4fd6-8654-f2ebf1af011f:4</r:URN>
+      <r:Agency>uk.cls.nextsteps</r:Agency>
+      <r:ID>bc49488a-75e7-4fd6-8654-f2ebf1af011f</r:ID>
+      <r:Version>4</r:Version>
+      <DataCollectionModuleName>
+        <r:String xml:lang="en-GB">ns_05_w2</r:String>
+      </DataCollectionModuleName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Next Steps Age 15 Survey (2005)</r:Content>
+      </r:Label>
+      <CollectionEvent isUniversallyUnique="true">
+        <r:URN>urn:ddi:uk.cls.nextsteps:440753b6-851e-4adb-a8cf-9183228a9f38:4</r:URN>
+        <r:Agency>uk.cls.nextsteps</r:Agency>
+        <r:ID>440753b6-851e-4adb-a8cf-9183228a9f38</r:ID>
+        <r:Version>4</r:Version>
+        <DataCollectorOrganizationReference>
+          <r:Agency>uk.closer</r:Agency>
+          <r:ID>74c80340-4856-4b48-b345-701b66ae1c99</r:ID>
+          <r:Version>1</r:Version>
+          <r:TypeOfObject>Organization</r:TypeOfObject>
+        </DataCollectorOrganizationReference>
+        <DataCollectorOrganizationReference>
+          <r:Agency>uk.closer</r:Agency>
+          <r:ID>03d1fb7b-da9c-4b73-9101-a4ea1f189aae</r:ID>
+          <r:Version>2</r:Version>
+          <r:TypeOfObject>Organization</r:TypeOfObject>
+        </DataCollectorOrganizationReference>
+        <DataCollectorOrganizationReference>
+          <r:Agency>uk.closer</r:Agency>
+          <r:ID>2b5de265-3b50-4b96-a27d-cd802e262c6c</r:ID>
+          <r:Version>1</r:Version>
+          <r:TypeOfObject>Organization</r:TypeOfObject>
+        </DataCollectorOrganizationReference>
+        <DataCollectionDate>
+          <r:StartDate>2005-04-18</r:StartDate>
+          <r:EndDate>2005-09-18</r:EndDate>
+        </DataCollectionDate>
+        <ModeOfCollection isUniversallyUnique="true">
+          <r:URN>urn:ddi:uk.cls.nextsteps:e6b39d8a-c69f-4f39-b423-5bcad625c54f:4</r:URN>
+          <r:Agency>uk.cls.nextsteps</r:Agency>
+          <r:ID>e6b39d8a-c69f-4f39-b423-5bcad625c54f</r:ID>
+          <r:Version>4</r:Version>
+          <TypeOfModeOfCollection codeListVersionID="1.0">Interview.FaceToFace.CAPI/CAMI</TypeOfModeOfCollection>
+          <r:Description>
+            <r:Content xml:lang="en-GB">Face-to-face computer-assisted personal interviewing</r:Content>
+          </r:Description>
+        </ModeOfCollection>
+      </CollectionEvent>
+    </DataCollection>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Universe isUniversallyUnique="true" versionDate="2020-07-03T16:36:49.4865601Z" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:2c7d5d57-2506-4219-9ada-9c079d11230f:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>2c7d5d57-2506-4219-9ada-9c079d11230f</r:ID>
+      <r:Version>1</r:Version>
+      <UniverseName>
+        <r:String xml:lang="en-GB">ns_age15</r:String>
+      </UniverseName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Next Steps Age 15 Population</r:Content>
+      </r:Label>
+      <r:Description>
+        <r:Content xml:lang="en-GB">All cohort members who were in Year 9 in English state and independent schools and pupil referral units in February 2004 and who participated at sweep 1. </r:Content>
+      </r:Description>
+    </Universe>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <StudyUnit isUniversallyUnique="true" versionDate="2020-08-04T15:16:58.589002Z" xmlns="ddi:studyunit:3_2">
+      <r:URN>urn:ddi:uk.cls.nextsteps:87e50bd9-321e-4e32-8317-d1437e3885ad:7</r:URN>
+      <r:Agency>uk.cls.nextsteps</r:Agency>
+      <r:ID>87e50bd9-321e-4e32-8317-d1437e3885ad</r:ID>
+      <r:Version>7</r:Version>
+      <r:UserAttributePair>
+        <r:AttributeKey>extension:CustomField</r:AttributeKey>
+        <r:AttributeValue>{"Title":{"en-GB":"LifeStage"},"Description":{},"ValueType":0,"HasValue":true,"RelationshipTargetType":"00000000-0000-0000-0000-000000000000","StringValue":"Adolescence","MultilingualStringValue":{},"HasDefinedType":false,"DisplayLabel":"LifeStage"}</r:AttributeValue>
+      </r:UserAttributePair>
+      <r:UserAttributePair>
+        <r:AttributeKey>extension:CustomField</r:AttributeKey>
+        <r:AttributeValue>{"Title":{"en-GB":"LifeStageDescription"},"Description":{},"ValueType":0,"HasValue":true,"RelationshipTargetType":"00000000-0000-0000-0000-000000000000","StringValue":"13 - 18 years","MultilingualStringValue":{},"HasDefinedType":false,"DisplayLabel":"LifeStageDescription"}</r:AttributeValue>
+      </r:UserAttributePair>
+      <r:Citation>
+        <r:Title>
+          <r:String xml:lang="en-GB">Next Steps Age 16 Survey (2006)</r:String>
+        </r:Title>
+        <r:AlternateTitle>
+          <r:String xml:lang="en-GB">Longitudinal Study of Young People in England: Wave 3, 2006</r:String>
+        </r:AlternateTitle>
+        <r:Creator>
+          <r:CreatorName>
+            <r:String xml:lang="en-GB">Department for Children, Schools and Families (DCSF)</r:String>
+          </r:CreatorName>
+        </r:Creator>
+        <r:Publisher>
+          <r:PublisherName>
+            <r:String xml:lang="en-GB">Department for Children, Schools and Families (DCSF)</r:String>
+          </r:PublisherName>
+        </r:Publisher>
+        <r:Copyright>
+          <r:String xml:lang="en-GB">Department for Children, Schools and Families (DCSF)</r:String>
+        </r:Copyright>
+      </r:Citation>
+      <r:Abstract>
+        <r:Content xml:lang="en-GB">The survey content focused on educational experiences, attitudes to school and involvement in education, expectations and aspirations, as well as on aspects of young people's lives including risky-, crime- and anti-social behaviours, and health. Wherever possible, interviewers were assigned to the same households they had interviewed at Sweep 2. In total the interview consisted of four modules.
+
+The sample member completed one module - the young person interview, which lasted approximately 20 minutes. Adult interviews were also completed for household information, the main parent interview and individual parent interviews. Unlike at previous sweeps, in households with 2 parents, there was no second parent interview. The main parent answered the individual parent questions on behalf of both parents, these lasted approximately 15 minutes altogether. Of the 13,525 young people issued at sweep 3 the survey reached 12,439 households (92%) in England. 
+
+Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/next-steps/next-steps-age-16-sweep" target="_blank" title="Next Steps Age 16 Survey"&gt;www.cls.ucl.ac.uk/cls-studies/next-steps-age-16-sweep&lt;/a&gt;</r:Content>
+      </r:Abstract>
+      <r:UniverseReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>8b45559d-9433-443b-92f9-90eb0dd13ad2</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Universe</r:TypeOfObject>
+      </r:UniverseReference>
+      <r:FundingInformation>
+        <r:AgencyOrganizationReference>
+          <r:Agency>uk.closer</r:Agency>
+          <r:ID>e5fa2056-3c1c-438e-8736-86a62e42ab5d</r:ID>
+          <r:Version>2</r:Version>
+          <r:TypeOfObject>Organization</r:TypeOfObject>
+        </r:AgencyOrganizationReference>
+      </r:FundingInformation>
+      <r:Coverage>
+        <r:SpatialCoverage isUniversallyUnique="true">
+          <r:URN>urn:ddi:uk.cls.nextsteps:0c3b78fd-b33f-42b6-9efe-1ac0151ddb16:7</r:URN>
+          <r:Agency>uk.cls.nextsteps</r:Agency>
+          <r:ID>0c3b78fd-b33f-42b6-9efe-1ac0151ddb16</r:ID>
+          <r:Version>7</r:Version>
+          <r:BoundingBox>
+            <r:WestLongitude>0</r:WestLongitude>
+            <r:EastLongitude>0</r:EastLongitude>
+            <r:SouthLatitude>0</r:SouthLatitude>
+            <r:NorthLatitude>0</r:NorthLatitude>
+          </r:BoundingBox>
+          <r:Description>
+            <r:Content xml:lang="en-GB">England</r:Content>
+          </r:Description>
+          <r:Country>GB-ENG</r:Country>
+          <r:TopLevelReference>
+            <r:LevelName>Country</r:LevelName>
+          </r:TopLevelReference>
+          <r:LowestLevelReference>
+            <r:LevelName>Postcode</r:LevelName>
+          </r:LowestLevelReference>
+        </r:SpatialCoverage>
+        <r:TemporalCoverage isUniversallyUnique="true">
+          <r:URN>urn:ddi:uk.cls.nextsteps:28de888d-fd53-47b7-bcc3-def4441d5498:7</r:URN>
+          <r:Agency>uk.cls.nextsteps</r:Agency>
+          <r:ID>28de888d-fd53-47b7-bcc3-def4441d5498</r:ID>
+          <r:Version>7</r:Version>
+          <r:ReferenceDate>
+            <r:StartDate>2006-04-21</r:StartDate>
+            <r:EndDate>2006-09-28</r:EndDate>
+          </r:ReferenceDate>
+        </r:TemporalCoverage>
+      </r:Coverage>
+      <r:AnalysisUnit codeListVersionID="1.0">Individual</r:AnalysisUnit>
+      <r:KindOfData codeListVersionID="1.0">Survey Data</r:KindOfData>
+      <r:DataCollectionReference>
+        <r:Agency>uk.cls.nextsteps</r:Agency>
+        <r:ID>523a6f17-95f1-4148-8e04-40a0e7029d40</r:ID>
+        <r:Version>4</r:Version>
+        <r:TypeOfObject>DataCollection</r:TypeOfObject>
+      </r:DataCollectionReference>
+    </StudyUnit>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <DataCollection isUniversallyUnique="true" versionDate="2020-08-04T15:16:58.5760003Z" xmlns="ddi:datacollection:3_2">
+      <r:URN>urn:ddi:uk.cls.nextsteps:523a6f17-95f1-4148-8e04-40a0e7029d40:4</r:URN>
+      <r:Agency>uk.cls.nextsteps</r:Agency>
+      <r:ID>523a6f17-95f1-4148-8e04-40a0e7029d40</r:ID>
+      <r:Version>4</r:Version>
+      <DataCollectionModuleName>
+        <r:String xml:lang="en-GB">ns_06_w3</r:String>
+      </DataCollectionModuleName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Next Steps Age 16 Survey (2006)</r:Content>
+      </r:Label>
+      <CollectionEvent isUniversallyUnique="true">
+        <r:URN>urn:ddi:uk.cls.nextsteps:f2063633-1b6d-4b1e-9e14-8492bc5a9eae:4</r:URN>
+        <r:Agency>uk.cls.nextsteps</r:Agency>
+        <r:ID>f2063633-1b6d-4b1e-9e14-8492bc5a9eae</r:ID>
+        <r:Version>4</r:Version>
+        <DataCollectorOrganizationReference>
+          <r:Agency>uk.closer</r:Agency>
+          <r:ID>74c80340-4856-4b48-b345-701b66ae1c99</r:ID>
+          <r:Version>1</r:Version>
+          <r:TypeOfObject>Organization</r:TypeOfObject>
+        </DataCollectorOrganizationReference>
+        <DataCollectorOrganizationReference>
+          <r:Agency>uk.closer</r:Agency>
+          <r:ID>070cdc4f-be13-4862-95e3-da89b4c15465</r:ID>
+          <r:Version>1</r:Version>
+          <r:TypeOfObject>Organization</r:TypeOfObject>
+        </DataCollectorOrganizationReference>
+        <DataCollectorOrganizationReference>
+          <r:Agency>uk.closer</r:Agency>
+          <r:ID>03d1fb7b-da9c-4b73-9101-a4ea1f189aae</r:ID>
+          <r:Version>2</r:Version>
+          <r:TypeOfObject>Organization</r:TypeOfObject>
+        </DataCollectorOrganizationReference>
+        <DataCollectionDate>
+          <r:StartDate>2006-04-21</r:StartDate>
+          <r:EndDate>2006-09-28</r:EndDate>
+        </DataCollectionDate>
+        <ModeOfCollection isUniversallyUnique="true">
+          <r:URN>urn:ddi:uk.cls.nextsteps:aa85a877-8c1a-4a06-a5e7-b0f9cc1f9871:4</r:URN>
+          <r:Agency>uk.cls.nextsteps</r:Agency>
+          <r:ID>aa85a877-8c1a-4a06-a5e7-b0f9cc1f9871</r:ID>
+          <r:Version>4</r:Version>
+          <TypeOfModeOfCollection codeListVersionID="1.0">Interview.FaceToFace.CAPI/CAMI</TypeOfModeOfCollection>
+          <r:Description>
+            <r:Content xml:lang="en-GB">Face-to-face computer-assisted personal interviewing</r:Content>
+          </r:Description>
+        </ModeOfCollection>
+      </CollectionEvent>
+    </DataCollection>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Organization isUniversallyUnique="true" versionDate="2020-07-06T09:13:13.3037317Z" xmlns="ddi:archive:3_2">
+      <r:URN>urn:ddi:uk.closer:070cdc4f-be13-4862-95e3-da89b4c15465:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>070cdc4f-be13-4862-95e3-da89b4c15465</r:ID>
+      <r:Version>1</r:Version>
+      <r:UserAttributePair>
+        <r:AttributeKey>ddi31:Nickname</r:AttributeKey>
+        <r:AttributeValue>{"en-GB":"GfK-NOP"}</r:AttributeValue>
+      </r:UserAttributePair>
+      <OrganizationIdentification>
+        <OrganizationName>
+          <r:String xml:lang="en-GB">GfK-NOP</r:String>
+        </OrganizationName>
+      </OrganizationIdentification>
+      <r:Description>
+        <r:Content xml:lang="en-GB">GfK-NOP was formed in 2005 by the acquisition of NOP World by GfK (established in 1934 as Gesellschaft für Konsumforschung, "Society for Consumer Research") </r:Content>
+      </r:Description>
+    </Organization>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Universe isUniversallyUnique="true" versionDate="2020-07-03T16:37:31.1004669Z" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:8b45559d-9433-443b-92f9-90eb0dd13ad2:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>8b45559d-9433-443b-92f9-90eb0dd13ad2</r:ID>
+      <r:Version>1</r:Version>
+      <UniverseName>
+        <r:String xml:lang="en-GB">ns_age16</r:String>
+      </UniverseName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Next Steps Age 16 Population</r:Content>
+      </r:Label>
+      <r:Description>
+        <r:Content xml:lang="en-GB">All cohort members who were in Year 9 in English state and independent schools and pupil referral units in February 2004 and who participated at sweep 2. </r:Content>
+      </r:Description>
+    </Universe>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <StudyUnit isUniversallyUnique="true" versionDate="2020-08-04T15:17:45.3814943Z" xmlns="ddi:studyunit:3_2">
+      <r:URN>urn:ddi:uk.cls.nextsteps:e92c993b-f49f-4aea-bd60-68935965bdfc:7</r:URN>
+      <r:Agency>uk.cls.nextsteps</r:Agency>
+      <r:ID>e92c993b-f49f-4aea-bd60-68935965bdfc</r:ID>
+      <r:Version>7</r:Version>
+      <r:UserAttributePair>
+        <r:AttributeKey>extension:CustomField</r:AttributeKey>
+        <r:AttributeValue>{"Title":{"en-GB":"LifeStage"},"Description":{},"ValueType":0,"HasValue":true,"RelationshipTargetType":"00000000-0000-0000-0000-000000000000","StringValue":"Adolescence","MultilingualStringValue":{},"HasDefinedType":false,"DisplayLabel":"LifeStage"}</r:AttributeValue>
+      </r:UserAttributePair>
+      <r:UserAttributePair>
+        <r:AttributeKey>extension:CustomField</r:AttributeKey>
+        <r:AttributeValue>{"Title":{"en-GB":"LifeStageDescription"},"Description":{},"ValueType":0,"HasValue":true,"RelationshipTargetType":"00000000-0000-0000-0000-000000000000","StringValue":"13 - 18 years","MultilingualStringValue":{},"HasDefinedType":false,"DisplayLabel":"LifeStageDescription"}</r:AttributeValue>
+      </r:UserAttributePair>
+      <r:Citation>
+        <r:Title>
+          <r:String xml:lang="en-GB">Next Steps Age 17 Survey (2007)</r:String>
+        </r:Title>
+        <r:AlternateTitle>
+          <r:String xml:lang="en-GB">Longitudinal Study of Young People in England: Wave 4, 2007</r:String>
+        </r:AlternateTitle>
+        <r:Creator>
+          <r:CreatorName>
+            <r:String xml:lang="en-GB">Department for Children, Schools and Families (DCSF)</r:String>
+          </r:CreatorName>
+        </r:Creator>
+        <r:Publisher>
+          <r:PublisherName>
+            <r:String xml:lang="en-GB">Department for Children, Schools and Families (DCSF)</r:String>
+          </r:PublisherName>
+        </r:Publisher>
+        <r:Copyright>
+          <r:String xml:lang="en-GB">Department for Children, Schools and Families (DCSF)</r:String>
+        </r:Copyright>
+      </r:Citation>
+      <r:Abstract>
+        <r:Content xml:lang="en-GB">The survey content was strongly focused on educational experiences, but was also broadened, to reflect the age of the cohort member, to include early labour market experiences and economic circumstances, as well as aspects of family formation, risky-, crime- and anti-social behaviours, health and wellbeing. Wherever possible, interviewers were assigned to the same households they had interviewed at Sweep 3. 
+
+Of the 12,468 young people issued from the main sample at sweep 4, the survey reached 11,449 households (92%) in England. Of the 600 young people issued to the boost sample at sweep 4, the survey reached a total of 352 interviews (59%). 
+
+Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/next-steps/next-steps-age-17-sweep" target="_blank" title="Next Steps Age 17 Survey"&gt;www.cls.ucl.ac.uk/cls-studies/next-steps-age-17-sweep&lt;/a&gt;</r:Content>
+      </r:Abstract>
+      <r:UniverseReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>7893b035-c652-4a08-b362-345b9f74c5e0</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Universe</r:TypeOfObject>
+      </r:UniverseReference>
+      <r:FundingInformation>
+        <r:AgencyOrganizationReference>
+          <r:Agency>uk.closer</r:Agency>
+          <r:ID>e5fa2056-3c1c-438e-8736-86a62e42ab5d</r:ID>
+          <r:Version>2</r:Version>
+          <r:TypeOfObject>Organization</r:TypeOfObject>
+        </r:AgencyOrganizationReference>
+      </r:FundingInformation>
+      <r:Coverage>
+        <r:SpatialCoverage isUniversallyUnique="true">
+          <r:URN>urn:ddi:uk.cls.nextsteps:d0a85101-d754-4929-8ed6-32ccc32ec7a0:7</r:URN>
+          <r:Agency>uk.cls.nextsteps</r:Agency>
+          <r:ID>d0a85101-d754-4929-8ed6-32ccc32ec7a0</r:ID>
+          <r:Version>7</r:Version>
+          <r:BoundingBox>
+            <r:WestLongitude>0</r:WestLongitude>
+            <r:EastLongitude>0</r:EastLongitude>
+            <r:SouthLatitude>0</r:SouthLatitude>
+            <r:NorthLatitude>0</r:NorthLatitude>
+          </r:BoundingBox>
+          <r:Description>
+            <r:Content xml:lang="en-GB">England</r:Content>
+          </r:Description>
+          <r:Country>GB-ENG</r:Country>
+          <r:TopLevelReference>
+            <r:LevelName>Country</r:LevelName>
+          </r:TopLevelReference>
+          <r:LowestLevelReference>
+            <r:LevelName>Postcode</r:LevelName>
+          </r:LowestLevelReference>
+        </r:SpatialCoverage>
+        <r:TemporalCoverage isUniversallyUnique="true">
+          <r:URN>urn:ddi:uk.cls.nextsteps:ba03384e-4672-4b79-8514-9a9b6e952e06:7</r:URN>
+          <r:Agency>uk.cls.nextsteps</r:Agency>
+          <r:ID>ba03384e-4672-4b79-8514-9a9b6e952e06</r:ID>
+          <r:Version>7</r:Version>
+          <r:ReferenceDate>
+            <r:StartDate>2007-06-12</r:StartDate>
+            <r:EndDate>2007-10-14</r:EndDate>
+          </r:ReferenceDate>
+        </r:TemporalCoverage>
+      </r:Coverage>
+      <r:AnalysisUnit codeListVersionID="1.0">Individual</r:AnalysisUnit>
+      <r:KindOfData codeListVersionID="1.0">Survey Data</r:KindOfData>
+      <r:DataCollectionReference>
+        <r:Agency>uk.cls.nextsteps</r:Agency>
+        <r:ID>babe265e-07f4-49f1-a07f-6fd0d3f12aee</r:ID>
+        <r:Version>4</r:Version>
+        <r:TypeOfObject>DataCollection</r:TypeOfObject>
+      </r:DataCollectionReference>
+    </StudyUnit>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <DataCollection isUniversallyUnique="true" versionDate="2020-08-04T15:17:45.3644883Z" xmlns="ddi:datacollection:3_2">
+      <r:URN>urn:ddi:uk.cls.nextsteps:babe265e-07f4-49f1-a07f-6fd0d3f12aee:4</r:URN>
+      <r:Agency>uk.cls.nextsteps</r:Agency>
+      <r:ID>babe265e-07f4-49f1-a07f-6fd0d3f12aee</r:ID>
+      <r:Version>4</r:Version>
+      <DataCollectionModuleName>
+        <r:String xml:lang="en-GB">ns_07_w4</r:String>
+      </DataCollectionModuleName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Next Steps Age 17 Survey (2007)</r:Content>
+      </r:Label>
+      <CollectionEvent isUniversallyUnique="true">
+        <r:URN>urn:ddi:uk.cls.nextsteps:922b8819-0de0-4ad6-8b4f-34e21f1b2ee1:4</r:URN>
+        <r:Agency>uk.cls.nextsteps</r:Agency>
+        <r:ID>922b8819-0de0-4ad6-8b4f-34e21f1b2ee1</r:ID>
+        <r:Version>4</r:Version>
+        <DataCollectorOrganizationReference>
+          <r:Agency>uk.closer</r:Agency>
+          <r:ID>74c80340-4856-4b48-b345-701b66ae1c99</r:ID>
+          <r:Version>1</r:Version>
+          <r:TypeOfObject>Organization</r:TypeOfObject>
+        </DataCollectorOrganizationReference>
+        <DataCollectorOrganizationReference>
+          <r:Agency>uk.closer</r:Agency>
+          <r:ID>070cdc4f-be13-4862-95e3-da89b4c15465</r:ID>
+          <r:Version>1</r:Version>
+          <r:TypeOfObject>Organization</r:TypeOfObject>
+        </DataCollectorOrganizationReference>
+        <DataCollectorOrganizationReference>
+          <r:Agency>uk.closer</r:Agency>
+          <r:ID>03d1fb7b-da9c-4b73-9101-a4ea1f189aae</r:ID>
+          <r:Version>2</r:Version>
+          <r:TypeOfObject>Organization</r:TypeOfObject>
+        </DataCollectorOrganizationReference>
+        <DataCollectionDate>
+          <r:StartDate>2007-06-12</r:StartDate>
+          <r:EndDate>2007-10-14</r:EndDate>
+        </DataCollectionDate>
+        <ModeOfCollection isUniversallyUnique="true">
+          <r:URN>urn:ddi:uk.cls.nextsteps:0ae6d6a9-8541-43ae-b622-c5a31f824da3:4</r:URN>
+          <r:Agency>uk.cls.nextsteps</r:Agency>
+          <r:ID>0ae6d6a9-8541-43ae-b622-c5a31f824da3</r:ID>
+          <r:Version>4</r:Version>
+          <TypeOfModeOfCollection codeListVersionID="1.0">Interview.FaceToFace.CAPI/CAMI</TypeOfModeOfCollection>
+          <r:Description>
+            <r:Content xml:lang="en-GB">Face-to-face computer-assisted personal interviewing</r:Content>
+          </r:Description>
+        </ModeOfCollection>
+      </CollectionEvent>
+    </DataCollection>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Universe isUniversallyUnique="true" versionDate="2020-07-03T16:38:41.9113032Z" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:7893b035-c652-4a08-b362-345b9f74c5e0:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>7893b035-c652-4a08-b362-345b9f74c5e0</r:ID>
+      <r:Version>1</r:Version>
+      <UniverseName>
+        <r:String xml:lang="en-GB">ns_age17</r:String>
+      </UniverseName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Next Steps Age 17 Population</r:Content>
+      </r:Label>
+      <r:Description>
+        <r:Content xml:lang="en-GB">All cohort members who were in Year 9 in English state and independent schools and pupil referral units in February 2004 and who participated at sweep 3.  In addition, the sweep four sample frame included an ethnic minority boost. </r:Content>
+      </r:Description>
+    </Universe>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <StudyUnit isUniversallyUnique="true" versionDate="2020-08-04T15:19:30.3891944Z" xmlns="ddi:studyunit:3_2">
+      <r:URN>urn:ddi:uk.cls.nextsteps:595ba7f4-c4b5-4001-88c0-43fcbf51cff6:6</r:URN>
+      <r:Agency>uk.cls.nextsteps</r:Agency>
+      <r:ID>595ba7f4-c4b5-4001-88c0-43fcbf51cff6</r:ID>
+      <r:Version>6</r:Version>
+      <r:UserAttributePair>
+        <r:AttributeKey>extension:CustomField</r:AttributeKey>
+        <r:AttributeValue>{"Title":{"en-GB":"LifeStage"},"Description":{},"ValueType":0,"HasValue":true,"RelationshipTargetType":"00000000-0000-0000-0000-000000000000","StringValue":"Adolescence","MultilingualStringValue":{},"HasDefinedType":false,"DisplayLabel":"LifeStage"}</r:AttributeValue>
+      </r:UserAttributePair>
+      <r:UserAttributePair>
+        <r:AttributeKey>extension:CustomField</r:AttributeKey>
+        <r:AttributeValue>{"Title":{"en-GB":"LifeStageDescription"},"Description":{},"ValueType":0,"HasValue":true,"RelationshipTargetType":"00000000-0000-0000-0000-000000000000","StringValue":"13 - 18 years","MultilingualStringValue":{},"HasDefinedType":false,"DisplayLabel":"LifeStageDescription"}</r:AttributeValue>
+      </r:UserAttributePair>
+      <r:Citation>
+        <r:Title>
+          <r:String xml:lang="en-GB">Next Steps Age 18 Survey (2008)</r:String>
+        </r:Title>
+        <r:AlternateTitle>
+          <r:String xml:lang="en-GB">Longitudinal Study of Young People in England: Wave 5, 2008</r:String>
+        </r:AlternateTitle>
+        <r:Creator>
+          <r:CreatorName>
+            <r:String xml:lang="en-GB">Department for Children, Schools and Families (DCSF)</r:String>
+          </r:CreatorName>
+        </r:Creator>
+        <r:Publisher>
+          <r:PublisherName>
+            <r:String xml:lang="en-GB">Department for Children, Schools and Families (DCSF)</r:String>
+          </r:PublisherName>
+        </r:Publisher>
+        <r:Copyright>
+          <r:String xml:lang="en-GB">Department for Children, Schools and Families (DCSF)</r:String>
+        </r:Copyright>
+      </r:Citation>
+      <r:Abstract>
+        <r:Content xml:lang="en-GB">Sweep 5 involved a number of significant changes in the way that the study was conducted compared to previous sweeps. The first change to the design of the study was the move to using a mixed mode data collection approach. From Wave 5 the young person could complete the interview either online, over the telephone or face to face with an interviewer in their own home as they had done previously. 
+
+In addition, Sweep 5 was the first sweep which interviewed the sampled young person only. The survey content focused on educational and early labour market experiences, but also included information on other aspects of cohort members' lives such as social participation and attitudes, risky-, crime- and anti-social behaviours, health and wellbeing, family formation, and aspirations for the future. Of the 11,793 young people issued at sweep 5, the survey reached 10,430 households (88%) in England. 
+
+Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/next-steps/next-steps-age-18-sweep" target="_blank" title="Next Steps Age 18 Survey"&gt;www.cls.ucl.ac.uk/cls-studies/next-steps-age-18-sweep&lt;/a&gt;</r:Content>
+      </r:Abstract>
+      <r:UniverseReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>3999040a-6b63-4545-9342-113df0a249bc</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Universe</r:TypeOfObject>
+      </r:UniverseReference>
+      <r:FundingInformation>
+        <r:AgencyOrganizationReference>
+          <r:Agency>uk.closer</r:Agency>
+          <r:ID>e5fa2056-3c1c-438e-8736-86a62e42ab5d</r:ID>
+          <r:Version>2</r:Version>
+          <r:TypeOfObject>Organization</r:TypeOfObject>
+        </r:AgencyOrganizationReference>
+      </r:FundingInformation>
+      <r:Coverage>
+        <r:SpatialCoverage isUniversallyUnique="true">
+          <r:URN>urn:ddi:uk.cls.nextsteps:b2ae0ad9-87d4-4a8e-86e6-afcb0e034acc:6</r:URN>
+          <r:Agency>uk.cls.nextsteps</r:Agency>
+          <r:ID>b2ae0ad9-87d4-4a8e-86e6-afcb0e034acc</r:ID>
+          <r:Version>6</r:Version>
+          <r:BoundingBox>
+            <r:WestLongitude>0</r:WestLongitude>
+            <r:EastLongitude>0</r:EastLongitude>
+            <r:SouthLatitude>0</r:SouthLatitude>
+            <r:NorthLatitude>0</r:NorthLatitude>
+          </r:BoundingBox>
+          <r:Description>
+            <r:Content xml:lang="en-GB">England</r:Content>
+          </r:Description>
+          <r:Country>GB-ENG</r:Country>
+          <r:TopLevelReference>
+            <r:LevelName>Country</r:LevelName>
+          </r:TopLevelReference>
+          <r:LowestLevelReference>
+            <r:LevelName>Postcode</r:LevelName>
+          </r:LowestLevelReference>
+        </r:SpatialCoverage>
+        <r:TemporalCoverage isUniversallyUnique="true">
+          <r:URN>urn:ddi:uk.cls.nextsteps:d3724c95-5f6e-4ef2-8ba9-ebcc8bfb7564:6</r:URN>
+          <r:Agency>uk.cls.nextsteps</r:Agency>
+          <r:ID>d3724c95-5f6e-4ef2-8ba9-ebcc8bfb7564</r:ID>
+          <r:Version>6</r:Version>
+          <r:ReferenceDate>
+            <r:StartDate>2008-06-03</r:StartDate>
+            <r:EndDate>2008-10-28</r:EndDate>
+          </r:ReferenceDate>
+        </r:TemporalCoverage>
+      </r:Coverage>
+      <r:AnalysisUnit codeListVersionID="1.0">Individual</r:AnalysisUnit>
+      <r:KindOfData codeListVersionID="1.0">Survey Data</r:KindOfData>
+      <r:DataCollectionReference>
+        <r:Agency>uk.cls.nextsteps</r:Agency>
+        <r:ID>0333e658-b865-4d21-a9d2-4bee8f92c407</r:ID>
+        <r:Version>3</r:Version>
+        <r:TypeOfObject>DataCollection</r:TypeOfObject>
+      </r:DataCollectionReference>
+    </StudyUnit>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <DataCollection isUniversallyUnique="true" versionDate="2020-08-04T15:19:30.3621986Z" xmlns="ddi:datacollection:3_2">
+      <r:URN>urn:ddi:uk.cls.nextsteps:0333e658-b865-4d21-a9d2-4bee8f92c407:3</r:URN>
+      <r:Agency>uk.cls.nextsteps</r:Agency>
+      <r:ID>0333e658-b865-4d21-a9d2-4bee8f92c407</r:ID>
+      <r:Version>3</r:Version>
+      <DataCollectionModuleName>
+        <r:String xml:lang="en-GB">ns_08_w5</r:String>
+      </DataCollectionModuleName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Next Steps Age 18 Survey (2008)</r:Content>
+      </r:Label>
+      <CollectionEvent isUniversallyUnique="true">
+        <r:URN>urn:ddi:uk.cls.nextsteps:65c78a55-2e50-406c-8b5b-b8b3405cd9b2:3</r:URN>
+        <r:Agency>uk.cls.nextsteps</r:Agency>
+        <r:ID>65c78a55-2e50-406c-8b5b-b8b3405cd9b2</r:ID>
+        <r:Version>3</r:Version>
+        <DataCollectorOrganizationReference>
+          <r:Agency>uk.closer</r:Agency>
+          <r:ID>74c80340-4856-4b48-b345-701b66ae1c99</r:ID>
+          <r:Version>1</r:Version>
+          <r:TypeOfObject>Organization</r:TypeOfObject>
+        </DataCollectorOrganizationReference>
+        <DataCollectorOrganizationReference>
+          <r:Agency>uk.closer</r:Agency>
+          <r:ID>070cdc4f-be13-4862-95e3-da89b4c15465</r:ID>
+          <r:Version>1</r:Version>
+          <r:TypeOfObject>Organization</r:TypeOfObject>
+        </DataCollectorOrganizationReference>
+        <DataCollectionDate>
+          <r:StartDate>2008-06-03</r:StartDate>
+          <r:EndDate>2008-10-28</r:EndDate>
+        </DataCollectionDate>
+        <ModeOfCollection isUniversallyUnique="true">
+          <r:URN>urn:ddi:uk.cls.nextsteps:8c48649c-685f-4a51-a2af-eb1703ea8a91:3</r:URN>
+          <r:Agency>uk.cls.nextsteps</r:Agency>
+          <r:ID>8c48649c-685f-4a51-a2af-eb1703ea8a91</r:ID>
+          <r:Version>3</r:Version>
+          <TypeOfModeOfCollection codeListVersionID="1.0">Interview.FaceToFace.CAPI/CAMI</TypeOfModeOfCollection>
+          <r:Description>
+            <r:Content xml:lang="en-GB">Face-to-face computer-assisted personal interviewing</r:Content>
+          </r:Description>
+        </ModeOfCollection>
+        <ModeOfCollection isUniversallyUnique="true">
+          <r:URN>urn:ddi:uk.cls.nextsteps:82529164-a808-4f4c-8022-aaf04ecc123d:3</r:URN>
+          <r:Agency>uk.cls.nextsteps</r:Agency>
+          <r:ID>82529164-a808-4f4c-8022-aaf04ecc123d</r:ID>
+          <r:Version>3</r:Version>
+          <TypeOfModeOfCollection codeListVersionID="1.0">Interview.Telephone.CATI</TypeOfModeOfCollection>
+          <r:Description>
+            <r:Content xml:lang="en-GB">Computer-assisted telephone interviewing</r:Content>
+          </r:Description>
+        </ModeOfCollection>
+        <ModeOfCollection isUniversallyUnique="true">
+          <r:URN>urn:ddi:uk.cls.nextsteps:1608b3b0-7756-486b-ad8b-19b09cfb72f2:3</r:URN>
+          <r:Agency>uk.cls.nextsteps</r:Agency>
+          <r:ID>1608b3b0-7756-486b-ad8b-19b09cfb72f2</r:ID>
+          <r:Version>3</r:Version>
+          <TypeOfModeOfCollection codeListVersionID="1.0">SelfAdministeredQuestionnaire.WebBased</TypeOfModeOfCollection>
+          <r:Description>
+            <r:Content xml:lang="en-GB">Computer-assisted web interviewing (CAWI). Data are collected using a web questionnaire, produced with a program for creating web surveys</r:Content>
+          </r:Description>
+        </ModeOfCollection>
+      </CollectionEvent>
+    </DataCollection>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Universe isUniversallyUnique="true" versionDate="2020-07-03T16:39:32.418095Z" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:3999040a-6b63-4545-9342-113df0a249bc:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>3999040a-6b63-4545-9342-113df0a249bc</r:ID>
+      <r:Version>1</r:Version>
+      <UniverseName>
+        <r:String xml:lang="en-GB">ns_age18</r:String>
+      </UniverseName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Next Steps Age 18 Population</r:Content>
+      </r:Label>
+      <r:Description>
+        <r:Content xml:lang="en-GB">All cohort members who were in Year 9 in English state and independent schools and pupil referral units in February 2004 and who participated at sweep 4. </r:Content>
+      </r:Description>
+    </Universe>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <StudyUnit isUniversallyUnique="true" versionDate="2020-08-04T15:20:41.2573128Z" xmlns="ddi:studyunit:3_2">
+      <r:URN>urn:ddi:uk.cls.nextsteps:2a9ccc04-e688-49d2-93c6-21e42bc5a77b:6</r:URN>
+      <r:Agency>uk.cls.nextsteps</r:Agency>
+      <r:ID>2a9ccc04-e688-49d2-93c6-21e42bc5a77b</r:ID>
+      <r:Version>6</r:Version>
+      <r:UserAttributePair>
+        <r:AttributeKey>extension:CustomField</r:AttributeKey>
+        <r:AttributeValue>{"Title":{"en-GB":"LifeStage"},"Description":{},"ValueType":0,"HasValue":true,"RelationshipTargetType":"00000000-0000-0000-0000-000000000000","StringValue":"Early adulthood","MultilingualStringValue":{},"HasDefinedType":false,"DisplayLabel":"LifeStage"}</r:AttributeValue>
+      </r:UserAttributePair>
+      <r:UserAttributePair>
+        <r:AttributeKey>extension:CustomField</r:AttributeKey>
+        <r:AttributeValue>{"Title":{"en-GB":"LifeStageDescription"},"Description":{},"ValueType":0,"HasValue":true,"RelationshipTargetType":"00000000-0000-0000-0000-000000000000","StringValue":"19 - 30 years","MultilingualStringValue":{},"HasDefinedType":false,"DisplayLabel":"LifeStageDescription"}</r:AttributeValue>
+      </r:UserAttributePair>
+      <r:Citation>
+        <r:Title>
+          <r:String xml:lang="en-GB">Next Steps Age 19 Survey (2009)</r:String>
+        </r:Title>
+        <r:AlternateTitle>
+          <r:String xml:lang="en-GB">Longitudinal Study of Young People in England: Wave 6, 2009</r:String>
+        </r:AlternateTitle>
+        <r:Creator>
+          <r:CreatorName>
+            <r:String xml:lang="en-GB">Department for Children, Schools and Families (DCSF)</r:String>
+          </r:CreatorName>
+        </r:Creator>
+        <r:Publisher>
+          <r:PublisherName>
+            <r:String xml:lang="en-GB">Department for Children, Schools and Families (DCSF)</r:String>
+          </r:PublisherName>
+        </r:Publisher>
+        <r:Copyright>
+          <r:String xml:lang="en-GB">Department for Children, Schools and Families (DCSF)</r:String>
+        </r:Copyright>
+      </r:Citation>
+      <r:Abstract>
+        <r:Content xml:lang="en-GB">Sweep 6 followed the approach carried out in Sweep 5, where the young person could complete the interview either online, over the telephone or face to face with an interviewer in their own home as they had done previously. Additionally, in line with Sweep 5, only the sample young person was interviewed (there were no parental interviews). 
+
+The survey content focused on educational and early labour market experiences, but also included information on other aspects of cohort members' lives including social participation and attitudes, risky-, crime- and anti-social behaviours, health and wellbeing, family formation, and aspirations for the future. Of the 11,225 young people issued at sweep 6, the survey reached 9,799 households (87%) in England. 
+
+Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/next-steps/next-steps-age-19-sweep" target="_blank" title="Next Steps Age 19 Survey"&gt;www.cls.ucl.ac.uk/cls-studies/next-steps-age-19-sweep&lt;/a&gt;</r:Content>
+      </r:Abstract>
+      <r:UniverseReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>ab2fd7e6-6847-460d-903b-c56b93019ba6</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Universe</r:TypeOfObject>
+      </r:UniverseReference>
+      <r:FundingInformation>
+        <r:AgencyOrganizationReference>
+          <r:Agency>uk.closer</r:Agency>
+          <r:ID>e5fa2056-3c1c-438e-8736-86a62e42ab5d</r:ID>
+          <r:Version>2</r:Version>
+          <r:TypeOfObject>Organization</r:TypeOfObject>
+        </r:AgencyOrganizationReference>
+      </r:FundingInformation>
+      <r:Coverage>
+        <r:SpatialCoverage isUniversallyUnique="true">
+          <r:URN>urn:ddi:uk.cls.nextsteps:86ae2784-818e-4b48-a000-9f36c00312db:6</r:URN>
+          <r:Agency>uk.cls.nextsteps</r:Agency>
+          <r:ID>86ae2784-818e-4b48-a000-9f36c00312db</r:ID>
+          <r:Version>6</r:Version>
+          <r:BoundingBox>
+            <r:WestLongitude>0</r:WestLongitude>
+            <r:EastLongitude>0</r:EastLongitude>
+            <r:SouthLatitude>0</r:SouthLatitude>
+            <r:NorthLatitude>0</r:NorthLatitude>
+          </r:BoundingBox>
+          <r:Description>
+            <r:Content xml:lang="en-GB">England</r:Content>
+          </r:Description>
+          <r:Country>GB-ENG</r:Country>
+          <r:TopLevelReference>
+            <r:LevelName>Country</r:LevelName>
+          </r:TopLevelReference>
+          <r:LowestLevelReference>
+            <r:LevelName>Postcode</r:LevelName>
+          </r:LowestLevelReference>
+        </r:SpatialCoverage>
+        <r:TemporalCoverage isUniversallyUnique="true">
+          <r:URN>urn:ddi:uk.cls.nextsteps:690e4adb-a9bc-4e17-92a9-fa36398d4bfa:6</r:URN>
+          <r:Agency>uk.cls.nextsteps</r:Agency>
+          <r:ID>690e4adb-a9bc-4e17-92a9-fa36398d4bfa</r:ID>
+          <r:Version>6</r:Version>
+          <r:ReferenceDate>
+            <r:StartDate>2010-05-18</r:StartDate>
+            <r:EndDate>2011-10-12</r:EndDate>
+          </r:ReferenceDate>
+        </r:TemporalCoverage>
+      </r:Coverage>
+      <r:AnalysisUnit codeListVersionID="1.0">Individual</r:AnalysisUnit>
+      <r:KindOfData codeListVersionID="1.0">Survey Data</r:KindOfData>
+      <r:DataCollectionReference>
+        <r:Agency>uk.cls.nextsteps</r:Agency>
+        <r:ID>88e074e1-c859-4073-8a7a-f637409bf5fb</r:ID>
+        <r:Version>3</r:Version>
+        <r:TypeOfObject>DataCollection</r:TypeOfObject>
+      </r:DataCollectionReference>
+    </StudyUnit>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <DataCollection isUniversallyUnique="true" versionDate="2020-08-04T15:20:41.2363524Z" xmlns="ddi:datacollection:3_2">
+      <r:URN>urn:ddi:uk.cls.nextsteps:88e074e1-c859-4073-8a7a-f637409bf5fb:3</r:URN>
+      <r:Agency>uk.cls.nextsteps</r:Agency>
+      <r:ID>88e074e1-c859-4073-8a7a-f637409bf5fb</r:ID>
+      <r:Version>3</r:Version>
+      <DataCollectionModuleName>
+        <r:String xml:lang="en-GB">ns_09_w6</r:String>
+      </DataCollectionModuleName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Next Steps Age 19 Survey (2009)</r:Content>
+      </r:Label>
+      <CollectionEvent isUniversallyUnique="true">
+        <r:URN>urn:ddi:uk.cls.nextsteps:157a9143-a32a-412e-a7db-51814732684c:3</r:URN>
+        <r:Agency>uk.cls.nextsteps</r:Agency>
+        <r:ID>157a9143-a32a-412e-a7db-51814732684c</r:ID>
+        <r:Version>3</r:Version>
+        <DataCollectorOrganizationReference>
+          <r:Agency>uk.closer</r:Agency>
+          <r:ID>74c80340-4856-4b48-b345-701b66ae1c99</r:ID>
+          <r:Version>1</r:Version>
+          <r:TypeOfObject>Organization</r:TypeOfObject>
+        </DataCollectorOrganizationReference>
+        <DataCollectorOrganizationReference>
+          <r:Agency>uk.closer</r:Agency>
+          <r:ID>070cdc4f-be13-4862-95e3-da89b4c15465</r:ID>
+          <r:Version>1</r:Version>
+          <r:TypeOfObject>Organization</r:TypeOfObject>
+        </DataCollectorOrganizationReference>
+        <DataCollectionDate>
+          <r:StartDate>2009-05-12</r:StartDate>
+          <r:EndDate>2009-10-14</r:EndDate>
+        </DataCollectionDate>
+        <ModeOfCollection isUniversallyUnique="true">
+          <r:URN>urn:ddi:uk.cls.nextsteps:c4e8e359-cc2e-4c5b-a7cb-db479b085d35:3</r:URN>
+          <r:Agency>uk.cls.nextsteps</r:Agency>
+          <r:ID>c4e8e359-cc2e-4c5b-a7cb-db479b085d35</r:ID>
+          <r:Version>3</r:Version>
+          <TypeOfModeOfCollection codeListVersionID="1.0">Interview.FaceToFace.CAPI/CAMI</TypeOfModeOfCollection>
+          <r:Description>
+            <r:Content xml:lang="en-GB">Face-to-face computer-assisted personal interviewing</r:Content>
+          </r:Description>
+        </ModeOfCollection>
+        <ModeOfCollection isUniversallyUnique="true">
+          <r:URN>urn:ddi:uk.cls.nextsteps:8914b370-0b6a-4a9b-be91-c37cb7feddc8:3</r:URN>
+          <r:Agency>uk.cls.nextsteps</r:Agency>
+          <r:ID>8914b370-0b6a-4a9b-be91-c37cb7feddc8</r:ID>
+          <r:Version>3</r:Version>
+          <TypeOfModeOfCollection codeListVersionID="1.0">Interview.Telephone.CATI</TypeOfModeOfCollection>
+          <r:Description>
+            <r:Content xml:lang="en-GB">Computer-assisted telephone interviewing</r:Content>
+          </r:Description>
+        </ModeOfCollection>
+        <ModeOfCollection isUniversallyUnique="true">
+          <r:URN>urn:ddi:uk.cls.nextsteps:80c01539-c91c-4b24-a829-42afec56e9f1:3</r:URN>
+          <r:Agency>uk.cls.nextsteps</r:Agency>
+          <r:ID>80c01539-c91c-4b24-a829-42afec56e9f1</r:ID>
+          <r:Version>3</r:Version>
+          <TypeOfModeOfCollection codeListVersionID="1.0">SelfAdministeredQuestionnaire.WebBased</TypeOfModeOfCollection>
+          <r:Description>
+            <r:Content xml:lang="en-GB">Computer-assisted web interviewing (CAWI). Data are collected using a web questionnaire, produced with a program for creating web surveys</r:Content>
+          </r:Description>
+        </ModeOfCollection>
+      </CollectionEvent>
+    </DataCollection>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Universe isUniversallyUnique="true" versionDate="2020-07-03T16:40:15.9281177Z" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:ab2fd7e6-6847-460d-903b-c56b93019ba6:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>ab2fd7e6-6847-460d-903b-c56b93019ba6</r:ID>
+      <r:Version>1</r:Version>
+      <UniverseName>
+        <r:String xml:lang="en-GB">ns_age19</r:String>
+      </UniverseName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Next Steps Age 19 Population</r:Content>
+      </r:Label>
+      <r:Description>
+        <r:Content xml:lang="en-GB">All cohort members who were in Year 9 in English state and independent schools and pupil referral units in February 2004 and who participated at sweep 5. </r:Content>
+      </r:Description>
+    </Universe>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <StudyUnit isUniversallyUnique="true" versionDate="2020-08-04T15:21:38.4227331Z" xmlns="ddi:studyunit:3_2">
+      <r:URN>urn:ddi:uk.cls.nextsteps:6403132e-fc8d-4c5a-b590-54a2ac62743c:6</r:URN>
+      <r:Agency>uk.cls.nextsteps</r:Agency>
+      <r:ID>6403132e-fc8d-4c5a-b590-54a2ac62743c</r:ID>
+      <r:Version>6</r:Version>
+      <r:UserAttributePair>
+        <r:AttributeKey>extension:CustomField</r:AttributeKey>
+        <r:AttributeValue>{"Title":{"en-GB":"LifeStage"},"Description":{},"ValueType":0,"HasValue":true,"RelationshipTargetType":"00000000-0000-0000-0000-000000000000","StringValue":"Early Adulthood","MultilingualStringValue":{},"HasDefinedType":false,"DisplayLabel":"LifeStage"}</r:AttributeValue>
+      </r:UserAttributePair>
+      <r:UserAttributePair>
+        <r:AttributeKey>extension:CustomField</r:AttributeKey>
+        <r:AttributeValue>{"Title":{"en-GB":"LifeStageDescription"},"Description":{},"ValueType":0,"HasValue":true,"RelationshipTargetType":"00000000-0000-0000-0000-000000000000","StringValue":"19 - 30 years","MultilingualStringValue":{},"HasDefinedType":false,"DisplayLabel":"LifeStageDescription"}</r:AttributeValue>
+      </r:UserAttributePair>
+      <r:Citation>
+        <r:Title>
+          <r:String xml:lang="en-GB">Next Steps Age 20 Survey (2010)</r:String>
+        </r:Title>
+        <r:AlternateTitle>
+          <r:String xml:lang="en-GB">Longitudinal Study of Young People in England: Wave 7, 2010</r:String>
+        </r:AlternateTitle>
+        <r:Creator>
+          <r:CreatorName>
+            <r:String xml:lang="en-GB">Department for Education (DfE)</r:String>
+          </r:CreatorName>
+        </r:Creator>
+        <r:Publisher>
+          <r:PublisherName>
+            <r:String xml:lang="en-GB">Department for Education (DfE)</r:String>
+          </r:PublisherName>
+        </r:Publisher>
+        <r:Copyright>
+          <r:String xml:lang="en-GB">Department for Education (DfE)</r:String>
+        </r:Copyright>
+      </r:Citation>
+      <r:Abstract>
+        <r:Content xml:lang="en-GB">Sweep 7 followed the approach carried out in Sweeps 5 and 6, where the young person could complete the interview either online, over the telephone or face to face with an interviewer in their own home as they had done previously. Additionally, in line with the previous two sweeps only the sampled young person was interviewed (there were no parental interviews). 
+
+The survey content focused on educational and early labour market experiences, but also included information on other aspects of cohort members' lives including social participation and attitudes, risky-, crime- and anti-social behaviours, health and wellbeing, family formation, and aspirations for the future. Of the 9,791 young people issued at sweep 7, the survey reached 8,682 households (90%). 
+
+Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/next-steps/next-steps-age-20-sweep" target="_blank" title="Next Steps Age 20 Survey"&gt;www.cls.ucl.ac.uk/cls-studies/next-steps-age-20-sweep&lt;/a&gt;</r:Content>
+      </r:Abstract>
+      <r:UniverseReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>43c1ab11-6046-457d-9281-f206c999e876</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Universe</r:TypeOfObject>
+      </r:UniverseReference>
+      <r:FundingInformation>
+        <r:AgencyOrganizationReference>
+          <r:Agency>uk.closer</r:Agency>
+          <r:ID>43d1af35-5459-4db2-b482-e1a8886d66fd</r:ID>
+          <r:Version>4</r:Version>
+          <r:TypeOfObject>Organization</r:TypeOfObject>
+        </r:AgencyOrganizationReference>
+      </r:FundingInformation>
+      <r:Coverage>
+        <r:SpatialCoverage isUniversallyUnique="true">
+          <r:URN>urn:ddi:uk.cls.nextsteps:48d6c2f3-7bed-4531-bc31-16ec2f966864:6</r:URN>
+          <r:Agency>uk.cls.nextsteps</r:Agency>
+          <r:ID>48d6c2f3-7bed-4531-bc31-16ec2f966864</r:ID>
+          <r:Version>6</r:Version>
+          <r:BoundingBox>
+            <r:WestLongitude>0</r:WestLongitude>
+            <r:EastLongitude>0</r:EastLongitude>
+            <r:SouthLatitude>0</r:SouthLatitude>
+            <r:NorthLatitude>0</r:NorthLatitude>
+          </r:BoundingBox>
+          <r:Description>
+            <r:Content xml:lang="en-GB">England</r:Content>
+          </r:Description>
+          <r:Country>GB-ENG</r:Country>
+          <r:TopLevelReference>
+            <r:LevelName>Country</r:LevelName>
+          </r:TopLevelReference>
+          <r:LowestLevelReference>
+            <r:LevelName>Postcode</r:LevelName>
+          </r:LowestLevelReference>
+        </r:SpatialCoverage>
+        <r:TemporalCoverage isUniversallyUnique="true">
+          <r:URN>urn:ddi:uk.cls.nextsteps:c1d66c60-3fcf-47a3-ae7c-71138e501334:6</r:URN>
+          <r:Agency>uk.cls.nextsteps</r:Agency>
+          <r:ID>c1d66c60-3fcf-47a3-ae7c-71138e501334</r:ID>
+          <r:Version>6</r:Version>
+          <r:ReferenceDate>
+            <r:StartDate>2010-05-18</r:StartDate>
+            <r:EndDate>2011-10-12</r:EndDate>
+          </r:ReferenceDate>
+        </r:TemporalCoverage>
+      </r:Coverage>
+      <r:AnalysisUnit codeListVersionID="1.0">Individual</r:AnalysisUnit>
+      <r:KindOfData codeListVersionID="1.0">Survey Data</r:KindOfData>
+      <r:DataCollectionReference>
+        <r:Agency>uk.cls.nextsteps</r:Agency>
+        <r:ID>0285abc5-7026-44d3-aa56-c0e0203c5236</r:ID>
+        <r:Version>3</r:Version>
+        <r:TypeOfObject>DataCollection</r:TypeOfObject>
+      </r:DataCollectionReference>
+    </StudyUnit>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <DataCollection isUniversallyUnique="true" versionDate="2020-08-04T15:21:38.4077567Z" xmlns="ddi:datacollection:3_2">
+      <r:URN>urn:ddi:uk.cls.nextsteps:0285abc5-7026-44d3-aa56-c0e0203c5236:3</r:URN>
+      <r:Agency>uk.cls.nextsteps</r:Agency>
+      <r:ID>0285abc5-7026-44d3-aa56-c0e0203c5236</r:ID>
+      <r:Version>3</r:Version>
+      <DataCollectionModuleName>
+        <r:String xml:lang="en-GB">ns_10_w7</r:String>
+      </DataCollectionModuleName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Next Steps Age 20 Survey (2010)</r:Content>
+      </r:Label>
+      <CollectionEvent isUniversallyUnique="true">
+        <r:URN>urn:ddi:uk.cls.nextsteps:fb8c2cf6-61d8-4d04-bbac-9083e32e8040:3</r:URN>
+        <r:Agency>uk.cls.nextsteps</r:Agency>
+        <r:ID>fb8c2cf6-61d8-4d04-bbac-9083e32e8040</r:ID>
+        <r:Version>3</r:Version>
+        <DataCollectorOrganizationReference>
+          <r:Agency>uk.closer</r:Agency>
+          <r:ID>74c80340-4856-4b48-b345-701b66ae1c99</r:ID>
+          <r:Version>1</r:Version>
+          <r:TypeOfObject>Organization</r:TypeOfObject>
+        </DataCollectorOrganizationReference>
+        <DataCollectorOrganizationReference>
+          <r:Agency>uk.closer</r:Agency>
+          <r:ID>070cdc4f-be13-4862-95e3-da89b4c15465</r:ID>
+          <r:Version>1</r:Version>
+          <r:TypeOfObject>Organization</r:TypeOfObject>
+        </DataCollectorOrganizationReference>
+        <DataCollectionDate>
+          <r:StartDate>2010-05-18T00:00:00Z</r:StartDate>
+          <r:EndDate>2011-10-12</r:EndDate>
+        </DataCollectionDate>
+        <ModeOfCollection isUniversallyUnique="true">
+          <r:URN>urn:ddi:uk.cls.nextsteps:f99c514a-87a9-4509-8584-59a51db42355:3</r:URN>
+          <r:Agency>uk.cls.nextsteps</r:Agency>
+          <r:ID>f99c514a-87a9-4509-8584-59a51db42355</r:ID>
+          <r:Version>3</r:Version>
+          <TypeOfModeOfCollection codeListVersionID="1.0">Interview.FaceToFace.CAPI/CAMI</TypeOfModeOfCollection>
+          <r:Description>
+            <r:Content xml:lang="en-GB">Face-to-face computer-assisted personal interviewing</r:Content>
+          </r:Description>
+        </ModeOfCollection>
+        <ModeOfCollection isUniversallyUnique="true">
+          <r:URN>urn:ddi:uk.cls.nextsteps:f62d7a73-b4d2-4e2a-a8b3-20f69a12f15e:3</r:URN>
+          <r:Agency>uk.cls.nextsteps</r:Agency>
+          <r:ID>f62d7a73-b4d2-4e2a-a8b3-20f69a12f15e</r:ID>
+          <r:Version>3</r:Version>
+          <TypeOfModeOfCollection codeListVersionID="1.0">Interview.Telephone.CATI</TypeOfModeOfCollection>
+          <r:Description>
+            <r:Content xml:lang="en-GB">Computer-assisted telephone interviewing</r:Content>
+          </r:Description>
+        </ModeOfCollection>
+        <ModeOfCollection isUniversallyUnique="true">
+          <r:URN>urn:ddi:uk.cls.nextsteps:4f792b10-1d11-4834-a2b4-83167d3f97ab:3</r:URN>
+          <r:Agency>uk.cls.nextsteps</r:Agency>
+          <r:ID>4f792b10-1d11-4834-a2b4-83167d3f97ab</r:ID>
+          <r:Version>3</r:Version>
+          <TypeOfModeOfCollection codeListVersionID="1.0">SelfAdministeredQuestionnaire.WebBased</TypeOfModeOfCollection>
+          <r:Description>
+            <r:Content xml:lang="en-GB">Computer-assisted web interviewing (CAWI). Data are collected using a web questionnaire, produced with a program for creating web surveys</r:Content>
+          </r:Description>
+        </ModeOfCollection>
+      </CollectionEvent>
+    </DataCollection>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Organization isUniversallyUnique="true" versionDate="2020-07-15T13:06:43.5680907Z" xmlns="ddi:archive:3_2">
+      <r:URN>urn:ddi:uk.closer:43d1af35-5459-4db2-b482-e1a8886d66fd:4</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>43d1af35-5459-4db2-b482-e1a8886d66fd</r:ID>
+      <r:Version>4</r:Version>
+      <r:UserAttributePair>
+        <r:AttributeKey>ddi31:Nickname</r:AttributeKey>
+        <r:AttributeValue>{"en-GB":"DfE"}</r:AttributeValue>
+      </r:UserAttributePair>
+      <OrganizationIdentification>
+        <OrganizationName>
+          <r:String xml:lang="en-GB">UK Department for Education CLOSER</r:String>
+        </OrganizationName>
+      </OrganizationIdentification>
+      <r:Description>
+        <r:Content xml:lang="en-GB">The DfE is a department of the UK government responsible for child protection, education, apprenticeships and wider skills in England. A Department for Education previously existed between 1992 and 1995. The current Department for Education replaced the department for Children, Schools and Families in 2010 (&lt;a href="https://en.wikipedia.org/w/index.php?title=Department_for_Education&amp;oldid=920525137" target="_blank" &gt;Department_for_Education, n.d.&lt;/a&gt;).</r:Content>
+      </r:Description>
+    </Organization>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Universe isUniversallyUnique="true" versionDate="2020-07-03T16:40:59.2718067Z" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:43c1ab11-6046-457d-9281-f206c999e876:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>43c1ab11-6046-457d-9281-f206c999e876</r:ID>
+      <r:Version>1</r:Version>
+      <UniverseName>
+        <r:String xml:lang="en-GB">ns_age20</r:String>
+      </UniverseName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Next Steps Age 20 Population</r:Content>
+      </r:Label>
+      <r:Description>
+        <r:Content xml:lang="en-GB">All cohort members who were in Year 9 in English state and independent schools and pupil referral units in February 2004 and who participated at sweep 6. </r:Content>
+      </r:Description>
+    </Universe>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <StudyUnit isUniversallyUnique="true" versionDate="2020-08-04T15:14:29.6885959Z" xmlns="ddi:studyunit:3_2">
+      <r:URN>urn:ddi:uk.cls.nextsteps:7d451bc1-8462-48c4-a380-755d95b5d0d4:6</r:URN>
+      <r:Agency>uk.cls.nextsteps</r:Agency>
+      <r:ID>7d451bc1-8462-48c4-a380-755d95b5d0d4</r:ID>
+      <r:Version>6</r:Version>
+      <r:UserAttributePair>
+        <r:AttributeKey>extension:CustomField</r:AttributeKey>
+        <r:AttributeValue>{"Title":{"en-GB":"LifeStage"},"Description":{},"ValueType":0,"HasValue":true,"RelationshipTargetType":"00000000-0000-0000-0000-000000000000","StringValue":"Early adulthood","MultilingualStringValue":{},"HasDefinedType":false,"DisplayLabel":"LifeStage"}</r:AttributeValue>
+      </r:UserAttributePair>
+      <r:UserAttributePair>
+        <r:AttributeKey>extension:CustomField</r:AttributeKey>
+        <r:AttributeValue>{"Title":{"en-GB":"LifeStageDescription"},"Description":{},"ValueType":0,"HasValue":true,"RelationshipTargetType":"00000000-0000-0000-0000-000000000000","StringValue":"19 - 30 years","MultilingualStringValue":{},"HasDefinedType":false,"DisplayLabel":"LifeStageDescription"}</r:AttributeValue>
+      </r:UserAttributePair>
+      <r:Citation>
+        <r:Title>
+          <r:String xml:lang="en-GB">Next Steps Age 25 Survey (2015)</r:String>
+        </r:Title>
+        <r:Creator>
+          <r:CreatorName>
+            <r:String xml:lang="en-GB">Professor Lisa Calderwood</r:String>
+          </r:CreatorName>
+        </r:Creator>
+        <r:Publisher>
+          <r:PublisherName>
+            <r:String xml:lang="en-GB">University College London, UCL Institute of Education, Centre for Longitudinal Studies</r:String>
+          </r:PublisherName>
+        </r:Publisher>
+      </r:Citation>
+      <r:Abstract>
+        <r:Content xml:lang="en-GB">Sweep 8 was the first survey under the management of the Centre for Longitudinal Studies (CLS). The aim of the sweep was to increase our understanding of the lives of young adults growing up today, and in particular transitions out of education and into early adult life. The content of the questionnaire was broadened to cover a range of different disciplinary areas, providing greater comparability with the other CLS cohort studies and a baseline for the study of later life outcomes, as well as maintaining comparability with previous sweeps of Next Steps in key areas. 
+
+Cohort members answered questions about their education and job training, employment and economic circumstances, housing and family life, physical and emotional health, and risky behaviours. A wide range of administrative data linkage consents were also collected covering health, education, economics and criminal behaviour.
+
+The survey sample design was to contact all cohort members who had ever taken part in any of the previous sweeps of the study (except those who had given a clear refusal or are ineligible). A total of 15,531 cohort members were issued for fieldwork and interviews were completed with 7,707 cohort members, representing a 51% response rate. The majority (62%) of fully productive interviews were achieved via web, 9% via telephone, and 29% of interviews were achieved face-to-face. 
+
+Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/next-steps/next-steps-age-25-sweep" target="_blank" title="Next Steps Age 25 Survey"&gt;www.cls.ucl.ac.uk/cls-studies/next-steps-age-25-sweep&lt;/a&gt;</r:Content>
+      </r:Abstract>
+      <r:UniverseReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>44f41316-931c-41d7-9e25-386b6f2af7f8</r:ID>
+        <r:Version>2</r:Version>
+        <r:TypeOfObject>Universe</r:TypeOfObject>
+      </r:UniverseReference>
+      <r:FundingInformation>
+        <r:AgencyOrganizationReference>
+          <r:Agency>uk.closer</r:Agency>
+          <r:ID>ced55fc1-3df1-4d66-a925-cf5e1b79167a</r:ID>
+          <r:Version>4</r:Version>
+          <r:TypeOfObject>Organization</r:TypeOfObject>
+        </r:AgencyOrganizationReference>
+      </r:FundingInformation>
+      <r:Coverage>
+        <r:SpatialCoverage isUniversallyUnique="true">
+          <r:URN>urn:ddi:uk.cls.nextsteps:ef11f704-c630-4380-8d2d-775d4c5eb50c:6</r:URN>
+          <r:Agency>uk.cls.nextsteps</r:Agency>
+          <r:ID>ef11f704-c630-4380-8d2d-775d4c5eb50c</r:ID>
+          <r:Version>6</r:Version>
+          <r:BoundingBox>
+            <r:WestLongitude>0</r:WestLongitude>
+            <r:EastLongitude>0</r:EastLongitude>
+            <r:SouthLatitude>0</r:SouthLatitude>
+            <r:NorthLatitude>0</r:NorthLatitude>
+          </r:BoundingBox>
+          <r:Description>
+            <r:Content xml:lang="en-GB">United Kingdom</r:Content>
+          </r:Description>
+          <r:Country>GB-ENG</r:Country>
+          <r:Country>GB-SCT</r:Country>
+          <r:Country>GB-WLS</r:Country>
+          <r:Country>GB-NIR</r:Country>
+          <r:TopLevelReference>
+            <r:LevelName>Country</r:LevelName>
+          </r:TopLevelReference>
+          <r:LowestLevelReference>
+            <r:LevelName>Postcode</r:LevelName>
+          </r:LowestLevelReference>
+        </r:SpatialCoverage>
+        <r:TemporalCoverage isUniversallyUnique="true">
+          <r:URN>urn:ddi:uk.cls.nextsteps:8074368e-1acb-4a8c-9647-41de956677c7:6</r:URN>
+          <r:Agency>uk.cls.nextsteps</r:Agency>
+          <r:ID>8074368e-1acb-4a8c-9647-41de956677c7</r:ID>
+          <r:Version>6</r:Version>
+          <r:ReferenceDate>
+            <r:StartDate>2015-08-20</r:StartDate>
+            <r:EndDate>2016-09-25</r:EndDate>
+          </r:ReferenceDate>
+        </r:TemporalCoverage>
+      </r:Coverage>
+      <r:AnalysisUnit codeListVersionID="1.0">Individual</r:AnalysisUnit>
+      <r:KindOfData codeListVersionID="1.0">Survey Data</r:KindOfData>
+      <r:DataCollectionReference>
+        <r:Agency>uk.cls.nextsteps</r:Agency>
+        <r:ID>44214bd3-cf3b-466d-8d02-593210abddb0</r:ID>
+        <r:Version>2</r:Version>
+        <r:TypeOfObject>DataCollection</r:TypeOfObject>
+      </r:DataCollectionReference>
+    </StudyUnit>
+  </ddi:Fragment>
   <ddi:Fragment xmlns:r="ddi:reusable:3_2">
     <DataCollection isUniversallyUnique="true" versionDate="2020-07-15T13:10:45.6969931Z" xmlns="ddi:datacollection:3_2">
       <r:URN>urn:ddi:uk.cls.nextsteps:44214bd3-cf3b-466d-8d02-593210abddb0:2</r:URN>
@@ -30,8 +1631,8 @@
           <r:TypeOfObject>Organization</r:TypeOfObject>
         </DataCollectorOrganizationReference>
         <DataCollectionDate>
-          <r:StartDate>2015-08-20</r:StartDate>
-          <r:EndDate>2016-09-25</r:EndDate>
+          <r:StartDate>2015-08</r:StartDate>
+          <r:EndDate>2016-09</r:EndDate>
         </DataCollectionDate>
         <ModeOfCollection isUniversallyUnique="true">
           <r:URN>urn:ddi:uk.cls.nextsteps:6120a45d-49ba-44d3-8beb-0a25ce1ad9dd:2</r:URN>
@@ -81,5 +1682,198 @@
         <r:Content xml:lang="en-GB">The National Centre for Social Research is a registered charity trading as NatCen Social Research and is the largest independent social research institute in the UK. The research charity was founded in 1969 with the aim of carrying out rigorous social policy research to improve society (&lt;a href="https://en.wikipedia.org/w/index.php?title=National_Centre_for_Social_Research&amp;oldid=896115976" target="_blank" &gt;National Centre for Social Research, n.d.&lt;/a&gt;).</r:Content>
       </r:Description>
     </Organization>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Universe isUniversallyUnique="true" versionDate="2020-07-06T10:17:20.7310267Z" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:44f41316-931c-41d7-9e25-386b6f2af7f8:2</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>44f41316-931c-41d7-9e25-386b6f2af7f8</r:ID>
+      <r:Version>2</r:Version>
+      <UniverseName>
+        <r:String xml:lang="en-GB">ns_age25</r:String>
+      </UniverseName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Next Steps Age 25 Population</r:Content>
+      </r:Label>
+      <r:Description>
+        <r:Content xml:lang="en-GB">All cohort members who were in Year 9 in English state and independent schools and pupil referral units in February 2004 and who participated at a previous sweep. </r:Content>
+      </r:Description>
+    </Universe>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <StudyUnit isUniversallyUnique="true" versionDate="2020-08-04T17:15:49.6378867Z" xmlns="ddi:studyunit:3_2">
+      <r:URN>urn:ddi:uk.cls.nextsteps:78572059-2541-4ce6-813f-10250a53c91b:4</r:URN>
+      <r:Agency>uk.cls.nextsteps</r:Agency>
+      <r:ID>78572059-2541-4ce6-813f-10250a53c91b</r:ID>
+      <r:Version>4</r:Version>
+      <r:UserAttributePair>
+        <r:AttributeKey>extension:CustomField</r:AttributeKey>
+        <r:AttributeValue>{"Title":{"en-GB":"LifeStage"},"Description":{},"ValueType":0,"HasValue":true,"RelationshipTargetType":"00000000-0000-0000-0000-000000000000","StringValue":"Early adulthood","MultilingualStringValue":{},"HasDefinedType":false,"DisplayLabel":"LifeStage"}</r:AttributeValue>
+      </r:UserAttributePair>
+      <r:UserAttributePair>
+        <r:AttributeKey>extension:CustomField</r:AttributeKey>
+        <r:AttributeValue>{"Title":{"en-GB":"LifeStageDescription"},"Description":{},"ValueType":0,"HasValue":true,"RelationshipTargetType":"00000000-0000-0000-0000-000000000000","StringValue":"19 - 30 years","MultilingualStringValue":{},"HasDefinedType":false,"DisplayLabel":"LifeStageDescription"}</r:AttributeValue>
+      </r:UserAttributePair>
+      <r:Citation>
+        <r:Title>
+          <r:String xml:lang="en-GB">Next Steps COVID-19 Survey (2020) Wave 1</r:String>
+        </r:Title>
+        <r:Creator>
+          <r:CreatorName>
+            <r:String xml:lang="en-GB">Professor Alissa Goodman</r:String>
+          </r:CreatorName>
+        </r:Creator>
+        <r:Publisher>
+          <r:PublisherName>
+            <r:String xml:lang="en-GB">Centre for Longitudinal Studies, Institute of Education</r:String>
+          </r:PublisherName>
+        </r:Publisher>
+      </r:Citation>
+      <r:Abstract>
+        <r:Content xml:lang="en-GB">The COVID 19 Survey collects information from participants in 5 national cohort studies about how the Coronavirus epidemic has affected their lives.  The data from the survey will help researchers understand the health, social, and economic impacts of the COVID-19 outbreak. It will be especially important for understanding how people at different life stages are being affected, and how prior life experiences shape resilience or vulnerability to its effects.  By following participants' lives into the future, the studies will be able to track the longer-term consequences of the pandemic too.
+
+Study website: &lt;a href="https://cls.ucl.ac.uk/covid-19-survey/content-and-data/" target="_blank" title="1970 British Cohort Study (BCS70)"&gt;www.cls.ucl.ac.uk/covid-19-survey/content-and-data/&lt;/a&gt;</r:Content>
+      </r:Abstract>
+      <r:UniverseReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>9793f2d0-37d8-42be-9815-70be0b0a690f</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Universe</r:TypeOfObject>
+      </r:UniverseReference>
+      <r:FundingInformation>
+        <r:AgencyOrganizationReference>
+          <r:Agency>uk.closer</r:Agency>
+          <r:ID>ced55fc1-3df1-4d66-a925-cf5e1b79167a</r:ID>
+          <r:Version>4</r:Version>
+          <r:TypeOfObject>Organization</r:TypeOfObject>
+        </r:AgencyOrganizationReference>
+      </r:FundingInformation>
+      <r:Coverage>
+        <r:SpatialCoverage isUniversallyUnique="true">
+          <r:URN>urn:ddi:uk.cls.nextsteps:5ca86974-f020-43d3-84da-abcfeb0cfb85:4</r:URN>
+          <r:Agency>uk.cls.nextsteps</r:Agency>
+          <r:ID>5ca86974-f020-43d3-84da-abcfeb0cfb85</r:ID>
+          <r:Version>4</r:Version>
+          <r:BoundingBox>
+            <r:WestLongitude>0</r:WestLongitude>
+            <r:EastLongitude>0</r:EastLongitude>
+            <r:SouthLatitude>0</r:SouthLatitude>
+            <r:NorthLatitude>0</r:NorthLatitude>
+          </r:BoundingBox>
+          <r:Description>
+            <r:Content xml:lang="en-GB">Great Britain</r:Content>
+          </r:Description>
+          <r:Country>GB-ENG</r:Country>
+          <r:Country>GB-SCT</r:Country>
+          <r:Country>GB-WLS</r:Country>
+          <r:Country></r:Country>
+          <r:TopLevelReference>
+            <r:LevelName>Country</r:LevelName>
+          </r:TopLevelReference>
+          <r:LowestLevelReference>
+            <r:LevelName>Postcode</r:LevelName>
+          </r:LowestLevelReference>
+        </r:SpatialCoverage>
+        <r:TemporalCoverage isUniversallyUnique="true">
+          <r:URN>urn:ddi:uk.cls.nextsteps:b2d16bfe-603d-44aa-a944-aaa692c3b4ed:4</r:URN>
+          <r:Agency>uk.cls.nextsteps</r:Agency>
+          <r:ID>b2d16bfe-603d-44aa-a944-aaa692c3b4ed</r:ID>
+          <r:Version>4</r:Version>
+          <r:ReferenceDate>
+            <r:StartDate>2020-05-05</r:StartDate>
+            <r:EndDate>2020-05-26</r:EndDate>
+          </r:ReferenceDate>
+        </r:TemporalCoverage>
+      </r:Coverage>
+      <r:AnalysisUnit codeListVersionID="1.0">Individual</r:AnalysisUnit>
+      <r:KindOfData codeListVersionID="1.0">Survey Data</r:KindOfData>
+      <r:KindOfData>Demographic Data</r:KindOfData>
+      <r:DataCollectionReference>
+        <r:Agency>uk.cls.nextsteps</r:Agency>
+        <r:ID>dfbd8b81-f806-4d39-b33c-37740b10be98</r:ID>
+        <r:Version>3</r:Version>
+        <r:TypeOfObject>DataCollection</r:TypeOfObject>
+      </r:DataCollectionReference>
+    </StudyUnit>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <DataCollection isUniversallyUnique="true" versionDate="2020-08-04T11:47:13.9297905Z" xmlns="ddi:datacollection:3_2">
+      <r:URN>urn:ddi:uk.cls.nextsteps:dfbd8b81-f806-4d39-b33c-37740b10be98:3</r:URN>
+      <r:Agency>uk.cls.nextsteps</r:Agency>
+      <r:ID>dfbd8b81-f806-4d39-b33c-37740b10be98</r:ID>
+      <r:Version>3</r:Version>
+      <DataCollectionModuleName>
+        <r:String xml:lang="en-GB">ns_covid_q1</r:String>
+      </DataCollectionModuleName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Next Steps COVID-19 Survey - Wave 1</r:Content>
+      </r:Label>
+      <CollectionEvent isUniversallyUnique="true">
+        <r:URN>urn:ddi:uk.cls.nextsteps:62fd47b5-70b0-458d-b5cc-d3551d20b1bc:3</r:URN>
+        <r:Agency>uk.cls.nextsteps</r:Agency>
+        <r:ID>62fd47b5-70b0-458d-b5cc-d3551d20b1bc</r:ID>
+        <r:Version>3</r:Version>
+        <DataCollectorOrganizationReference>
+          <r:Agency>uk.closer</r:Agency>
+          <r:ID>f026f9ab-91c7-410c-a4a4-b389e3f72078</r:ID>
+          <r:Version>1</r:Version>
+          <r:TypeOfObject>Organization</r:TypeOfObject>
+        </DataCollectorOrganizationReference>
+        <DataCollectionDate>
+          <r:StartDate>2020-05-04</r:StartDate>
+          <r:EndDate>2020-05-26</r:EndDate>
+        </DataCollectionDate>
+        <ModeOfCollection isUniversallyUnique="true">
+          <r:URN>urn:ddi:uk.cls.nextsteps:a78119ee-d01d-4115-b1a6-e27114923f2d:3</r:URN>
+          <r:Agency>uk.cls.nextsteps</r:Agency>
+          <r:ID>a78119ee-d01d-4115-b1a6-e27114923f2d</r:ID>
+          <r:Version>3</r:Version>
+          <TypeOfModeOfCollection codeListVersionID="1.0">SelfAdministeredQuestionnaire.WebBased</TypeOfModeOfCollection>
+          <r:Description>
+            <r:Content xml:lang="en-GB">Computer-assisted web interviewing (CAWI). Data are collected using a web questionnaire, produced with a program for creating web surveys</r:Content>
+          </r:Description>
+        </ModeOfCollection>
+      </CollectionEvent>
+    </DataCollection>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Organization isUniversallyUnique="true" versionDate="2020-07-06T11:23:27.5802091Z" xmlns="ddi:archive:3_2">
+      <r:URN>urn:ddi:uk.closer:f026f9ab-91c7-410c-a4a4-b389e3f72078:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>f026f9ab-91c7-410c-a4a4-b389e3f72078</r:ID>
+      <r:Version>1</r:Version>
+      <r:UserAttributePair>
+        <r:AttributeKey>ddi31:Nickname</r:AttributeKey>
+        <r:AttributeValue>{"en-GB":"CLS"}</r:AttributeValue>
+      </r:UserAttributePair>
+      <OrganizationIdentification>
+        <OrganizationName>
+          <r:String xml:lang="en-GB">Centre for Longitudinal Studies, UCL (Institute of Education)</r:String>
+        </OrganizationName>
+        <OrganizationImage>
+          <r:ImageLocation>https://cls.ucl.ac.uk/wp-content/themes/ucl/images/logo_cls.svg</r:ImageLocation>
+        </OrganizationImage>
+      </OrganizationIdentification>
+      <r:Description>
+        <r:Content xml:lang="en-GB">The Centre for Longitudinal Studies (CLS) is an ESRC-funded resource centre based at the Institute of Education, University of London https://cls.ucl.ac.uk</r:Content>
+      </r:Description>
+    </Organization>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Universe isUniversallyUnique="true" versionDate="2020-07-06T10:53:37.803684Z" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:9793f2d0-37d8-42be-9815-70be0b0a690f:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>9793f2d0-37d8-42be-9815-70be0b0a690f</r:ID>
+      <r:Version>1</r:Version>
+      <UniverseName>
+        <r:String xml:lang="en-GB">ns_covid_wave1</r:String>
+      </UniverseName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Next Steps COVID-19 Wave 1 Population</r:Content>
+      </r:Label>
+      <r:Description>
+        <r:Content xml:lang="en-GB">The COVID 19 Survey Wave 1 involved participants from the Next Steps study (born 1989-90). Invitations to participate in Wave 1 were sent via email to all those for whom an email address was held, including emigrants, but not including those who have permanently withdrawn from the studies, died or been defined as 'permanently untraced'. </r:Content>
+      </r:Description>
+    </Universe>
   </ddi:Fragment>
 </ddi:FragmentInstance>
