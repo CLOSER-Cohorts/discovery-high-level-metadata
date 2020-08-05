@@ -7,7 +7,7 @@
     <r:TypeOfObject>UniverseScheme</r:TypeOfObject>
   </ddi:TopLevelReference>
   <ddi:Fragment xmlns:r="ddi:reusable:3_2">
-    <UniverseScheme isUniversallyUnique="true" versionDate="2020-08-05T11:12:59.1604998Z" xmlns="ddi:conceptualcomponent:3_2">
+    <UniverseScheme isUniversallyUnique="true" versionDate="2020-08-05T11:52:05.2440375Z" xmlns="ddi:conceptualcomponent:3_2">
       <r:URN>urn:ddi:uk.closer:240bac9f-8595-4019-847b-532be0055575:9</r:URN>
       <r:Agency>uk.closer</r:Agency>
       <r:ID>240bac9f-8595-4019-847b-532be0055575</r:ID>
@@ -462,7 +462,7 @@
       <UniverseGroupReference>
         <r:Agency>uk.closer</r:Agency>
         <r:ID>d59dd42a-4678-4db9-ae33-845dd3a01a76</r:ID>
-        <r:Version>2</r:Version>
+        <r:Version>3</r:Version>
         <r:TypeOfObject>UniverseGroup</r:TypeOfObject>
       </UniverseGroupReference>
     </UniverseScheme>
@@ -2567,17 +2567,11 @@
     </Universe>
   </ddi:Fragment>
   <ddi:Fragment xmlns:r="ddi:reusable:3_2">
-    <UniverseGroup isUniversallyUnique="true" versionDate="2019-10-17T10:38:52.0722822Z" xmlns="ddi:conceptualcomponent:3_2">
-      <r:URN>urn:ddi:uk.closer:d59dd42a-4678-4db9-ae33-845dd3a01a76:2</r:URN>
+    <UniverseGroup isUniversallyUnique="true" versionDate="2020-08-05T11:52:05.2240236Z" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:d59dd42a-4678-4db9-ae33-845dd3a01a76:3</r:URN>
       <r:Agency>uk.closer</r:Agency>
       <r:ID>d59dd42a-4678-4db9-ae33-845dd3a01a76</r:ID>
-      <r:Version>2</r:Version>
-      <r:VersionResponsibility>INST\mhadqssi</r:VersionResponsibility>
-      <r:VersionRationale>
-        <r:RationaleDescription>
-          <r:String xml:lang="en-GB">Changed Universe to Population</r:String>
-        </r:RationaleDescription>
-      </r:VersionRationale>
+      <r:Version>3</r:Version>
       <UniverseGroupName>
         <r:String xml:lang="en-GB">WCHDS Populations</r:String>
       </UniverseGroupName>
@@ -2599,6 +2593,29 @@
         <r:Version>2</r:Version>
         <r:TypeOfObject>Universe</r:TypeOfObject>
       </r:UniverseReference>
+      <r:UniverseReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>5aaeb1a6-7bc4-494f-89a0-a7ab9c6c57f5</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Universe</r:TypeOfObject>
+      </r:UniverseReference>
     </UniverseGroup>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Universe isUniversallyUnique="true" versionDate="2020-08-05T11:53:04.6376223Z" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:5aaeb1a6-7bc4-494f-89a0-a7ab9c6c57f5:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>5aaeb1a6-7bc4-494f-89a0-a7ab9c6c57f5</r:ID>
+      <r:Version>1</r:Version>
+      <UniverseName>
+        <r:String xml:lang="en-GB">WCHADS_phase_05</r:String>
+      </UniverseName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">WCHADS phase 5 population</r:Content>
+      </r:Label>
+      <r:Description>
+        <r:Content xml:lang="en-GB">WCHADS extensive sample (includes intensive subsample) - mothers</r:Content>
+      </r:Description>
+    </Universe>
   </ddi:Fragment>
 </ddi:FragmentInstance>
