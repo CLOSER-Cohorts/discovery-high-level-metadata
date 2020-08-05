@@ -7,7 +7,7 @@
     <r:TypeOfObject>UniverseScheme</r:TypeOfObject>
   </ddi:TopLevelReference>
   <ddi:Fragment xmlns:r="ddi:reusable:3_2">
-    <UniverseScheme isUniversallyUnique="true" versionDate="2020-08-04T17:06:32.2885781Z" xmlns="ddi:conceptualcomponent:3_2">
+    <UniverseScheme isUniversallyUnique="true" versionDate="2020-08-05T11:12:59.1604998Z" xmlns="ddi:conceptualcomponent:3_2">
       <r:URN>urn:ddi:uk.closer:240bac9f-8595-4019-847b-532be0055575:9</r:URN>
       <r:Agency>uk.closer</r:Agency>
       <r:ID>240bac9f-8595-4019-847b-532be0055575</r:ID>
@@ -456,7 +456,7 @@
       <UniverseGroupReference>
         <r:Agency>uk.closer</r:Agency>
         <r:ID>52b50048-fa06-4c2e-b31e-ba5102cff845</r:ID>
-        <r:Version>2</r:Version>
+        <r:Version>3</r:Version>
         <r:TypeOfObject>UniverseGroup</r:TypeOfObject>
       </UniverseGroupReference>
       <UniverseGroupReference>
@@ -2485,17 +2485,11 @@
     </UniverseGroup>
   </ddi:Fragment>
   <ddi:Fragment xmlns:r="ddi:reusable:3_2">
-    <UniverseGroup isUniversallyUnique="true" versionDate="2019-10-17T10:38:52.0722822Z" xmlns="ddi:conceptualcomponent:3_2">
-      <r:URN>urn:ddi:uk.closer:52b50048-fa06-4c2e-b31e-ba5102cff845:2</r:URN>
+    <UniverseGroup isUniversallyUnique="true" versionDate="2020-08-05T11:12:59.1115103Z" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:52b50048-fa06-4c2e-b31e-ba5102cff845:3</r:URN>
       <r:Agency>uk.closer</r:Agency>
       <r:ID>52b50048-fa06-4c2e-b31e-ba5102cff845</r:ID>
-      <r:Version>2</r:Version>
-      <r:VersionResponsibility>INST\mhadqssi</r:VersionResponsibility>
-      <r:VersionRationale>
-        <r:RationaleDescription>
-          <r:String xml:lang="en-GB">Changed Universe to Population</r:String>
-        </r:RationaleDescription>
-      </r:VersionRationale>
+      <r:Version>3</r:Version>
       <UniverseGroupName>
         <r:String xml:lang="en-GB">Understanding Society Populations</r:String>
       </UniverseGroupName>
@@ -2547,7 +2541,30 @@
         <r:Version>2</r:Version>
         <r:TypeOfObject>Universe</r:TypeOfObject>
       </r:UniverseReference>
+      <r:UniverseReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>b968aac9-c170-4ce0-b21f-e67e3c58f878</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Universe</r:TypeOfObject>
+      </r:UniverseReference>
     </UniverseGroup>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Universe isUniversallyUnique="true" versionDate="2020-08-05T11:13:46.5517187Z" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:b968aac9-c170-4ce0-b21f-e67e3c58f878:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>b968aac9-c170-4ce0-b21f-e67e3c58f878</r:ID>
+      <r:Version>1</r:Version>
+      <UniverseName>
+        <r:String xml:lang="en-GB">US_covid_wave1</r:String>
+      </UniverseName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">US COVID Wave 1 Population</r:Content>
+      </r:Label>
+      <r:Description>
+        <r:Content xml:lang="en-GB">UK residential population in 2020 who have participated in at least one of the last two waves of Understanding Society data collection. </r:Content>
+      </r:Description>
+    </Universe>
   </ddi:Fragment>
   <ddi:Fragment xmlns:r="ddi:reusable:3_2">
     <UniverseGroup isUniversallyUnique="true" versionDate="2019-10-17T10:38:52.0722822Z" xmlns="ddi:conceptualcomponent:3_2">
