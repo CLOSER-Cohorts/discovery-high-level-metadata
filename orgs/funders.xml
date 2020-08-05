@@ -3,15 +3,15 @@
   <ddi:TopLevelReference>
     <r:Agency>uk.closer</r:Agency>
     <r:ID>9ea89600-8809-4f4c-800f-b5bfae564e86</r:ID>
-    <r:Version>9</r:Version>
+    <r:Version>10</r:Version>
     <r:TypeOfObject>OrganizationScheme</r:TypeOfObject>
   </ddi:TopLevelReference>
   <ddi:Fragment xmlns:r="ddi:reusable:3_2">
-    <OrganizationScheme isUniversallyUnique="true" versionDate="2020-07-15T13:06:43.5850852Z" xmlns="ddi:archive:3_2">
-      <r:URN>urn:ddi:uk.closer:9ea89600-8809-4f4c-800f-b5bfae564e86:9</r:URN>
+    <OrganizationScheme isUniversallyUnique="true" versionDate="2020-08-05T11:32:49.7363641Z" xmlns="ddi:archive:3_2">
+      <r:URN>urn:ddi:uk.closer:9ea89600-8809-4f4c-800f-b5bfae564e86:10</r:URN>
       <r:Agency>uk.closer</r:Agency>
       <r:ID>9ea89600-8809-4f4c-800f-b5bfae564e86</r:ID>
-      <r:Version>9</r:Version>
+      <r:Version>10</r:Version>
       <OrganizationSchemeName>
         <r:String xml:lang="en-GB">Funders</r:String>
       </OrganizationSchemeName>
@@ -474,7 +474,7 @@
       <OrganizationReference>
         <r:Agency>uk.closer</r:Agency>
         <r:ID>a601dea1-78de-4441-a761-cbd75dd0c7c0</r:ID>
-        <r:Version>3</r:Version>
+        <r:Version>4</r:Version>
         <r:TypeOfObject>Organization</r:TypeOfObject>
       </OrganizationReference>
       <OrganizationReference>
@@ -487,6 +487,12 @@
         <r:Agency>uk.closer</r:Agency>
         <r:ID>82208deb-dfc1-4725-b150-b90bac138155</r:ID>
         <r:Version>2</r:Version>
+        <r:TypeOfObject>Organization</r:TypeOfObject>
+      </OrganizationReference>
+      <OrganizationReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>2d8ed8c6-a4b0-4b43-b493-7b7749e04948</r:ID>
+        <r:Version>1</r:Version>
         <r:TypeOfObject>Organization</r:TypeOfObject>
       </OrganizationReference>
     </OrganizationScheme>
@@ -1903,18 +1909,18 @@
     </Organization>
   </ddi:Fragment>
   <ddi:Fragment xmlns:r="ddi:reusable:3_2">
-    <Organization isUniversallyUnique="true" versionDate="2019-11-13T10:40:07.7260223Z" xmlns="ddi:archive:3_2">
-      <r:URN>urn:ddi:uk.closer:a601dea1-78de-4441-a761-cbd75dd0c7c0:3</r:URN>
+    <Organization isUniversallyUnique="true" versionDate="2020-08-05T11:32:49.7183532Z" xmlns="ddi:archive:3_2">
+      <r:URN>urn:ddi:uk.closer:a601dea1-78de-4441-a761-cbd75dd0c7c0:4</r:URN>
       <r:Agency>uk.closer</r:Agency>
       <r:ID>a601dea1-78de-4441-a761-cbd75dd0c7c0</r:ID>
-      <r:Version>3</r:Version>
+      <r:Version>4</r:Version>
       <OrganizationIdentification>
         <OrganizationName>
           <r:String xml:lang="en-GB">Wellcome Trust</r:String>
         </OrganizationName>
       </OrganizationIdentification>
       <r:Description>
-        <r:Content xml:lang="en-GB">The Wellcome Trust is a research charity based in London, UK. It was established in 1936 with legacies from the pharmaceutical magnate Sir Henry Wellcome to fund research to improve human and animal health. The aim of the Trust is to "achieve extraordinary improvements in health by supporting the brightest minds", and in addition to funding biomedical research it supports the public understanding of science (&lt;a href="https://en.wikipedia.org/w/index.php?title=Wellcome_Trust&amp;oldid=920905992" target="_blank" &gt;Wellcome Trust&lt;/a&gt;). </r:Content>
+        <r:Content xml:lang="en-GB">The Wellcome Trust is a research charity based in London, UK. It was established in 1936 with legacies from the pharmaceutical magnate Sir Henry Wellcome to fund research to improve human and animal health. The aim of the Trust is to "achieve extraordinary improvements in health by supporting the brightest minds", and in addition to funding biomedical research it supports the public understanding of science (&lt;a href="https://en.wikipedia.org/w/index.php?title=Wellcome_Trust&amp;oldid=920905992" target="_blank" &gt;Wellcome Trust, n.d.&lt;/a&gt;). </r:Content>
       </r:Description>
     </Organization>
   </ddi:Fragment>
@@ -1947,6 +1953,22 @@
       </OrganizationIdentification>
       <r:Description>
         <r:Content xml:lang="en-GB">The William T. Grant Foundation is an American non-profit foundation that funds research in the social sciences, with a particular focus on reducing inequality in youth outcomes and improving the use of research evidence in public policy and practice settings (&lt;a href="https://en.wikipedia.org/w/index.php?title=Waltham_Centre_for_Pet_Nutrition&amp;oldid=922616431" target="_blank" &gt; William T. Grant Foundation, n.d. &lt;/a&gt;).  </r:Content>
+      </r:Description>
+    </Organization>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Organization isUniversallyUnique="true" versionDate="2020-08-05T11:32:28.5353432Z" xmlns="ddi:archive:3_2">
+      <r:URN>urn:ddi:uk.closer:2d8ed8c6-a4b0-4b43-b493-7b7749e04948:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>2d8ed8c6-a4b0-4b43-b493-7b7749e04948</r:ID>
+      <r:Version>1</r:Version>
+      <OrganizationIdentification>
+        <OrganizationName>
+          <r:String xml:lang="en-GB">The Health Foundation</r:String>
+        </OrganizationName>
+      </OrganizationIdentification>
+      <r:Description>
+        <r:Content xml:lang="en-GB">The Health Foundation is a registered grant-making charity funded by an £1bn endowment. It aims to bring about better health and health care for people in the UK  (&lt;a href="https://en.wikipedia.org/wiki/Health_Foundation" target="_blank" &gt;The Health Foundation, n.d.&lt;/a&gt;).</r:Content>
       </r:Description>
     </Organization>
   </ddi:Fragment>
