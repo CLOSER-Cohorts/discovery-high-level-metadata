@@ -23,16 +23,10 @@
         <r:Version>27</r:Version>
         <r:TypeOfObject>Group</r:TypeOfObject>
       </r:GroupReference>
-      <r:ResourcePackageReference>
-        <r:Agency>uk.cls.nextsteps</r:Agency>
-        <r:ID>f5d5f5ec-295c-4caa-af17-462335366b31</r:ID>
-        <r:Version>1</r:Version>
-        <r:TypeOfObject>ResourcePackage</r:TypeOfObject>
-      </r:ResourcePackageReference>
     </ddi:DDIInstance>
   </ddi:Fragment>
   <ddi:Fragment xmlns:r="ddi:reusable:3_2">
-    <Group isUniversallyUnique="true" versionDate="2020-08-04T11:30:33.5597125Z" xmlns="ddi:group:3_2">
+    <Group isUniversallyUnique="true" versionDate="2020-08-04T17:01:53.5302519Z" xmlns="ddi:group:3_2">
       <r:URN>urn:ddi:uk.cls.mcs:0d8a7220-c61b-4542-967d-a40cb5aca430:27</r:URN>
       <r:Agency>uk.cls.mcs</r:Agency>
       <r:ID>0d8a7220-c61b-4542-967d-a40cb5aca430</r:ID>
@@ -1572,7 +1566,7 @@ Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/millennium-cohort-s
     </DataCollection>
   </ddi:Fragment>
   <ddi:Fragment xmlns:r="ddi:reusable:3_2">
-    <Organization isUniversallyUnique="true" versionDate="2020-08-04T11:50:14.4126799Z" xmlns="ddi:archive:3_2">
+    <Organization isUniversallyUnique="true" versionDate="2020-08-06T10:07:47.6729673Z" xmlns="ddi:archive:3_2">
       <r:URN>urn:ddi:uk.closer:03d1fb7b-da9c-4b73-9101-a4ea1f189aae:1</r:URN>
       <r:Agency>uk.closer</r:Agency>
       <r:ID>03d1fb7b-da9c-4b73-9101-a4ea1f189aae</r:ID>
@@ -1674,7 +1668,7 @@ Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/millennium-cohort-s
     </DataCollection>
   </ddi:Fragment>
   <ddi:Fragment xmlns:r="ddi:reusable:3_2">
-    <StudyUnit isUniversallyUnique="true" versionDate="2020-08-04T11:37:30.5476247Z" xmlns="ddi:studyunit:3_2">
+    <StudyUnit isUniversallyUnique="true" versionDate="2020-08-06T10:05:40.5818419Z" xmlns="ddi:studyunit:3_2">
       <r:URN>urn:ddi:uk.cls.mcs:7c397ddc-b7e4-46aa-b545-6f07d5bec86f:2</r:URN>
       <r:Agency>uk.cls.mcs</r:Agency>
       <r:ID>7c397ddc-b7e4-46aa-b545-6f07d5bec86f</r:ID>
@@ -1767,10 +1761,16 @@ Study website: &lt;a href="https://cls.ucl.ac.uk/covid-19-survey/content-and-dat
         <r:Version>2</r:Version>
         <r:TypeOfObject>DataCollection</r:TypeOfObject>
       </r:DataCollectionReference>
+      <r:DataCollectionReference>
+        <r:Agency>uk.cls.mcs</r:Agency>
+        <r:ID>9da1a71d-8906-415a-be5d-7eba379b4a3d</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>DataCollection</r:TypeOfObject>
+      </r:DataCollectionReference>
     </StudyUnit>
   </ddi:Fragment>
   <ddi:Fragment xmlns:r="ddi:reusable:3_2">
-    <DataCollection isUniversallyUnique="true" versionDate="2020-08-04T11:37:30.5308891Z" xmlns="ddi:datacollection:3_2">
+    <DataCollection isUniversallyUnique="true" versionDate="2020-08-06T10:05:19.0060098Z" xmlns="ddi:datacollection:3_2">
       <r:URN>urn:ddi:uk.cls.mcs:e5bbe6fb-aaf9-4799-868c-3eec7db8df1a:2</r:URN>
       <r:Agency>uk.cls.mcs</r:Agency>
       <r:ID>e5bbe6fb-aaf9-4799-868c-3eec7db8df1a</r:ID>
@@ -1780,10 +1780,10 @@ Study website: &lt;a href="https://cls.ucl.ac.uk/covid-19-survey/content-and-dat
         <r:AttributeValue>{"Title":{"en-GB":"LifeStage"},"Description":{},"ValueType":0,"HasValue":true,"RelationshipTargetType":"00000000-0000-0000-0000-000000000000","StringValue":"Early adulthood","MultilingualStringValue":{},"HasDefinedType":false,"DisplayLabel":"LifeStage"}</r:AttributeValue>
       </r:UserAttributePair>
       <DataCollectionModuleName>
-        <r:String xml:lang="en-GB">mcs_covid_q1</r:String>
+        <r:String xml:lang="en-GB">mcs_covid_cmq1</r:String>
       </DataCollectionModuleName>
       <r:Label>
-        <r:Content xml:lang="en-GB">MCS COVID-19 Survey - Wave 1</r:Content>
+        <r:Content xml:lang="en-GB">MCS Cohort Member COVID-19 Survey - Wave 1</r:Content>
       </r:Label>
       <CollectionEvent isUniversallyUnique="true">
         <r:URN>urn:ddi:uk.cls.mcs:bff3f3fe-db1f-44e4-bb88-1a5ae113bd9f:2</r:URN>
@@ -1837,6 +1837,46 @@ Study website: &lt;a href="https://cls.ucl.ac.uk/covid-19-survey/content-and-dat
     </Organization>
   </ddi:Fragment>
   <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <DataCollection isUniversallyUnique="true" versionDate="2020-08-06T10:07:02.59412Z" xmlns="ddi:datacollection:3_2">
+      <r:URN>urn:ddi:uk.cls.mcs:9da1a71d-8906-415a-be5d-7eba379b4a3d:1</r:URN>
+      <r:Agency>uk.cls.mcs</r:Agency>
+      <r:ID>9da1a71d-8906-415a-be5d-7eba379b4a3d</r:ID>
+      <r:Version>1</r:Version>
+      <DataCollectionModuleName>
+        <r:String xml:lang="en-GB">mcs_covid_pq1</r:String>
+      </DataCollectionModuleName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">MCS Parent COVID-19 Survey - Wave 1</r:Content>
+      </r:Label>
+      <CollectionEvent isUniversallyUnique="true">
+        <r:URN>urn:ddi:uk.cls.mcs:2774f443-505e-4650-8cb7-be98441e9122:1</r:URN>
+        <r:Agency>uk.cls.mcs</r:Agency>
+        <r:ID>2774f443-505e-4650-8cb7-be98441e9122</r:ID>
+        <r:Version>1</r:Version>
+        <DataCollectorOrganizationReference>
+          <r:Agency>uk.closer</r:Agency>
+          <r:ID>f026f9ab-91c7-410c-a4a4-b389e3f72078</r:ID>
+          <r:Version>1</r:Version>
+          <r:TypeOfObject>Organization</r:TypeOfObject>
+        </DataCollectorOrganizationReference>
+        <DataCollectionDate>
+          <r:StartDate>2020-05-04</r:StartDate>
+          <r:EndDate>2020-05-26</r:EndDate>
+        </DataCollectionDate>
+        <ModeOfCollection isUniversallyUnique="true">
+          <r:URN>urn:ddi:uk.cls.mcs:2b4a6818-b86f-46fc-bf04-97a4c76813df:1</r:URN>
+          <r:Agency>uk.cls.mcs</r:Agency>
+          <r:ID>2b4a6818-b86f-46fc-bf04-97a4c76813df</r:ID>
+          <r:Version>1</r:Version>
+          <TypeOfModeOfCollection>SelfAdministeredQuestionnaire.WebBased</TypeOfModeOfCollection>
+          <r:Description>
+            <r:Content xml:lang="en-GB">Computer-assisted web interviewing (CAWI). Data are collected using a web questionnaire, produced with a program for creating web surveys.</r:Content>
+          </r:Description>
+        </ModeOfCollection>
+      </CollectionEvent>
+    </DataCollection>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
     <Universe isUniversallyUnique="true" versionDate="2020-07-06T13:48:37.2426573Z" xmlns="ddi:conceptualcomponent:3_2">
       <r:URN>urn:ddi:uk.closer:23c62049-cdd5-4e57-b583-6d843d0de079:1</r:URN>
       <r:Agency>uk.closer</r:Agency>
@@ -1852,14 +1892,5 @@ Study website: &lt;a href="https://cls.ucl.ac.uk/covid-19-survey/content-and-dat
         <r:Content xml:lang="en-GB">The COVID 19 Survey Wave 1 involved participants from the Millennium Cohort Study (born 2000-02). Invitations to participate in Wave 1 were sent via email to all those for whom an email address was held, including emigrants, but not including those who have permanently withdrawn from the studies, died or been defined as 'permanently untraced'. In the case of MCS, invitations were sent to cohort members and parents. MCS parents were only invited to participate if they had taken part in the last major wave of the study - the Age 17 Survey (MCS7).</r:Content>
       </r:Description>
     </Universe>
-  </ddi:Fragment>
-  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
-    <ResourcePackage isUniversallyUnique="true" versionDate="2020-08-04T11:50:01.8695858Z" xmlns="ddi:group:3_2">
-      <r:URN>urn:ddi:uk.cls.nextsteps:f5d5f5ec-295c-4caa-af17-462335366b31:1</r:URN>
-      <r:Agency>uk.cls.nextsteps</r:Agency>
-      <r:ID>f5d5f5ec-295c-4caa-af17-462335366b31</r:ID>
-      <r:Version>1</r:Version>
-      <r:Citation />
-    </ResourcePackage>
   </ddi:Fragment>
 </ddi:FragmentInstance>
