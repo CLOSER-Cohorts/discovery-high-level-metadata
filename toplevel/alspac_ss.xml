@@ -122,35 +122,84 @@ Study website: &lt;a href="https://www.bristol.ac.uk/alspac/" target="_blank" ti
     </Group>
   </ddi:Fragment>
   <ddi:Fragment xmlns:r="ddi:reusable:3_2">
-    <Organization isUniversallyUnique="true" versionDate="2020-08-04T11:04:59.2255847Z" xmlns="ddi:archive:3_2">
+    <Organization isUniversallyUnique="true" versionDate="2019-11-13T09:48:32.2257219Z" xmlns="ddi:archive:3_2">
       <r:URN>urn:ddi:uk.closer:a1bdc1c8-d24e-44e1-87f2-5bcd7ab98e22:3</r:URN>
       <r:Agency>uk.closer</r:Agency>
       <r:ID>a1bdc1c8-d24e-44e1-87f2-5bcd7ab98e22</r:ID>
       <r:Version>3</r:Version>
+      <r:UserAttributePair>
+        <r:AttributeKey>ddi31:Nickname</r:AttributeKey>
+        <r:AttributeValue>{"en-GB":"MRC"}</r:AttributeValue>
+      </r:UserAttributePair>
+      <OrganizationIdentification>
+        <OrganizationName>
+          <r:String xml:lang="en-GB">Medical Research Council</r:String>
+        </OrganizationName>
+        <OrganizationImage>
+          <r:ImageLocation></r:ImageLocation>
+        </OrganizationImage>
+      </OrganizationIdentification>
+      <r:Description>
+        <r:Content xml:lang="en-GB">The MRC is responsible for co-coordinating and funding medical research in the UK. It is part of UK Research and Innovation (UKRI) which is a non-departmental public body (NDPB) funded by the UK government (&lt;a href="https://en.wikipedia.org/w/index.php?title=Medical_Research_Council_(United_Kingdom)&amp;oldid=921149396" target="_blank" &gt;Medical Research Council (United Kingdom), n.d. &lt;/a&gt; ). </r:Content>
+      </r:Description>
     </Organization>
   </ddi:Fragment>
   <ddi:Fragment xmlns:r="ddi:reusable:3_2">
-    <Organization isUniversallyUnique="true" versionDate="2020-08-04T11:04:59.2255847Z" xmlns="ddi:archive:3_2">
+    <Organization isUniversallyUnique="true" versionDate="2019-11-13T10:38:52.4636522Z" xmlns="ddi:archive:3_2">
       <r:URN>urn:ddi:uk.closer:bc35a2f7-ad2c-4c23-995c-adbf3f30dfbf:4</r:URN>
       <r:Agency>uk.closer</r:Agency>
       <r:ID>bc35a2f7-ad2c-4c23-995c-adbf3f30dfbf</r:ID>
       <r:Version>4</r:Version>
+      <OrganizationIdentification>
+        <OrganizationName>
+          <r:String xml:lang="en-GB">University of Bristol</r:String>
+        </OrganizationName>
+        <OrganizationImage>
+          <r:ImageLocation></r:ImageLocation>
+        </OrganizationImage>
+      </OrganizationIdentification>
+      <r:Description>
+        <r:Content xml:lang="en-GB">The University of Bristol is a red brick research university in Bristol, England (&lt;a href="https://en.wikipedia.org/w/index.php?title=University_of_Bristol&amp;oldid=923720350" target="_blank" &gt; University of Bristol, n.d. &lt;/a&gt;). </r:Content>
+      </r:Description>
     </Organization>
   </ddi:Fragment>
   <ddi:Fragment xmlns:r="ddi:reusable:3_2">
-    <Organization isUniversallyUnique="true" versionDate="2020-08-04T11:04:59.2255847Z" xmlns="ddi:archive:3_2">
+    <Organization isUniversallyUnique="true" versionDate="2019-11-13T10:40:07.7260223Z" xmlns="ddi:archive:3_2">
       <r:URN>urn:ddi:uk.closer:a601dea1-78de-4441-a761-cbd75dd0c7c0:3</r:URN>
       <r:Agency>uk.closer</r:Agency>
       <r:ID>a601dea1-78de-4441-a761-cbd75dd0c7c0</r:ID>
       <r:Version>3</r:Version>
+      <OrganizationIdentification>
+        <OrganizationName>
+          <r:String xml:lang="en-GB">Wellcome Trust</r:String>
+        </OrganizationName>
+      </OrganizationIdentification>
+      <r:Description>
+        <r:Content xml:lang="en-GB">The Wellcome Trust is a research charity based in London, UK. It was established in 1936 with legacies from the pharmaceutical magnate Sir Henry Wellcome to fund research to improve human and animal health. The aim of the Trust is to "achieve extraordinary improvements in health by supporting the brightest minds", and in addition to funding biomedical research it supports the public understanding of science (&lt;a href="https://en.wikipedia.org/w/index.php?title=Wellcome_Trust&amp;oldid=920905992" target="_blank" &gt;Wellcome Trust&lt;/a&gt;). </r:Content>
+      </r:Description>
     </Organization>
   </ddi:Fragment>
   <ddi:Fragment xmlns:r="ddi:reusable:3_2">
-    <Universe isUniversallyUnique="true" versionDate="2020-08-04T11:04:59.2255847Z" xmlns="ddi:conceptualcomponent:3_2">
+    <Universe isUniversallyUnique="true" versionDate="2019-10-17T10:38:52.0722822Z" xmlns="ddi:conceptualcomponent:3_2">
       <r:URN>urn:ddi:uk.alspac:b5ba58ea-1617-44ed-a039-d2044054a846:2</r:URN>
       <r:Agency>uk.alspac</r:Agency>
       <r:ID>b5ba58ea-1617-44ed-a039-d2044054a846</r:ID>
       <r:Version>2</r:Version>
+      <r:VersionResponsibility>INST\mhadqssi</r:VersionResponsibility>
+      <r:VersionRationale>
+        <r:RationaleDescription>
+          <r:String xml:lang="en-GB">Changed Universe to Population</r:String>
+        </r:RationaleDescription>
+      </r:VersionRationale>
+      <UniverseName>
+        <r:String xml:lang="en-GB">alspac_overall</r:String>
+      </UniverseName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">ALSPAC Population</r:Content>
+      </r:Label>
+      <r:Description>
+        <r:Content xml:lang="en-GB">The mother, partner and their study children with an Estimated Due Date of between 1st April 1991 and 31st December 1992 born in the administrative county of Avon as defined at the time of recruitment.</r:Content>
+      </r:Description>
     </Universe>
   </ddi:Fragment>
   <ddi:Fragment xmlns:r="ddi:reusable:3_2">
@@ -401,11 +450,26 @@ Study website: &lt;a href="https://www.bristol.ac.uk/alspac/" target="_blank" ti
     </DataCollection>
   </ddi:Fragment>
   <ddi:Fragment xmlns:r="ddi:reusable:3_2">
-    <Organization isUniversallyUnique="true" versionDate="2020-08-04T11:05:13.4356113Z" xmlns="ddi:archive:3_2">
+    <Organization isUniversallyUnique="true" versionDate="2019-11-13T10:41:03.040948Z" xmlns="ddi:archive:3_2">
       <r:URN>urn:ddi:uk.alspac:eab534bb-8629-472d-91b1-dda44ae72463:2</r:URN>
       <r:Agency>uk.alspac</r:Agency>
       <r:ID>eab534bb-8629-472d-91b1-dda44ae72463</r:ID>
       <r:Version>2</r:Version>
+      <r:UserAttributePair>
+        <r:AttributeKey>ddi31:Nickname</r:AttributeKey>
+        <r:AttributeValue>{"en-GB":"ALSPAC"}</r:AttributeValue>
+      </r:UserAttributePair>
+      <OrganizationIdentification>
+        <OrganizationName>
+          <r:String xml:lang="en-GB">Avon Longitudinal Study of Parents and Children</r:String>
+        </OrganizationName>
+        <OrganizationImage>
+          <r:ImageLocation></r:ImageLocation>
+        </OrganizationImage>
+      </OrganizationIdentification>
+      <r:Description>
+        <r:Content xml:lang="en-GB">ALSPAC in-house data collectors (&lt;a href="https://www.closer.ac.uk/study/alspac-children-90s/" target="_blank" &gt;ALSPAC&lt;/a&gt;).</r:Content>
+      </r:Description>
     </Organization>
   </ddi:Fragment>
   <ddi:Fragment xmlns:r="ddi:reusable:3_2">
@@ -1049,11 +1113,26 @@ Study website: &lt;a href="https://www.bristol.ac.uk/alspac/" target="_blank" ti
     </DataCollection>
   </ddi:Fragment>
   <ddi:Fragment xmlns:r="ddi:reusable:3_2">
-    <Universe isUniversallyUnique="true" versionDate="2020-08-04T11:05:13.4336128Z" xmlns="ddi:conceptualcomponent:3_2">
+    <Universe isUniversallyUnique="true" versionDate="2019-10-17T10:38:52.0722822Z" xmlns="ddi:conceptualcomponent:3_2">
       <r:URN>urn:ddi:uk.alspac:304da7d4-1e5c-4804-b6d8-1009167d6575:3</r:URN>
       <r:Agency>uk.alspac</r:Agency>
       <r:ID>304da7d4-1e5c-4804-b6d8-1009167d6575</r:ID>
       <r:Version>3</r:Version>
+      <r:VersionResponsibility>INST\mhadqssi</r:VersionResponsibility>
+      <r:VersionRationale>
+        <r:RationaleDescription>
+          <r:String xml:lang="en-GB">Changed Universe to Population</r:String>
+        </r:RationaleDescription>
+      </r:VersionRationale>
+      <UniverseName>
+        <r:String xml:lang="en-GB">alspac_birth</r:String>
+      </UniverseName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">ALSPAC Birth Population</r:Content>
+      </r:Label>
+      <r:Description>
+        <r:Content xml:lang="en-GB">The mother and partner of study babies aged 8 weeks gestation to 12 months, with an Estimated Due Date of between 1st April 1991 and 31st December 1992 and living in the administrative county of Avon as defined at the time of recruitment.</r:Content>
+      </r:Description>
     </Universe>
   </ddi:Fragment>
   <ddi:Fragment xmlns:r="ddi:reusable:3_2">
@@ -1806,11 +1885,26 @@ Study website: &lt;a href="https://www.bristol.ac.uk/alspac/" target="_blank" ti
     </DataCollection>
   </ddi:Fragment>
   <ddi:Fragment xmlns:r="ddi:reusable:3_2">
-    <Universe isUniversallyUnique="true" versionDate="2020-08-04T11:05:13.4386121Z" xmlns="ddi:conceptualcomponent:3_2">
+    <Universe isUniversallyUnique="true" versionDate="2019-10-17T10:38:52.0722822Z" xmlns="ddi:conceptualcomponent:3_2">
       <r:URN>urn:ddi:uk.alspac:99057990-c035-4786-af23-fc4015970667:2</r:URN>
       <r:Agency>uk.alspac</r:Agency>
       <r:ID>99057990-c035-4786-af23-fc4015970667</r:ID>
       <r:Version>2</r:Version>
+      <r:VersionResponsibility>INST\mhadqssi</r:VersionResponsibility>
+      <r:VersionRationale>
+        <r:RationaleDescription>
+          <r:String xml:lang="en-GB">Changed Universe to Population</r:String>
+        </r:RationaleDescription>
+      </r:VersionRationale>
+      <UniverseName>
+        <r:String xml:lang="en-GB">alspac_early</r:String>
+      </UniverseName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">ALSPAC Early Years Population</r:Content>
+      </r:Label>
+      <r:Description>
+        <r:Content xml:lang="en-GB">The mother and partner of study children aged 13 to 19 months with an Estimated Due Date of between 1st April 1991 and 31st December 1992 born in the administrative county of Avon as defined at the time of recruitment.</r:Content>
+      </r:Description>
     </Universe>
   </ddi:Fragment>
   <ddi:Fragment xmlns:r="ddi:reusable:3_2">
@@ -5053,11 +5147,26 @@ specialized measures or tests.</r:Content>
     </DataCollection>
   </ddi:Fragment>
   <ddi:Fragment xmlns:r="ddi:reusable:3_2">
-    <Universe isUniversallyUnique="true" versionDate="2020-08-04T11:05:13.4596173Z" xmlns="ddi:conceptualcomponent:3_2">
+    <Universe isUniversallyUnique="true" versionDate="2019-10-17T10:38:52.0722822Z" xmlns="ddi:conceptualcomponent:3_2">
       <r:URN>urn:ddi:uk.alspac:77c59011-fe1d-41ed-ada6-ac19dd997a90:2</r:URN>
       <r:Agency>uk.alspac</r:Agency>
       <r:ID>77c59011-fe1d-41ed-ada6-ac19dd997a90</r:ID>
       <r:Version>2</r:Version>
+      <r:VersionResponsibility>INST\mhadqssi</r:VersionResponsibility>
+      <r:VersionRationale>
+        <r:RationaleDescription>
+          <r:String xml:lang="en-GB">Changed Universe to Population</r:String>
+        </r:RationaleDescription>
+      </r:VersionRationale>
+      <UniverseName>
+        <r:String xml:lang="en-GB">alspac_childhood</r:String>
+      </UniverseName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">ALSPAC Childhood Population</r:Content>
+      </r:Label>
+      <r:Description>
+        <r:Content xml:lang="en-GB">The mother, partner and their study children aged 60 to 155 months with an Estimated Due Date of between 1st April 1991 and 31st December 1992 born in the administrative county of Avon as defined at the time of recruitment.</r:Content>
+      </r:Description>
     </Universe>
   </ddi:Fragment>
   <ddi:Fragment xmlns:r="ddi:reusable:3_2">
@@ -6612,103 +6721,238 @@ Study website: &lt;a href="https://www.bristol.ac.uk/alspac/" target="_blank" ti
     </DataCollection>
   </ddi:Fragment>
   <ddi:Fragment xmlns:r="ddi:reusable:3_2">
-    <Organization isUniversallyUnique="true" versionDate="2020-08-04T11:05:13.4766153Z" xmlns="ddi:archive:3_2">
+    <Organization isUniversallyUnique="true" versionDate="2019-11-13T09:38:08.9397293Z" xmlns="ddi:archive:3_2">
       <r:URN>urn:ddi:uk.closer:9c5bef7b-8b8e-4df7-a823-6d63aae3210a:2</r:URN>
       <r:Agency>uk.closer</r:Agency>
       <r:ID>9c5bef7b-8b8e-4df7-a823-6d63aae3210a</r:ID>
       <r:Version>2</r:Version>
+      <r:UserAttributePair>
+        <r:AttributeKey>ddi31:Nickname</r:AttributeKey>
+        <r:AttributeValue>{"en-GB":"CDC"}</r:AttributeValue>
+      </r:UserAttributePair>
+      <OrganizationIdentification>
+        <OrganizationName>
+          <r:String xml:lang="en-GB">Centers for Disease Control and Prevention</r:String>
+        </OrganizationName>
+      </OrganizationIdentification>
+      <r:Description>
+        <r:Content xml:lang="en-GB">The CDC is the leading national public health institute of the United States. Its main goal is to protect public health and safety through the control and prevention of disease, injury, and disability in the US and internationally (&lt;a href="https://en.wikipedia.org/w/index.php?title=Centers_for_Disease_Control_and_Prevention&amp;oldid=921094460" target="_blank" &gt;Centers for Disease Control and Prevention, n.d.&lt;/a&gt;). </r:Content>
+      </r:Description>
     </Organization>
   </ddi:Fragment>
   <ddi:Fragment xmlns:r="ddi:reusable:3_2">
-    <Organization isUniversallyUnique="true" versionDate="2020-08-04T11:05:13.4766153Z" xmlns="ddi:archive:3_2">
+    <Organization isUniversallyUnique="true" versionDate="2019-11-13T10:16:45.6526335Z" xmlns="ddi:archive:3_2">
       <r:URN>urn:ddi:uk.closer:e5fa2056-3c1c-438e-8736-86a62e42ab5d:2</r:URN>
       <r:Agency>uk.closer</r:Agency>
       <r:ID>e5fa2056-3c1c-438e-8736-86a62e42ab5d</r:ID>
       <r:Version>2</r:Version>
+      <r:UserAttributePair>
+        <r:AttributeKey>ddi31:Nickname</r:AttributeKey>
+        <r:AttributeValue>{"en-GB":"DCSF"}</r:AttributeValue>
+      </r:UserAttributePair>
+      <OrganizationIdentification>
+        <OrganizationName>
+          <r:String xml:lang="en-GB">UK Department for Children, Schools and Families</r:String>
+        </OrganizationName>
+      </OrganizationIdentification>
+      <r:Description>
+        <r:Content xml:lang="en-GB">The DCSF was a department of the UK government between 2007 and 2010, with responsibility for issues affecting people in England up to the age of 19, including child protection and education. DCSF was replaced by the Department for Education in 2010 (&lt;a href="https://en.wikipedia.org/w/index.php?title=Department_for_Children,_Schools_and_Families&amp;oldid=916312877" target="_blank" &gt;Department for Children, Schools and Families, n.d.&lt;/a&gt;).</r:Content>
+      </r:Description>
     </Organization>
   </ddi:Fragment>
   <ddi:Fragment xmlns:r="ddi:reusable:3_2">
-    <Organization isUniversallyUnique="true" versionDate="2020-08-04T11:05:13.4766153Z" xmlns="ddi:archive:3_2">
+    <Organization isUniversallyUnique="true" versionDate="2019-11-13T10:29:47.4808308Z" xmlns="ddi:archive:3_2">
       <r:URN>urn:ddi:uk.closer:25f43a22-8e1b-42d5-876d-484f96c99deb:2</r:URN>
       <r:Agency>uk.closer</r:Agency>
       <r:ID>25f43a22-8e1b-42d5-876d-484f96c99deb</r:ID>
       <r:Version>2</r:Version>
+      <r:UserAttributePair>
+        <r:AttributeKey>ddi31:Nickname</r:AttributeKey>
+        <r:AttributeValue>{"en-GB":"DfES"}</r:AttributeValue>
+      </r:UserAttributePair>
+      <OrganizationIdentification>
+        <OrganizationName>
+          <r:String xml:lang="en-GB">UK Department for Education and Skills</r:String>
+        </OrganizationName>
+      </OrganizationIdentification>
+      <r:Description>
+        <r:Content xml:lang="en-GB">The DfES was a department of the UK government between 2001 and 2007, with responsibility for the education system as well as children's services in England. It was replaced by the UK Department for Children, Schools and Families in 2007 (&lt;a href="https://en.wikipedia.org/w/index.php?title=Department for Education and Skills (United Kingdom)&amp;oldid=912253283" target="_blank" &gt;Department for Education and Skills (United_Kingdom), n.d.&lt;/a&gt;).</r:Content>
+      </r:Description>
     </Organization>
   </ddi:Fragment>
   <ddi:Fragment xmlns:r="ddi:reusable:3_2">
-    <Organization isUniversallyUnique="true" versionDate="2020-08-04T11:05:13.4766153Z" xmlns="ddi:archive:3_2">
+    <Organization isUniversallyUnique="true" versionDate="2019-11-13T10:13:59.4040022Z" xmlns="ddi:archive:3_2">
       <r:URN>urn:ddi:uk.closer:e75906d1-b2a9-43c1-aa78-7de7111d59ea:2</r:URN>
       <r:Agency>uk.closer</r:Agency>
       <r:ID>e75906d1-b2a9-43c1-aa78-7de7111d59ea</r:ID>
       <r:Version>2</r:Version>
+      <OrganizationIdentification>
+        <OrganizationName>
+          <r:String xml:lang="en-GB">The Home Office</r:String>
+        </OrganizationName>
+      </OrganizationIdentification>
+      <r:Description>
+        <r:Content xml:lang="en-GB">The Home Office is a department of the UK government which is responsible for immigration, security and law and order (&lt;a href="https://en.wikipedia.org/w/index.php?title=Home_Office&amp;oldid=922868650" target="_blank" &gt;Home Office, n.d.&lt;/a&gt;). </r:Content>
+      </r:Description>
     </Organization>
   </ddi:Fragment>
   <ddi:Fragment xmlns:r="ddi:reusable:3_2">
-    <Organization isUniversallyUnique="true" versionDate="2020-08-04T11:05:13.4766153Z" xmlns="ddi:archive:3_2">
+    <Organization isUniversallyUnique="true" versionDate="2019-11-13T09:48:55.7299799Z" xmlns="ddi:archive:3_2">
       <r:URN>urn:ddi:uk.closer:d685fbb1-108c-4f7d-bcba-699373794b27:2</r:URN>
       <r:Agency>uk.closer</r:Agency>
       <r:ID>d685fbb1-108c-4f7d-bcba-699373794b27</r:ID>
       <r:Version>2</r:Version>
+      <OrganizationIdentification>
+        <OrganizationName>
+          <r:String xml:lang="en-GB">National Assembly for Wales</r:String>
+        </OrganizationName>
+      </OrganizationIdentification>
+      <r:Description>
+        <r:Content xml:lang="en-GB">The National Assembly for Wales is the devolved parliament of Wales, with power to make legislation, vary taxes and scrutinise the Welsh government (&lt;a href="https://en.wikipedia.org/w/index.php?title=National_Assembly_for_Wales&amp;oldid=921926661" target="_blank" &gt;National Assembly for Wales, n.d.&lt;/a&gt;). 
+
+</r:Content>
+      </r:Description>
     </Organization>
   </ddi:Fragment>
   <ddi:Fragment xmlns:r="ddi:reusable:3_2">
-    <Organization isUniversallyUnique="true" versionDate="2020-08-04T11:05:13.4766153Z" xmlns="ddi:archive:3_2">
+    <Organization isUniversallyUnique="true" versionDate="2019-11-13T09:59:04.6092242Z" xmlns="ddi:archive:3_2">
       <r:URN>urn:ddi:uk.closer:410a3ea9-799b-48c9-9233-6bd96e82a9e9:2</r:URN>
       <r:Agency>uk.closer</r:Agency>
       <r:ID>410a3ea9-799b-48c9-9233-6bd96e82a9e9</r:ID>
       <r:Version>2</r:Version>
+      <r:UserAttributePair>
+        <r:AttributeKey>ddi31:Nickname</r:AttributeKey>
+        <r:AttributeValue>{"en-GB":"NIH"}</r:AttributeValue>
+      </r:UserAttributePair>
+      <OrganizationIdentification>
+        <OrganizationName>
+          <r:String xml:lang="en-GB">National Institutes of Health</r:String>
+        </OrganizationName>
+      </OrganizationIdentification>
+      <r:Description>
+        <r:Content xml:lang="en-GB">The NIH is the primary agency of the United States government responsible for biomedical and public health research. The NIH conducts its own scientific research through its Intramural Research Program and provides major biomedical research funding to non-NIH research facilities through its Extramural Research Program (&lt;a href="https://en.wikipedia.org/w/index.php?title=National_Institutes_of_Health&amp;oldid=920166542" target="_blank" &gt;National Institutes of Health, n.d.&lt;/a&gt;).  </r:Content>
+      </r:Description>
     </Organization>
   </ddi:Fragment>
   <ddi:Fragment xmlns:r="ddi:reusable:3_2">
-    <Organization isUniversallyUnique="true" versionDate="2020-08-04T11:05:13.4766153Z" xmlns="ddi:archive:3_2">
+    <Organization isUniversallyUnique="true" versionDate="2019-11-13T10:30:31.8843491Z" xmlns="ddi:archive:3_2">
       <r:URN>urn:ddi:uk.closer:ad94baff-8e75-45aa-b41d-9c81bb546558:3</r:URN>
       <r:Agency>uk.closer</r:Agency>
       <r:ID>ad94baff-8e75-45aa-b41d-9c81bb546558</r:ID>
       <r:Version>3</r:Version>
+      <r:UserAttributePair>
+        <r:AttributeKey>ddi31:Nickname</r:AttributeKey>
+        <r:AttributeValue>{"en-GB":"DfT"}</r:AttributeValue>
+      </r:UserAttributePair>
+      <OrganizationIdentification>
+        <OrganizationName>
+          <r:String xml:lang="en-GB">UK Department for Transport</r:String>
+        </OrganizationName>
+      </OrganizationIdentification>
+      <r:Description>
+        <r:Content xml:lang="en-GB">The DfT is a department of the UK government responsible for the English transport network and a limited number of transport matters in Scotland, Wales and Northern Ireland that have not been devolved (&lt;a href="https://en.wikipedia.org/w/index.php?title=Department_for_Transport&amp;oldid=916313035" target="_blank" &gt;Department for Transport, n.d.&lt;/a&gt;). </r:Content>
+      </r:Description>
     </Organization>
   </ddi:Fragment>
   <ddi:Fragment xmlns:r="ddi:reusable:3_2">
-    <Organization isUniversallyUnique="true" versionDate="2020-08-04T11:05:13.4766153Z" xmlns="ddi:archive:3_2">
+    <Organization isUniversallyUnique="true" versionDate="2019-11-13T09:41:22.5750254Z" xmlns="ddi:archive:3_2">
       <r:URN>urn:ddi:uk.closer:ced55fc1-3df1-4d66-a925-cf5e1b79167a:4</r:URN>
       <r:Agency>uk.closer</r:Agency>
       <r:ID>ced55fc1-3df1-4d66-a925-cf5e1b79167a</r:ID>
       <r:Version>4</r:Version>
+      <r:UserAttributePair>
+        <r:AttributeKey>ddi31:Nickname</r:AttributeKey>
+        <r:AttributeValue>{"en-GB":"ESRC"}</r:AttributeValue>
+      </r:UserAttributePair>
+      <OrganizationIdentification>
+        <OrganizationName>
+          <r:String xml:lang="en-GB">Economic and Social Research Council</r:String>
+        </OrganizationName>
+        <OrganizationImage>
+          <r:ImageLocation></r:ImageLocation>
+        </OrganizationImage>
+      </OrganizationIdentification>
+      <r:Description>
+        <r:Content xml:lang="en-GB">The ESRC provides funding and support for research and training in the social sciences. It is the UK's largest organisation for funding research on economic and social issues. The ESRC is part of UK Research and Innovation (UKRI) which is a non-departmental public body (NDPB) funded by the UK government (&lt;a href="https://en.wikipedia.org/w/index.php?title=Economic_and_Social_Research_Council&amp;oldid=920740618" target="_blank" &gt;Economic and Social Research Council, n.d.&lt;/a&gt;). </r:Content>
+      </r:Description>
     </Organization>
   </ddi:Fragment>
   <ddi:Fragment xmlns:r="ddi:reusable:3_2">
-    <Organization isUniversallyUnique="true" versionDate="2020-08-04T11:05:13.4766153Z" xmlns="ddi:archive:3_2">
+    <Organization isUniversallyUnique="true" versionDate="2019-11-13T09:58:44.5659992Z" xmlns="ddi:archive:3_2">
       <r:URN>urn:ddi:uk.closer:3320beab-be71-437a-b7cf-ce50e0d0e205:2</r:URN>
       <r:Agency>uk.closer</r:Agency>
       <r:ID>3320beab-be71-437a-b7cf-ce50e0d0e205</r:ID>
       <r:Version>2</r:Version>
+      <r:UserAttributePair>
+        <r:AttributeKey>ddi31:Nickname</r:AttributeKey>
+        <r:AttributeValue>{"en-GB":"NIHR"}</r:AttributeValue>
+      </r:UserAttributePair>
+      <OrganizationIdentification>
+        <OrganizationName>
+          <r:String xml:lang="en-GB">National Institute of Health Research</r:String>
+        </OrganizationName>
+      </OrganizationIdentification>
+      <r:Description>
+        <r:Content xml:lang="en-GB">The NIHR is the largest national clinical research funder in Europe. The NIHR was established in 2006 and is funded by the Department of Health and Social Care (&lt;a href="https://en.wikipedia.org/w/index.php?title=National_Institute_for_Health_Research&amp;oldid=915514872" target="_blank" &gt;National Institute for Health Research, n.d.&lt;/a&gt;). </r:Content>
+      </r:Description>
     </Organization>
   </ddi:Fragment>
   <ddi:Fragment xmlns:r="ddi:reusable:3_2">
-    <Organization isUniversallyUnique="true" versionDate="2020-08-04T11:05:13.4766153Z" xmlns="ddi:archive:3_2">
+    <Organization isUniversallyUnique="true" versionDate="2019-11-13T10:09:33.5933589Z" xmlns="ddi:archive:3_2">
       <r:URN>urn:ddi:uk.closer:05f71174-3b79-426b-bb43-6ebe9cd6d794:2</r:URN>
       <r:Agency>uk.closer</r:Agency>
       <r:ID>05f71174-3b79-426b-bb43-6ebe9cd6d794</r:ID>
       <r:Version>2</r:Version>
+      <r:UserAttributePair>
+        <r:AttributeKey>ddi31:Nickname</r:AttributeKey>
+        <r:AttributeValue>{"en-GB":"RiGT"}</r:AttributeValue>
+      </r:UserAttributePair>
+      <OrganizationIdentification>
+        <OrganizationName>
+          <r:String xml:lang="en-GB">Responsibility in Gambling Trust</r:String>
+        </OrganizationName>
+      </OrganizationIdentification>
+      <r:Description>
+        <r:Content xml:lang="en-GB">The RiGT, which is now known as GambleAware is a UK charity tasked to fund research, education and treatment services to help to reduce gambling-related harms in Great Britain (&lt;a href="https://www.wikipolitiks.org/mediawiki/index.php?title=GambleAware&amp;oldid=22549" target="_blank" &gt;GambleAware, n.d.&lt;/a&gt;).</r:Content>
+      </r:Description>
     </Organization>
   </ddi:Fragment>
   <ddi:Fragment xmlns:r="ddi:reusable:3_2">
-    <Organization isUniversallyUnique="true" versionDate="2020-08-04T11:05:13.4766153Z" xmlns="ddi:archive:3_2">
+    <Organization isUniversallyUnique="true" versionDate="2019-11-13T10:15:39.4370644Z" xmlns="ddi:archive:3_2">
       <r:URN>urn:ddi:uk.closer:c6779600-c8f3-4da8-afd7-6381be3dd558:2</r:URN>
       <r:Agency>uk.closer</r:Agency>
       <r:ID>c6779600-c8f3-4da8-afd7-6381be3dd558</r:ID>
       <r:Version>2</r:Version>
+      <OrganizationIdentification>
+        <OrganizationName>
+          <r:String xml:lang="en-GB">The WALTHAM Centre for Pet Nutrition</r:String>
+        </OrganizationName>
+      </OrganizationIdentification>
+      <r:Description>
+        <r:Content xml:lang="en-GB">The Waltham Centre for Pet Nutrition is a research organisation owned by Mars, Incorporated located in Leicestershire, UK. It conducts scientific research into pet care and nutrition (&lt;a href="https://en.wikipedia.org/w/index.php?title=William_T._Grant_Foundation&amp;oldid=858825165" target="_blank" &gt;Waltham Centre for Pet Nutrition, n.d. &lt;/a&gt;). </r:Content>
+      </r:Description>
     </Organization>
   </ddi:Fragment>
   <ddi:Fragment xmlns:r="ddi:reusable:3_2">
-    <Universe isUniversallyUnique="true" versionDate="2020-08-04T11:05:13.4766153Z" xmlns="ddi:conceptualcomponent:3_2">
+    <Universe isUniversallyUnique="true" versionDate="2019-10-17T10:09:47.251682Z" xmlns="ddi:conceptualcomponent:3_2">
       <r:URN>urn:ddi:uk.alspac:a1c43dd6-5af1-45d7-80db-f5de52601bbb:2</r:URN>
       <r:Agency>uk.alspac</r:Agency>
       <r:ID>a1c43dd6-5af1-45d7-80db-f5de52601bbb</r:ID>
       <r:Version>2</r:Version>
+      <r:VersionResponsibility>INST\mhadqssi</r:VersionResponsibility>
+      <UniverseName>
+        <r:String xml:lang="en-GB">alspac_adolescence</r:String>
+      </UniverseName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">ALSPAC Adolescence Population</r:Content>
+      </r:Label>
+      <r:Description>
+        <r:Content xml:lang="en-GB">The mother and their study children aged 156-227 months with an EDD of between 1st April 1991 and 31st December 1992 born in the administrative county of Avon as defined at the time of recruitment.</r:Content>
+      </r:Description>
     </Universe>
   </ddi:Fragment>
   <ddi:Fragment xmlns:r="ddi:reusable:3_2">
-    <StudyUnit isUniversallyUnique="true" versionDate="2020-08-04T10:54:41.015794Z" xmlns="ddi:studyunit:3_2">
+    <StudyUnit isUniversallyUnique="true" versionDate="2020-08-06T10:00:30.7938466Z" xmlns="ddi:studyunit:3_2">
       <r:URN>urn:ddi:uk.alspac:b7f90f59-c791-45d2-9e07-23915892f67c:15</r:URN>
       <r:Agency>uk.alspac</r:Agency>
       <r:ID>b7f90f59-c791-45d2-9e07-23915892f67c</r:ID>
@@ -6975,6 +7219,12 @@ Study website: &lt;a href="https://www.bristol.ac.uk/alspac/" target="_blank" ti
         <r:Agency>uk.alspac</r:Agency>
         <r:ID>9773f5d6-dbf0-4019-8c01-6026c2d471d2</r:ID>
         <r:Version>2</r:Version>
+        <r:TypeOfObject>DataCollection</r:TypeOfObject>
+      </r:DataCollectionReference>
+      <r:DataCollectionReference>
+        <r:Agency>uk.alspac</r:Agency>
+        <r:ID>315c2052-0299-43bc-937e-9e9dd08c3c52</r:ID>
+        <r:Version>1</r:Version>
         <r:TypeOfObject>DataCollection</r:TypeOfObject>
       </r:DataCollectionReference>
     </StudyUnit>
@@ -7828,16 +8078,16 @@ Study website: &lt;a href="https://www.bristol.ac.uk/alspac/" target="_blank" ti
     </DataCollection>
   </ddi:Fragment>
   <ddi:Fragment xmlns:r="ddi:reusable:3_2">
-    <DataCollection isUniversallyUnique="true" versionDate="2020-08-04T10:54:40.9467812Z" xmlns="ddi:datacollection:3_2">
+    <DataCollection isUniversallyUnique="true" versionDate="2020-08-06T10:00:11.5856332Z" xmlns="ddi:datacollection:3_2">
       <r:URN>urn:ddi:uk.alspac:9773f5d6-dbf0-4019-8c01-6026c2d471d2:2</r:URN>
       <r:Agency>uk.alspac</r:Agency>
       <r:ID>9773f5d6-dbf0-4019-8c01-6026c2d471d2</r:ID>
       <r:Version>2</r:Version>
       <DataCollectionModuleName>
-        <r:String xml:lang="en-GB">alspac_covid_q1</r:String>
+        <r:String xml:lang="en-GB">alspac_covid_g0q1</r:String>
       </DataCollectionModuleName>
       <r:Label>
-        <r:Content xml:lang="en-GB">COVID-19 Questionnaire 1</r:Content>
+        <r:Content xml:lang="en-GB">Parent COVID-19 Questionnaire 1</r:Content>
       </r:Label>
       <CollectionEvent isUniversallyUnique="true">
         <r:URN>urn:ddi:uk.alspac:5d868e6e-b4c9-49e0-aa85-89949a153ca1:2</r:URN>
@@ -7868,35 +8118,128 @@ Study website: &lt;a href="https://www.bristol.ac.uk/alspac/" target="_blank" ti
     </DataCollection>
   </ddi:Fragment>
   <ddi:Fragment xmlns:r="ddi:reusable:3_2">
-    <Organization isUniversallyUnique="true" versionDate="2020-08-04T11:05:13.5006193Z" xmlns="ddi:archive:3_2">
+    <DataCollection isUniversallyUnique="true" versionDate="2020-08-06T10:02:58.7376585Z" xmlns="ddi:datacollection:3_2">
+      <r:URN>urn:ddi:uk.alspac:315c2052-0299-43bc-937e-9e9dd08c3c52:1</r:URN>
+      <r:Agency>uk.alspac</r:Agency>
+      <r:ID>315c2052-0299-43bc-937e-9e9dd08c3c52</r:ID>
+      <r:Version>1</r:Version>
+      <DataCollectionModuleName>
+        <r:String xml:lang="en-GB">alspac_covid_g1q1</r:String>
+      </DataCollectionModuleName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Cohort Member COVID-19 Questionnaire 1</r:Content>
+      </r:Label>
+      <CollectionEvent isUniversallyUnique="true">
+        <r:URN>urn:ddi:uk.alspac:648afafb-fccb-4145-a864-7420cac35b9a:1</r:URN>
+        <r:Agency>uk.alspac</r:Agency>
+        <r:ID>648afafb-fccb-4145-a864-7420cac35b9a</r:ID>
+        <r:Version>1</r:Version>
+        <DataCollectorOrganizationReference>
+          <r:Agency>uk.alspac</r:Agency>
+          <r:ID>eab534bb-8629-472d-91b1-dda44ae72463</r:ID>
+          <r:Version>2</r:Version>
+          <r:TypeOfObject>Organization</r:TypeOfObject>
+        </DataCollectorOrganizationReference>
+        <DataCollectionDate>
+          <r:StartDate>2020-04-09</r:StartDate>
+          <r:EndDate>2020-05-15</r:EndDate>
+        </DataCollectionDate>
+        <ModeOfCollection isUniversallyUnique="true">
+          <r:URN>urn:ddi:uk.alspac:05aba4f7-42ff-45c6-b731-ee532d1dde1e:1</r:URN>
+          <r:Agency>uk.alspac</r:Agency>
+          <r:ID>05aba4f7-42ff-45c6-b731-ee532d1dde1e</r:ID>
+          <r:Version>1</r:Version>
+          <TypeOfModeOfCollection>SelfAdministeredQuestionnaire.WebBased</TypeOfModeOfCollection>
+          <r:Description>
+            <r:Content xml:lang="en-GB">Computer-assisted web interviewing (CAWI). Data are collected using a web questionnaire, produced with a program for creating web surveys.</r:Content>
+          </r:Description>
+        </ModeOfCollection>
+      </CollectionEvent>
+    </DataCollection>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Organization isUniversallyUnique="true" versionDate="2019-11-13T09:44:56.2397177Z" xmlns="ddi:archive:3_2">
       <r:URN>urn:ddi:uk.closer:6b87ee56-d47e-4b86-8305-a29d7a7bd1c3:2</r:URN>
       <r:Agency>uk.closer</r:Agency>
       <r:ID>6b87ee56-d47e-4b86-8305-a29d7a7bd1c3</r:ID>
       <r:Version>2</r:Version>
+      <r:UserAttributePair>
+        <r:AttributeKey>ddi31:Nickname</r:AttributeKey>
+        <r:AttributeValue>{"en-GB":"IUGA"}</r:AttributeValue>
+      </r:UserAttributePair>
+      <OrganizationIdentification>
+        <OrganizationName>
+          <r:String xml:lang="en-GB">International Urogynecological Association</r:String>
+        </OrganizationName>
+      </OrganizationIdentification>
+      <r:Description>
+        <r:Content xml:lang="en-GB">The IUGA is a global body for professionals practising in the field of urogynaecology and female pelvic medicine and reconstructive surgery. IUGA facilitates training for physicians from countries which do not have formal training programmes by maintaining and publishing a directory of fellowship programme (&lt;a href="https://en.wikipedia.org/w/index.php?title=Urogynecology&amp;oldid=899489980" target="_blank" &gt;International Urogynecological Association, n.d.&lt;/a&gt;). </r:Content>
+      </r:Description>
     </Organization>
   </ddi:Fragment>
   <ddi:Fragment xmlns:r="ddi:reusable:3_2">
-    <Organization isUniversallyUnique="true" versionDate="2020-08-04T11:05:13.5006193Z" xmlns="ddi:archive:3_2">
+    <Organization isUniversallyUnique="true" versionDate="2019-11-13T10:39:18.0390652Z" xmlns="ddi:archive:3_2">
       <r:URN>urn:ddi:uk.closer:2a183564-2821-4aa6-adca-16bf776a930e:2</r:URN>
       <r:Agency>uk.closer</r:Agency>
       <r:ID>2a183564-2821-4aa6-adca-16bf776a930e</r:ID>
       <r:Version>2</r:Version>
+      <r:UserAttributePair>
+        <r:AttributeKey>ddi31:Nickname</r:AttributeKey>
+        <r:AttributeValue>{"en-GB":"Glas"}</r:AttributeValue>
+      </r:UserAttributePair>
+      <OrganizationIdentification>
+        <OrganizationName>
+          <r:String xml:lang="en-GB">University of Glasgow</r:String>
+        </OrganizationName>
+      </OrganizationIdentification>
+      <r:Description>
+        <r:Content xml:lang="en-GB">The University of Glasgow (Glas.) is a public research university in Glasgow, Scotland (&lt;a href="https://en.wikipedia.org/w/index.php?title=University_of_Glasgow&amp;oldid=923725441" target="_blank" &gt;University of Glasgow, n.d.&lt;/a&gt;). </r:Content>
+      </r:Description>
     </Organization>
   </ddi:Fragment>
   <ddi:Fragment xmlns:r="ddi:reusable:3_2">
-    <Organization isUniversallyUnique="true" versionDate="2020-08-04T11:05:13.5006193Z" xmlns="ddi:archive:3_2">
+    <Organization isUniversallyUnique="true" versionDate="2019-11-13T10:38:05.2407374Z" xmlns="ddi:archive:3_2">
       <r:URN>urn:ddi:uk.closer:e05bf128-793a-42c6-8bb1-f07347840756:2</r:URN>
       <r:Agency>uk.closer</r:Agency>
       <r:ID>e05bf128-793a-42c6-8bb1-f07347840756</r:ID>
       <r:Version>2</r:Version>
+      <r:UserAttributePair>
+        <r:AttributeKey>ddi31:Nickname</r:AttributeKey>
+        <r:AttributeValue>{"en-GB":"UCL"}</r:AttributeValue>
+      </r:UserAttributePair>
+      <OrganizationIdentification>
+        <OrganizationName>
+          <r:String xml:lang="en-GB">University College London</r:String>
+        </OrganizationName>
+      </OrganizationIdentification>
+      <r:Description>
+        <r:Content xml:lang="en-GB">UCL is a public research university located in London, UK. It is a member institution of the federal University of London (&lt;a href="https://en.wikipedia.org/w/index.php?title=University_College_London&amp;oldid=923707359" target="_blank" &gt;University College London, n.d. &lt;/a&gt;). 
+
+</r:Content>
+      </r:Description>
     </Organization>
   </ddi:Fragment>
   <ddi:Fragment xmlns:r="ddi:reusable:3_2">
-    <Universe isUniversallyUnique="true" versionDate="2020-08-04T11:05:13.5006193Z" xmlns="ddi:conceptualcomponent:3_2">
+    <Universe isUniversallyUnique="true" versionDate="2019-10-17T10:38:52.0722822Z" xmlns="ddi:conceptualcomponent:3_2">
       <r:URN>urn:ddi:uk.alspac:5ff0dc19-72d9-4121-bed3-2bff55f60f84:3</r:URN>
       <r:Agency>uk.alspac</r:Agency>
       <r:ID>5ff0dc19-72d9-4121-bed3-2bff55f60f84</r:ID>
       <r:Version>3</r:Version>
+      <r:VersionResponsibility>INST\mhadqssi</r:VersionResponsibility>
+      <r:VersionRationale>
+        <r:RationaleDescription>
+          <r:String xml:lang="en-GB">Changed Universe to Population</r:String>
+        </r:RationaleDescription>
+      </r:VersionRationale>
+      <UniverseName>
+        <r:String xml:lang="en-GB">alspac_early_adulthood</r:String>
+      </UniverseName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">ALSPAC Early Adulthood Population</r:Content>
+      </r:Label>
+      <r:Description>
+        <r:Content xml:lang="en-GB">The mother, partner and study son/daughter aged 228-371 months with an EDD of between 1st April 1991 and 31st December 1992 born in the administrative county of Avon as defined at the time of recruitment.</r:Content>
+      </r:Description>
     </Universe>
   </ddi:Fragment>
 </ddi:FragmentInstance>
