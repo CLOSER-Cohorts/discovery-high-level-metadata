@@ -3,15 +3,15 @@
   <ddi:TopLevelReference>
     <r:Agency>uk.closer</r:Agency>
     <r:ID>240bac9f-8595-4019-847b-532be0055575</r:ID>
-    <r:Version>10</r:Version>
+    <r:Version>11</r:Version>
     <r:TypeOfObject>UniverseScheme</r:TypeOfObject>
   </ddi:TopLevelReference>
   <ddi:Fragment xmlns:r="ddi:reusable:3_2">
-    <UniverseScheme isUniversallyUnique="true" versionDate="2020-08-07T08:42:32.9793493Z" xmlns="ddi:conceptualcomponent:3_2">
-      <r:URN>urn:ddi:uk.closer:240bac9f-8595-4019-847b-532be0055575:10</r:URN>
+    <UniverseScheme isUniversallyUnique="true" versionDate="2020-08-07T13:52:46.2716004Z" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:240bac9f-8595-4019-847b-532be0055575:11</r:URN>
       <r:Agency>uk.closer</r:Agency>
       <r:ID>240bac9f-8595-4019-847b-532be0055575</r:ID>
-      <r:Version>10</r:Version>
+      <r:Version>11</r:Version>
       <UniverseSchemeName>
         <r:String xml:lang="en-GB">Populations</r:String>
       </UniverseSchemeName>
@@ -504,6 +504,12 @@
       <r:UniverseReference>
         <r:Agency>uk.wchads</r:Agency>
         <r:ID>c7cb08f4-8e85-4e80-b450-b4c5b57ce3d9</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Universe</r:TypeOfObject>
+      </r:UniverseReference>
+      <r:UniverseReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>26fb1b8c-286b-4c2b-8f88-318af013b047</r:ID>
         <r:Version>1</r:Version>
         <r:TypeOfObject>Universe</r:TypeOfObject>
       </r:UniverseReference>
@@ -2249,6 +2255,23 @@
     </Universe>
   </ddi:Fragment>
   <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Universe isUniversallyUnique="true" versionDate="2020-08-07T14:04:05.1472939Z" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:26fb1b8c-286b-4c2b-8f88-318af013b047:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>26fb1b8c-286b-4c2b-8f88-318af013b047</r:ID>
+      <r:Version>1</r:Version>
+      <UniverseName>
+        <r:String xml:lang="en-GB">mcs_2-5</r:String>
+      </UniverseName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">MCS Sweeps 2-5 Population</r:Content>
+      </r:Label>
+      <r:Description>
+        <r:Content xml:lang="en-GB">All cohort members who were born between 1 September 2000 and 31 August 2001 in England and Wales, and 23 November 2000 and 11 January 2002 in Scotland and Northern Ireland less those who had died, permanently refused or emigrated. Sweeps 2-5 also includes a ‘New Families’ sample designed to compensate for problems in the sampling process for Sweep One. </r:Content>
+      </r:Description>
+    </Universe>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
     <UniverseGroup isUniversallyUnique="true" versionDate="2019-10-17T10:38:52.0722822Z" xmlns="ddi:conceptualcomponent:3_2">
       <r:URN>urn:ddi:uk.closer:3a98d1d9-dbd1-40eb-adb3-5b1547edfcc5:3</r:URN>
       <r:Agency>uk.closer</r:Agency>
@@ -2406,12 +2429,29 @@
         <r:TypeOfObject>Universe</r:TypeOfObject>
       </r:UniverseReference>
       <r:UniverseReference>
-        <r:Agency>uk.cls.bcs70</r:Agency>
+        <r:Agency>uk.closer</r:Agency>
         <r:ID>26de4796-8fc2-45e1-b67d-14dc14cca780</r:ID>
         <r:Version>2</r:Version>
         <r:TypeOfObject>Universe</r:TypeOfObject>
       </r:UniverseReference>
     </UniverseGroup>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Universe isUniversallyUnique="true" versionDate="2020-08-04T14:53:20.7519109Z" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:26de4796-8fc2-45e1-b67d-14dc14cca780:2</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>26de4796-8fc2-45e1-b67d-14dc14cca780</r:ID>
+      <r:Version>2</r:Version>
+      <UniverseName>
+        <r:String xml:lang="en-GB">bcs_70_covid_wave1</r:String>
+      </UniverseName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">BCS 1970 COVID Wave 1 Population</r:Content>
+      </r:Label>
+      <r:Description>
+        <r:Content xml:lang="en-GB">The COVID-19 Survey Wave 1 involved participants from the 1970 British Cohort Study. Invitations to participate in Wave 1 were sent via email to all those for whom an email address was held, including emigrants, but not including those who have permanently withdrawn from the studies, died or been defined as 'permanently untraced'.  </r:Content>
+      </r:Description>
+    </Universe>
   </ddi:Fragment>
   <ddi:Fragment xmlns:r="ddi:reusable:3_2">
     <UniverseGroup isUniversallyUnique="true" versionDate="2019-08-30T07:09:14.0812158Z" xmlns="ddi:conceptualcomponent:3_2">
@@ -2429,13 +2469,13 @@
         <r:Content xml:lang="en-GB">HCS Populations</r:Content>
       </r:Description>
       <r:UniverseReference>
-        <r:Agency>uk.mrcleu-uos.hcs</r:Agency>
+        <r:Agency>uk.mrcleu-uos.sws</r:Agency>
         <r:ID>1ce3bdd5-c164-4420-9e6b-389739aa870c</r:ID>
         <r:Version>1</r:Version>
         <r:TypeOfObject>Universe</r:TypeOfObject>
       </r:UniverseReference>
       <r:UniverseReference>
-        <r:Agency>uk.mrcleu-uos.hcs</r:Agency>
+        <r:Agency>uk.mrcleu-uos.sws</r:Agency>
         <r:ID>8463c30f-38e5-4e4e-ae66-f4e9419d1991</r:ID>
         <r:Version>1</r:Version>
         <r:TypeOfObject>Universe</r:TypeOfObject>
@@ -2443,23 +2483,23 @@
     </UniverseGroup>
   </ddi:Fragment>
   <ddi:Fragment xmlns:r="ddi:reusable:3_2">
-    <Universe isUniversallyUnique="true" versionDate="2020-08-07T08:42:33.6976803Z" xmlns="ddi:conceptualcomponent:3_2">
-      <r:URN>urn:ddi:uk.mrcleu-uos.hcs:1ce3bdd5-c164-4420-9e6b-389739aa870c:1</r:URN>
-      <r:Agency>uk.mrcleu-uos.hcs</r:Agency>
+    <Universe isUniversallyUnique="true" versionDate="2019-10-03T14:01:02.6165101Z" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.mrcleu-uos.sws:1ce3bdd5-c164-4420-9e6b-389739aa870c:1</r:URN>
+      <r:Agency>uk.mrcleu-uos.sws</r:Agency>
       <r:ID>1ce3bdd5-c164-4420-9e6b-389739aa870c</r:ID>
       <r:Version>1</r:Version>
     </Universe>
   </ddi:Fragment>
   <ddi:Fragment xmlns:r="ddi:reusable:3_2">
-    <Universe isUniversallyUnique="true" versionDate="2020-08-07T08:42:33.6976803Z" xmlns="ddi:conceptualcomponent:3_2">
-      <r:URN>urn:ddi:uk.mrcleu-uos.hcs:8463c30f-38e5-4e4e-ae66-f4e9419d1991:1</r:URN>
-      <r:Agency>uk.mrcleu-uos.hcs</r:Agency>
+    <Universe isUniversallyUnique="true" versionDate="2019-10-03T14:01:02.6165101Z" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.mrcleu-uos.sws:8463c30f-38e5-4e4e-ae66-f4e9419d1991:1</r:URN>
+      <r:Agency>uk.mrcleu-uos.sws</r:Agency>
       <r:ID>8463c30f-38e5-4e4e-ae66-f4e9419d1991</r:ID>
       <r:Version>1</r:Version>
     </Universe>
   </ddi:Fragment>
   <ddi:Fragment xmlns:r="ddi:reusable:3_2">
-    <UniverseGroup isUniversallyUnique="true" versionDate="2020-08-04T14:53:39.0848Z" xmlns="ddi:conceptualcomponent:3_2">
+    <UniverseGroup isUniversallyUnique="true" versionDate="2020-08-07T13:54:53.5010401Z" xmlns="ddi:conceptualcomponent:3_2">
       <r:URN>urn:ddi:uk.closer:3e128649-69c0-4ce1-b607-9e9b90b05b9f:4</r:URN>
       <r:Agency>uk.closer</r:Agency>
       <r:ID>3e128649-69c0-4ce1-b607-9e9b90b05b9f</r:ID>
@@ -2480,12 +2520,35 @@
         <r:TypeOfObject>Universe</r:TypeOfObject>
       </r:UniverseReference>
       <r:UniverseReference>
-        <r:Agency>uk.cls.mcs</r:Agency>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>26fb1b8c-286b-4c2b-8f88-318af013b047</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Universe</r:TypeOfObject>
+      </r:UniverseReference>
+      <r:UniverseReference>
+        <r:Agency>uk.closer</r:Agency>
         <r:ID>23c62049-cdd5-4e57-b583-6d843d0de079</r:ID>
         <r:Version>2</r:Version>
         <r:TypeOfObject>Universe</r:TypeOfObject>
       </r:UniverseReference>
     </UniverseGroup>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Universe isUniversallyUnique="true" versionDate="2020-08-04T14:53:39.0682799Z" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:23c62049-cdd5-4e57-b583-6d843d0de079:2</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>23c62049-cdd5-4e57-b583-6d843d0de079</r:ID>
+      <r:Version>2</r:Version>
+      <UniverseName>
+        <r:String xml:lang="en-GB">mcs_covid_wave1</r:String>
+      </UniverseName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">MCS COVID-19 Wave 1 Population</r:Content>
+      </r:Label>
+      <r:Description>
+        <r:Content xml:lang="en-GB">The COVID-19 Survey Wave 1 involved participants from the Millennium Cohort Study (born 2000-02). Invitations to participate in Wave 1 were sent via email to all those for whom an email address was held, including emigrants, but not including those who have permanently withdrawn from the studies, died or been defined as 'permanently untraced'. In the case of MCS, invitations were sent to cohort members and parents. MCS parents were only invited to participate if they had taken part in the last major wave of the study - the Age 17 Survey (MCS7).</r:Content>
+      </r:Description>
+    </Universe>
   </ddi:Fragment>
   <ddi:Fragment xmlns:r="ddi:reusable:3_2">
     <UniverseGroup isUniversallyUnique="true" versionDate="2020-08-04T14:54:06.0582775Z" xmlns="ddi:conceptualcomponent:3_2">
@@ -2569,12 +2632,29 @@
         <r:TypeOfObject>Universe</r:TypeOfObject>
       </r:UniverseReference>
       <r:UniverseReference>
-        <r:Agency>uk.cls.ncds</r:Agency>
+        <r:Agency>uk.closer</r:Agency>
         <r:ID>170380cb-73ab-4232-aa04-e2c2fb3fdfc6</r:ID>
         <r:Version>2</r:Version>
         <r:TypeOfObject>Universe</r:TypeOfObject>
       </r:UniverseReference>
     </UniverseGroup>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Universe isUniversallyUnique="true" versionDate="2020-08-04T14:54:06.0376093Z" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:170380cb-73ab-4232-aa04-e2c2fb3fdfc6:2</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>170380cb-73ab-4232-aa04-e2c2fb3fdfc6</r:ID>
+      <r:Version>2</r:Version>
+      <UniverseName>
+        <r:String xml:lang="en-GB">ncds_covid_wave1</r:String>
+      </UniverseName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">NCDS COVID-19 Wave 1</r:Content>
+      </r:Label>
+      <r:Description>
+        <r:Content xml:lang="en-GB">The COVID-19 Survey Wave 1 involved participants from the 1958 National Child Development Study. Invitations to participate in Wave 1 were sent via email to all those for whom an email address was held, including emigrants, but not including those who have permanently withdrawn from the studies, died or been defined as 'permanently untraced'.  </r:Content>
+      </r:Description>
+    </Universe>
   </ddi:Fragment>
   <ddi:Fragment xmlns:r="ddi:reusable:3_2">
     <UniverseGroup isUniversallyUnique="true" versionDate="2020-08-04T14:52:53.2485509Z" xmlns="ddi:conceptualcomponent:3_2">
@@ -2592,66 +2672,236 @@
         <r:Content xml:lang="en-GB">15,770 households were included at Sweep 1. At Sweep 4, 352 ethnic boost interviews were added, taking the total number of cohort members who had taken part to 16,122. The study population consists of young people who were in Year 9 in English state and independent schools and pupil referral units in February 2004. Cohort members were born between 1st September 1989 and 31st August 1990.</r:Content>
       </r:Description>
       <r:UniverseReference>
-        <r:Agency>uk.cls.nextsteps</r:Agency>
+        <r:Agency>uk.closer</r:Agency>
         <r:ID>e6060125-ad6b-489d-af6e-14344adf7295</r:ID>
         <r:Version>3</r:Version>
         <r:TypeOfObject>Universe</r:TypeOfObject>
       </r:UniverseReference>
       <r:UniverseReference>
-        <r:Agency>uk.cls.nextsteps</r:Agency>
+        <r:Agency>uk.closer</r:Agency>
         <r:ID>c424b2a0-1970-4710-a683-9ae560fc47f3</r:ID>
         <r:Version>1</r:Version>
         <r:TypeOfObject>Universe</r:TypeOfObject>
       </r:UniverseReference>
       <r:UniverseReference>
-        <r:Agency>uk.cls.nextsteps</r:Agency>
+        <r:Agency>uk.closer</r:Agency>
         <r:ID>2c7d5d57-2506-4219-9ada-9c079d11230f</r:ID>
         <r:Version>1</r:Version>
         <r:TypeOfObject>Universe</r:TypeOfObject>
       </r:UniverseReference>
       <r:UniverseReference>
-        <r:Agency>uk.cls.nextsteps</r:Agency>
+        <r:Agency>uk.closer</r:Agency>
         <r:ID>8b45559d-9433-443b-92f9-90eb0dd13ad2</r:ID>
         <r:Version>1</r:Version>
         <r:TypeOfObject>Universe</r:TypeOfObject>
       </r:UniverseReference>
       <r:UniverseReference>
-        <r:Agency>uk.cls.nextsteps</r:Agency>
+        <r:Agency>uk.closer</r:Agency>
         <r:ID>7893b035-c652-4a08-b362-345b9f74c5e0</r:ID>
         <r:Version>2</r:Version>
         <r:TypeOfObject>Universe</r:TypeOfObject>
       </r:UniverseReference>
       <r:UniverseReference>
-        <r:Agency>uk.cls.nextsteps</r:Agency>
+        <r:Agency>uk.closer</r:Agency>
         <r:ID>3999040a-6b63-4545-9342-113df0a249bc</r:ID>
         <r:Version>1</r:Version>
         <r:TypeOfObject>Universe</r:TypeOfObject>
       </r:UniverseReference>
       <r:UniverseReference>
-        <r:Agency>uk.cls.nextsteps</r:Agency>
+        <r:Agency>uk.closer</r:Agency>
         <r:ID>ab2fd7e6-6847-460d-903b-c56b93019ba6</r:ID>
         <r:Version>1</r:Version>
         <r:TypeOfObject>Universe</r:TypeOfObject>
       </r:UniverseReference>
       <r:UniverseReference>
-        <r:Agency>uk.cls.nextsteps</r:Agency>
+        <r:Agency>uk.closer</r:Agency>
         <r:ID>43c1ab11-6046-457d-9281-f206c999e876</r:ID>
         <r:Version>1</r:Version>
         <r:TypeOfObject>Universe</r:TypeOfObject>
       </r:UniverseReference>
       <r:UniverseReference>
-        <r:Agency>uk.cls.nextsteps</r:Agency>
+        <r:Agency>uk.closer</r:Agency>
         <r:ID>44f41316-931c-41d7-9e25-386b6f2af7f8</r:ID>
         <r:Version>2</r:Version>
         <r:TypeOfObject>Universe</r:TypeOfObject>
       </r:UniverseReference>
       <r:UniverseReference>
-        <r:Agency>uk.cls.nextsteps</r:Agency>
+        <r:Agency>uk.closer</r:Agency>
         <r:ID>9793f2d0-37d8-42be-9815-70be0b0a690f</r:ID>
         <r:Version>2</r:Version>
         <r:TypeOfObject>Universe</r:TypeOfObject>
       </r:UniverseReference>
     </UniverseGroup>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Universe isUniversallyUnique="true" versionDate="2020-08-04T14:43:39.451793Z" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:e6060125-ad6b-489d-af6e-14344adf7295:3</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>e6060125-ad6b-489d-af6e-14344adf7295</r:ID>
+      <r:Version>3</r:Version>
+      <UniverseName>
+        <r:String xml:lang="en-GB">ns_overall</r:String>
+      </UniverseName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Next Steps Overall Population</r:Content>
+      </r:Label>
+      <r:Description>
+        <r:Content xml:lang="en-GB">A stratified sample of young people who were in Year 9 in English state and independent schools and pupil referral units in February 2004.  Cohort members were born between 1 September 2000 and 31 August 2001 in England and Wales, and 23 November 2000 and 11 January 2002 in Scotland and Northern Ireland</r:Content>
+      </r:Description>
+    </Universe>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Universe isUniversallyUnique="true" versionDate="2020-07-03T16:36:11.3935095Z" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:c424b2a0-1970-4710-a683-9ae560fc47f3:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>c424b2a0-1970-4710-a683-9ae560fc47f3</r:ID>
+      <r:Version>1</r:Version>
+      <UniverseName>
+        <r:String xml:lang="en-GB">ns_age14</r:String>
+      </UniverseName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Next Steps Age 14 Population</r:Content>
+      </r:Label>
+      <r:Description>
+        <r:Content xml:lang="en-GB">A stratified sample of young people who were in Year 9 in English state and independent schools and pupil referral units in February 2004. </r:Content>
+      </r:Description>
+    </Universe>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Universe isUniversallyUnique="true" versionDate="2020-07-03T16:36:49.4865601Z" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:2c7d5d57-2506-4219-9ada-9c079d11230f:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>2c7d5d57-2506-4219-9ada-9c079d11230f</r:ID>
+      <r:Version>1</r:Version>
+      <UniverseName>
+        <r:String xml:lang="en-GB">ns_age15</r:String>
+      </UniverseName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Next Steps Age 15 Population</r:Content>
+      </r:Label>
+      <r:Description>
+        <r:Content xml:lang="en-GB">All cohort members who were in Year 9 in English state and independent schools and pupil referral units in February 2004 and who participated at sweep 1. </r:Content>
+      </r:Description>
+    </Universe>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Universe isUniversallyUnique="true" versionDate="2020-07-03T16:37:31.1004669Z" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:8b45559d-9433-443b-92f9-90eb0dd13ad2:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>8b45559d-9433-443b-92f9-90eb0dd13ad2</r:ID>
+      <r:Version>1</r:Version>
+      <UniverseName>
+        <r:String xml:lang="en-GB">ns_age16</r:String>
+      </UniverseName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Next Steps Age 16 Population</r:Content>
+      </r:Label>
+      <r:Description>
+        <r:Content xml:lang="en-GB">All cohort members who were in Year 9 in English state and independent schools and pupil referral units in February 2004 and who participated at sweep 2. </r:Content>
+      </r:Description>
+    </Universe>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Universe isUniversallyUnique="true" versionDate="2020-08-04T14:51:48.9426164Z" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:7893b035-c652-4a08-b362-345b9f74c5e0:2</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>7893b035-c652-4a08-b362-345b9f74c5e0</r:ID>
+      <r:Version>2</r:Version>
+      <UniverseName>
+        <r:String xml:lang="en-GB">ns_age17</r:String>
+      </UniverseName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Next Steps Age 17 Population</r:Content>
+      </r:Label>
+      <r:Description>
+        <r:Content xml:lang="en-GB">All cohort members who were in Year 9 in English state and independent schools and pupil referral units in February 2004 and who participated at sweep 3.  In addition, the sweep 4 sample frame included an ethnic minority boost. </r:Content>
+      </r:Description>
+    </Universe>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Universe isUniversallyUnique="true" versionDate="2020-07-03T16:39:32.418095Z" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:3999040a-6b63-4545-9342-113df0a249bc:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>3999040a-6b63-4545-9342-113df0a249bc</r:ID>
+      <r:Version>1</r:Version>
+      <UniverseName>
+        <r:String xml:lang="en-GB">ns_age18</r:String>
+      </UniverseName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Next Steps Age 18 Population</r:Content>
+      </r:Label>
+      <r:Description>
+        <r:Content xml:lang="en-GB">All cohort members who were in Year 9 in English state and independent schools and pupil referral units in February 2004 and who participated at sweep 4. </r:Content>
+      </r:Description>
+    </Universe>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Universe isUniversallyUnique="true" versionDate="2020-07-03T16:40:15.9281177Z" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:ab2fd7e6-6847-460d-903b-c56b93019ba6:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>ab2fd7e6-6847-460d-903b-c56b93019ba6</r:ID>
+      <r:Version>1</r:Version>
+      <UniverseName>
+        <r:String xml:lang="en-GB">ns_age19</r:String>
+      </UniverseName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Next Steps Age 19 Population</r:Content>
+      </r:Label>
+      <r:Description>
+        <r:Content xml:lang="en-GB">All cohort members who were in Year 9 in English state and independent schools and pupil referral units in February 2004 and who participated at sweep 5. </r:Content>
+      </r:Description>
+    </Universe>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Universe isUniversallyUnique="true" versionDate="2020-07-03T16:40:59.2718067Z" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:43c1ab11-6046-457d-9281-f206c999e876:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>43c1ab11-6046-457d-9281-f206c999e876</r:ID>
+      <r:Version>1</r:Version>
+      <UniverseName>
+        <r:String xml:lang="en-GB">ns_age20</r:String>
+      </UniverseName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Next Steps Age 20 Population</r:Content>
+      </r:Label>
+      <r:Description>
+        <r:Content xml:lang="en-GB">All cohort members who were in Year 9 in English state and independent schools and pupil referral units in February 2004 and who participated at sweep 6. </r:Content>
+      </r:Description>
+    </Universe>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Universe isUniversallyUnique="true" versionDate="2020-07-06T10:17:20.7310267Z" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:44f41316-931c-41d7-9e25-386b6f2af7f8:2</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>44f41316-931c-41d7-9e25-386b6f2af7f8</r:ID>
+      <r:Version>2</r:Version>
+      <UniverseName>
+        <r:String xml:lang="en-GB">ns_age25</r:String>
+      </UniverseName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Next Steps Age 25 Population</r:Content>
+      </r:Label>
+      <r:Description>
+        <r:Content xml:lang="en-GB">All cohort members who were in Year 9 in English state and independent schools and pupil referral units in February 2004 and who participated at a previous sweep. </r:Content>
+      </r:Description>
+    </Universe>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Universe isUniversallyUnique="true" versionDate="2020-08-04T14:52:53.2194711Z" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:9793f2d0-37d8-42be-9815-70be0b0a690f:2</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>9793f2d0-37d8-42be-9815-70be0b0a690f</r:ID>
+      <r:Version>2</r:Version>
+      <UniverseName>
+        <r:String xml:lang="en-GB">ns_covid_wave1</r:String>
+      </UniverseName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Next Steps COVID-19 Wave 1 Population</r:Content>
+      </r:Label>
+      <r:Description>
+        <r:Content xml:lang="en-GB">The COVID-19 Survey Wave 1 involved participants from the Next Steps study (born 1989-90). Invitations to participate in Wave 1 were sent via email to all those for whom an email address was held, including emigrants, but not including those who have permanently withdrawn from the studies, died or been defined as 'permanently untraced'. </r:Content>
+      </r:Description>
+    </Universe>
   </ddi:Fragment>
   <ddi:Fragment xmlns:r="ddi:reusable:3_2">
     <UniverseGroup isUniversallyUnique="true" versionDate="2020-08-04T17:06:32.2495831Z" xmlns="ddi:conceptualcomponent:3_2">
@@ -2717,12 +2967,29 @@
         <r:TypeOfObject>Universe</r:TypeOfObject>
       </r:UniverseReference>
       <r:UniverseReference>
-        <r:Agency>uk.lha</r:Agency>
+        <r:Agency>uk.closer</r:Agency>
         <r:ID>325609bf-1ec5-4517-b5be-ba9529a29cb8</r:ID>
         <r:Version>1</r:Version>
         <r:TypeOfObject>Universe</r:TypeOfObject>
       </r:UniverseReference>
     </UniverseGroup>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Universe isUniversallyUnique="true" versionDate="2020-08-04T17:08:05.887064Z" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:325609bf-1ec5-4517-b5be-ba9529a29cb8:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>325609bf-1ec5-4517-b5be-ba9529a29cb8</r:ID>
+      <r:Version>1</r:Version>
+      <UniverseName>
+        <r:String xml:lang="en-GB">nshd_covid_wave1</r:String>
+      </UniverseName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">NSHD COVID-19 Wave 1 Population</r:Content>
+      </r:Label>
+      <r:Description>
+        <r:Content xml:lang="en-GB">Participants from the MRC National Survey of Health and Development. The invitation was initially sent to participates via email to all those for whom an email address was held, including emigrants, but not including those who have permanently withdrawn from the study, died or been defined as 'permanently untraced'.  A follow-up letter was then sent to all participants whom a postal addresses was held and whom had no email address, but not including those who emigrants, have permanently withdrawn from the study, died or been defined as 'permanently untraced'.</r:Content>
+      </r:Description>
+    </Universe>
   </ddi:Fragment>
   <ddi:Fragment xmlns:r="ddi:reusable:3_2">
     <UniverseGroup isUniversallyUnique="true" versionDate="2019-10-17T10:38:52.0722822Z" xmlns="ddi:conceptualcomponent:3_2">
@@ -2853,7 +3120,7 @@
         <r:TypeOfObject>Universe</r:TypeOfObject>
       </r:UniverseReference>
       <r:UniverseReference>
-        <r:Agency>uk.iser</r:Agency>
+        <r:Agency>uk.closer</r:Agency>
         <r:ID>b968aac9-c170-4ce0-b21f-e67e3c58f878</r:ID>
         <r:Version>1</r:Version>
         <r:TypeOfObject>Universe</r:TypeOfObject>
@@ -2862,8 +3129,8 @@
   </ddi:Fragment>
   <ddi:Fragment xmlns:r="ddi:reusable:3_2">
     <Universe isUniversallyUnique="true" versionDate="2020-08-05T11:13:46.5517187Z" xmlns="ddi:conceptualcomponent:3_2">
-      <r:URN>urn:ddi:uk.iser:b968aac9-c170-4ce0-b21f-e67e3c58f878:1</r:URN>
-      <r:Agency>uk.iser</r:Agency>
+      <r:URN>urn:ddi:uk.closer:b968aac9-c170-4ce0-b21f-e67e3c58f878:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
       <r:ID>b968aac9-c170-4ce0-b21f-e67e3c58f878</r:ID>
       <r:Version>1</r:Version>
       <UniverseName>
@@ -2878,7 +3145,7 @@
     </Universe>
   </ddi:Fragment>
   <ddi:Fragment xmlns:r="ddi:reusable:3_2">
-    <UniverseGroup isUniversallyUnique="true" versionDate="2020-08-06T08:34:22.7464359Z" xmlns="ddi:conceptualcomponent:3_2">
+    <UniverseGroup isUniversallyUnique="true" versionDate="2020-08-07T13:10:29.3537651Z" xmlns="ddi:conceptualcomponent:3_2">
       <r:URN>urn:ddi:uk.closer:d59dd42a-4678-4db9-ae33-845dd3a01a76:3</r:URN>
       <r:Agency>uk.closer</r:Agency>
       <r:ID>d59dd42a-4678-4db9-ae33-845dd3a01a76</r:ID>
@@ -2905,83 +3172,258 @@
         <r:TypeOfObject>Universe</r:TypeOfObject>
       </r:UniverseReference>
       <r:UniverseReference>
-        <r:Agency>uk.wchads</r:Agency>
+        <r:Agency>uk.closer</r:Agency>
         <r:ID>acd7c1dd-125b-43ce-a6f9-4445ed59bbb3</r:ID>
         <r:Version>1</r:Version>
         <r:TypeOfObject>Universe</r:TypeOfObject>
       </r:UniverseReference>
       <r:UniverseReference>
-        <r:Agency>uk.wchads</r:Agency>
+        <r:Agency>uk.closer</r:Agency>
         <r:ID>1e03fbca-1a83-4132-836e-2246cd311920</r:ID>
         <r:Version>1</r:Version>
         <r:TypeOfObject>Universe</r:TypeOfObject>
       </r:UniverseReference>
       <r:UniverseReference>
-        <r:Agency>uk.wchads</r:Agency>
+        <r:Agency>uk.closer</r:Agency>
         <r:ID>359c0dee-4d78-4f71-9ca9-42ca1c43af8e</r:ID>
         <r:Version>1</r:Version>
         <r:TypeOfObject>Universe</r:TypeOfObject>
       </r:UniverseReference>
       <r:UniverseReference>
-        <r:Agency>uk.wchads</r:Agency>
+        <r:Agency>uk.closer</r:Agency>
         <r:ID>5aaeb1a6-7bc4-494f-89a0-a7ab9c6c57f5</r:ID>
         <r:Version>1</r:Version>
         <r:TypeOfObject>Universe</r:TypeOfObject>
       </r:UniverseReference>
       <r:UniverseReference>
-        <r:Agency>uk.wchads</r:Agency>
+        <r:Agency>uk.closer</r:Agency>
         <r:ID>99f918c0-9d71-4d70-aafd-51681df64f5e</r:ID>
         <r:Version>1</r:Version>
         <r:TypeOfObject>Universe</r:TypeOfObject>
       </r:UniverseReference>
       <r:UniverseReference>
-        <r:Agency>uk.wchads</r:Agency>
+        <r:Agency>uk.closer</r:Agency>
         <r:ID>cfae72c3-7896-4dc2-8c69-91db8824dbac</r:ID>
         <r:Version>1</r:Version>
         <r:TypeOfObject>Universe</r:TypeOfObject>
       </r:UniverseReference>
       <r:UniverseReference>
-        <r:Agency>uk.wchads</r:Agency>
-        <r:ID>b766deba-12ea-4aff-9e5c-1e7ac513954b</r:ID>
-        <r:Version>1</r:Version>
-        <r:TypeOfObject>Universe</r:TypeOfObject>
-      </r:UniverseReference>
-      <r:UniverseReference>
-        <r:Agency>uk.wchads</r:Agency>
+        <r:Agency>uk.closer</r:Agency>
         <r:ID>51a78c32-b158-4904-b61e-453b7f5f179e</r:ID>
         <r:Version>1</r:Version>
         <r:TypeOfObject>Universe</r:TypeOfObject>
       </r:UniverseReference>
       <r:UniverseReference>
-        <r:Agency>uk.wchads</r:Agency>
+        <r:Agency>uk.closer</r:Agency>
         <r:ID>284b2d95-9d3f-4c42-b049-3e4907ab968b</r:ID>
         <r:Version>1</r:Version>
         <r:TypeOfObject>Universe</r:TypeOfObject>
       </r:UniverseReference>
       <r:UniverseReference>
-        <r:Agency>uk.wchads</r:Agency>
+        <r:Agency>uk.closer</r:Agency>
         <r:ID>7dac24b8-4112-4863-ac15-2c9cb297f347</r:ID>
         <r:Version>1</r:Version>
         <r:TypeOfObject>Universe</r:TypeOfObject>
       </r:UniverseReference>
       <r:UniverseReference>
-        <r:Agency>uk.wchads</r:Agency>
-        <r:ID>032d5565-e1e0-4948-87c8-afbfdacb6c6c</r:ID>
-        <r:Version>1</r:Version>
-        <r:TypeOfObject>Universe</r:TypeOfObject>
-      </r:UniverseReference>
-      <r:UniverseReference>
-        <r:Agency>uk.wchads</r:Agency>
+        <r:Agency>uk.closer</r:Agency>
         <r:ID>dcd65673-56f6-4699-bbcd-9ba1064952b6</r:ID>
         <r:Version>1</r:Version>
         <r:TypeOfObject>Universe</r:TypeOfObject>
       </r:UniverseReference>
       <r:UniverseReference>
-        <r:Agency>uk.wchads</r:Agency>
+        <r:Agency>uk.closer</r:Agency>
         <r:ID>c7cb08f4-8e85-4e80-b450-b4c5b57ce3d9</r:ID>
         <r:Version>1</r:Version>
         <r:TypeOfObject>Universe</r:TypeOfObject>
       </r:UniverseReference>
     </UniverseGroup>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Universe isUniversallyUnique="true" versionDate="2020-08-05T13:53:55.262852Z" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:acd7c1dd-125b-43ce-a6f9-4445ed59bbb3:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>acd7c1dd-125b-43ce-a6f9-4445ed59bbb3</r:ID>
+      <r:Version>1</r:Version>
+      <UniverseName>
+        <r:String xml:lang="en-GB">WCHADS_phase_02</r:String>
+      </UniverseName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">WCHADS Phase 2 Population</r:Content>
+      </r:Label>
+      <r:Description>
+        <r:Content xml:lang="en-GB">WCHADS mother recruited into our intensive subsample - stratified for psychosocial risk </r:Content>
+      </r:Description>
+    </Universe>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Universe isUniversallyUnique="true" versionDate="2020-08-05T13:54:04.6168448Z" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:1e03fbca-1a83-4132-836e-2246cd311920:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>1e03fbca-1a83-4132-836e-2246cd311920</r:ID>
+      <r:Version>1</r:Version>
+      <UniverseName>
+        <r:String xml:lang="en-GB">WCHADS_phase_03</r:String>
+      </UniverseName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">WCHADS Phase 3 Population</r:Content>
+      </r:Label>
+      <r:Description>
+        <r:Content xml:lang="en-GB">WCHADS extensive sample (includes intensive subsample)- antenatal and birth outcomes</r:Content>
+      </r:Description>
+    </Universe>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Universe isUniversallyUnique="true" versionDate="2020-08-06T08:24:45.9817291Z" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:359c0dee-4d78-4f71-9ca9-42ca1c43af8e:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>359c0dee-4d78-4f71-9ca9-42ca1c43af8e</r:ID>
+      <r:Version>1</r:Version>
+      <UniverseName>
+        <r:String xml:lang="en-GB">WCHADS_phase_04</r:String>
+      </UniverseName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">WCHADS Phase 4 Population</r:Content>
+      </r:Label>
+      <r:Description>
+        <r:Content xml:lang="en-GB">WCHADS mother recruited into our intensive subsample and their infants - stratified for psychosocial risk </r:Content>
+      </r:Description>
+    </Universe>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Universe isUniversallyUnique="true" versionDate="2020-08-05T13:53:45.3934577Z" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:5aaeb1a6-7bc4-494f-89a0-a7ab9c6c57f5:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>5aaeb1a6-7bc4-494f-89a0-a7ab9c6c57f5</r:ID>
+      <r:Version>1</r:Version>
+      <UniverseName>
+        <r:String xml:lang="en-GB">WCHADS_phase_05</r:String>
+      </UniverseName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">WCHADS Phase 5 Population</r:Content>
+      </r:Label>
+      <r:Description>
+        <r:Content xml:lang="en-GB">WCHADS extensive sample (includes intensive subsample) - mothers</r:Content>
+      </r:Description>
+    </Universe>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Universe isUniversallyUnique="true" versionDate="2020-08-06T08:35:12.8429126Z" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:99f918c0-9d71-4d70-aafd-51681df64f5e:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>99f918c0-9d71-4d70-aafd-51681df64f5e</r:ID>
+      <r:Version>1</r:Version>
+      <UniverseName>
+        <r:String xml:lang="en-GB">WCHADS_phase_06</r:String>
+      </UniverseName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">WCHADS Phase 6 Population</r:Content>
+      </r:Label>
+      <r:Description>
+        <r:Content xml:lang="en-GB">WCHADS mother recruited into our intensive subsample and their infants - stratified for psychosocial risk</r:Content>
+      </r:Description>
+    </Universe>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Universe isUniversallyUnique="true" versionDate="2020-08-07T13:11:03.3917996Z" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:cfae72c3-7896-4dc2-8c69-91db8824dbac:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>cfae72c3-7896-4dc2-8c69-91db8824dbac</r:ID>
+      <r:Version>1</r:Version>
+      <UniverseName>
+        <r:String xml:lang="en-GB">WCHADS_phase_07_08</r:String>
+      </UniverseName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">WCHADS Phase 7 and 8 Population</r:Content>
+      </r:Label>
+      <r:Description>
+        <r:Content xml:lang="en-GB">WCHADS extensive sample - mothers and partners including WCHADS mothers recruited into WCHADS intensive subsample and their child - stratified for psychosocial risk.</r:Content>
+      </r:Description>
+    </Universe>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Universe isUniversallyUnique="true" versionDate="2020-08-06T08:35:50.0643164Z" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:51a78c32-b158-4904-b61e-453b7f5f179e:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>51a78c32-b158-4904-b61e-453b7f5f179e</r:ID>
+      <r:Version>1</r:Version>
+      <UniverseName>
+        <r:String xml:lang="en-GB">WCHADS_phase_09</r:String>
+      </UniverseName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">WCHADS Phase 9 Population</r:Content>
+      </r:Label>
+      <r:Description>
+        <r:Content xml:lang="en-GB">WCHADS mother recruited into our intensive subsample and their child - stratified for psychosocial risk</r:Content>
+      </r:Description>
+    </Universe>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Universe isUniversallyUnique="true" versionDate="2020-08-05T14:13:24.181325Z" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:284b2d95-9d3f-4c42-b049-3e4907ab968b:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>284b2d95-9d3f-4c42-b049-3e4907ab968b</r:ID>
+      <r:Version>1</r:Version>
+      <UniverseName>
+        <r:String xml:lang="en-GB">WCHADS_phase_10</r:String>
+      </UniverseName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">WCHADS Phase 10 Population</r:Content>
+      </r:Label>
+      <r:Description>
+        <r:Content xml:lang="en-GB">WCHADS extensive sample (includes intensive subsample) - mother, child and partner</r:Content>
+      </r:Description>
+    </Universe>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Universe isUniversallyUnique="true" versionDate="2020-08-07T13:11:20.4384211Z" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:7dac24b8-4112-4863-ac15-2c9cb297f347:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>7dac24b8-4112-4863-ac15-2c9cb297f347</r:ID>
+      <r:Version>1</r:Version>
+      <UniverseName>
+        <r:String xml:lang="en-GB">WCHADS_phase_11_12</r:String>
+      </UniverseName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">WCHADS Phase 11 and 12 Population</r:Content>
+      </r:Label>
+      <r:Description>
+        <r:Content xml:lang="en-GB">WCHADS extensive sample - mothers and partners including WCHADS mothers recruited into WCHADS intensive subsample and their child - stratified for psychosocial risk.</r:Content>
+      </r:Description>
+    </Universe>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Universe isUniversallyUnique="true" versionDate="2020-08-05T14:18:42.9988296Z" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:dcd65673-56f6-4699-bbcd-9ba1064952b6:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>dcd65673-56f6-4699-bbcd-9ba1064952b6</r:ID>
+      <r:Version>1</r:Version>
+      <UniverseName>
+        <r:String xml:lang="en-GB">WCHADS_phase_13</r:String>
+      </UniverseName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">WCHADS Phase 13 Population</r:Content>
+      </r:Label>
+      <r:Description>
+        <r:Content xml:lang="en-GB">WCHADS extensive sample (includes intensive subsample) - mothers, partners and child</r:Content>
+      </r:Description>
+    </Universe>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Universe isUniversallyUnique="true" versionDate="2020-08-05T14:19:46.4787863Z" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:c7cb08f4-8e85-4e80-b450-b4c5b57ce3d9:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>c7cb08f4-8e85-4e80-b450-b4c5b57ce3d9</r:ID>
+      <r:Version>1</r:Version>
+      <UniverseName>
+        <r:String xml:lang="en-GB">WCHADS_phase_14</r:String>
+      </UniverseName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">WCHADS Phase 14 Population</r:Content>
+      </r:Label>
+      <r:Description>
+        <r:Content xml:lang="en-GB">WCHADS extensive sample (includes intensive subsample) - mothers, partners and child</r:Content>
+      </r:Description>
+    </Universe>
   </ddi:Fragment>
 </ddi:FragmentInstance>
