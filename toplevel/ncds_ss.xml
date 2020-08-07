@@ -3836,7 +3836,7 @@ Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/1958-national-child
     </Universe>
   </ddi:Fragment>
   <ddi:Fragment xmlns:r="ddi:reusable:3_2">
-    <StudyUnit isUniversallyUnique="true" versionDate="2020-08-04T11:42:44.1724328Z" xmlns="ddi:studyunit:3_2">
+    <StudyUnit isUniversallyUnique="true" versionDate="2020-08-07T14:12:30.5837996Z" xmlns="ddi:studyunit:3_2">
       <r:URN>urn:ddi:uk.cls.ncds:90a96359-d59e-423a-8ad9-406c1e710871:2</r:URN>
       <r:Agency>uk.cls.ncds</r:Agency>
       <r:ID>90a96359-d59e-423a-8ad9-406c1e710871</r:ID>
@@ -3870,9 +3870,9 @@ Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/1958-national-child
 Study website: &lt;a href="https://cls.ucl.ac.uk/covid-19-survey/content-and-data/" target="_blank" title="1970 British Cohort Study (BCS70)"&gt;www.cls.ucl.ac.uk/covid-19-survey/content-and-data/&lt;/a&gt;</r:Content>
       </r:Abstract>
       <r:UniverseReference>
-        <r:Agency>uk.closer</r:Agency>
+        <r:Agency>uk.cls.ncds</r:Agency>
         <r:ID>170380cb-73ab-4232-aa04-e2c2fb3fdfc6</r:ID>
-        <r:Version>1</r:Version>
+        <r:Version>2</r:Version>
         <r:TypeOfObject>Universe</r:TypeOfObject>
       </r:UniverseReference>
       <r:FundingInformation>
@@ -3995,11 +3995,11 @@ Study website: &lt;a href="https://cls.ucl.ac.uk/covid-19-survey/content-and-dat
     </Organization>
   </ddi:Fragment>
   <ddi:Fragment xmlns:r="ddi:reusable:3_2">
-    <Universe isUniversallyUnique="true" versionDate="2020-07-06T10:59:43.3593008Z" xmlns="ddi:conceptualcomponent:3_2">
-      <r:URN>urn:ddi:uk.closer:170380cb-73ab-4232-aa04-e2c2fb3fdfc6:1</r:URN>
-      <r:Agency>uk.closer</r:Agency>
+    <Universe isUniversallyUnique="true" versionDate="2020-08-04T14:54:06.0376093Z" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.cls.ncds:170380cb-73ab-4232-aa04-e2c2fb3fdfc6:2</r:URN>
+      <r:Agency>uk.cls.ncds</r:Agency>
       <r:ID>170380cb-73ab-4232-aa04-e2c2fb3fdfc6</r:ID>
-      <r:Version>1</r:Version>
+      <r:Version>2</r:Version>
       <UniverseName>
         <r:String xml:lang="en-GB">ncds_covid_wave1</r:String>
       </UniverseName>
@@ -4007,7 +4007,7 @@ Study website: &lt;a href="https://cls.ucl.ac.uk/covid-19-survey/content-and-dat
         <r:Content xml:lang="en-GB">NCDS COVID-19 Wave 1</r:Content>
       </r:Label>
       <r:Description>
-        <r:Content xml:lang="en-GB">The COVID 19 Survey Wave 1 involved participants from the 1958 National Child Development Study. Invitations to participate in Wave 1 were sent via email to all those for whom an email address was held, including emigrants, but not including those who have permanently withdrawn from the studies, died or been defined as 'permanently untraced'.  </r:Content>
+        <r:Content xml:lang="en-GB">The COVID-19 Survey Wave 1 involved participants from the 1958 National Child Development Study. Invitations to participate in Wave 1 were sent via email to all those for whom an email address was held, including emigrants, but not including those who have permanently withdrawn from the studies, died or been defined as 'permanently untraced'.  </r:Content>
       </r:Description>
     </Universe>
   </ddi:Fragment>
