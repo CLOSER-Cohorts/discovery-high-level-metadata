@@ -9131,7 +9131,7 @@ Study website: &lt;a href="https://www.nshd.mrc.ac.uk/" target="_blank" title="M
     </DataCollection>
   </ddi:Fragment>
   <ddi:Fragment xmlns:r="ddi:reusable:3_2">
-    <StudyUnit isUniversallyUnique="true" versionDate="2020-08-04T17:18:49.3184565Z" xmlns="ddi:studyunit:3_2">
+    <StudyUnit isUniversallyUnique="true" versionDate="2020-08-07T14:17:41.9529816Z" xmlns="ddi:studyunit:3_2">
       <r:URN>urn:ddi:uk.lha:5a98d240-618e-4601-92c2-20cfc0a53f88:1</r:URN>
       <r:Agency>uk.lha</r:Agency>
       <r:ID>5a98d240-618e-4601-92c2-20cfc0a53f88</r:ID>
@@ -9165,7 +9165,7 @@ Study website: &lt;a href="https://www.nshd.mrc.ac.uk/" target="_blank" title="M
 Study website: &lt;a href="https://www.nshd.mrc.ac.uk/" target="_blank" title="MRC LHA &amp; NSHD"&gt;www.nshd.mrc.ac.uk/&lt;/a&gt;</r:Content>
       </r:Abstract>
       <r:UniverseReference>
-        <r:Agency>uk.closer</r:Agency>
+        <r:Agency>uk.lha</r:Agency>
         <r:ID>325609bf-1ec5-4517-b5be-ba9529a29cb8</r:ID>
         <r:Version>1</r:Version>
         <r:TypeOfObject>Universe</r:TypeOfObject>
@@ -9267,8 +9267,8 @@ Study website: &lt;a href="https://www.nshd.mrc.ac.uk/" target="_blank" title="M
   </ddi:Fragment>
   <ddi:Fragment xmlns:r="ddi:reusable:3_2">
     <Universe isUniversallyUnique="true" versionDate="2020-08-04T17:08:05.887064Z" xmlns="ddi:conceptualcomponent:3_2">
-      <r:URN>urn:ddi:uk.closer:325609bf-1ec5-4517-b5be-ba9529a29cb8:1</r:URN>
-      <r:Agency>uk.closer</r:Agency>
+      <r:URN>urn:ddi:uk.lha:325609bf-1ec5-4517-b5be-ba9529a29cb8:1</r:URN>
+      <r:Agency>uk.lha</r:Agency>
       <r:ID>325609bf-1ec5-4517-b5be-ba9529a29cb8</r:ID>
       <r:Version>1</r:Version>
       <UniverseName>
