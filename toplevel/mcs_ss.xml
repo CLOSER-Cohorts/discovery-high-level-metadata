@@ -1583,7 +1583,7 @@ Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/millennium-cohort-s
     </DataCollection>
   </ddi:Fragment>
   <ddi:Fragment xmlns:r="ddi:reusable:3_2">
-    <Organization isUniversallyUnique="true" versionDate="2020-08-07T14:06:52.3321589Z" xmlns="ddi:archive:3_2">
+    <Organization isUniversallyUnique="true" versionDate="2020-08-07T16:05:41.8195774Z" xmlns="ddi:archive:3_2">
       <r:URN>urn:ddi:uk.closer:03d1fb7b-da9c-4b73-9101-a4ea1f189aae:1</r:URN>
       <r:Agency>uk.closer</r:Agency>
       <r:ID>03d1fb7b-da9c-4b73-9101-a4ea1f189aae</r:ID>
@@ -1685,7 +1685,7 @@ Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/millennium-cohort-s
     </DataCollection>
   </ddi:Fragment>
   <ddi:Fragment xmlns:r="ddi:reusable:3_2">
-    <StudyUnit isUniversallyUnique="true" versionDate="2020-08-06T10:05:40.5818419Z" xmlns="ddi:studyunit:3_2">
+    <StudyUnit isUniversallyUnique="true" versionDate="2020-08-07T14:11:50.752768Z" xmlns="ddi:studyunit:3_2">
       <r:URN>urn:ddi:uk.cls.mcs:7c397ddc-b7e4-46aa-b545-6f07d5bec86f:2</r:URN>
       <r:Agency>uk.cls.mcs</r:Agency>
       <r:ID>7c397ddc-b7e4-46aa-b545-6f07d5bec86f</r:ID>
@@ -1719,9 +1719,9 @@ Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/millennium-cohort-s
 Study website: &lt;a href="https://cls.ucl.ac.uk/covid-19-survey/content-and-data/" target="_blank" title="1970 British Cohort Study (BCS70)"&gt;www.cls.ucl.ac.uk/covid-19-survey/content-and-data/&lt;/a&gt;</r:Content>
       </r:Abstract>
       <r:UniverseReference>
-        <r:Agency>uk.closer</r:Agency>
+        <r:Agency>uk.cls.mcs</r:Agency>
         <r:ID>23c62049-cdd5-4e57-b583-6d843d0de079</r:ID>
-        <r:Version>1</r:Version>
+        <r:Version>2</r:Version>
         <r:TypeOfObject>Universe</r:TypeOfObject>
       </r:UniverseReference>
       <r:FundingInformation>
@@ -1894,11 +1894,11 @@ Study website: &lt;a href="https://cls.ucl.ac.uk/covid-19-survey/content-and-dat
     </DataCollection>
   </ddi:Fragment>
   <ddi:Fragment xmlns:r="ddi:reusable:3_2">
-    <Universe isUniversallyUnique="true" versionDate="2020-07-06T13:48:37.2426573Z" xmlns="ddi:conceptualcomponent:3_2">
-      <r:URN>urn:ddi:uk.closer:23c62049-cdd5-4e57-b583-6d843d0de079:1</r:URN>
-      <r:Agency>uk.closer</r:Agency>
+    <Universe isUniversallyUnique="true" versionDate="2020-08-04T14:53:39.0682799Z" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.cls.mcs:23c62049-cdd5-4e57-b583-6d843d0de079:2</r:URN>
+      <r:Agency>uk.cls.mcs</r:Agency>
       <r:ID>23c62049-cdd5-4e57-b583-6d843d0de079</r:ID>
-      <r:Version>1</r:Version>
+      <r:Version>2</r:Version>
       <UniverseName>
         <r:String xml:lang="en-GB">mcs_covid_wave1</r:String>
       </UniverseName>
@@ -1906,7 +1906,7 @@ Study website: &lt;a href="https://cls.ucl.ac.uk/covid-19-survey/content-and-dat
         <r:Content xml:lang="en-GB">MCS COVID-19 Wave 1 Population</r:Content>
       </r:Label>
       <r:Description>
-        <r:Content xml:lang="en-GB">The COVID 19 Survey Wave 1 involved participants from the Millennium Cohort Study (born 2000-02). Invitations to participate in Wave 1 were sent via email to all those for whom an email address was held, including emigrants, but not including those who have permanently withdrawn from the studies, died or been defined as 'permanently untraced'. In the case of MCS, invitations were sent to cohort members and parents. MCS parents were only invited to participate if they had taken part in the last major wave of the study - the Age 17 Survey (MCS7).</r:Content>
+        <r:Content xml:lang="en-GB">The COVID-19 Survey Wave 1 involved participants from the Millennium Cohort Study (born 2000-02). Invitations to participate in Wave 1 were sent via email to all those for whom an email address was held, including emigrants, but not including those who have permanently withdrawn from the studies, died or been defined as 'permanently untraced'. In the case of MCS, invitations were sent to cohort members and parents. MCS parents were only invited to participate if they had taken part in the last major wave of the study - the Age 17 Survey (MCS7).</r:Content>
       </r:Description>
     </Universe>
   </ddi:Fragment>
