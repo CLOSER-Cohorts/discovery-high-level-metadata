@@ -26,7 +26,7 @@
     </ddi:DDIInstance>
   </ddi:Fragment>
   <ddi:Fragment xmlns:r="ddi:reusable:3_2">
-    <Group isUniversallyUnique="true" versionDate="2020-08-04T15:14:29.7115904Z" xmlns="ddi:group:3_2">
+    <Group isUniversallyUnique="true" versionDate="2020-08-07T14:13:05.9917492Z" xmlns="ddi:group:3_2">
       <r:URN>urn:ddi:uk.cls.nextsteps:f25cb910-efa6-4938-b360-73f3f65d88a7:7</r:URN>
       <r:Agency>uk.cls.nextsteps</r:Agency>
       <r:ID>f25cb910-efa6-4938-b360-73f3f65d88a7</r:ID>
@@ -62,9 +62,9 @@ In 2013 CLS successfully re-started the study and collected another sweep of dat
 Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/next-steps/" target="_blank" title="Next Steps"&gt;www.cls.ucl.ac.uk/cls-studies/next-steps&lt;/a&gt;</r:Content>
       </r:Abstract>
       <r:UniverseReference>
-        <r:Agency>uk.closer</r:Agency>
+        <r:Agency>uk.cls.nextsteps</r:Agency>
         <r:ID>e6060125-ad6b-489d-af6e-14344adf7295</r:ID>
-        <r:Version>2</r:Version>
+        <r:Version>3</r:Version>
         <r:TypeOfObject>Universe</r:TypeOfObject>
       </r:UniverseReference>
       <r:FundingInformation>
@@ -156,11 +156,11 @@ Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/next-steps/" target
     </Organization>
   </ddi:Fragment>
   <ddi:Fragment xmlns:r="ddi:reusable:3_2">
-    <Universe isUniversallyUnique="true" versionDate="2020-07-03T16:35:30.3981247Z" xmlns="ddi:conceptualcomponent:3_2">
-      <r:URN>urn:ddi:uk.closer:e6060125-ad6b-489d-af6e-14344adf7295:2</r:URN>
-      <r:Agency>uk.closer</r:Agency>
+    <Universe isUniversallyUnique="true" versionDate="2020-08-04T14:43:39.451793Z" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.cls.nextsteps:e6060125-ad6b-489d-af6e-14344adf7295:3</r:URN>
+      <r:Agency>uk.cls.nextsteps</r:Agency>
       <r:ID>e6060125-ad6b-489d-af6e-14344adf7295</r:ID>
-      <r:Version>2</r:Version>
+      <r:Version>3</r:Version>
       <UniverseName>
         <r:String xml:lang="en-GB">ns_overall</r:String>
       </UniverseName>
@@ -168,12 +168,12 @@ Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/next-steps/" target
         <r:Content xml:lang="en-GB">Next Steps Overall Population</r:Content>
       </r:Label>
       <r:Description>
-        <r:Content xml:lang="en-GB">A stratified sample of young people who were in Year 9 in English state and independent schools and pupil referral units in February 2004.  between 1 September 2000 and 31 August 2001 in England and Wales, and 23 November 2000 and 11 January 2002 in Scotland and Northern Ireland</r:Content>
+        <r:Content xml:lang="en-GB">A stratified sample of young people who were in Year 9 in English state and independent schools and pupil referral units in February 2004.  Cohort members were born between 1 September 2000 and 31 August 2001 in England and Wales, and 23 November 2000 and 11 January 2002 in Scotland and Northern Ireland</r:Content>
       </r:Description>
     </Universe>
   </ddi:Fragment>
   <ddi:Fragment xmlns:r="ddi:reusable:3_2">
-    <StudyUnit isUniversallyUnique="true" versionDate="2020-08-04T14:58:28.8839879Z" xmlns="ddi:studyunit:3_2">
+    <StudyUnit isUniversallyUnique="true" versionDate="2020-08-07T14:13:40.6853602Z" xmlns="ddi:studyunit:3_2">
       <r:URN>urn:ddi:uk.cls.nextsteps:487eae00-70da-46fc-a2e4-c8eb081c5b8f:7</r:URN>
       <r:Agency>uk.cls.nextsteps</r:Agency>
       <r:ID>487eae00-70da-46fc-a2e4-c8eb081c5b8f</r:ID>
@@ -211,7 +211,7 @@ Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/next-steps/next-ste
 </r:Content>
       </r:Abstract>
       <r:UniverseReference>
-        <r:Agency>uk.closer</r:Agency>
+        <r:Agency>uk.cls.nextsteps</r:Agency>
         <r:ID>c424b2a0-1970-4710-a683-9ae560fc47f3</r:ID>
         <r:Version>1</r:Version>
         <r:TypeOfObject>Universe</r:TypeOfObject>
@@ -395,8 +395,8 @@ Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/next-steps/next-ste
   </ddi:Fragment>
   <ddi:Fragment xmlns:r="ddi:reusable:3_2">
     <Universe isUniversallyUnique="true" versionDate="2020-07-03T16:36:11.3935095Z" xmlns="ddi:conceptualcomponent:3_2">
-      <r:URN>urn:ddi:uk.closer:c424b2a0-1970-4710-a683-9ae560fc47f3:1</r:URN>
-      <r:Agency>uk.closer</r:Agency>
+      <r:URN>urn:ddi:uk.cls.nextsteps:c424b2a0-1970-4710-a683-9ae560fc47f3:1</r:URN>
+      <r:Agency>uk.cls.nextsteps</r:Agency>
       <r:ID>c424b2a0-1970-4710-a683-9ae560fc47f3</r:ID>
       <r:Version>1</r:Version>
       <UniverseName>
@@ -411,7 +411,7 @@ Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/next-steps/next-ste
     </Universe>
   </ddi:Fragment>
   <ddi:Fragment xmlns:r="ddi:reusable:3_2">
-    <StudyUnit isUniversallyUnique="true" versionDate="2020-08-04T15:16:10.9748218Z" xmlns="ddi:studyunit:3_2">
+    <StudyUnit isUniversallyUnique="true" versionDate="2020-08-07T14:14:08.5918474Z" xmlns="ddi:studyunit:3_2">
       <r:URN>urn:ddi:uk.cls.nextsteps:92f50262-1a83-4ad0-bfb4-6129a0a8d7ad:7</r:URN>
       <r:Agency>uk.cls.nextsteps</r:Agency>
       <r:ID>92f50262-1a83-4ad0-bfb4-6129a0a8d7ad</r:ID>
@@ -455,7 +455,7 @@ As at Sweep 1, the main parent was defined as the parent most involved in the yo
 Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/next-steps/next-steps-age-15-sweep" target="_blank" title="Next Steps Age 15 Survey"&gt;www.cls.ucl.ac.uk/cls-studies/next-steps-age-15-sweep&lt;/a&gt;</r:Content>
       </r:Abstract>
       <r:UniverseReference>
-        <r:Agency>uk.closer</r:Agency>
+        <r:Agency>uk.cls.nextsteps</r:Agency>
         <r:ID>2c7d5d57-2506-4219-9ada-9c079d11230f</r:ID>
         <r:Version>1</r:Version>
         <r:TypeOfObject>Universe</r:TypeOfObject>
@@ -566,8 +566,8 @@ Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/next-steps/next-ste
   </ddi:Fragment>
   <ddi:Fragment xmlns:r="ddi:reusable:3_2">
     <Universe isUniversallyUnique="true" versionDate="2020-07-03T16:36:49.4865601Z" xmlns="ddi:conceptualcomponent:3_2">
-      <r:URN>urn:ddi:uk.closer:2c7d5d57-2506-4219-9ada-9c079d11230f:1</r:URN>
-      <r:Agency>uk.closer</r:Agency>
+      <r:URN>urn:ddi:uk.cls.nextsteps:2c7d5d57-2506-4219-9ada-9c079d11230f:1</r:URN>
+      <r:Agency>uk.cls.nextsteps</r:Agency>
       <r:ID>2c7d5d57-2506-4219-9ada-9c079d11230f</r:ID>
       <r:Version>1</r:Version>
       <UniverseName>
@@ -582,7 +582,7 @@ Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/next-steps/next-ste
     </Universe>
   </ddi:Fragment>
   <ddi:Fragment xmlns:r="ddi:reusable:3_2">
-    <StudyUnit isUniversallyUnique="true" versionDate="2020-08-04T15:16:58.589002Z" xmlns="ddi:studyunit:3_2">
+    <StudyUnit isUniversallyUnique="true" versionDate="2020-08-07T14:14:34.6555042Z" xmlns="ddi:studyunit:3_2">
       <r:URN>urn:ddi:uk.cls.nextsteps:87e50bd9-321e-4e32-8317-d1437e3885ad:7</r:URN>
       <r:Agency>uk.cls.nextsteps</r:Agency>
       <r:ID>87e50bd9-321e-4e32-8317-d1437e3885ad</r:ID>
@@ -624,7 +624,7 @@ The sample member completed one module - the young person interview, which laste
 Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/next-steps/next-steps-age-16-sweep" target="_blank" title="Next Steps Age 16 Survey"&gt;www.cls.ucl.ac.uk/cls-studies/next-steps-age-16-sweep&lt;/a&gt;</r:Content>
       </r:Abstract>
       <r:UniverseReference>
-        <r:Agency>uk.closer</r:Agency>
+        <r:Agency>uk.cls.nextsteps</r:Agency>
         <r:ID>8b45559d-9433-443b-92f9-90eb0dd13ad2</r:ID>
         <r:Version>1</r:Version>
         <r:TypeOfObject>Universe</r:TypeOfObject>
@@ -755,8 +755,8 @@ Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/next-steps/next-ste
   </ddi:Fragment>
   <ddi:Fragment xmlns:r="ddi:reusable:3_2">
     <Universe isUniversallyUnique="true" versionDate="2020-07-03T16:37:31.1004669Z" xmlns="ddi:conceptualcomponent:3_2">
-      <r:URN>urn:ddi:uk.closer:8b45559d-9433-443b-92f9-90eb0dd13ad2:1</r:URN>
-      <r:Agency>uk.closer</r:Agency>
+      <r:URN>urn:ddi:uk.cls.nextsteps:8b45559d-9433-443b-92f9-90eb0dd13ad2:1</r:URN>
+      <r:Agency>uk.cls.nextsteps</r:Agency>
       <r:ID>8b45559d-9433-443b-92f9-90eb0dd13ad2</r:ID>
       <r:Version>1</r:Version>
       <UniverseName>
@@ -771,7 +771,7 @@ Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/next-steps/next-ste
     </Universe>
   </ddi:Fragment>
   <ddi:Fragment xmlns:r="ddi:reusable:3_2">
-    <StudyUnit isUniversallyUnique="true" versionDate="2020-08-04T15:17:45.3814943Z" xmlns="ddi:studyunit:3_2">
+    <StudyUnit isUniversallyUnique="true" versionDate="2020-08-07T14:14:53.5850722Z" xmlns="ddi:studyunit:3_2">
       <r:URN>urn:ddi:uk.cls.nextsteps:e92c993b-f49f-4aea-bd60-68935965bdfc:7</r:URN>
       <r:Agency>uk.cls.nextsteps</r:Agency>
       <r:ID>e92c993b-f49f-4aea-bd60-68935965bdfc</r:ID>
@@ -813,9 +813,9 @@ Of the 12,468 young people issued from the main sample at sweep 4, the survey re
 Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/next-steps/next-steps-age-17-sweep" target="_blank" title="Next Steps Age 17 Survey"&gt;www.cls.ucl.ac.uk/cls-studies/next-steps-age-17-sweep&lt;/a&gt;</r:Content>
       </r:Abstract>
       <r:UniverseReference>
-        <r:Agency>uk.closer</r:Agency>
+        <r:Agency>uk.cls.nextsteps</r:Agency>
         <r:ID>7893b035-c652-4a08-b362-345b9f74c5e0</r:ID>
-        <r:Version>1</r:Version>
+        <r:Version>2</r:Version>
         <r:TypeOfObject>Universe</r:TypeOfObject>
       </r:UniverseReference>
       <r:FundingInformation>
@@ -923,11 +923,11 @@ Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/next-steps/next-ste
     </DataCollection>
   </ddi:Fragment>
   <ddi:Fragment xmlns:r="ddi:reusable:3_2">
-    <Universe isUniversallyUnique="true" versionDate="2020-07-03T16:38:41.9113032Z" xmlns="ddi:conceptualcomponent:3_2">
-      <r:URN>urn:ddi:uk.closer:7893b035-c652-4a08-b362-345b9f74c5e0:1</r:URN>
-      <r:Agency>uk.closer</r:Agency>
+    <Universe isUniversallyUnique="true" versionDate="2020-08-04T14:51:48.9426164Z" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.cls.nextsteps:7893b035-c652-4a08-b362-345b9f74c5e0:2</r:URN>
+      <r:Agency>uk.cls.nextsteps</r:Agency>
       <r:ID>7893b035-c652-4a08-b362-345b9f74c5e0</r:ID>
-      <r:Version>1</r:Version>
+      <r:Version>2</r:Version>
       <UniverseName>
         <r:String xml:lang="en-GB">ns_age17</r:String>
       </UniverseName>
@@ -935,12 +935,12 @@ Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/next-steps/next-ste
         <r:Content xml:lang="en-GB">Next Steps Age 17 Population</r:Content>
       </r:Label>
       <r:Description>
-        <r:Content xml:lang="en-GB">All cohort members who were in Year 9 in English state and independent schools and pupil referral units in February 2004 and who participated at sweep 3.  In addition, the sweep four sample frame included an ethnic minority boost. </r:Content>
+        <r:Content xml:lang="en-GB">All cohort members who were in Year 9 in English state and independent schools and pupil referral units in February 2004 and who participated at sweep 3.  In addition, the sweep 4 sample frame included an ethnic minority boost. </r:Content>
       </r:Description>
     </Universe>
   </ddi:Fragment>
   <ddi:Fragment xmlns:r="ddi:reusable:3_2">
-    <StudyUnit isUniversallyUnique="true" versionDate="2020-08-04T15:19:30.3891944Z" xmlns="ddi:studyunit:3_2">
+    <StudyUnit isUniversallyUnique="true" versionDate="2020-08-07T14:15:20.4765822Z" xmlns="ddi:studyunit:3_2">
       <r:URN>urn:ddi:uk.cls.nextsteps:595ba7f4-c4b5-4001-88c0-43fcbf51cff6:6</r:URN>
       <r:Agency>uk.cls.nextsteps</r:Agency>
       <r:ID>595ba7f4-c4b5-4001-88c0-43fcbf51cff6</r:ID>
@@ -982,7 +982,7 @@ In addition, Sweep 5 was the first sweep which interviewed the sampled young per
 Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/next-steps/next-steps-age-18-sweep" target="_blank" title="Next Steps Age 18 Survey"&gt;www.cls.ucl.ac.uk/cls-studies/next-steps-age-18-sweep&lt;/a&gt;</r:Content>
       </r:Abstract>
       <r:UniverseReference>
-        <r:Agency>uk.closer</r:Agency>
+        <r:Agency>uk.cls.nextsteps</r:Agency>
         <r:ID>3999040a-6b63-4545-9342-113df0a249bc</r:ID>
         <r:Version>1</r:Version>
         <r:TypeOfObject>Universe</r:TypeOfObject>
@@ -1107,8 +1107,8 @@ Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/next-steps/next-ste
   </ddi:Fragment>
   <ddi:Fragment xmlns:r="ddi:reusable:3_2">
     <Universe isUniversallyUnique="true" versionDate="2020-07-03T16:39:32.418095Z" xmlns="ddi:conceptualcomponent:3_2">
-      <r:URN>urn:ddi:uk.closer:3999040a-6b63-4545-9342-113df0a249bc:1</r:URN>
-      <r:Agency>uk.closer</r:Agency>
+      <r:URN>urn:ddi:uk.cls.nextsteps:3999040a-6b63-4545-9342-113df0a249bc:1</r:URN>
+      <r:Agency>uk.cls.nextsteps</r:Agency>
       <r:ID>3999040a-6b63-4545-9342-113df0a249bc</r:ID>
       <r:Version>1</r:Version>
       <UniverseName>
@@ -1123,7 +1123,7 @@ Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/next-steps/next-ste
     </Universe>
   </ddi:Fragment>
   <ddi:Fragment xmlns:r="ddi:reusable:3_2">
-    <StudyUnit isUniversallyUnique="true" versionDate="2020-08-04T15:20:41.2573128Z" xmlns="ddi:studyunit:3_2">
+    <StudyUnit isUniversallyUnique="true" versionDate="2020-08-07T14:15:48.5686474Z" xmlns="ddi:studyunit:3_2">
       <r:URN>urn:ddi:uk.cls.nextsteps:2a9ccc04-e688-49d2-93c6-21e42bc5a77b:6</r:URN>
       <r:Agency>uk.cls.nextsteps</r:Agency>
       <r:ID>2a9ccc04-e688-49d2-93c6-21e42bc5a77b</r:ID>
@@ -1165,7 +1165,7 @@ The survey content focused on educational and early labour market experiences, b
 Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/next-steps/next-steps-age-19-sweep" target="_blank" title="Next Steps Age 19 Survey"&gt;www.cls.ucl.ac.uk/cls-studies/next-steps-age-19-sweep&lt;/a&gt;</r:Content>
       </r:Abstract>
       <r:UniverseReference>
-        <r:Agency>uk.closer</r:Agency>
+        <r:Agency>uk.cls.nextsteps</r:Agency>
         <r:ID>ab2fd7e6-6847-460d-903b-c56b93019ba6</r:ID>
         <r:Version>1</r:Version>
         <r:TypeOfObject>Universe</r:TypeOfObject>
@@ -1290,8 +1290,8 @@ Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/next-steps/next-ste
   </ddi:Fragment>
   <ddi:Fragment xmlns:r="ddi:reusable:3_2">
     <Universe isUniversallyUnique="true" versionDate="2020-07-03T16:40:15.9281177Z" xmlns="ddi:conceptualcomponent:3_2">
-      <r:URN>urn:ddi:uk.closer:ab2fd7e6-6847-460d-903b-c56b93019ba6:1</r:URN>
-      <r:Agency>uk.closer</r:Agency>
+      <r:URN>urn:ddi:uk.cls.nextsteps:ab2fd7e6-6847-460d-903b-c56b93019ba6:1</r:URN>
+      <r:Agency>uk.cls.nextsteps</r:Agency>
       <r:ID>ab2fd7e6-6847-460d-903b-c56b93019ba6</r:ID>
       <r:Version>1</r:Version>
       <UniverseName>
@@ -1306,7 +1306,7 @@ Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/next-steps/next-ste
     </Universe>
   </ddi:Fragment>
   <ddi:Fragment xmlns:r="ddi:reusable:3_2">
-    <StudyUnit isUniversallyUnique="true" versionDate="2020-08-04T15:21:38.4227331Z" xmlns="ddi:studyunit:3_2">
+    <StudyUnit isUniversallyUnique="true" versionDate="2020-08-07T14:16:17.3181167Z" xmlns="ddi:studyunit:3_2">
       <r:URN>urn:ddi:uk.cls.nextsteps:6403132e-fc8d-4c5a-b590-54a2ac62743c:6</r:URN>
       <r:Agency>uk.cls.nextsteps</r:Agency>
       <r:ID>6403132e-fc8d-4c5a-b590-54a2ac62743c</r:ID>
@@ -1348,7 +1348,7 @@ The survey content focused on educational and early labour market experiences, b
 Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/next-steps/next-steps-age-20-sweep" target="_blank" title="Next Steps Age 20 Survey"&gt;www.cls.ucl.ac.uk/cls-studies/next-steps-age-20-sweep&lt;/a&gt;</r:Content>
       </r:Abstract>
       <r:UniverseReference>
-        <r:Agency>uk.closer</r:Agency>
+        <r:Agency>uk.cls.nextsteps</r:Agency>
         <r:ID>43c1ab11-6046-457d-9281-f206c999e876</r:ID>
         <r:Version>1</r:Version>
         <r:TypeOfObject>Universe</r:TypeOfObject>
@@ -1493,8 +1493,8 @@ Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/next-steps/next-ste
   </ddi:Fragment>
   <ddi:Fragment xmlns:r="ddi:reusable:3_2">
     <Universe isUniversallyUnique="true" versionDate="2020-07-03T16:40:59.2718067Z" xmlns="ddi:conceptualcomponent:3_2">
-      <r:URN>urn:ddi:uk.closer:43c1ab11-6046-457d-9281-f206c999e876:1</r:URN>
-      <r:Agency>uk.closer</r:Agency>
+      <r:URN>urn:ddi:uk.cls.nextsteps:43c1ab11-6046-457d-9281-f206c999e876:1</r:URN>
+      <r:Agency>uk.cls.nextsteps</r:Agency>
       <r:ID>43c1ab11-6046-457d-9281-f206c999e876</r:ID>
       <r:Version>1</r:Version>
       <UniverseName>
@@ -1509,7 +1509,7 @@ Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/next-steps/next-ste
     </Universe>
   </ddi:Fragment>
   <ddi:Fragment xmlns:r="ddi:reusable:3_2">
-    <StudyUnit isUniversallyUnique="true" versionDate="2020-08-04T15:14:29.6885959Z" xmlns="ddi:studyunit:3_2">
+    <StudyUnit isUniversallyUnique="true" versionDate="2020-08-07T14:16:43.9803125Z" xmlns="ddi:studyunit:3_2">
       <r:URN>urn:ddi:uk.cls.nextsteps:7d451bc1-8462-48c4-a380-755d95b5d0d4:6</r:URN>
       <r:Agency>uk.cls.nextsteps</r:Agency>
       <r:ID>7d451bc1-8462-48c4-a380-755d95b5d0d4</r:ID>
@@ -1547,7 +1547,7 @@ The survey sample design was to contact all cohort members who had ever taken pa
 Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/next-steps/next-steps-age-25-sweep" target="_blank" title="Next Steps Age 25 Survey"&gt;www.cls.ucl.ac.uk/cls-studies/next-steps-age-25-sweep&lt;/a&gt;</r:Content>
       </r:Abstract>
       <r:UniverseReference>
-        <r:Agency>uk.closer</r:Agency>
+        <r:Agency>uk.cls.nextsteps</r:Agency>
         <r:ID>44f41316-931c-41d7-9e25-386b6f2af7f8</r:ID>
         <r:Version>2</r:Version>
         <r:TypeOfObject>Universe</r:TypeOfObject>
@@ -1685,8 +1685,8 @@ Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/next-steps/next-ste
   </ddi:Fragment>
   <ddi:Fragment xmlns:r="ddi:reusable:3_2">
     <Universe isUniversallyUnique="true" versionDate="2020-07-06T10:17:20.7310267Z" xmlns="ddi:conceptualcomponent:3_2">
-      <r:URN>urn:ddi:uk.closer:44f41316-931c-41d7-9e25-386b6f2af7f8:2</r:URN>
-      <r:Agency>uk.closer</r:Agency>
+      <r:URN>urn:ddi:uk.cls.nextsteps:44f41316-931c-41d7-9e25-386b6f2af7f8:2</r:URN>
+      <r:Agency>uk.cls.nextsteps</r:Agency>
       <r:ID>44f41316-931c-41d7-9e25-386b6f2af7f8</r:ID>
       <r:Version>2</r:Version>
       <UniverseName>
@@ -1701,7 +1701,7 @@ Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/next-steps/next-ste
     </Universe>
   </ddi:Fragment>
   <ddi:Fragment xmlns:r="ddi:reusable:3_2">
-    <StudyUnit isUniversallyUnique="true" versionDate="2020-08-04T17:15:49.6378867Z" xmlns="ddi:studyunit:3_2">
+    <StudyUnit isUniversallyUnique="true" versionDate="2020-08-07T14:17:08.2347618Z" xmlns="ddi:studyunit:3_2">
       <r:URN>urn:ddi:uk.cls.nextsteps:78572059-2541-4ce6-813f-10250a53c91b:4</r:URN>
       <r:Agency>uk.cls.nextsteps</r:Agency>
       <r:ID>78572059-2541-4ce6-813f-10250a53c91b</r:ID>
@@ -1735,9 +1735,9 @@ Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/next-steps/next-ste
 Study website: &lt;a href="https://cls.ucl.ac.uk/covid-19-survey/content-and-data/" target="_blank" title="1970 British Cohort Study (BCS70)"&gt;www.cls.ucl.ac.uk/covid-19-survey/content-and-data/&lt;/a&gt;</r:Content>
       </r:Abstract>
       <r:UniverseReference>
-        <r:Agency>uk.closer</r:Agency>
+        <r:Agency>uk.cls.nextsteps</r:Agency>
         <r:ID>9793f2d0-37d8-42be-9815-70be0b0a690f</r:ID>
-        <r:Version>1</r:Version>
+        <r:Version>2</r:Version>
         <r:TypeOfObject>Universe</r:TypeOfObject>
       </r:UniverseReference>
       <r:FundingInformation>
@@ -1860,11 +1860,11 @@ Study website: &lt;a href="https://cls.ucl.ac.uk/covid-19-survey/content-and-dat
     </Organization>
   </ddi:Fragment>
   <ddi:Fragment xmlns:r="ddi:reusable:3_2">
-    <Universe isUniversallyUnique="true" versionDate="2020-07-06T10:53:37.803684Z" xmlns="ddi:conceptualcomponent:3_2">
-      <r:URN>urn:ddi:uk.closer:9793f2d0-37d8-42be-9815-70be0b0a690f:1</r:URN>
-      <r:Agency>uk.closer</r:Agency>
+    <Universe isUniversallyUnique="true" versionDate="2020-08-04T14:52:53.2194711Z" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.cls.nextsteps:9793f2d0-37d8-42be-9815-70be0b0a690f:2</r:URN>
+      <r:Agency>uk.cls.nextsteps</r:Agency>
       <r:ID>9793f2d0-37d8-42be-9815-70be0b0a690f</r:ID>
-      <r:Version>1</r:Version>
+      <r:Version>2</r:Version>
       <UniverseName>
         <r:String xml:lang="en-GB">ns_covid_wave1</r:String>
       </UniverseName>
@@ -1872,7 +1872,7 @@ Study website: &lt;a href="https://cls.ucl.ac.uk/covid-19-survey/content-and-dat
         <r:Content xml:lang="en-GB">Next Steps COVID-19 Wave 1 Population</r:Content>
       </r:Label>
       <r:Description>
-        <r:Content xml:lang="en-GB">The COVID 19 Survey Wave 1 involved participants from the Next Steps study (born 1989-90). Invitations to participate in Wave 1 were sent via email to all those for whom an email address was held, including emigrants, but not including those who have permanently withdrawn from the studies, died or been defined as 'permanently untraced'. </r:Content>
+        <r:Content xml:lang="en-GB">The COVID-19 Survey Wave 1 involved participants from the Next Steps study (born 1989-90). Invitations to participate in Wave 1 were sent via email to all those for whom an email address was held, including emigrants, but not including those who have permanently withdrawn from the studies, died or been defined as 'permanently untraced'. </r:Content>
       </r:Description>
     </Universe>
   </ddi:Fragment>
