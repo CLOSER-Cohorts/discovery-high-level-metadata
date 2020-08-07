@@ -2,10 +2,29 @@
 <ddi:FragmentInstance xmlns:r="ddi:reusable:3_2" xmlns:ddi="ddi:instance:3_2">
   <ddi:TopLevelReference>
     <r:Agency>uk.cls.bcs70</r:Agency>
-    <r:ID>75fe4705-0c94-4f75-b1e6-ad9c61ffde26</r:ID>
-    <r:Version>29</r:Version>
-    <r:TypeOfObject>Group</r:TypeOfObject>
+    <r:ID>e07b3859-6ca8-4fec-8f23-110eb4c78077</r:ID>
+    <r:Version>1</r:Version>
+    <r:TypeOfObject>DDIInstance</r:TypeOfObject>
   </ddi:TopLevelReference>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <ddi:DDIInstance isUniversallyUnique="true" versionDate="2020-08-04T11:13:33.1566343Z">
+      <r:URN>urn:ddi:uk.cls.bcs70:e07b3859-6ca8-4fec-8f23-110eb4c78077:1</r:URN>
+      <r:Agency>uk.cls.bcs70</r:Agency>
+      <r:ID>e07b3859-6ca8-4fec-8f23-110eb4c78077</r:ID>
+      <r:Version>1</r:Version>
+      <r:Citation>
+        <r:Title>
+          <r:String xml:lang="en-GB">BCS</r:String>
+        </r:Title>
+      </r:Citation>
+      <r:GroupReference>
+        <r:Agency>uk.cls.bcs70</r:Agency>
+        <r:ID>75fe4705-0c94-4f75-b1e6-ad9c61ffde26</r:ID>
+        <r:Version>29</r:Version>
+        <r:TypeOfObject>Group</r:TypeOfObject>
+      </r:GroupReference>
+    </ddi:DDIInstance>
+  </ddi:Fragment>
   <ddi:Fragment xmlns:r="ddi:reusable:3_2">
     <Group isUniversallyUnique="true" versionDate="2020-08-04T11:13:33.1356337Z" xmlns="ddi:group:3_2">
       <r:URN>urn:ddi:uk.cls.bcs70:75fe4705-0c94-4f75-b1e6-ad9c61ffde26:29</r:URN>
@@ -3710,7 +3729,7 @@ Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/1970-british-cohort
     </Universe>
   </ddi:Fragment>
   <ddi:Fragment xmlns:r="ddi:reusable:3_2">
-    <StudyUnit isUniversallyUnique="true" versionDate="2020-08-04T11:32:50.8569755Z" xmlns="ddi:studyunit:3_2">
+    <StudyUnit isUniversallyUnique="true" versionDate="2020-08-07T14:11:12.959843Z" xmlns="ddi:studyunit:3_2">
       <r:URN>urn:ddi:uk.cls.bcs70:0198e606-1835-4595-9105-efa3b5cb2087:2</r:URN>
       <r:Agency>uk.cls.bcs70</r:Agency>
       <r:ID>0198e606-1835-4595-9105-efa3b5cb2087</r:ID>
@@ -3744,9 +3763,9 @@ Study website: &lt;a href="https://cls.ucl.ac.uk/cls-studies/1970-british-cohort
 Study website: &lt;a href="https://cls.ucl.ac.uk/covid-19-survey/content-and-data/" target="_blank" title="1970 British Cohort Study (BCS70)"&gt;www.cls.ucl.ac.uk/covid-19-survey/content-and-data/&lt;/a&gt;</r:Content>
       </r:Abstract>
       <r:UniverseReference>
-        <r:Agency>uk.closer</r:Agency>
+        <r:Agency>uk.cls.bcs70</r:Agency>
         <r:ID>26de4796-8fc2-45e1-b67d-14dc14cca780</r:ID>
-        <r:Version>1</r:Version>
+        <r:Version>2</r:Version>
         <r:TypeOfObject>Universe</r:TypeOfObject>
       </r:UniverseReference>
       <r:FundingInformation>
@@ -3868,11 +3887,11 @@ Study website: &lt;a href="https://cls.ucl.ac.uk/covid-19-survey/content-and-dat
     </Organization>
   </ddi:Fragment>
   <ddi:Fragment xmlns:r="ddi:reusable:3_2">
-    <Universe isUniversallyUnique="true" versionDate="2020-07-06T10:55:32.9498906Z" xmlns="ddi:conceptualcomponent:3_2">
-      <r:URN>urn:ddi:uk.closer:26de4796-8fc2-45e1-b67d-14dc14cca780:1</r:URN>
-      <r:Agency>uk.closer</r:Agency>
+    <Universe isUniversallyUnique="true" versionDate="2020-08-04T14:53:20.7519109Z" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.cls.bcs70:26de4796-8fc2-45e1-b67d-14dc14cca780:2</r:URN>
+      <r:Agency>uk.cls.bcs70</r:Agency>
       <r:ID>26de4796-8fc2-45e1-b67d-14dc14cca780</r:ID>
-      <r:Version>1</r:Version>
+      <r:Version>2</r:Version>
       <UniverseName>
         <r:String xml:lang="en-GB">bcs_70_covid_wave1</r:String>
       </UniverseName>
@@ -3880,7 +3899,7 @@ Study website: &lt;a href="https://cls.ucl.ac.uk/covid-19-survey/content-and-dat
         <r:Content xml:lang="en-GB">BCS 1970 COVID Wave 1 Population</r:Content>
       </r:Label>
       <r:Description>
-        <r:Content xml:lang="en-GB">The COVID 19 Survey Wave 1 involved participants from the 1970 British Cohort Study. Invitations to participate in Wave 1 were sent via email to all those for whom an email address was held, including emigrants, but not including those who have permanently withdrawn from the studies, died or been defined as 'permanently untraced'.  </r:Content>
+        <r:Content xml:lang="en-GB">The COVID-19 Survey Wave 1 involved participants from the 1970 British Cohort Study. Invitations to participate in Wave 1 were sent via email to all those for whom an email address was held, including emigrants, but not including those who have permanently withdrawn from the studies, died or been defined as 'permanently untraced'.  </r:Content>
       </r:Description>
     </Universe>
   </ddi:Fragment>
