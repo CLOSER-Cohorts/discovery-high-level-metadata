@@ -1,13 +1,1246 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ddi:FragmentInstance xmlns:r="ddi:reusable:3_2" xmlns:ddi="ddi:instance:3_2">
   <ddi:TopLevelReference>
-    <r:Agency>uk.wchads</r:Agency>
-    <r:ID>eeb6361e-e21d-4f36-8956-e950d79fa279</r:ID>
-    <r:Version>1</r:Version>
-    <r:TypeOfObject>StudyUnit</r:TypeOfObject>
+    <r:Agency>uk.closer</r:Agency>
+    <r:ID>9b8e90ee-ebc8-4c14-be44-4944aced333d</r:ID>
+    <r:Version>2</r:Version>
+    <r:TypeOfObject>DDIInstance</r:TypeOfObject>
   </ddi:TopLevelReference>
   <ddi:Fragment xmlns:r="ddi:reusable:3_2">
-    <StudyUnit isUniversallyUnique="true" versionDate="2020-08-07T13:03:34.251769Z" xmlns="ddi:studyunit:3_2">
+    <ddi:DDIInstance isUniversallyUnique="true" versionDate="2020-08-05T11:48:43.1671744Z">
+      <r:URN>urn:ddi:uk.closer:9b8e90ee-ebc8-4c14-be44-4944aced333d:2</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>9b8e90ee-ebc8-4c14-be44-4944aced333d</r:ID>
+      <r:Version>2</r:Version>
+      <r:Citation>
+        <r:Title>
+          <r:String xml:lang="en-GB">wirral</r:String>
+        </r:Title>
+      </r:Citation>
+      <r:GroupReference>
+        <r:Agency>uk.wchads</r:Agency>
+        <r:ID>1503038e-c369-4912-a198-85e504c332e7</r:ID>
+        <r:Version>6</r:Version>
+        <r:TypeOfObject>Group</r:TypeOfObject>
+      </r:GroupReference>
+    </ddi:DDIInstance>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Group isUniversallyUnique="true" versionDate="2020-08-07T14:21:32.786165Z" xmlns="ddi:group:3_2">
+      <r:URN>urn:ddi:uk.wchads:1503038e-c369-4912-a198-85e504c332e7:6</r:URN>
+      <r:Agency>uk.wchads</r:Agency>
+      <r:ID>1503038e-c369-4912-a198-85e504c332e7</r:ID>
+      <r:Version>6</r:Version>
+      <r:Citation>
+        <r:Title>
+          <r:String xml:lang="en-GB">Wirral Child Health and Development Study</r:String>
+        </r:Title>
+        <r:AlternateTitle>
+          <r:String xml:lang="en-GB">First Steps Study</r:String>
+        </r:AlternateTitle>
+        <r:Creator>
+          <r:CreatorName>
+            <r:String xml:lang="en-GB">Professor Jonathan Hill (University of Reading), Professor Helen Sharp  (University of Liverpool)</r:String>
+          </r:CreatorName>
+        </r:Creator>
+        <r:Publisher>
+          <r:PublisherName>
+            <r:String xml:lang="en-GB">University of Liverpool</r:String>
+          </r:PublisherName>
+        </r:Publisher>
+        <r:Copyright>
+          <r:String xml:lang="en-GB">Copyright University of Liverpool. All rights reserved.</r:String>
+        </r:Copyright>
+      </r:Citation>
+      <r:Abstract>
+        <r:Content xml:lang="en-GB">The Wirral Child Health and Development Study was established in 2007 to identify early social, emotional and biological risks and processes involved in the development of childhood conduct problems. It was designed to identify pathways to antisocial outcomes that might require differing treatment responses. The study is also ideally designed to identify pathways to childhood emotional problems. 
+
+The sample was identified from consecutive first-time mothers who booked for antenatal care at 12 weeks of gestation between 12 February 2007 and 29 October 2008. The booking clinic was administered by the Wirral University Teaching Hospital, which was the sole provider of universal prenatal care on the Wirral Peninsula. The study was introduced to the women by clinic midwives who asked for their agreement to be approached by study research midwives when they attended for ultrasound scanning at 20 weeks of gestation. 
+
+A total of 1286 mothers and 1014 partners enrolled in the study (68.4% of those approached) and completed interviews and questionnaires at the 20 weeks stage. The final sample comprised 1233 mothers with live, singleton births with no gross congenital abnormalities and who had remained in the study up to the birth of their baby. A stratified subsample of 316 mothers were identified for intensive study based on a measure of partner psychological abuse in pregnancy. Fourteen phases of data collection have been completed from 20 weeks of pregnancy to age 9 years. For the intensive sample this includes a 32 weeks pregnancy interview, obstetric and antenatal records, child and mother assessments at age 5 weeks, 7 months, 14 months, 27 months, 3.5 years, 5 years, 7 years and 9 years, and a postal questionnaire at 9-12 weeks postnatal. For the remainder of the sample (the extensive sample) we gathered obstetric and antenatal records, completed postal questionnaires at 9 weeks, 14 months and 5 years, and completed child and mother assessments at 3.5 years, 7 years and 9 years. At age 9 over 900 families remain in the study. 
+
+The study has been funded by the Medical Research Council from establishment to age 9 in full. The mothers and children will be followed at age 11-12 years with a postal/online questionnaire with local funding. 
+
+The Wirral Child Health and Development Study are in the process of sharing their metadata with CLOSER for all the questionnaire measures in WCHADS. Please go to the website to contact WCHADS or to find details of their additional experimental, observational and biological measurements. 
+
+Study website: &lt;a href="https://www.liverpool.ac.uk/institute-of-life-and-human-sciences/schools-and-departments/department-of-psychological-sciences/research/first-steps/" target="_blank" title="Wirral Child Health and Development Study"&gt;https://www.liverpool.ac.uk/institute-of-life-and-human-sciences/schools-and-departments/department-of-psychological-sciences/research/first-steps/&lt;/a&gt;</r:Content>
+      </r:Abstract>
+      <r:UniverseReference>
+        <r:Agency>uk.wchads</r:Agency>
+        <r:ID>1a875ff7-66b1-456f-8d49-17c6ce26f4f9</r:ID>
+        <r:Version>3</r:Version>
+        <r:TypeOfObject>Universe</r:TypeOfObject>
+      </r:UniverseReference>
+      <r:FundingInformation>
+        <r:AgencyOrganizationReference>
+          <r:Agency>uk.closer</r:Agency>
+          <r:ID>a1bdc1c8-d24e-44e1-87f2-5bcd7ab98e22</r:ID>
+          <r:Version>3</r:Version>
+          <r:TypeOfObject>Organization</r:TypeOfObject>
+        </r:AgencyOrganizationReference>
+      </r:FundingInformation>
+      <r:StudyUnitReference>
+        <r:Agency>uk.wchads</r:Agency>
+        <r:ID>4b94d48f-39c0-47bb-8a2d-1703424b470d</r:ID>
+        <r:Version>6</r:Version>
+        <r:TypeOfObject>StudyUnit</r:TypeOfObject>
+      </r:StudyUnitReference>
+      <r:StudyUnitReference>
+        <r:Agency>uk.wchads</r:Agency>
+        <r:ID>95c5a407-bd4e-45ea-a720-37c658231de0</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>StudyUnit</r:TypeOfObject>
+      </r:StudyUnitReference>
+      <r:StudyUnitReference>
+        <r:Agency>uk.wchads</r:Agency>
+        <r:ID>f9d60bec-8b3b-4bd3-8cef-8329cea9c6ba</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>StudyUnit</r:TypeOfObject>
+      </r:StudyUnitReference>
+      <r:StudyUnitReference>
+        <r:Agency>uk.wchads</r:Agency>
+        <r:ID>834c2bbf-a4c3-4f0e-92b8-a2513f9bb0ec</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>StudyUnit</r:TypeOfObject>
+      </r:StudyUnitReference>
+      <r:StudyUnitReference>
+        <r:Agency>uk.wchads</r:Agency>
+        <r:ID>f8473669-de04-48da-ae38-c45862a8a1d0</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>StudyUnit</r:TypeOfObject>
+      </r:StudyUnitReference>
+      <r:StudyUnitReference>
+        <r:Agency>uk.wchads</r:Agency>
+        <r:ID>362ba73d-aa1c-415a-87d4-1a40ec313dd0</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>StudyUnit</r:TypeOfObject>
+      </r:StudyUnitReference>
+      <r:StudyUnitReference>
+        <r:Agency>uk.wchads</r:Agency>
+        <r:ID>eeb6361e-e21d-4f36-8956-e950d79fa279</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>StudyUnit</r:TypeOfObject>
+      </r:StudyUnitReference>
+      <r:StudyUnitReference>
+        <r:Agency>uk.wchads</r:Agency>
+        <r:ID>1eda1f9e-0aac-47f4-be2e-e7e0f61f08ba</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>StudyUnit</r:TypeOfObject>
+      </r:StudyUnitReference>
+      <r:StudyUnitReference>
+        <r:Agency>uk.wchads</r:Agency>
+        <r:ID>03317b5f-7fbe-4d19-9c58-45e14ba94009</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>StudyUnit</r:TypeOfObject>
+      </r:StudyUnitReference>
+      <r:StudyUnitReference>
+        <r:Agency>uk.wchads</r:Agency>
+        <r:ID>117574c4-b058-4dbb-af65-10683e23c834</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>StudyUnit</r:TypeOfObject>
+      </r:StudyUnitReference>
+      <r:StudyUnitReference>
+        <r:Agency>uk.wchads</r:Agency>
+        <r:ID>5647e697-47b0-4f53-956a-c767197dcc8e</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>StudyUnit</r:TypeOfObject>
+      </r:StudyUnitReference>
+      <r:StudyUnitReference>
+        <r:Agency>uk.wchads</r:Agency>
+        <r:ID>3b3ad41e-6218-4327-8d55-51b8533a320b</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>StudyUnit</r:TypeOfObject>
+      </r:StudyUnitReference>
+    </Group>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Organization isUniversallyUnique="true" versionDate="2019-11-13T09:48:32.2257219Z" xmlns="ddi:archive:3_2">
+      <r:URN>urn:ddi:uk.closer:a1bdc1c8-d24e-44e1-87f2-5bcd7ab98e22:3</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>a1bdc1c8-d24e-44e1-87f2-5bcd7ab98e22</r:ID>
+      <r:Version>3</r:Version>
+      <r:UserAttributePair>
+        <r:AttributeKey>ddi31:Nickname</r:AttributeKey>
+        <r:AttributeValue>{"en-GB":"MRC"}</r:AttributeValue>
+      </r:UserAttributePair>
+      <OrganizationIdentification>
+        <OrganizationName>
+          <r:String xml:lang="en-GB">Medical Research Council</r:String>
+        </OrganizationName>
+        <OrganizationImage>
+          <r:ImageLocation></r:ImageLocation>
+        </OrganizationImage>
+      </OrganizationIdentification>
+      <r:Description>
+        <r:Content xml:lang="en-GB">The MRC is responsible for co-coordinating and funding medical research in the UK. It is part of UK Research and Innovation (UKRI) which is a non-departmental public body (NDPB) funded by the UK government (&lt;a href="https://en.wikipedia.org/w/index.php?title=Medical_Research_Council_(United_Kingdom)&amp;oldid=921149396" target="_blank" &gt;Medical Research Council (United Kingdom), n.d. &lt;/a&gt; ). </r:Content>
+      </r:Description>
+    </Organization>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Universe isUniversallyUnique="true" versionDate="2020-08-05T14:57:16.2042712Z" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.wchads:1a875ff7-66b1-456f-8d49-17c6ce26f4f9:3</r:URN>
+      <r:Agency>uk.wchads</r:Agency>
+      <r:ID>1a875ff7-66b1-456f-8d49-17c6ce26f4f9</r:ID>
+      <r:Version>3</r:Version>
+      <UniverseName>
+        <r:String xml:lang="en-GB">WCHADS_overall</r:String>
+      </UniverseName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">WCHADS Overall Population</r:Content>
+      </r:Label>
+      <r:Description>
+        <r:Content xml:lang="en-GB">Mothers, their partners and their first born children that were born between 2007 and 2009, who had their 20 week scan at Arrowe Park Hospital, Wirral.</r:Content>
+      </r:Description>
+    </Universe>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <StudyUnit isUniversallyUnique="true" versionDate="2020-08-07T14:21:48.0727449Z" xmlns="ddi:studyunit:3_2">
+      <r:URN>urn:ddi:uk.wchads:4b94d48f-39c0-47bb-8a2d-1703424b470d:6</r:URN>
+      <r:Agency>uk.wchads</r:Agency>
+      <r:ID>4b94d48f-39c0-47bb-8a2d-1703424b470d</r:ID>
+      <r:Version>6</r:Version>
+      <r:UserAttributePair>
+        <r:AttributeKey>extension:CustomField</r:AttributeKey>
+        <r:AttributeValue>{"Title":{"en-GB":"LifeStage"},"Description":{},"ValueType":0,"HasValue":true,"RelationshipTargetType":"00000000-0000-0000-0000-000000000000","StringValue":"Pregnancy, birth and infancy","MultilingualStringValue":{},"HasDefinedType":false,"DisplayLabel":"LifeStage"}</r:AttributeValue>
+      </r:UserAttributePair>
+      <r:UserAttributePair>
+        <r:AttributeKey>extension:CustomField</r:AttributeKey>
+        <r:AttributeValue>{"Title":{"en-GB":"LifeStageDescription"},"Description":{},"ValueType":0,"HasValue":true,"RelationshipTargetType":"00000000-0000-0000-0000-000000000000","StringValue":" Pregnancy - 1 year","MultilingualStringValue":{},"HasDefinedType":false,"DisplayLabel":"LifeStageDescription"}</r:AttributeValue>
+      </r:UserAttributePair>
+      <r:Citation>
+        <r:Title>
+          <r:String xml:lang="en-GB">Phase 01</r:String>
+        </r:Title>
+        <r:Creator>
+          <r:CreatorName>
+            <r:String xml:lang="en-GB">Professor Jonathan Hill (University of Reading), Professor Helen Sharp  (University of Liverpool)</r:String>
+          </r:CreatorName>
+        </r:Creator>
+        <r:Publisher>
+          <r:PublisherName>
+            <r:String xml:lang="en-GB">University of Liverpool</r:String>
+          </r:PublisherName>
+        </r:Publisher>
+      </r:Citation>
+      <r:Abstract>
+        <r:Content xml:lang="en-GB">A consecutive sample of first time mothers were approached at their 12 week antenatal booking appointment. Mothers who had said they were happy to hear about joining the study were approached when they attended their 20 week scan by study research midwives and asked for consent to participate. A total of 1286 mothers enrolled in the study (68.4% of those approached) between March 2007 and December 2008. Of those, 1014 partners also gave consent to take part. Some women did not have partners. Mothers and partners completed separate interview and questionnaire measures during the 20 weeks scan appointment. They provided written informed consent to be contacted for further follow up, (i) in the third trimester of pregnancy if eligible for invitation to the intensive sample and (ii) for universal follow-up after birth up to one year. 
+
+Study website: &lt;a href="https://www.liverpool.ac.uk/institute-of-life-and-human-sciences/schools-and-departments/department-of-psychological-sciences/research/first-steps/" target="_blank" title="Wirral Child Health and Development Study"&gt;https://www.liverpool.ac.uk/institute-of-life-and-human-sciences/schools-and-departments/department-of-psychological-sciences/research/first-steps/&lt;/a&gt; </r:Content>
+      </r:Abstract>
+      <r:UniverseReference>
+        <r:Agency>uk.wchads</r:Agency>
+        <r:ID>a4247584-2fd5-4be8-a228-3278f1e403dd</r:ID>
+        <r:Version>3</r:Version>
+        <r:TypeOfObject>Universe</r:TypeOfObject>
+      </r:UniverseReference>
+      <r:FundingInformation>
+        <r:AgencyOrganizationReference>
+          <r:Agency>uk.closer</r:Agency>
+          <r:ID>a1bdc1c8-d24e-44e1-87f2-5bcd7ab98e22</r:ID>
+          <r:Version>3</r:Version>
+          <r:TypeOfObject>Organization</r:TypeOfObject>
+        </r:AgencyOrganizationReference>
+      </r:FundingInformation>
+      <r:Coverage>
+        <r:SpatialCoverage isUniversallyUnique="true">
+          <r:URN>urn:ddi:uk.wchads:52cf068d-a69a-4624-85e9-c75c5bdb2163:6</r:URN>
+          <r:Agency>uk.wchads</r:Agency>
+          <r:ID>52cf068d-a69a-4624-85e9-c75c5bdb2163</r:ID>
+          <r:Version>6</r:Version>
+          <r:BoundingBox>
+            <r:WestLongitude>0</r:WestLongitude>
+            <r:EastLongitude>0</r:EastLongitude>
+            <r:SouthLatitude>0</r:SouthLatitude>
+            <r:NorthLatitude>0</r:NorthLatitude>
+          </r:BoundingBox>
+          <r:Description>
+            <r:Content xml:lang="en-GB">Wirral, Merseyside, England</r:Content>
+          </r:Description>
+          <r:Country>GB-ENG</r:Country>
+          <r:TopLevelReference>
+            <r:LevelName>Country</r:LevelName>
+          </r:TopLevelReference>
+          <r:LowestLevelReference>
+            <r:LevelName>Address</r:LevelName>
+          </r:LowestLevelReference>
+        </r:SpatialCoverage>
+        <r:TemporalCoverage isUniversallyUnique="true">
+          <r:URN>urn:ddi:uk.wchads:6196116e-4406-4aac-9def-b1c3cafee2d4:6</r:URN>
+          <r:Agency>uk.wchads</r:Agency>
+          <r:ID>6196116e-4406-4aac-9def-b1c3cafee2d4</r:ID>
+          <r:Version>6</r:Version>
+          <r:ReferenceDate>
+            <r:StartDate>2007</r:StartDate>
+            <r:EndDate>2008</r:EndDate>
+          </r:ReferenceDate>
+        </r:TemporalCoverage>
+      </r:Coverage>
+      <r:AnalysisUnit codeListVersionID="1.0">Individual</r:AnalysisUnit>
+      <r:KindOfData codeListVersionID="1.0">Survey Data</r:KindOfData>
+      <r:KindOfData codeListVersionID="1.0">Demographic Data</r:KindOfData>
+      <r:DataCollectionReference>
+        <r:Agency>uk.wchads</r:Agency>
+        <r:ID>3d73359c-0c84-4830-9760-f4b3c3410f00</r:ID>
+        <r:Version>5</r:Version>
+        <r:TypeOfObject>DataCollection</r:TypeOfObject>
+      </r:DataCollectionReference>
+      <r:DataCollectionReference>
+        <r:Agency>uk.wchads</r:Agency>
+        <r:ID>e8f830f2-e974-4571-95e5-a89e64bcaaa3</r:ID>
+        <r:Version>4</r:Version>
+        <r:TypeOfObject>DataCollection</r:TypeOfObject>
+      </r:DataCollectionReference>
+    </StudyUnit>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <DataCollection isUniversallyUnique="true" versionDate="2020-08-06T08:51:25.7735397Z" xmlns="ddi:datacollection:3_2">
+      <r:URN>urn:ddi:uk.wchads:3d73359c-0c84-4830-9760-f4b3c3410f00:5</r:URN>
+      <r:Agency>uk.wchads</r:Agency>
+      <r:ID>3d73359c-0c84-4830-9760-f4b3c3410f00</r:ID>
+      <r:Version>5</r:Version>
+      <DataCollectionModuleName>
+        <r:String xml:lang="en-GB">wchads_07_ph01mx</r:String>
+      </DataCollectionModuleName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Phase 01 Mother Questionnaire</r:Content>
+      </r:Label>
+      <CollectionEvent isUniversallyUnique="true">
+        <r:URN>urn:ddi:uk.wchads:e857141c-b75d-4a78-bf2c-70c52696166c:5</r:URN>
+        <r:Agency>uk.wchads</r:Agency>
+        <r:ID>e857141c-b75d-4a78-bf2c-70c52696166c</r:ID>
+        <r:Version>5</r:Version>
+        <DataCollectorOrganizationReference>
+          <r:Agency>uk.closer</r:Agency>
+          <r:ID>ad300f64-2a5c-433d-b83a-359e8c7861c9</r:ID>
+          <r:Version>2</r:Version>
+          <r:TypeOfObject>Organization</r:TypeOfObject>
+        </DataCollectorOrganizationReference>
+        <DataCollectionDate>
+          <r:StartDate>2007</r:StartDate>
+          <r:EndDate>2008</r:EndDate>
+        </DataCollectionDate>
+        <ModeOfCollection isUniversallyUnique="true">
+          <r:URN>urn:ddi:uk.wchads:90d4e800-325a-4a6e-b7da-81a69dd807a4:5</r:URN>
+          <r:Agency>uk.wchads</r:Agency>
+          <r:ID>90d4e800-325a-4a6e-b7da-81a69dd807a4</r:ID>
+          <r:Version>5</r:Version>
+          <TypeOfModeOfCollection codeListVersionID="1.0">SelfAdministeredQuestionnaire.Paper</TypeOfModeOfCollection>
+          <r:Description>
+            <r:Content xml:lang="en-GB">Self-administered survey using a traditional paper questionnaire.</r:Content>
+          </r:Description>
+        </ModeOfCollection>
+      </CollectionEvent>
+    </DataCollection>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Organization isUniversallyUnique="true" versionDate="2019-11-13T10:55:23.5467612Z" xmlns="ddi:archive:3_2">
+      <r:URN>urn:ddi:uk.closer:ad300f64-2a5c-433d-b83a-359e8c7861c9:2</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>ad300f64-2a5c-433d-b83a-359e8c7861c9</r:ID>
+      <r:Version>2</r:Version>
+      <OrganizationIdentification>
+        <OrganizationName>
+          <r:String xml:lang="en-GB">Wirral Child Health and Development Study Research Team</r:String>
+        </OrganizationName>
+      </OrganizationIdentification>
+      <r:Description>
+        <r:Content xml:lang="en-GB">WCHADS in-house data collectors (&lt;a href="https://www.liverpool.ac.uk/institute-of-life-and-human-sciences/schools-and-departments/department-of-psychological-sciences/research/first-steps/about/" target="_blank" &gt;WCHADS&lt;/a&gt;).</r:Content>
+      </r:Description>
+    </Organization>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <DataCollection isUniversallyUnique="true" versionDate="2020-08-06T08:51:53.923851Z" xmlns="ddi:datacollection:3_2">
+      <r:URN>urn:ddi:uk.wchads:e8f830f2-e974-4571-95e5-a89e64bcaaa3:4</r:URN>
+      <r:Agency>uk.wchads</r:Agency>
+      <r:ID>e8f830f2-e974-4571-95e5-a89e64bcaaa3</r:ID>
+      <r:Version>4</r:Version>
+      <DataCollectionModuleName>
+        <r:String xml:lang="en-GB">wchads_07_ph01px</r:String>
+      </DataCollectionModuleName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Phase 01 Partner Questionnaire</r:Content>
+      </r:Label>
+      <CollectionEvent isUniversallyUnique="true">
+        <r:URN>urn:ddi:uk.wchads:8ce4b775-ed13-4038-95db-61c6e83d9f9e:4</r:URN>
+        <r:Agency>uk.wchads</r:Agency>
+        <r:ID>8ce4b775-ed13-4038-95db-61c6e83d9f9e</r:ID>
+        <r:Version>4</r:Version>
+        <DataCollectorOrganizationReference>
+          <r:Agency>uk.closer</r:Agency>
+          <r:ID>ad300f64-2a5c-433d-b83a-359e8c7861c9</r:ID>
+          <r:Version>2</r:Version>
+          <r:TypeOfObject>Organization</r:TypeOfObject>
+        </DataCollectorOrganizationReference>
+        <DataCollectionDate>
+          <r:StartDate>2007</r:StartDate>
+          <r:EndDate>2008</r:EndDate>
+        </DataCollectionDate>
+        <ModeOfCollection isUniversallyUnique="true">
+          <r:URN>urn:ddi:uk.wchads:1834bea8-6543-4fef-aa51-8eacfce72c74:4</r:URN>
+          <r:Agency>uk.wchads</r:Agency>
+          <r:ID>1834bea8-6543-4fef-aa51-8eacfce72c74</r:ID>
+          <r:Version>4</r:Version>
+          <TypeOfModeOfCollection codeListVersionID="1.0">SelfAdministeredQuestionnaire.Paper</TypeOfModeOfCollection>
+          <r:Description>
+            <r:Content xml:lang="en-GB">Self-administered survey using a traditional paper questionnaire.</r:Content>
+          </r:Description>
+        </ModeOfCollection>
+      </CollectionEvent>
+    </DataCollection>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Universe isUniversallyUnique="true" versionDate="2020-08-05T14:57:28.554034Z" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.wchads:a4247584-2fd5-4be8-a228-3278f1e403dd:3</r:URN>
+      <r:Agency>uk.wchads</r:Agency>
+      <r:ID>a4247584-2fd5-4be8-a228-3278f1e403dd</r:ID>
+      <r:Version>3</r:Version>
+      <UniverseName>
+        <r:String xml:lang="en-GB">WCHADS_phase_01</r:String>
+      </UniverseName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">WCHADS Phase 1 Population</r:Content>
+      </r:Label>
+      <r:Description>
+        <r:Content xml:lang="en-GB">First time mothers, their partners and subsequently their child, who attended for antenatal care at Arrowe Park Hospital, Wirral, between February 2007 and October 2008. </r:Content>
+      </r:Description>
+    </Universe>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <StudyUnit isUniversallyUnique="true" versionDate="2020-08-07T14:22:28.9811296Z" xmlns="ddi:studyunit:3_2">
+      <r:URN>urn:ddi:uk.wchads:95c5a407-bd4e-45ea-a720-37c658231de0:1</r:URN>
+      <r:Agency>uk.wchads</r:Agency>
+      <r:ID>95c5a407-bd4e-45ea-a720-37c658231de0</r:ID>
+      <r:Version>1</r:Version>
+      <r:UserAttributePair>
+        <r:AttributeKey>extension:CustomField</r:AttributeKey>
+        <r:AttributeValue>{"Title":{"en-GB":"LifeStage"},"Description":{},"ValueType":0,"HasValue":true,"RelationshipTargetType":"00000000-0000-0000-0000-000000000000","StringValue":"Pregnancy, birth and infancy","MultilingualStringValue":{},"HasDefinedType":false,"DisplayLabel":"LifeStage"}</r:AttributeValue>
+      </r:UserAttributePair>
+      <r:UserAttributePair>
+        <r:AttributeKey>extension:CustomField</r:AttributeKey>
+        <r:AttributeValue>{"Title":{"en-GB":"LifeStageDescription"},"Description":{},"ValueType":0,"HasValue":true,"RelationshipTargetType":"00000000-0000-0000-0000-000000000000","StringValue":"Pregnancy - 1 year","MultilingualStringValue":{},"HasDefinedType":false,"DisplayLabel":"LifeStageDescription"}</r:AttributeValue>
+      </r:UserAttributePair>
+      <r:Citation>
+        <r:Title>
+          <r:String xml:lang="en-GB">Phase 02</r:String>
+        </r:Title>
+        <r:Creator>
+          <r:CreatorName>
+            <r:String xml:lang="en-GB">Professor Jonathan Hill (University of Reading), Professor Helen Sharp (University of Liverpool)</r:String>
+          </r:CreatorName>
+        </r:Creator>
+        <r:Publisher>
+          <r:PublisherName>
+            <r:String xml:lang="en-GB">University of Liverpool</r:String>
+          </r:PublisherName>
+        </r:Publisher>
+      </r:Citation>
+      <r:Abstract>
+        <r:Content xml:lang="en-GB">Women scoring above threshold on a measure of intimate partner psychological abuse at the 20 week (phase 1) assessment were invited to take part in our intensive subsample along with a random sample of women scoring below threshold on this measure. 341 consented to take part. Detailed interview and questionnaire data was collected to assess a wide range of psychological and social variables. Broad domains of measurement include; personality functioning, mental health, social support, partner violence and emotional abuse, feelings and attitudes towards the baby, feeding intentions, expectations regarding motherhood and infant. Some experimental measures were completed e.g. Ekman faces for assessment of maternal emotion recognition. Biological samples - maternal diurnal cortisol. 
+
+Study website: &lt;a href="https://www.liverpool.ac.uk/institute-of-life-and-human-sciences/schools-and-departments/department-of-psychological-sciences/research/first-steps/" target="_blank" title="Wirral Child Health and Development Study"&gt;https://www.liverpool.ac.uk/institute-of-life-and-human-sciences/schools-and-departments/department-of-psychological-sciences/research/first-steps/&lt;/a&gt; </r:Content>
+      </r:Abstract>
+      <r:UniverseReference>
+        <r:Agency>uk.wchads</r:Agency>
+        <r:ID>acd7c1dd-125b-43ce-a6f9-4445ed59bbb3</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Universe</r:TypeOfObject>
+      </r:UniverseReference>
+      <r:FundingInformation>
+        <r:AgencyOrganizationReference>
+          <r:Agency>uk.closer</r:Agency>
+          <r:ID>a1bdc1c8-d24e-44e1-87f2-5bcd7ab98e22</r:ID>
+          <r:Version>3</r:Version>
+          <r:TypeOfObject>Organization</r:TypeOfObject>
+        </r:AgencyOrganizationReference>
+      </r:FundingInformation>
+      <r:Coverage>
+        <r:SpatialCoverage isUniversallyUnique="true">
+          <r:URN>urn:ddi:uk.wchads:f02440f5-67fc-41ad-8a65-dbac6826b185:1</r:URN>
+          <r:Agency>uk.wchads</r:Agency>
+          <r:ID>f02440f5-67fc-41ad-8a65-dbac6826b185</r:ID>
+          <r:Version>1</r:Version>
+          <r:BoundingBox>
+            <r:WestLongitude>0</r:WestLongitude>
+            <r:EastLongitude>0</r:EastLongitude>
+            <r:SouthLatitude>0</r:SouthLatitude>
+            <r:NorthLatitude>0</r:NorthLatitude>
+          </r:BoundingBox>
+          <r:Description>
+            <r:Content xml:lang="en-GB">Wirral, Merseyside, England</r:Content>
+          </r:Description>
+          <r:Country>GB-ENG</r:Country>
+          <r:TopLevelReference>
+            <r:LevelName>Country</r:LevelName>
+          </r:TopLevelReference>
+          <r:LowestLevelReference>
+            <r:LevelName>Address</r:LevelName>
+          </r:LowestLevelReference>
+        </r:SpatialCoverage>
+        <r:TemporalCoverage isUniversallyUnique="true">
+          <r:URN>urn:ddi:uk.wchads:4fd52f97-0482-4d24-8f52-ea0efd85a6b3:1</r:URN>
+          <r:Agency>uk.wchads</r:Agency>
+          <r:ID>4fd52f97-0482-4d24-8f52-ea0efd85a6b3</r:ID>
+          <r:Version>1</r:Version>
+          <r:ReferenceDate>
+            <r:StartDate>2007</r:StartDate>
+            <r:EndDate>2009</r:EndDate>
+          </r:ReferenceDate>
+        </r:TemporalCoverage>
+      </r:Coverage>
+      <r:AnalysisUnit>Individual</r:AnalysisUnit>
+      <r:KindOfData>Survey Data</r:KindOfData>
+      <r:KindOfData>Demographic Data</r:KindOfData>
+      <r:KindOfData>Biosample Data</r:KindOfData>
+      <r:DataCollectionReference>
+        <r:Agency>uk.wchads</r:Agency>
+        <r:ID>c85afb33-24e7-4f81-a34c-daa748f695b8</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>DataCollection</r:TypeOfObject>
+      </r:DataCollectionReference>
+    </StudyUnit>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <DataCollection isUniversallyUnique="true" versionDate="2020-08-06T08:53:24.3751248Z" xmlns="ddi:datacollection:3_2">
+      <r:URN>urn:ddi:uk.wchads:c85afb33-24e7-4f81-a34c-daa748f695b8:1</r:URN>
+      <r:Agency>uk.wchads</r:Agency>
+      <r:ID>c85afb33-24e7-4f81-a34c-daa748f695b8</r:ID>
+      <r:Version>1</r:Version>
+      <DataCollectionModuleName>
+        <r:String xml:lang="en-GB">wchads_07_ph02mx</r:String>
+      </DataCollectionModuleName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Phase 02 Mother Interview</r:Content>
+      </r:Label>
+      <CollectionEvent isUniversallyUnique="true">
+        <r:URN>urn:ddi:uk.wchads:03e31383-6dd4-48e3-b647-923683497840:1</r:URN>
+        <r:Agency>uk.wchads</r:Agency>
+        <r:ID>03e31383-6dd4-48e3-b647-923683497840</r:ID>
+        <r:Version>1</r:Version>
+        <DataCollectorOrganizationReference>
+          <r:Agency>uk.closer</r:Agency>
+          <r:ID>ad300f64-2a5c-433d-b83a-359e8c7861c9</r:ID>
+          <r:Version>2</r:Version>
+          <r:TypeOfObject>Organization</r:TypeOfObject>
+        </DataCollectorOrganizationReference>
+        <DataCollectionDate>
+          <r:StartDate>2007</r:StartDate>
+          <r:EndDate>2009</r:EndDate>
+        </DataCollectionDate>
+        <ModeOfCollection isUniversallyUnique="true">
+          <r:URN>urn:ddi:uk.wchads:f2d27ccc-cc39-42db-a94c-c28b586d3041:1</r:URN>
+          <r:Agency>uk.wchads</r:Agency>
+          <r:ID>f2d27ccc-cc39-42db-a94c-c28b586d3041</r:ID>
+          <r:Version>1</r:Version>
+          <TypeOfModeOfCollection>MeasurementsAndTests.Psychological</TypeOfModeOfCollection>
+          <r:Description>
+            <r:Content xml:lang="en-GB">Assessment of personality traits or psychological/behavioural responses by means of specialised measures or tests.</r:Content>
+          </r:Description>
+        </ModeOfCollection>
+        <ModeOfCollection isUniversallyUnique="true">
+          <r:URN>urn:ddi:uk.wchads:039582f0-fdf1-4c6c-88a2-3436f662fd64:1</r:URN>
+          <r:Agency>uk.wchads</r:Agency>
+          <r:ID>039582f0-fdf1-4c6c-88a2-3436f662fd64</r:ID>
+          <r:Version>1</r:Version>
+          <TypeOfModeOfCollection>SelfAdministeredQuestionnaire.Paper</TypeOfModeOfCollection>
+          <r:Description>
+            <r:Content xml:lang="en-GB">Self-administered survey using a traditional paper questionnaire.</r:Content>
+          </r:Description>
+        </ModeOfCollection>
+        <ModeOfCollection isUniversallyUnique="true">
+          <r:URN>urn:ddi:uk.wchads:f95ae94c-b13e-48f3-a100-702d0060b2b1:1</r:URN>
+          <r:Agency>uk.wchads</r:Agency>
+          <r:ID>f95ae94c-b13e-48f3-a100-702d0060b2b1</r:ID>
+          <r:Version>1</r:Version>
+          <TypeOfModeOfCollection>Interview.FaceToFace</TypeOfModeOfCollection>
+          <r:Description>
+            <r:Content xml:lang="en-GB">Data collection method in which a live interviewer conducts a personal interview, presenting questions and entering the responses.</r:Content>
+          </r:Description>
+        </ModeOfCollection>
+      </CollectionEvent>
+    </DataCollection>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Universe isUniversallyUnique="true" versionDate="2020-08-05T13:53:55.262852Z" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.wchads:acd7c1dd-125b-43ce-a6f9-4445ed59bbb3:1</r:URN>
+      <r:Agency>uk.wchads</r:Agency>
+      <r:ID>acd7c1dd-125b-43ce-a6f9-4445ed59bbb3</r:ID>
+      <r:Version>1</r:Version>
+      <UniverseName>
+        <r:String xml:lang="en-GB">WCHADS_phase_02</r:String>
+      </UniverseName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">WCHADS Phase 2 Population</r:Content>
+      </r:Label>
+      <r:Description>
+        <r:Content xml:lang="en-GB">WCHADS mother recruited into our intensive subsample - stratified for psychosocial risk </r:Content>
+      </r:Description>
+    </Universe>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <StudyUnit isUniversallyUnique="true" versionDate="2020-08-07T14:23:13.6494506Z" xmlns="ddi:studyunit:3_2">
+      <r:URN>urn:ddi:uk.wchads:f9d60bec-8b3b-4bd3-8cef-8329cea9c6ba:1</r:URN>
+      <r:Agency>uk.wchads</r:Agency>
+      <r:ID>f9d60bec-8b3b-4bd3-8cef-8329cea9c6ba</r:ID>
+      <r:Version>1</r:Version>
+      <r:UserAttributePair>
+        <r:AttributeKey>extension:CustomField</r:AttributeKey>
+        <r:AttributeValue>{"Title":{"en-GB":"LifeStage"},"Description":{},"ValueType":0,"HasValue":true,"RelationshipTargetType":"00000000-0000-0000-0000-000000000000","StringValue":"Pregnancy, birth and infancy","MultilingualStringValue":{},"HasDefinedType":false,"DisplayLabel":"LifeStage"}</r:AttributeValue>
+      </r:UserAttributePair>
+      <r:UserAttributePair>
+        <r:AttributeKey>extension:CustomField</r:AttributeKey>
+        <r:AttributeValue>{"Title":{"en-GB":"LifeStageDescription"},"Description":{},"ValueType":0,"HasValue":true,"RelationshipTargetType":"00000000-0000-0000-0000-000000000000","StringValue":"Pregnancy - 1 year","MultilingualStringValue":{},"HasDefinedType":false,"DisplayLabel":"LifeStageDescription"}</r:AttributeValue>
+      </r:UserAttributePair>
+      <r:Citation>
+        <r:Title>
+          <r:String xml:lang="en-GB">Phase 03</r:String>
+        </r:Title>
+        <r:Creator>
+          <r:CreatorName>
+            <r:String xml:lang="en-GB">Professor Jonathan Hill (University of Reading), Professor Helen Sharp (University of Liverpool)</r:String>
+          </r:CreatorName>
+        </r:Creator>
+        <r:Contributor>
+          <r:ContributorName>
+            <r:String xml:lang="en-GB">University of Liverpool</r:String>
+          </r:ContributorName>
+        </r:Contributor>
+      </r:Citation>
+      <r:Abstract>
+        <r:Content xml:lang="en-GB">Medical record data was collected on antenatal complications, obstetric risk, psychosocial variables, obstetric and birth outcome, feeding on discharge from hospital. 
+
+Study website: &lt;a href="https://www.liverpool.ac.uk/institute-of-life-and-human-sciences/schools-and-departments/department-of-psychological-sciences/research/first-steps/" target="_blank" title="Wirral Child Health and Development Study"&gt;https://www.liverpool.ac.uk/institute-of-life-and-human-sciences/schools-and-departments/department-of-psychological-sciences/research/first-steps/&lt;/a&gt; </r:Content>
+      </r:Abstract>
+      <r:UniverseReference>
+        <r:Agency>uk.wchads</r:Agency>
+        <r:ID>1e03fbca-1a83-4132-836e-2246cd311920</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Universe</r:TypeOfObject>
+      </r:UniverseReference>
+      <r:FundingInformation>
+        <r:AgencyOrganizationReference>
+          <r:Agency>uk.closer</r:Agency>
+          <r:ID>a1bdc1c8-d24e-44e1-87f2-5bcd7ab98e22</r:ID>
+          <r:Version>3</r:Version>
+          <r:TypeOfObject>Organization</r:TypeOfObject>
+        </r:AgencyOrganizationReference>
+      </r:FundingInformation>
+      <r:Coverage>
+        <r:SpatialCoverage isUniversallyUnique="true">
+          <r:URN>urn:ddi:uk.wchads:866bc501-66d0-4f1f-9731-f06afc88b4b1:1</r:URN>
+          <r:Agency>uk.wchads</r:Agency>
+          <r:ID>866bc501-66d0-4f1f-9731-f06afc88b4b1</r:ID>
+          <r:Version>1</r:Version>
+          <r:BoundingBox>
+            <r:WestLongitude>0</r:WestLongitude>
+            <r:EastLongitude>0</r:EastLongitude>
+            <r:SouthLatitude>0</r:SouthLatitude>
+            <r:NorthLatitude>0</r:NorthLatitude>
+          </r:BoundingBox>
+          <r:Description>
+            <r:Content xml:lang="en-GB">Wirral, Merseyside, England</r:Content>
+          </r:Description>
+          <r:Country>GB-ENG</r:Country>
+          <r:TopLevelReference>
+            <r:LevelName>Country</r:LevelName>
+          </r:TopLevelReference>
+          <r:LowestLevelReference>
+            <r:LevelName>Address</r:LevelName>
+          </r:LowestLevelReference>
+        </r:SpatialCoverage>
+        <r:TemporalCoverage isUniversallyUnique="true">
+          <r:URN>urn:ddi:uk.wchads:cd65d4f5-2ef4-4892-93ea-02ce0d0aec8d:1</r:URN>
+          <r:Agency>uk.wchads</r:Agency>
+          <r:ID>cd65d4f5-2ef4-4892-93ea-02ce0d0aec8d</r:ID>
+          <r:Version>1</r:Version>
+          <r:ReferenceDate>
+            <r:StartDate>2007</r:StartDate>
+            <r:EndDate>2009</r:EndDate>
+          </r:ReferenceDate>
+        </r:TemporalCoverage>
+      </r:Coverage>
+      <r:AnalysisUnit>Individual</r:AnalysisUnit>
+      <r:KindOfData>Measurement Data</r:KindOfData>
+      <r:DataCollectionReference>
+        <r:Agency>uk.wchads</r:Agency>
+        <r:ID>f8ae72de-d44a-4f8b-a820-17e55df63eab</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>DataCollection</r:TypeOfObject>
+      </r:DataCollectionReference>
+    </StudyUnit>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <DataCollection isUniversallyUnique="true" versionDate="2020-08-06T08:54:09.4510469Z" xmlns="ddi:datacollection:3_2">
+      <r:URN>urn:ddi:uk.wchads:f8ae72de-d44a-4f8b-a820-17e55df63eab:1</r:URN>
+      <r:Agency>uk.wchads</r:Agency>
+      <r:ID>f8ae72de-d44a-4f8b-a820-17e55df63eab</r:ID>
+      <r:Version>1</r:Version>
+      <DataCollectionModuleName>
+        <r:String xml:lang="en-GB">wchads_07_ph03bx</r:String>
+      </DataCollectionModuleName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Phase 03 Birth Outcome</r:Content>
+      </r:Label>
+      <CollectionEvent isUniversallyUnique="true">
+        <r:URN>urn:ddi:uk.wchads:adc5cea1-a9aa-46ab-9475-1ed17c5ef5a4:1</r:URN>
+        <r:Agency>uk.wchads</r:Agency>
+        <r:ID>adc5cea1-a9aa-46ab-9475-1ed17c5ef5a4</r:ID>
+        <r:Version>1</r:Version>
+        <DataCollectorOrganizationReference>
+          <r:Agency>uk.closer</r:Agency>
+          <r:ID>ad300f64-2a5c-433d-b83a-359e8c7861c9</r:ID>
+          <r:Version>2</r:Version>
+          <r:TypeOfObject>Organization</r:TypeOfObject>
+        </DataCollectorOrganizationReference>
+        <DataCollectionDate>
+          <r:StartDate>2007</r:StartDate>
+          <r:EndDate>2009</r:EndDate>
+        </DataCollectionDate>
+        <ModeOfCollection isUniversallyUnique="true">
+          <r:URN>urn:ddi:uk.wchads:05e14646-9f03-4c02-a3d1-fc10b9a0aae6:1</r:URN>
+          <r:Agency>uk.wchads</r:Agency>
+          <r:ID>05e14646-9f03-4c02-a3d1-fc10b9a0aae6</r:ID>
+          <r:Version>1</r:Version>
+          <TypeOfModeOfCollection>Other </TypeOfModeOfCollection>
+          <r:Description>
+            <r:Content xml:lang="en-GB"> Other modes of data collection.</r:Content>
+          </r:Description>
+        </ModeOfCollection>
+      </CollectionEvent>
+    </DataCollection>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Universe isUniversallyUnique="true" versionDate="2020-08-05T13:54:04.6168448Z" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.wchads:1e03fbca-1a83-4132-836e-2246cd311920:1</r:URN>
+      <r:Agency>uk.wchads</r:Agency>
+      <r:ID>1e03fbca-1a83-4132-836e-2246cd311920</r:ID>
+      <r:Version>1</r:Version>
+      <UniverseName>
+        <r:String xml:lang="en-GB">WCHADS_phase_03</r:String>
+      </UniverseName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">WCHADS Phase 3 Population</r:Content>
+      </r:Label>
+      <r:Description>
+        <r:Content xml:lang="en-GB">WCHADS extensive sample (includes intensive subsample)- antenatal and birth outcomes</r:Content>
+      </r:Description>
+    </Universe>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <StudyUnit isUniversallyUnique="true" versionDate="2020-08-07T14:23:35.5120429Z" xmlns="ddi:studyunit:3_2">
+      <r:URN>urn:ddi:uk.wchads:834c2bbf-a4c3-4f0e-92b8-a2513f9bb0ec:1</r:URN>
+      <r:Agency>uk.wchads</r:Agency>
+      <r:ID>834c2bbf-a4c3-4f0e-92b8-a2513f9bb0ec</r:ID>
+      <r:Version>1</r:Version>
+      <r:UserAttributePair>
+        <r:AttributeKey>extension:CustomField</r:AttributeKey>
+        <r:AttributeValue>{"Title":{"en-GB":"LifeStage"},"Description":{},"ValueType":0,"HasValue":true,"RelationshipTargetType":"00000000-0000-0000-0000-000000000000","StringValue":"Pregnancy, birth and infancy","MultilingualStringValue":{},"HasDefinedType":false,"DisplayLabel":"LifeStage"}</r:AttributeValue>
+      </r:UserAttributePair>
+      <r:UserAttributePair>
+        <r:AttributeKey>extension:CustomField</r:AttributeKey>
+        <r:AttributeValue>{"Title":{"en-GB":"LifeStageDescription"},"Description":{},"ValueType":0,"HasValue":true,"RelationshipTargetType":"00000000-0000-0000-0000-000000000000","StringValue":"Pregnancy - 1 year","MultilingualStringValue":{},"HasDefinedType":false,"DisplayLabel":"LifeStageDescription"}</r:AttributeValue>
+      </r:UserAttributePair>
+      <r:Citation>
+        <r:Title>
+          <r:String xml:lang="en-GB">Phase 04</r:String>
+        </r:Title>
+        <r:Creator>
+          <r:CreatorName>
+            <r:String xml:lang="en-GB">Professor Jonathan Hill (University of Reading), Professor Helen Sharp (University of Liverpool)</r:String>
+          </r:CreatorName>
+        </r:Creator>
+        <r:Publisher>
+          <r:PublisherName>
+            <r:String xml:lang="en-GB">University of Liverpool</r:String>
+          </r:PublisherName>
+        </r:Publisher>
+      </r:Citation>
+      <r:Abstract>
+        <r:Content xml:lang="en-GB">Assessment of infant Neonatal behavioural development (filmed), maternal questionnaire data and speech samples were collected for the families in the intensive subsample. 
+
+Study website: &lt;a href="https://www.liverpool.ac.uk/institute-of-life-and-human-sciences/schools-and-departments/department-of-psychological-sciences/research/first-steps/" target="_blank" title="Wirral Child Health and Development Study"&gt;https://www.liverpool.ac.uk/institute-of-life-and-human-sciences/schools-and-departments/department-of-psychological-sciences/research/first-steps/&lt;/a&gt; </r:Content>
+      </r:Abstract>
+      <r:UniverseReference>
+        <r:Agency>uk.wchads</r:Agency>
+        <r:ID>359c0dee-4d78-4f71-9ca9-42ca1c43af8e</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Universe</r:TypeOfObject>
+      </r:UniverseReference>
+      <r:FundingInformation>
+        <r:AgencyOrganizationReference>
+          <r:Agency>uk.closer</r:Agency>
+          <r:ID>a1bdc1c8-d24e-44e1-87f2-5bcd7ab98e22</r:ID>
+          <r:Version>3</r:Version>
+          <r:TypeOfObject>Organization</r:TypeOfObject>
+        </r:AgencyOrganizationReference>
+      </r:FundingInformation>
+      <r:Coverage>
+        <r:SpatialCoverage isUniversallyUnique="true">
+          <r:URN>urn:ddi:uk.wchads:58e59602-5da2-4f8a-bd51-dd68b6cfa970:1</r:URN>
+          <r:Agency>uk.wchads</r:Agency>
+          <r:ID>58e59602-5da2-4f8a-bd51-dd68b6cfa970</r:ID>
+          <r:Version>1</r:Version>
+          <r:BoundingBox>
+            <r:WestLongitude>0</r:WestLongitude>
+            <r:EastLongitude>0</r:EastLongitude>
+            <r:SouthLatitude>0</r:SouthLatitude>
+            <r:NorthLatitude>0</r:NorthLatitude>
+          </r:BoundingBox>
+          <r:Description>
+            <r:Content xml:lang="en-GB">Wirral, Merseyside, England</r:Content>
+          </r:Description>
+          <r:Country>GB-ENG</r:Country>
+          <r:TopLevelReference>
+            <r:LevelName>Country</r:LevelName>
+          </r:TopLevelReference>
+          <r:LowestLevelReference>
+            <r:LevelName>Address</r:LevelName>
+          </r:LowestLevelReference>
+        </r:SpatialCoverage>
+        <r:TemporalCoverage isUniversallyUnique="true">
+          <r:URN>urn:ddi:uk.wchads:45a02ec2-8180-4b51-9854-f7713c9ef554:1</r:URN>
+          <r:Agency>uk.wchads</r:Agency>
+          <r:ID>45a02ec2-8180-4b51-9854-f7713c9ef554</r:ID>
+          <r:Version>1</r:Version>
+          <r:ReferenceDate>
+            <r:StartDate>2007</r:StartDate>
+            <r:EndDate>2009</r:EndDate>
+          </r:ReferenceDate>
+        </r:TemporalCoverage>
+      </r:Coverage>
+      <r:AnalysisUnit>Individual</r:AnalysisUnit>
+      <r:KindOfData>Survey Data</r:KindOfData>
+      <r:KindOfData>Demographic Data</r:KindOfData>
+      <r:KindOfData>Measurement Data</r:KindOfData>
+      <r:KindOfData>Assessment Data</r:KindOfData>
+      <r:DataCollectionReference>
+        <r:Agency>uk.wchads</r:Agency>
+        <r:ID>7ae5d343-dd90-4ff4-bdda-09977ecef3d4</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>DataCollection</r:TypeOfObject>
+      </r:DataCollectionReference>
+    </StudyUnit>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <DataCollection isUniversallyUnique="true" versionDate="2020-08-06T09:01:58.5561752Z" xmlns="ddi:datacollection:3_2">
+      <r:URN>urn:ddi:uk.wchads:7ae5d343-dd90-4ff4-bdda-09977ecef3d4:1</r:URN>
+      <r:Agency>uk.wchads</r:Agency>
+      <r:ID>7ae5d343-dd90-4ff4-bdda-09977ecef3d4</r:ID>
+      <r:Version>1</r:Version>
+      <DataCollectionModuleName>
+        <r:String xml:lang="en-GB">wchads_07_ph04mi</r:String>
+      </DataCollectionModuleName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Phase 04 Mother Neonatal Assessment</r:Content>
+      </r:Label>
+      <CollectionEvent isUniversallyUnique="true">
+        <r:URN>urn:ddi:uk.wchads:a2ae9acf-fb5b-4a5e-b3d1-ada7ba2c6b91:1</r:URN>
+        <r:Agency>uk.wchads</r:Agency>
+        <r:ID>a2ae9acf-fb5b-4a5e-b3d1-ada7ba2c6b91</r:ID>
+        <r:Version>1</r:Version>
+        <DataCollectorOrganizationReference>
+          <r:Agency>uk.closer</r:Agency>
+          <r:ID>ad300f64-2a5c-433d-b83a-359e8c7861c9</r:ID>
+          <r:Version>2</r:Version>
+          <r:TypeOfObject>Organization</r:TypeOfObject>
+        </DataCollectorOrganizationReference>
+        <DataCollectionDate>
+          <r:StartDate>2007</r:StartDate>
+          <r:EndDate>2009</r:EndDate>
+        </DataCollectionDate>
+        <ModeOfCollection isUniversallyUnique="true">
+          <r:URN>urn:ddi:uk.wchads:85d0561f-4f0c-4598-bd30-7d0b9d870273:1</r:URN>
+          <r:Agency>uk.wchads</r:Agency>
+          <r:ID>85d0561f-4f0c-4598-bd30-7d0b9d870273</r:ID>
+          <r:Version>1</r:Version>
+          <TypeOfModeOfCollection>Observation.Laboratory.Participant</TypeOfModeOfCollection>
+          <r:Description>
+            <r:Content xml:lang="en-GB">Research method that involves observing and collecting data as they occur without attempting to manipulate any of the independent variables. Observation is conducted in a controlled, artificially created setting. The researcher interacts with the subjects and often plays a role in the situation under observation.</r:Content>
+          </r:Description>
+        </ModeOfCollection>
+        <ModeOfCollection isUniversallyUnique="true">
+          <r:URN>urn:ddi:uk.wchads:45a7a23f-1ecb-46df-9eb2-b33cdb8164fa:1</r:URN>
+          <r:Agency>uk.wchads</r:Agency>
+          <r:ID>45a7a23f-1ecb-46df-9eb2-b33cdb8164fa</r:ID>
+          <r:Version>1</r:Version>
+          <TypeOfModeOfCollection>MeasurementsAndTests.Psychological</TypeOfModeOfCollection>
+          <r:Description>
+            <r:Content xml:lang="en-GB">Assessment of personality traits or psychological/behavioural responses by means of specialised measures or tests.</r:Content>
+          </r:Description>
+        </ModeOfCollection>
+        <ModeOfCollection isUniversallyUnique="true">
+          <r:URN>urn:ddi:uk.wchads:dcc214c4-1c45-45a8-a930-11827619e1a8:1</r:URN>
+          <r:Agency>uk.wchads</r:Agency>
+          <r:ID>dcc214c4-1c45-45a8-a930-11827619e1a8</r:ID>
+          <r:Version>1</r:Version>
+          <TypeOfModeOfCollection>SelfAdministeredQuestionnaire.Paper</TypeOfModeOfCollection>
+          <r:Description>
+            <r:Content xml:lang="en-GB">Self-administered survey using a traditional paper questionnaire.</r:Content>
+          </r:Description>
+        </ModeOfCollection>
+        <ModeOfCollection isUniversallyUnique="true">
+          <r:URN>urn:ddi:uk.wchads:3333cf10-55df-42f5-90df-7778406508d6:1</r:URN>
+          <r:Agency>uk.wchads</r:Agency>
+          <r:ID>3333cf10-55df-42f5-90df-7778406508d6</r:ID>
+          <r:Version>1</r:Version>
+          <TypeOfModeOfCollection>Interview.FaceToFace</TypeOfModeOfCollection>
+          <r:Description>
+            <r:Content xml:lang="en-GB">Data collection method in which a live interviewer conducts a personal interview, presenting questions and entering the responses.</r:Content>
+          </r:Description>
+        </ModeOfCollection>
+      </CollectionEvent>
+    </DataCollection>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Universe isUniversallyUnique="true" versionDate="2020-08-06T08:24:45.9817291Z" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.wchads:359c0dee-4d78-4f71-9ca9-42ca1c43af8e:1</r:URN>
+      <r:Agency>uk.wchads</r:Agency>
+      <r:ID>359c0dee-4d78-4f71-9ca9-42ca1c43af8e</r:ID>
+      <r:Version>1</r:Version>
+      <UniverseName>
+        <r:String xml:lang="en-GB">WCHADS_phase_04</r:String>
+      </UniverseName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">WCHADS Phase 4 Population</r:Content>
+      </r:Label>
+      <r:Description>
+        <r:Content xml:lang="en-GB">WCHADS mother recruited into our intensive subsample and their infants - stratified for psychosocial risk </r:Content>
+      </r:Description>
+    </Universe>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <StudyUnit isUniversallyUnique="true" versionDate="2020-08-07T14:24:03.2935248Z" xmlns="ddi:studyunit:3_2">
+      <r:URN>urn:ddi:uk.wchads:f8473669-de04-48da-ae38-c45862a8a1d0:1</r:URN>
+      <r:Agency>uk.wchads</r:Agency>
+      <r:ID>f8473669-de04-48da-ae38-c45862a8a1d0</r:ID>
+      <r:Version>1</r:Version>
+      <r:UserAttributePair>
+        <r:AttributeKey>extension:CustomField</r:AttributeKey>
+        <r:AttributeValue>{"Title":{"en-GB":"LifeStage"},"Description":{},"ValueType":0,"HasValue":true,"RelationshipTargetType":"00000000-0000-0000-0000-000000000000","StringValue":"Pregnancy, birth and infancy","MultilingualStringValue":{},"HasDefinedType":false,"DisplayLabel":"LifeStage"}</r:AttributeValue>
+      </r:UserAttributePair>
+      <r:UserAttributePair>
+        <r:AttributeKey>extension:CustomField</r:AttributeKey>
+        <r:AttributeValue>{"Title":{"en-GB":"LifeStageDescription"},"Description":{},"ValueType":0,"HasValue":true,"RelationshipTargetType":"00000000-0000-0000-0000-000000000000","StringValue":"Pregnancy - 1 year","MultilingualStringValue":{},"HasDefinedType":false,"DisplayLabel":"LifeStageDescription"}</r:AttributeValue>
+      </r:UserAttributePair>
+      <r:Citation>
+        <r:Title>
+          <r:String xml:lang="en-GB">Phase 05</r:String>
+        </r:Title>
+        <r:Creator>
+          <r:CreatorName>
+            <r:String xml:lang="en-GB">Professor Jonathan Hill (University of Reading), Professor Helen Sharp (University of Liverpool)</r:String>
+          </r:CreatorName>
+        </r:Creator>
+        <r:Publisher>
+          <r:PublisherName>
+            <r:String xml:lang="en-GB">University of Liverpool</r:String>
+          </r:PublisherName>
+        </r:Publisher>
+      </r:Citation>
+      <r:Abstract>
+        <r:Content xml:lang="en-GB">The WCHADS extensive sample who had a live singleton birth and remained in the study at birth were sent a postal questionnaire follow up at approximately 9-12 weeks postpartum. Domains of measurement include; report of birth outcome, infant feeding, demographic change, maternal mental health, perception of infant and self as a mother, infant temperament. 
+
+Study website: &lt;a href="https://www.liverpool.ac.uk/institute-of-life-and-human-sciences/schools-and-departments/department-of-psychological-sciences/research/first-steps/" target="_blank" title="Wirral Child Health and Development Study"&gt;https://www.liverpool.ac.uk/institute-of-life-and-human-sciences/schools-and-departments/department-of-psychological-sciences/research/first-steps/&lt;/a&gt;</r:Content>
+      </r:Abstract>
+      <r:UniverseReference>
+        <r:Agency>uk.wchads</r:Agency>
+        <r:ID>5aaeb1a6-7bc4-494f-89a0-a7ab9c6c57f5</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Universe</r:TypeOfObject>
+      </r:UniverseReference>
+      <r:FundingInformation>
+        <r:AgencyOrganizationReference>
+          <r:Agency>uk.closer</r:Agency>
+          <r:ID>a1bdc1c8-d24e-44e1-87f2-5bcd7ab98e22</r:ID>
+          <r:Version>3</r:Version>
+          <r:TypeOfObject>Organization</r:TypeOfObject>
+        </r:AgencyOrganizationReference>
+      </r:FundingInformation>
+      <r:Coverage>
+        <r:SpatialCoverage isUniversallyUnique="true">
+          <r:URN>urn:ddi:uk.wchads:f8dace16-a271-4ef0-9c37-f6155e381ed7:1</r:URN>
+          <r:Agency>uk.wchads</r:Agency>
+          <r:ID>f8dace16-a271-4ef0-9c37-f6155e381ed7</r:ID>
+          <r:Version>1</r:Version>
+          <r:BoundingBox>
+            <r:WestLongitude>0</r:WestLongitude>
+            <r:EastLongitude>0</r:EastLongitude>
+            <r:SouthLatitude>0</r:SouthLatitude>
+            <r:NorthLatitude>0</r:NorthLatitude>
+          </r:BoundingBox>
+          <r:Description>
+            <r:Content xml:lang="en-GB">Wirral, Merseyside, England</r:Content>
+          </r:Description>
+          <r:Country>GB-ENG</r:Country>
+          <r:TopLevelReference>
+            <r:LevelName>Country</r:LevelName>
+          </r:TopLevelReference>
+          <r:LowestLevelReference>
+            <r:LevelName>Address</r:LevelName>
+          </r:LowestLevelReference>
+        </r:SpatialCoverage>
+        <r:TemporalCoverage isUniversallyUnique="true">
+          <r:URN>urn:ddi:uk.wchads:abf7da61-8e8a-4ff5-b669-ed9350d67d2a:1</r:URN>
+          <r:Agency>uk.wchads</r:Agency>
+          <r:ID>abf7da61-8e8a-4ff5-b669-ed9350d67d2a</r:ID>
+          <r:Version>1</r:Version>
+          <r:ReferenceDate>
+            <r:StartDate>2007</r:StartDate>
+            <r:EndDate>2009</r:EndDate>
+          </r:ReferenceDate>
+        </r:TemporalCoverage>
+      </r:Coverage>
+      <r:AnalysisUnit>Individual</r:AnalysisUnit>
+      <r:KindOfData>Survey Data</r:KindOfData>
+      <r:KindOfData>Demographic Data</r:KindOfData>
+      <r:DataCollectionReference>
+        <r:Agency>uk.wchads</r:Agency>
+        <r:ID>7b56f0d6-1dc4-4805-b160-4319b6954211</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>DataCollection</r:TypeOfObject>
+      </r:DataCollectionReference>
+    </StudyUnit>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <DataCollection isUniversallyUnique="true" versionDate="2020-08-06T09:02:35.1014047Z" xmlns="ddi:datacollection:3_2">
+      <r:URN>urn:ddi:uk.wchads:7b56f0d6-1dc4-4805-b160-4319b6954211:1</r:URN>
+      <r:Agency>uk.wchads</r:Agency>
+      <r:ID>7b56f0d6-1dc4-4805-b160-4319b6954211</r:ID>
+      <r:Version>1</r:Version>
+      <DataCollectionModuleName>
+        <r:String xml:lang="en-GB">wchads_07_ph05mx</r:String>
+      </DataCollectionModuleName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Phase 05 Mother Questionnaire</r:Content>
+      </r:Label>
+      <CollectionEvent isUniversallyUnique="true">
+        <r:URN>urn:ddi:uk.wchads:9009b2ac-58f6-4039-b451-36aa68894ba5:1</r:URN>
+        <r:Agency>uk.wchads</r:Agency>
+        <r:ID>9009b2ac-58f6-4039-b451-36aa68894ba5</r:ID>
+        <r:Version>1</r:Version>
+        <DataCollectorOrganizationReference>
+          <r:Agency>uk.closer</r:Agency>
+          <r:ID>ad300f64-2a5c-433d-b83a-359e8c7861c9</r:ID>
+          <r:Version>2</r:Version>
+          <r:TypeOfObject>Organization</r:TypeOfObject>
+        </DataCollectorOrganizationReference>
+        <DataCollectionDate>
+          <r:StartDate>2007</r:StartDate>
+          <r:EndDate>2009</r:EndDate>
+        </DataCollectionDate>
+        <ModeOfCollection isUniversallyUnique="true">
+          <r:URN>urn:ddi:uk.wchads:ab943884-d4e6-4f9b-8843-72cdf6ef3d0f:1</r:URN>
+          <r:Agency>uk.wchads</r:Agency>
+          <r:ID>ab943884-d4e6-4f9b-8843-72cdf6ef3d0f</r:ID>
+          <r:Version>1</r:Version>
+          <TypeOfModeOfCollection>SelfAdministeredQuestionnaire.Paper</TypeOfModeOfCollection>
+          <r:Description>
+            <r:Content xml:lang="en-GB">Self-administered survey using a traditional paper questionnaire.</r:Content>
+          </r:Description>
+        </ModeOfCollection>
+      </CollectionEvent>
+    </DataCollection>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Universe isUniversallyUnique="true" versionDate="2020-08-05T13:53:45.3934577Z" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.wchads:5aaeb1a6-7bc4-494f-89a0-a7ab9c6c57f5:1</r:URN>
+      <r:Agency>uk.wchads</r:Agency>
+      <r:ID>5aaeb1a6-7bc4-494f-89a0-a7ab9c6c57f5</r:ID>
+      <r:Version>1</r:Version>
+      <UniverseName>
+        <r:String xml:lang="en-GB">WCHADS_phase_05</r:String>
+      </UniverseName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">WCHADS Phase 5 Population</r:Content>
+      </r:Label>
+      <r:Description>
+        <r:Content xml:lang="en-GB">WCHADS extensive sample (includes intensive subsample) - mothers</r:Content>
+      </r:Description>
+    </Universe>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <StudyUnit isUniversallyUnique="true" versionDate="2020-08-07T14:24:26.4359809Z" xmlns="ddi:studyunit:3_2">
+      <r:URN>urn:ddi:uk.wchads:362ba73d-aa1c-415a-87d4-1a40ec313dd0:1</r:URN>
+      <r:Agency>uk.wchads</r:Agency>
+      <r:ID>362ba73d-aa1c-415a-87d4-1a40ec313dd0</r:ID>
+      <r:Version>1</r:Version>
+      <r:UserAttributePair>
+        <r:AttributeKey>extension:CustomField</r:AttributeKey>
+        <r:AttributeValue>{"Title":{"en-GB":"LifeStage"},"Description":{},"ValueType":0,"HasValue":true,"RelationshipTargetType":"00000000-0000-0000-0000-000000000000","StringValue":"Pregnancy, birth and infancy","MultilingualStringValue":{},"HasDefinedType":false,"DisplayLabel":"LifeStage"}</r:AttributeValue>
+      </r:UserAttributePair>
+      <r:UserAttributePair>
+        <r:AttributeKey>extension:CustomField</r:AttributeKey>
+        <r:AttributeValue>{"Title":{"en-GB":"LifeStageDescription"},"Description":{},"ValueType":0,"HasValue":true,"RelationshipTargetType":"00000000-0000-0000-0000-000000000000","StringValue":"Pregnancy - 1 year","MultilingualStringValue":{},"HasDefinedType":false,"DisplayLabel":"LifeStageDescription"}</r:AttributeValue>
+      </r:UserAttributePair>
+      <r:Citation>
+        <r:Title>
+          <r:String xml:lang="en-GB">Phase 06</r:String>
+        </r:Title>
+        <r:Creator>
+          <r:CreatorName>
+            <r:String xml:lang="en-GB">Professor Jonathan Hill (University of Reading), Professor Helen Sharp (University of Liverpool)</r:String>
+          </r:CreatorName>
+        </r:Creator>
+        <r:Publisher>
+          <r:PublisherName>
+            <r:String xml:lang="en-GB">University of Liverpool</r:String>
+          </r:PublisherName>
+        </r:Publisher>
+      </r:Citation>
+      <r:Abstract>
+        <r:Content xml:lang="en-GB">Women in the intensive subsample of the study completed multiple domains of assessment including diagnostic and other interviews, questionnaires and a range of filmed observational assessments of mothers and infants were completed (e.g. mother-infant interaction, still-face procedure, laboratory tests of temperament). Some hypothesis driven experimental measures to assess infant development were completed. Physiological data was gathered from infants including cortisol reactivity to a social stressor and vagal tone during a range of control and stress related laboratory procedures. 
+
+Study website: &lt;a href="https://www.liverpool.ac.uk/institute-of-life-and-human-sciences/schools-and-departments/department-of-psychological-sciences/research/first-steps/" target="_blank" title="Wirral Child Health and Development Study"&gt;https://www.liverpool.ac.uk/institute-of-life-and-human-sciences/schools-and-departments/department-of-psychological-sciences/research/first-steps/&lt;/a&gt; </r:Content>
+      </r:Abstract>
+      <r:UniverseReference>
+        <r:Agency>uk.wchads</r:Agency>
+        <r:ID>99f918c0-9d71-4d70-aafd-51681df64f5e</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Universe</r:TypeOfObject>
+      </r:UniverseReference>
+      <r:FundingInformation>
+        <r:AgencyOrganizationReference>
+          <r:Agency>uk.closer</r:Agency>
+          <r:ID>a1bdc1c8-d24e-44e1-87f2-5bcd7ab98e22</r:ID>
+          <r:Version>3</r:Version>
+          <r:TypeOfObject>Organization</r:TypeOfObject>
+        </r:AgencyOrganizationReference>
+      </r:FundingInformation>
+      <r:Coverage>
+        <r:SpatialCoverage isUniversallyUnique="true">
+          <r:URN>urn:ddi:uk.wchads:7723e70f-b21d-4a2c-bd00-2a425cf83182:1</r:URN>
+          <r:Agency>uk.wchads</r:Agency>
+          <r:ID>7723e70f-b21d-4a2c-bd00-2a425cf83182</r:ID>
+          <r:Version>1</r:Version>
+          <r:BoundingBox>
+            <r:WestLongitude>0</r:WestLongitude>
+            <r:EastLongitude>0</r:EastLongitude>
+            <r:SouthLatitude>0</r:SouthLatitude>
+            <r:NorthLatitude>0</r:NorthLatitude>
+          </r:BoundingBox>
+          <r:Description>
+            <r:Content xml:lang="en-GB">Wirral, Merseyside, England</r:Content>
+          </r:Description>
+          <r:Country>GB-ENG</r:Country>
+          <r:TopLevelReference>
+            <r:LevelName>Country</r:LevelName>
+          </r:TopLevelReference>
+          <r:LowestLevelReference>
+            <r:LevelName>Address</r:LevelName>
+          </r:LowestLevelReference>
+        </r:SpatialCoverage>
+        <r:TemporalCoverage isUniversallyUnique="true">
+          <r:URN>urn:ddi:uk.wchads:dfc50c06-c7e1-4d3b-83c7-7abc9f493d83:1</r:URN>
+          <r:Agency>uk.wchads</r:Agency>
+          <r:ID>dfc50c06-c7e1-4d3b-83c7-7abc9f493d83</r:ID>
+          <r:Version>1</r:Version>
+          <r:ReferenceDate>
+            <r:StartDate>2008</r:StartDate>
+            <r:EndDate>2010</r:EndDate>
+          </r:ReferenceDate>
+        </r:TemporalCoverage>
+      </r:Coverage>
+      <r:AnalysisUnit>Individual</r:AnalysisUnit>
+      <r:KindOfData>Survey Data</r:KindOfData>
+      <r:KindOfData>Demographic Data</r:KindOfData>
+      <r:KindOfData>Assessment Data</r:KindOfData>
+      <r:KindOfData>Biosample Data</r:KindOfData>
+      <r:DataCollectionReference>
+        <r:Agency>uk.wchads</r:Agency>
+        <r:ID>c4c14684-df36-4dd8-95d0-10bb6003eea6</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>DataCollection</r:TypeOfObject>
+      </r:DataCollectionReference>
+    </StudyUnit>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <DataCollection isUniversallyUnique="true" versionDate="2020-08-06T09:03:28.0419909Z" xmlns="ddi:datacollection:3_2">
+      <r:URN>urn:ddi:uk.wchads:c4c14684-df36-4dd8-95d0-10bb6003eea6:1</r:URN>
+      <r:Agency>uk.wchads</r:Agency>
+      <r:ID>c4c14684-df36-4dd8-95d0-10bb6003eea6</r:ID>
+      <r:Version>1</r:Version>
+      <DataCollectionModuleName>
+        <r:String xml:lang="en-GB">wchads_08_ph06mi</r:String>
+      </DataCollectionModuleName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Phase 06 Mother Infant Assessment</r:Content>
+      </r:Label>
+      <CollectionEvent isUniversallyUnique="true">
+        <r:URN>urn:ddi:uk.wchads:1523294a-a6c0-4704-b469-8cf293e80a02:1</r:URN>
+        <r:Agency>uk.wchads</r:Agency>
+        <r:ID>1523294a-a6c0-4704-b469-8cf293e80a02</r:ID>
+        <r:Version>1</r:Version>
+        <DataCollectorOrganizationReference>
+          <r:Agency>uk.closer</r:Agency>
+          <r:ID>ad300f64-2a5c-433d-b83a-359e8c7861c9</r:ID>
+          <r:Version>2</r:Version>
+          <r:TypeOfObject>Organization</r:TypeOfObject>
+        </DataCollectorOrganizationReference>
+        <DataCollectionDate>
+          <r:StartDate>2008</r:StartDate>
+          <r:EndDate>2010</r:EndDate>
+        </DataCollectionDate>
+        <ModeOfCollection isUniversallyUnique="true">
+          <r:URN>urn:ddi:uk.wchads:ea0392d7-4f75-42ce-acdd-e508829a1753:1</r:URN>
+          <r:Agency>uk.wchads</r:Agency>
+          <r:ID>ea0392d7-4f75-42ce-acdd-e508829a1753</r:ID>
+          <r:Version>1</r:Version>
+          <TypeOfModeOfCollection>Observation.Laboratory.Participant</TypeOfModeOfCollection>
+          <r:Description>
+            <r:Content xml:lang="en-GB">Research method that involves observing and collecting data as they occur without attempting to manipulate any of the independent variables. Observation is conducted in a controlled, artificially created setting. The researcher interacts with the subjects and often plays a role in the situation under observation.</r:Content>
+          </r:Description>
+        </ModeOfCollection>
+        <ModeOfCollection isUniversallyUnique="true">
+          <r:URN>urn:ddi:uk.wchads:3ccd376c-efc7-44d3-bc89-24b6f0249e59:1</r:URN>
+          <r:Agency>uk.wchads</r:Agency>
+          <r:ID>3ccd376c-efc7-44d3-bc89-24b6f0249e59</r:ID>
+          <r:Version>1</r:Version>
+          <TypeOfModeOfCollection>MeasurementsAndTests.Psychological</TypeOfModeOfCollection>
+          <r:Description>
+            <r:Content xml:lang="en-GB">Assessment of personality traits or psychological/behavioural responses by means of specialised measures or tests.</r:Content>
+          </r:Description>
+        </ModeOfCollection>
+        <ModeOfCollection isUniversallyUnique="true">
+          <r:URN>urn:ddi:uk.wchads:a04beffb-fbe5-4bc7-8671-25cf1d12adb5:1</r:URN>
+          <r:Agency>uk.wchads</r:Agency>
+          <r:ID>a04beffb-fbe5-4bc7-8671-25cf1d12adb5</r:ID>
+          <r:Version>1</r:Version>
+          <TypeOfModeOfCollection>SelfAdministeredQuestionnaire.Paper</TypeOfModeOfCollection>
+          <r:Description>
+            <r:Content xml:lang="en-GB">Self-administered survey using a traditional paper questionnaire.</r:Content>
+          </r:Description>
+        </ModeOfCollection>
+        <ModeOfCollection isUniversallyUnique="true">
+          <r:URN>urn:ddi:uk.wchads:db16206b-a530-4e53-86ff-c66ef13c9838:1</r:URN>
+          <r:Agency>uk.wchads</r:Agency>
+          <r:ID>db16206b-a530-4e53-86ff-c66ef13c9838</r:ID>
+          <r:Version>1</r:Version>
+          <TypeOfModeOfCollection>Interview.FaceToFace</TypeOfModeOfCollection>
+          <r:Description>
+            <r:Content xml:lang="en-GB">Data collection method in which a live interviewer conducts a personal interview, presenting questions and entering the responses.</r:Content>
+          </r:Description>
+        </ModeOfCollection>
+      </CollectionEvent>
+    </DataCollection>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Universe isUniversallyUnique="true" versionDate="2020-08-06T08:35:12.8429126Z" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.wchads:99f918c0-9d71-4d70-aafd-51681df64f5e:1</r:URN>
+      <r:Agency>uk.wchads</r:Agency>
+      <r:ID>99f918c0-9d71-4d70-aafd-51681df64f5e</r:ID>
+      <r:Version>1</r:Version>
+      <UniverseName>
+        <r:String xml:lang="en-GB">WCHADS_phase_06</r:String>
+      </UniverseName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">WCHADS Phase 6 Population</r:Content>
+      </r:Label>
+      <r:Description>
+        <r:Content xml:lang="en-GB">WCHADS mother recruited into our intensive subsample and their infants - stratified for psychosocial risk</r:Content>
+      </r:Description>
+    </Universe>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <StudyUnit isUniversallyUnique="true" versionDate="2020-08-07T14:28:47.1550492Z" xmlns="ddi:studyunit:3_2">
       <r:URN>urn:ddi:uk.wchads:eeb6361e-e21d-4f36-8956-e950d79fa279:1</r:URN>
       <r:Agency>uk.wchads</r:Agency>
       <r:ID>eeb6361e-e21d-4f36-8956-e950d79fa279</r:ID>
@@ -44,7 +1277,7 @@ Study website: &lt;a href="https://www.liverpool.ac.uk/institute-of-life-and-hum
       </r:Abstract>
       <r:UniverseReference>
         <r:Agency>uk.closer</r:Agency>
-        <r:ID>cfae72c3-7896-4dc2-8c69-91db8824dbac</r:ID>
+        <r:ID>db487c30-1d1a-4304-a077-fa52dd156e95</r:ID>
         <r:Version>1</r:Version>
         <r:TypeOfObject>Universe</r:TypeOfObject>
       </r:UniverseReference>
@@ -154,22 +1387,6 @@ Study website: &lt;a href="https://www.liverpool.ac.uk/institute-of-life-and-hum
     </DataCollection>
   </ddi:Fragment>
   <ddi:Fragment xmlns:r="ddi:reusable:3_2">
-    <Organization isUniversallyUnique="true" versionDate="2019-11-13T10:55:23.5467612Z" xmlns="ddi:archive:3_2">
-      <r:URN>urn:ddi:uk.closer:ad300f64-2a5c-433d-b83a-359e8c7861c9:2</r:URN>
-      <r:Agency>uk.closer</r:Agency>
-      <r:ID>ad300f64-2a5c-433d-b83a-359e8c7861c9</r:ID>
-      <r:Version>2</r:Version>
-      <OrganizationIdentification>
-        <OrganizationName>
-          <r:String xml:lang="en-GB">Wirral Child Health and Development Study Research Team</r:String>
-        </OrganizationName>
-      </OrganizationIdentification>
-      <r:Description>
-        <r:Content xml:lang="en-GB">WCHADS in-house data collectors (&lt;a href="https://www.liverpool.ac.uk/institute-of-life-and-human-sciences/schools-and-departments/department-of-psychological-sciences/research/first-steps/about/" target="_blank" &gt;WCHADS&lt;/a&gt;).</r:Content>
-      </r:Description>
-    </Organization>
-  </ddi:Fragment>
-  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
     <DataCollection isUniversallyUnique="true" versionDate="2020-08-06T09:05:15.4543364Z" xmlns="ddi:datacollection:3_2">
       <r:URN>urn:ddi:uk.wchads:142d56ab-81f2-4e4c-9486-df1ddef85c24:1</r:URN>
       <r:Agency>uk.wchads</r:Agency>
@@ -270,42 +1487,1424 @@ Study website: &lt;a href="https://www.liverpool.ac.uk/institute-of-life-and-hum
     </DataCollection>
   </ddi:Fragment>
   <ddi:Fragment xmlns:r="ddi:reusable:3_2">
-    <Organization isUniversallyUnique="true" versionDate="2019-11-13T09:48:32.2257219Z" xmlns="ddi:archive:3_2">
-      <r:URN>urn:ddi:uk.closer:a1bdc1c8-d24e-44e1-87f2-5bcd7ab98e22:3</r:URN>
+    <Universe isUniversallyUnique="true" versionDate="2020-08-07T14:26:25.5035873Z" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:db487c30-1d1a-4304-a077-fa52dd156e95:1</r:URN>
       <r:Agency>uk.closer</r:Agency>
-      <r:ID>a1bdc1c8-d24e-44e1-87f2-5bcd7ab98e22</r:ID>
-      <r:Version>3</r:Version>
-      <r:UserAttributePair>
-        <r:AttributeKey>ddi31:Nickname</r:AttributeKey>
-        <r:AttributeValue>{"en-GB":"MRC"}</r:AttributeValue>
-      </r:UserAttributePair>
-      <OrganizationIdentification>
-        <OrganizationName>
-          <r:String xml:lang="en-GB">Medical Research Council</r:String>
-        </OrganizationName>
-        <OrganizationImage>
-          <r:ImageLocation></r:ImageLocation>
-        </OrganizationImage>
-      </OrganizationIdentification>
-      <r:Description>
-        <r:Content xml:lang="en-GB">The MRC is responsible for co-coordinating and funding medical research in the UK. It is part of UK Research and Innovation (UKRI) which is a non-departmental public body (NDPB) funded by the UK government (&lt;a href="https://en.wikipedia.org/w/index.php?title=Medical_Research_Council_(United_Kingdom)&amp;oldid=921149396" target="_blank" &gt;Medical Research Council (United Kingdom), n.d. &lt;/a&gt; ). </r:Content>
-      </r:Description>
-    </Organization>
-  </ddi:Fragment>
-  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
-    <Universe isUniversallyUnique="true" versionDate="2020-08-05T14:22:08.7481436Z" xmlns="ddi:conceptualcomponent:3_2">
-      <r:URN>urn:ddi:uk.closer:cfae72c3-7896-4dc2-8c69-91db8824dbac:1</r:URN>
-      <r:Agency>uk.closer</r:Agency>
-      <r:ID>cfae72c3-7896-4dc2-8c69-91db8824dbac</r:ID>
+      <r:ID>db487c30-1d1a-4304-a077-fa52dd156e95</r:ID>
       <r:Version>1</r:Version>
       <UniverseName>
-        <r:String xml:lang="en-GB">WCHADS_phase_07</r:String>
+        <r:String xml:lang="en-GB">WCHADS_phase_07_08</r:String>
       </UniverseName>
       <r:Label>
-        <r:Content xml:lang="en-GB">WCHADS Phase 7 Population</r:Content>
+        <r:Content xml:lang="en-GB">WCHADS Phase 7 and 8 Population</r:Content>
       </r:Label>
       <r:Description>
-        <r:Content xml:lang="en-GB">WCHADS extensive sample - mothers and partners</r:Content>
+        <r:Content xml:lang="en-GB">WCHADS extensive sample - mothers and partners including WCHADS mothers recruited into WCHADS intensive subsample and their child - stratified for psychosocial risk.</r:Content>
+      </r:Description>
+    </Universe>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <StudyUnit isUniversallyUnique="true" versionDate="2020-08-07T14:29:10.9922511Z" xmlns="ddi:studyunit:3_2">
+      <r:URN>urn:ddi:uk.wchads:1eda1f9e-0aac-47f4-be2e-e7e0f61f08ba:1</r:URN>
+      <r:Agency>uk.wchads</r:Agency>
+      <r:ID>1eda1f9e-0aac-47f4-be2e-e7e0f61f08ba</r:ID>
+      <r:Version>1</r:Version>
+      <r:UserAttributePair>
+        <r:AttributeKey>extension:CustomField</r:AttributeKey>
+        <r:AttributeValue>{"Title":{"en-GB":"LifeStage"},"Description":{},"ValueType":0,"HasValue":true,"RelationshipTargetType":"00000000-0000-0000-0000-000000000000","StringValue":"Early years","MultilingualStringValue":{},"HasDefinedType":false,"DisplayLabel":"LifeStage"}</r:AttributeValue>
+      </r:UserAttributePair>
+      <r:UserAttributePair>
+        <r:AttributeKey>extension:CustomField</r:AttributeKey>
+        <r:AttributeValue>{"Title":{"en-GB":"LifeStageDescription"},"Description":{},"ValueType":0,"HasValue":true,"RelationshipTargetType":"00000000-0000-0000-0000-000000000000","StringValue":"13 months - 4 years","MultilingualStringValue":{},"HasDefinedType":false,"DisplayLabel":"LifeStageDescription"}</r:AttributeValue>
+      </r:UserAttributePair>
+      <r:Citation>
+        <r:Title>
+          <r:String xml:lang="en-GB">Phase 09</r:String>
+        </r:Title>
+        <r:Creator>
+          <r:CreatorName>
+            <r:String xml:lang="en-GB">Professor Jonathan Hill (University of Reading), Professor Helen Sharp (University of Liverpool)</r:String>
+          </r:CreatorName>
+        </r:Creator>
+        <r:Publisher>
+          <r:PublisherName>
+            <r:String xml:lang="en-GB">University of Liverpool</r:String>
+          </r:PublisherName>
+        </r:Publisher>
+      </r:Citation>
+      <r:Abstract>
+        <r:Content xml:lang="en-GB">Women in the intensive subsample of the study completed multiple domains of assessment including diagnostic and other interviews and questionnaires when their child was aged approximately 30 months. Measurements include; parental and child mental health, physical health, demographic change, child temperament, lifestyle and relationship information, parenting, child behaviour. A range of filmed observational assessments of mothers and infants were completed (e.g. mother-infant interaction, executive function tasks, and laboratory tests of temperament). Some hypothesis driven experimental measures to assess infant development were completed. Physiological data was gathered from infants including cortisol reactivity to a social stressor and vagal tone during a range of control and stress related laboratory procedures. 
+
+Study website: &lt;a href="https://www.liverpool.ac.uk/institute-of-life-and-human-sciences/schools-and-departments/department-of-psychological-sciences/research/first-steps/" target="_blank" title="Wirral Child Health and Development Study"&gt;https://www.liverpool.ac.uk/institute-of-life-and-human-sciences/schools-and-departments/department-of-psychological-sciences/research/first-steps/&lt;/a&gt; </r:Content>
+      </r:Abstract>
+      <r:UniverseReference>
+        <r:Agency>uk.wchads</r:Agency>
+        <r:ID>51a78c32-b158-4904-b61e-453b7f5f179e</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Universe</r:TypeOfObject>
+      </r:UniverseReference>
+      <r:FundingInformation>
+        <r:AgencyOrganizationReference>
+          <r:Agency>uk.closer</r:Agency>
+          <r:ID>a1bdc1c8-d24e-44e1-87f2-5bcd7ab98e22</r:ID>
+          <r:Version>3</r:Version>
+          <r:TypeOfObject>Organization</r:TypeOfObject>
+        </r:AgencyOrganizationReference>
+      </r:FundingInformation>
+      <r:Coverage>
+        <r:SpatialCoverage isUniversallyUnique="true">
+          <r:URN>urn:ddi:uk.wchads:68342636-9be3-4059-bd10-af91e3c7e06d:1</r:URN>
+          <r:Agency>uk.wchads</r:Agency>
+          <r:ID>68342636-9be3-4059-bd10-af91e3c7e06d</r:ID>
+          <r:Version>1</r:Version>
+          <r:BoundingBox>
+            <r:WestLongitude>0</r:WestLongitude>
+            <r:EastLongitude>0</r:EastLongitude>
+            <r:SouthLatitude>0</r:SouthLatitude>
+            <r:NorthLatitude>0</r:NorthLatitude>
+          </r:BoundingBox>
+          <r:Description>
+            <r:Content xml:lang="en-GB">Wirral, Merseyside, England</r:Content>
+          </r:Description>
+          <r:Country>GB-ENG</r:Country>
+          <r:TopLevelReference>
+            <r:LevelName>Country</r:LevelName>
+          </r:TopLevelReference>
+          <r:LowestLevelReference>
+            <r:LevelName>Address</r:LevelName>
+          </r:LowestLevelReference>
+        </r:SpatialCoverage>
+        <r:TemporalCoverage isUniversallyUnique="true">
+          <r:URN>urn:ddi:uk.wchads:9cdc22a7-befc-4e3b-941c-43583dcf8dd0:1</r:URN>
+          <r:Agency>uk.wchads</r:Agency>
+          <r:ID>9cdc22a7-befc-4e3b-941c-43583dcf8dd0</r:ID>
+          <r:Version>1</r:Version>
+          <r:ReferenceDate>
+            <r:StartDate>2010</r:StartDate>
+            <r:EndDate>2012</r:EndDate>
+          </r:ReferenceDate>
+        </r:TemporalCoverage>
+      </r:Coverage>
+      <r:AnalysisUnit>Individual</r:AnalysisUnit>
+      <r:KindOfData>Survey Data</r:KindOfData>
+      <r:KindOfData>Demographic Data</r:KindOfData>
+      <r:KindOfData>Measurement Data</r:KindOfData>
+      <r:KindOfData>Assessment Data</r:KindOfData>
+      <r:KindOfData>Biosample Data</r:KindOfData>
+      <r:DataCollectionReference>
+        <r:Agency>uk.wchads</r:Agency>
+        <r:ID>a354d338-65fb-4d22-be94-2c9412176b82</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>DataCollection</r:TypeOfObject>
+      </r:DataCollectionReference>
+      <r:DataCollectionReference>
+        <r:Agency>uk.wchads</r:Agency>
+        <r:ID>50874306-e31e-45ab-929c-84c9da98e45b</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>DataCollection</r:TypeOfObject>
+      </r:DataCollectionReference>
+    </StudyUnit>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <DataCollection isUniversallyUnique="true" versionDate="2020-08-06T09:07:14.9742048Z" xmlns="ddi:datacollection:3_2">
+      <r:URN>urn:ddi:uk.wchads:a354d338-65fb-4d22-be94-2c9412176b82:1</r:URN>
+      <r:Agency>uk.wchads</r:Agency>
+      <r:ID>a354d338-65fb-4d22-be94-2c9412176b82</r:ID>
+      <r:Version>1</r:Version>
+      <DataCollectionModuleName>
+        <r:String xml:lang="en-GB">wchads_10_ph09ami</r:String>
+      </DataCollectionModuleName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Phase 09 Mother Child Assessment</r:Content>
+      </r:Label>
+      <CollectionEvent isUniversallyUnique="true">
+        <r:URN>urn:ddi:uk.wchads:7ace0b82-b67a-4edf-a588-366eecef368e:1</r:URN>
+        <r:Agency>uk.wchads</r:Agency>
+        <r:ID>7ace0b82-b67a-4edf-a588-366eecef368e</r:ID>
+        <r:Version>1</r:Version>
+        <DataCollectorOrganizationReference>
+          <r:Agency>uk.closer</r:Agency>
+          <r:ID>ad300f64-2a5c-433d-b83a-359e8c7861c9</r:ID>
+          <r:Version>2</r:Version>
+          <r:TypeOfObject>Organization</r:TypeOfObject>
+        </DataCollectorOrganizationReference>
+        <DataCollectionDate>
+          <r:StartDate>2010</r:StartDate>
+          <r:EndDate>2012</r:EndDate>
+        </DataCollectionDate>
+        <ModeOfCollection isUniversallyUnique="true">
+          <r:URN>urn:ddi:uk.wchads:f39ba021-a742-423f-ba07-8eca09545a34:1</r:URN>
+          <r:Agency>uk.wchads</r:Agency>
+          <r:ID>f39ba021-a742-423f-ba07-8eca09545a34</r:ID>
+          <r:Version>1</r:Version>
+          <TypeOfModeOfCollection>Observation.Laboratory.Participant</TypeOfModeOfCollection>
+          <r:Description>
+            <r:Content xml:lang="en-GB">Research method that involves observing and collecting data as they occur without attempting to manipulate any of the independent variables. Observation is conducted in a controlled, artificially created setting. The researcher interacts with the subjects and often plays a role in the situation under observation.</r:Content>
+          </r:Description>
+        </ModeOfCollection>
+        <ModeOfCollection isUniversallyUnique="true">
+          <r:URN>urn:ddi:uk.wchads:d075f576-39ee-4f9e-b5d8-138864285c16:1</r:URN>
+          <r:Agency>uk.wchads</r:Agency>
+          <r:ID>d075f576-39ee-4f9e-b5d8-138864285c16</r:ID>
+          <r:Version>1</r:Version>
+          <TypeOfModeOfCollection>MeasurementsAndTests.Psychological</TypeOfModeOfCollection>
+          <r:Description>
+            <r:Content xml:lang="en-GB">Assessment of personality traits or psychological/behavioural responses by means of specialised measures or tests.</r:Content>
+          </r:Description>
+        </ModeOfCollection>
+        <ModeOfCollection isUniversallyUnique="true">
+          <r:URN>urn:ddi:uk.wchads:e41aa6fa-85bb-41a3-aded-b3fbaa33c2cc:1</r:URN>
+          <r:Agency>uk.wchads</r:Agency>
+          <r:ID>e41aa6fa-85bb-41a3-aded-b3fbaa33c2cc</r:ID>
+          <r:Version>1</r:Version>
+          <TypeOfModeOfCollection>SelfAdministeredQuestionnaire.Paper</TypeOfModeOfCollection>
+          <r:Description>
+            <r:Content xml:lang="en-GB">Self-administered survey using a traditional paper questionnaire.</r:Content>
+          </r:Description>
+        </ModeOfCollection>
+      </CollectionEvent>
+    </DataCollection>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <DataCollection isUniversallyUnique="true" versionDate="2020-08-06T09:07:40.9717705Z" xmlns="ddi:datacollection:3_2">
+      <r:URN>urn:ddi:uk.wchads:50874306-e31e-45ab-929c-84c9da98e45b:1</r:URN>
+      <r:Agency>uk.wchads</r:Agency>
+      <r:ID>50874306-e31e-45ab-929c-84c9da98e45b</r:ID>
+      <r:Version>1</r:Version>
+      <DataCollectionModuleName>
+        <r:String xml:lang="en-GB">wchads_10_ph09imi</r:String>
+      </DataCollectionModuleName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Phase 09 Mother Interview</r:Content>
+      </r:Label>
+      <CollectionEvent isUniversallyUnique="true">
+        <r:URN>urn:ddi:uk.wchads:5438c469-c0d5-4c0a-b2e7-f8d35f17c9f2:1</r:URN>
+        <r:Agency>uk.wchads</r:Agency>
+        <r:ID>5438c469-c0d5-4c0a-b2e7-f8d35f17c9f2</r:ID>
+        <r:Version>1</r:Version>
+        <DataCollectorOrganizationReference>
+          <r:Agency>uk.closer</r:Agency>
+          <r:ID>ad300f64-2a5c-433d-b83a-359e8c7861c9</r:ID>
+          <r:Version>2</r:Version>
+          <r:TypeOfObject>Organization</r:TypeOfObject>
+        </DataCollectorOrganizationReference>
+        <DataCollectionDate>
+          <r:StartDate>2010</r:StartDate>
+          <r:EndDate>2012</r:EndDate>
+        </DataCollectionDate>
+        <ModeOfCollection isUniversallyUnique="true">
+          <r:URN>urn:ddi:uk.wchads:e8569193-9881-4869-86aa-90a44e49efae:1</r:URN>
+          <r:Agency>uk.wchads</r:Agency>
+          <r:ID>e8569193-9881-4869-86aa-90a44e49efae</r:ID>
+          <r:Version>1</r:Version>
+          <TypeOfModeOfCollection>Interview.FaceToFace</TypeOfModeOfCollection>
+          <r:Description>
+            <r:Content xml:lang="en-GB">Data collection method in which a live interviewer conducts a personal interview, presenting questions and entering the responses.</r:Content>
+          </r:Description>
+        </ModeOfCollection>
+      </CollectionEvent>
+    </DataCollection>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Universe isUniversallyUnique="true" versionDate="2020-08-06T08:35:50.0643164Z" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.wchads:51a78c32-b158-4904-b61e-453b7f5f179e:1</r:URN>
+      <r:Agency>uk.wchads</r:Agency>
+      <r:ID>51a78c32-b158-4904-b61e-453b7f5f179e</r:ID>
+      <r:Version>1</r:Version>
+      <UniverseName>
+        <r:String xml:lang="en-GB">WCHADS_phase_09</r:String>
+      </UniverseName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">WCHADS Phase 9 Population</r:Content>
+      </r:Label>
+      <r:Description>
+        <r:Content xml:lang="en-GB">WCHADS mother recruited into our intensive subsample and their child - stratified for psychosocial risk</r:Content>
+      </r:Description>
+    </Universe>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <StudyUnit isUniversallyUnique="true" versionDate="2020-08-07T14:29:38.0283482Z" xmlns="ddi:studyunit:3_2">
+      <r:URN>urn:ddi:uk.wchads:03317b5f-7fbe-4d19-9c58-45e14ba94009:1</r:URN>
+      <r:Agency>uk.wchads</r:Agency>
+      <r:ID>03317b5f-7fbe-4d19-9c58-45e14ba94009</r:ID>
+      <r:Version>1</r:Version>
+      <r:UserAttributePair>
+        <r:AttributeKey>extension:CustomField</r:AttributeKey>
+        <r:AttributeValue>{"Title":{"en-GB":"LifeStage"},"Description":{},"ValueType":0,"HasValue":true,"RelationshipTargetType":"00000000-0000-0000-0000-000000000000","StringValue":"Early years","MultilingualStringValue":{},"HasDefinedType":false,"DisplayLabel":"LifeStage"}</r:AttributeValue>
+      </r:UserAttributePair>
+      <r:UserAttributePair>
+        <r:AttributeKey>extension:CustomField</r:AttributeKey>
+        <r:AttributeValue>{"Title":{"en-GB":"LifeStageDescription"},"Description":{},"ValueType":0,"HasValue":true,"RelationshipTargetType":"00000000-0000-0000-0000-000000000000","StringValue":"13 months - 4 years","MultilingualStringValue":{},"HasDefinedType":false,"DisplayLabel":"LifeStageDescription"}</r:AttributeValue>
+      </r:UserAttributePair>
+      <r:Citation>
+        <r:Title>
+          <r:String xml:lang="en-GB">Phase 10</r:String>
+        </r:Title>
+        <r:Creator>
+          <r:CreatorName>
+            <r:String xml:lang="en-GB">Professor Jonathan Hill (University of Reading), Professor Helen Sharp (University of Liverpool)</r:String>
+          </r:CreatorName>
+        </r:Creator>
+        <r:Publisher>
+          <r:PublisherName>
+            <r:String xml:lang="en-GB">University of Liverpool</r:String>
+          </r:PublisherName>
+        </r:Publisher>
+      </r:Citation>
+      <r:Abstract>
+        <r:Content xml:lang="en-GB">Women and their children in the extensive sample were visited at home to complete a follow up questionnaire and a range of filmed observational assessments (e.g. mother-child interaction and child executive functioning tasks) at approximately 3.5 years of age. Partner’s also completed a follow up questionnaire. Domains of measurement include; parental and child mental health, physical health, demographic change, infant temperament, lifestyle and relationship information, life events, parenting, infant behaviour. S
+
+Study website: &lt;a href="https://www.liverpool.ac.uk/institute-of-life-and-human-sciences/schools-and-departments/department-of-psychological-sciences/research/first-steps/" target="_blank" title="Wirral Child Health and Development Study"&gt;https://www.liverpool.ac.uk/institute-of-life-and-human-sciences/schools-and-departments/department-of-psychological-sciences/research/first-steps/&lt;/a&gt; </r:Content>
+      </r:Abstract>
+      <r:UniverseReference>
+        <r:Agency>uk.wchads</r:Agency>
+        <r:ID>284b2d95-9d3f-4c42-b049-3e4907ab968b</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Universe</r:TypeOfObject>
+      </r:UniverseReference>
+      <r:FundingInformation>
+        <r:AgencyOrganizationReference>
+          <r:Agency>uk.closer</r:Agency>
+          <r:ID>a1bdc1c8-d24e-44e1-87f2-5bcd7ab98e22</r:ID>
+          <r:Version>3</r:Version>
+          <r:TypeOfObject>Organization</r:TypeOfObject>
+        </r:AgencyOrganizationReference>
+      </r:FundingInformation>
+      <r:Coverage>
+        <r:SpatialCoverage isUniversallyUnique="true">
+          <r:URN>urn:ddi:uk.wchads:846d8c7c-d787-4c27-8620-259390a71f61:1</r:URN>
+          <r:Agency>uk.wchads</r:Agency>
+          <r:ID>846d8c7c-d787-4c27-8620-259390a71f61</r:ID>
+          <r:Version>1</r:Version>
+          <r:BoundingBox>
+            <r:WestLongitude>0</r:WestLongitude>
+            <r:EastLongitude>0</r:EastLongitude>
+            <r:SouthLatitude>0</r:SouthLatitude>
+            <r:NorthLatitude>0</r:NorthLatitude>
+          </r:BoundingBox>
+          <r:Description>
+            <r:Content xml:lang="en-GB">Wirral, Merseyside, England</r:Content>
+          </r:Description>
+          <r:Country>GB-ENG</r:Country>
+          <r:TopLevelReference>
+            <r:LevelName>Country</r:LevelName>
+          </r:TopLevelReference>
+          <r:LowestLevelReference>
+            <r:LevelName>Address</r:LevelName>
+          </r:LowestLevelReference>
+        </r:SpatialCoverage>
+        <r:TemporalCoverage isUniversallyUnique="true">
+          <r:URN>urn:ddi:uk.wchads:3f75af96-f945-410d-9aa8-ac0488409d9a:1</r:URN>
+          <r:Agency>uk.wchads</r:Agency>
+          <r:ID>3f75af96-f945-410d-9aa8-ac0488409d9a</r:ID>
+          <r:Version>1</r:Version>
+          <r:ReferenceDate>
+            <r:StartDate>2011</r:StartDate>
+            <r:EndDate>2013</r:EndDate>
+          </r:ReferenceDate>
+        </r:TemporalCoverage>
+      </r:Coverage>
+      <r:AnalysisUnit>Individual</r:AnalysisUnit>
+      <r:KindOfData>Survey Data</r:KindOfData>
+      <r:KindOfData>Demographic Data</r:KindOfData>
+      <r:KindOfData>Measurement Data</r:KindOfData>
+      <r:KindOfData>Assessment Data</r:KindOfData>
+      <r:KindOfData>Biosample Data</r:KindOfData>
+      <r:DataCollectionReference>
+        <r:Agency>uk.wchads</r:Agency>
+        <r:ID>379210d0-79ce-4a22-9179-a3613fcdd78d</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>DataCollection</r:TypeOfObject>
+      </r:DataCollectionReference>
+      <r:DataCollectionReference>
+        <r:Agency>uk.wchads</r:Agency>
+        <r:ID>c4b8f4f9-514d-47f9-ab35-5ae2f5695374</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>DataCollection</r:TypeOfObject>
+      </r:DataCollectionReference>
+    </StudyUnit>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <DataCollection isUniversallyUnique="true" versionDate="2020-08-06T09:10:04.8737476Z" xmlns="ddi:datacollection:3_2">
+      <r:URN>urn:ddi:uk.wchads:379210d0-79ce-4a22-9179-a3613fcdd78d:1</r:URN>
+      <r:Agency>uk.wchads</r:Agency>
+      <r:ID>379210d0-79ce-4a22-9179-a3613fcdd78d</r:ID>
+      <r:Version>1</r:Version>
+      <DataCollectionModuleName>
+        <r:String xml:lang="en-GB">wchads_11_ph10mx</r:String>
+      </DataCollectionModuleName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Phase 10 Mother Child Assessment</r:Content>
+      </r:Label>
+      <CollectionEvent isUniversallyUnique="true">
+        <r:URN>urn:ddi:uk.wchads:15b7e529-ace5-465d-ab80-a863630b6c52:1</r:URN>
+        <r:Agency>uk.wchads</r:Agency>
+        <r:ID>15b7e529-ace5-465d-ab80-a863630b6c52</r:ID>
+        <r:Version>1</r:Version>
+        <DataCollectorOrganizationReference>
+          <r:Agency>uk.closer</r:Agency>
+          <r:ID>ad300f64-2a5c-433d-b83a-359e8c7861c9</r:ID>
+          <r:Version>2</r:Version>
+          <r:TypeOfObject>Organization</r:TypeOfObject>
+        </DataCollectorOrganizationReference>
+        <DataCollectionDate>
+          <r:StartDate>2011</r:StartDate>
+          <r:EndDate>2013</r:EndDate>
+        </DataCollectionDate>
+        <ModeOfCollection isUniversallyUnique="true">
+          <r:URN>urn:ddi:uk.wchads:a734d9ef-83cb-492e-befa-40f5764a5c6f:1</r:URN>
+          <r:Agency>uk.wchads</r:Agency>
+          <r:ID>a734d9ef-83cb-492e-befa-40f5764a5c6f</r:ID>
+          <r:Version>1</r:Version>
+          <TypeOfModeOfCollection>Observation.Field.Participant</TypeOfModeOfCollection>
+          <r:Description>
+            <r:Content xml:lang="en-GB">Research method that involves observing and collecting data as they occur without attempting to manipulate any of the independent variables. Observation conducted in a natural environment. The researcher interacts with the subjects and often plays a role in the situation under observation.</r:Content>
+          </r:Description>
+        </ModeOfCollection>
+        <ModeOfCollection isUniversallyUnique="true">
+          <r:URN>urn:ddi:uk.wchads:4d48299c-11f5-472e-a503-d1ca8bc4a2d8:1</r:URN>
+          <r:Agency>uk.wchads</r:Agency>
+          <r:ID>4d48299c-11f5-472e-a503-d1ca8bc4a2d8</r:ID>
+          <r:Version>1</r:Version>
+          <TypeOfModeOfCollection>MeasurementsAndTests.Psychological</TypeOfModeOfCollection>
+          <r:Description>
+            <r:Content xml:lang="en-GB">Assessment of personality traits or psychological/behavioural responses by means of specialised measures or tests.</r:Content>
+          </r:Description>
+        </ModeOfCollection>
+        <ModeOfCollection isUniversallyUnique="true">
+          <r:URN>urn:ddi:uk.wchads:2ef5028a-d6b6-4e61-a40d-514e4baf6f4e:1</r:URN>
+          <r:Agency>uk.wchads</r:Agency>
+          <r:ID>2ef5028a-d6b6-4e61-a40d-514e4baf6f4e</r:ID>
+          <r:Version>1</r:Version>
+          <TypeOfModeOfCollection>SelfAdministeredQuestionnaire.Paper</TypeOfModeOfCollection>
+          <r:Description>
+            <r:Content xml:lang="en-GB">Self-administered survey using a traditional paper questionnaire.</r:Content>
+          </r:Description>
+        </ModeOfCollection>
+      </CollectionEvent>
+    </DataCollection>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <DataCollection isUniversallyUnique="true" versionDate="2020-08-06T09:10:31.2418378Z" xmlns="ddi:datacollection:3_2">
+      <r:URN>urn:ddi:uk.wchads:c4b8f4f9-514d-47f9-ab35-5ae2f5695374:1</r:URN>
+      <r:Agency>uk.wchads</r:Agency>
+      <r:ID>c4b8f4f9-514d-47f9-ab35-5ae2f5695374</r:ID>
+      <r:Version>1</r:Version>
+      <DataCollectionModuleName>
+        <r:String xml:lang="en-GB">wchads_11_ph10px</r:String>
+      </DataCollectionModuleName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Phase 10 Partner Questionnaire</r:Content>
+      </r:Label>
+      <CollectionEvent isUniversallyUnique="true">
+        <r:URN>urn:ddi:uk.wchads:ae98eae5-171e-490d-8cb6-f148473e5022:1</r:URN>
+        <r:Agency>uk.wchads</r:Agency>
+        <r:ID>ae98eae5-171e-490d-8cb6-f148473e5022</r:ID>
+        <r:Version>1</r:Version>
+        <DataCollectorOrganizationReference>
+          <r:Agency>uk.closer</r:Agency>
+          <r:ID>ad300f64-2a5c-433d-b83a-359e8c7861c9</r:ID>
+          <r:Version>2</r:Version>
+          <r:TypeOfObject>Organization</r:TypeOfObject>
+        </DataCollectorOrganizationReference>
+        <DataCollectionDate>
+          <r:StartDate>2011</r:StartDate>
+          <r:EndDate>2013</r:EndDate>
+        </DataCollectionDate>
+        <ModeOfCollection isUniversallyUnique="true">
+          <r:URN>urn:ddi:uk.wchads:6213bff8-715c-46d6-ada4-a0e873252ef3:1</r:URN>
+          <r:Agency>uk.wchads</r:Agency>
+          <r:ID>6213bff8-715c-46d6-ada4-a0e873252ef3</r:ID>
+          <r:Version>1</r:Version>
+          <TypeOfModeOfCollection>SelfAdministeredQuestionnaire.Paper</TypeOfModeOfCollection>
+          <r:Description>
+            <r:Content xml:lang="en-GB">Self-administered survey using a traditional paper questionnaire.</r:Content>
+          </r:Description>
+        </ModeOfCollection>
+      </CollectionEvent>
+    </DataCollection>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Universe isUniversallyUnique="true" versionDate="2020-08-05T14:13:24.181325Z" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.wchads:284b2d95-9d3f-4c42-b049-3e4907ab968b:1</r:URN>
+      <r:Agency>uk.wchads</r:Agency>
+      <r:ID>284b2d95-9d3f-4c42-b049-3e4907ab968b</r:ID>
+      <r:Version>1</r:Version>
+      <UniverseName>
+        <r:String xml:lang="en-GB">WCHADS_phase_10</r:String>
+      </UniverseName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">WCHADS Phase 10 Population</r:Content>
+      </r:Label>
+      <r:Description>
+        <r:Content xml:lang="en-GB">WCHADS extensive sample (includes intensive subsample) - mother, child and partner</r:Content>
+      </r:Description>
+    </Universe>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <StudyUnit isUniversallyUnique="true" versionDate="2020-08-07T14:31:39.1732613Z" xmlns="ddi:studyunit:3_2">
+      <r:URN>urn:ddi:uk.wchads:117574c4-b058-4dbb-af65-10683e23c834:1</r:URN>
+      <r:Agency>uk.wchads</r:Agency>
+      <r:ID>117574c4-b058-4dbb-af65-10683e23c834</r:ID>
+      <r:Version>1</r:Version>
+      <r:UserAttributePair>
+        <r:AttributeKey>extension:CustomField</r:AttributeKey>
+        <r:AttributeValue>{"Title":{"en-GB":"LifeStage"},"Description":{},"ValueType":0,"HasValue":true,"RelationshipTargetType":"00000000-0000-0000-0000-000000000000","StringValue":"Early years","MultilingualStringValue":{},"HasDefinedType":false,"DisplayLabel":"LifeStage"}</r:AttributeValue>
+      </r:UserAttributePair>
+      <r:UserAttributePair>
+        <r:AttributeKey>extension:CustomField</r:AttributeKey>
+        <r:AttributeValue>{"Title":{"en-GB":"LifeStageDescription"},"Description":{},"ValueType":0,"HasValue":true,"RelationshipTargetType":"00000000-0000-0000-0000-000000000000","StringValue":"13 months - 4 years","MultilingualStringValue":{},"HasDefinedType":false,"DisplayLabel":"LifeStageDescription"}</r:AttributeValue>
+      </r:UserAttributePair>
+      <r:Citation>
+        <r:Title>
+          <r:String xml:lang="en-GB">Phase 11 and 12</r:String>
+        </r:Title>
+        <r:Creator>
+          <r:CreatorName>
+            <r:String xml:lang="en-GB">Professor Jonathan Hill (University of Reading), Professor Helen Sharp (University of Liverpool)</r:String>
+          </r:CreatorName>
+        </r:Creator>
+        <r:Publisher>
+          <r:PublisherName>
+            <r:String xml:lang="en-GB">University of Liverpool</r:String>
+          </r:PublisherName>
+        </r:Publisher>
+      </r:Citation>
+      <r:Abstract>
+        <r:Content xml:lang="en-GB">The WCHADS extensive sample mothers and their partners who remained in the study completed a questionnaire follow up when their child was approximately 5 years of age. Domains of measurement include; parental and child mental health, physical health, demographic change, child temperament, lifestyle and relationship information, parenting, child behaviour, school readiness. Teachers of the children in the study were also sent a questionnaire to assess each child’s school readiness. 
+
+Women in the WCHADS intensive subsample completed multiple domains of assessment including diagnostic and other interviews, questionnaires, and a range of filmed observational assessments of mothers and infants were completed at approximately 5 years of age. Some hypothesis driven experimental measures to assess infant development were completed (e.g. attention performance during a fake argument). Physiological data was gathered from infants including cortisol reactivity to a social stressor and vagal tone during a range of control and stress related laboratory procedures. 
+
+Study website: &lt;a href="https://www.liverpool.ac.uk/institute-of-life-and-human-sciences/schools-and-departments/department-of-psychological-sciences/research/first-steps/" target="_blank" title="Wirral Child Health and Development Study"&gt;https://www.liverpool.ac.uk/institute-of-life-and-human-sciences/schools-and-departments/department-of-psychological-sciences/research/first-steps/&lt;/a&gt; </r:Content>
+      </r:Abstract>
+      <r:UniverseReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>0ca1eb20-244d-4188-8f00-1b1351006823</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Universe</r:TypeOfObject>
+      </r:UniverseReference>
+      <r:FundingInformation>
+        <r:AgencyOrganizationReference>
+          <r:Agency>uk.closer</r:Agency>
+          <r:ID>a1bdc1c8-d24e-44e1-87f2-5bcd7ab98e22</r:ID>
+          <r:Version>3</r:Version>
+          <r:TypeOfObject>Organization</r:TypeOfObject>
+        </r:AgencyOrganizationReference>
+      </r:FundingInformation>
+      <r:Coverage>
+        <r:SpatialCoverage isUniversallyUnique="true">
+          <r:URN>urn:ddi:uk.wchads:b226918b-98ce-476a-92b7-24464196203d:1</r:URN>
+          <r:Agency>uk.wchads</r:Agency>
+          <r:ID>b226918b-98ce-476a-92b7-24464196203d</r:ID>
+          <r:Version>1</r:Version>
+          <r:BoundingBox>
+            <r:WestLongitude>0</r:WestLongitude>
+            <r:EastLongitude>0</r:EastLongitude>
+            <r:SouthLatitude>0</r:SouthLatitude>
+            <r:NorthLatitude>0</r:NorthLatitude>
+          </r:BoundingBox>
+          <r:Description>
+            <r:Content xml:lang="en-GB">Wirral, Merseyside, England</r:Content>
+          </r:Description>
+          <r:Country>GB-ENG</r:Country>
+          <r:TopLevelReference>
+            <r:LevelName>Country</r:LevelName>
+          </r:TopLevelReference>
+          <r:LowestLevelReference>
+            <r:LevelName>Address</r:LevelName>
+          </r:LowestLevelReference>
+        </r:SpatialCoverage>
+        <r:TemporalCoverage isUniversallyUnique="true">
+          <r:URN>urn:ddi:uk.wchads:c7661fcc-ba5e-43f2-94da-20a9c0b64ce3:1</r:URN>
+          <r:Agency>uk.wchads</r:Agency>
+          <r:ID>c7661fcc-ba5e-43f2-94da-20a9c0b64ce3</r:ID>
+          <r:Version>1</r:Version>
+          <r:ReferenceDate>
+            <r:StartDate>2012</r:StartDate>
+            <r:EndDate>2014</r:EndDate>
+          </r:ReferenceDate>
+        </r:TemporalCoverage>
+      </r:Coverage>
+      <r:AnalysisUnit>Individual</r:AnalysisUnit>
+      <r:KindOfData>Survey Data</r:KindOfData>
+      <r:KindOfData>Demographic Data</r:KindOfData>
+      <r:KindOfData>Measurement Data</r:KindOfData>
+      <r:KindOfData>Assessment Data</r:KindOfData>
+      <r:KindOfData>Biosample Data</r:KindOfData>
+      <r:DataCollectionReference>
+        <r:Agency>uk.wchads</r:Agency>
+        <r:ID>bcf5dbdf-9f30-4139-be48-064c6b0da89d</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>DataCollection</r:TypeOfObject>
+      </r:DataCollectionReference>
+      <r:DataCollectionReference>
+        <r:Agency>uk.wchads</r:Agency>
+        <r:ID>d350120d-807b-49a8-b0d1-81e7ade9bde7</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>DataCollection</r:TypeOfObject>
+      </r:DataCollectionReference>
+      <r:DataCollectionReference>
+        <r:Agency>uk.wchads</r:Agency>
+        <r:ID>4f4469fa-4922-4bec-b310-0cc498a80137</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>DataCollection</r:TypeOfObject>
+      </r:DataCollectionReference>
+      <r:DataCollectionReference>
+        <r:Agency>uk.wchads</r:Agency>
+        <r:ID>6f5fa638-c0a7-452c-b228-9e92fabb6d6e</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>DataCollection</r:TypeOfObject>
+      </r:DataCollectionReference>
+      <r:DataCollectionReference>
+        <r:Agency>uk.wchads</r:Agency>
+        <r:ID>64c160d4-4df5-422c-8901-b2bf44328b07</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>DataCollection</r:TypeOfObject>
+      </r:DataCollectionReference>
+    </StudyUnit>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <DataCollection isUniversallyUnique="true" versionDate="2020-08-06T09:11:20.6749498Z" xmlns="ddi:datacollection:3_2">
+      <r:URN>urn:ddi:uk.wchads:bcf5dbdf-9f30-4139-be48-064c6b0da89d:1</r:URN>
+      <r:Agency>uk.wchads</r:Agency>
+      <r:ID>bcf5dbdf-9f30-4139-be48-064c6b0da89d</r:ID>
+      <r:Version>1</r:Version>
+      <DataCollectionModuleName>
+        <r:String xml:lang="en-GB">wchads_12_ph11ami</r:String>
+      </DataCollectionModuleName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Phase 11 Mother Child Assessment</r:Content>
+      </r:Label>
+      <CollectionEvent isUniversallyUnique="true">
+        <r:URN>urn:ddi:uk.wchads:736289a7-da5d-4863-986d-ca238460a9de:1</r:URN>
+        <r:Agency>uk.wchads</r:Agency>
+        <r:ID>736289a7-da5d-4863-986d-ca238460a9de</r:ID>
+        <r:Version>1</r:Version>
+        <DataCollectorOrganizationReference>
+          <r:Agency>uk.closer</r:Agency>
+          <r:ID>ad300f64-2a5c-433d-b83a-359e8c7861c9</r:ID>
+          <r:Version>2</r:Version>
+          <r:TypeOfObject>Organization</r:TypeOfObject>
+        </DataCollectorOrganizationReference>
+        <DataCollectionDate>
+          <r:StartDate>2012</r:StartDate>
+          <r:EndDate>2014</r:EndDate>
+        </DataCollectionDate>
+        <ModeOfCollection isUniversallyUnique="true">
+          <r:URN>urn:ddi:uk.wchads:1f64ac42-a6bd-4d38-b49b-3765318a6e8d:1</r:URN>
+          <r:Agency>uk.wchads</r:Agency>
+          <r:ID>1f64ac42-a6bd-4d38-b49b-3765318a6e8d</r:ID>
+          <r:Version>1</r:Version>
+          <TypeOfModeOfCollection>Observation.Field.Participant</TypeOfModeOfCollection>
+          <r:Description>
+            <r:Content xml:lang="en-GB">Research method that involves observing and collecting data as they occur without attempting to manipulate any of the independent variables. Observation conducted in a natural environment. The researcher interacts with the subjects and often plays a role in the situation under observation.</r:Content>
+          </r:Description>
+        </ModeOfCollection>
+        <ModeOfCollection isUniversallyUnique="true">
+          <r:URN>urn:ddi:uk.wchads:1efe2b98-f630-4b89-add6-6789499d3ea7:1</r:URN>
+          <r:Agency>uk.wchads</r:Agency>
+          <r:ID>1efe2b98-f630-4b89-add6-6789499d3ea7</r:ID>
+          <r:Version>1</r:Version>
+          <TypeOfModeOfCollection>MeasurementsAndTests.Psychological</TypeOfModeOfCollection>
+          <r:Description>
+            <r:Content xml:lang="en-GB">Assessment of personality traits or psychological/behavioural responses by means of specialised measures or tests.</r:Content>
+          </r:Description>
+        </ModeOfCollection>
+        <ModeOfCollection isUniversallyUnique="true">
+          <r:URN>urn:ddi:uk.wchads:1cc25a52-1dea-4b71-987e-c9b5027dfdab:1</r:URN>
+          <r:Agency>uk.wchads</r:Agency>
+          <r:ID>1cc25a52-1dea-4b71-987e-c9b5027dfdab</r:ID>
+          <r:Version>1</r:Version>
+          <TypeOfModeOfCollection>SelfAdministeredQuestionnaire.ComputerAssisted</TypeOfModeOfCollection>
+          <r:Description>
+            <r:Content xml:lang="en-GB">Computer assisted self-interview (CASI). Respondents enter the responses into a computer by themselves.</r:Content>
+          </r:Description>
+        </ModeOfCollection>
+      </CollectionEvent>
+    </DataCollection>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <DataCollection isUniversallyUnique="true" versionDate="2020-08-06T09:11:49.4458062Z" xmlns="ddi:datacollection:3_2">
+      <r:URN>urn:ddi:uk.wchads:d350120d-807b-49a8-b0d1-81e7ade9bde7:1</r:URN>
+      <r:Agency>uk.wchads</r:Agency>
+      <r:ID>d350120d-807b-49a8-b0d1-81e7ade9bde7</r:ID>
+      <r:Version>1</r:Version>
+      <DataCollectionModuleName>
+        <r:String xml:lang="en-GB">wchads_12_ph11imi</r:String>
+      </DataCollectionModuleName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Phase 11 Mother Interview</r:Content>
+      </r:Label>
+      <CollectionEvent isUniversallyUnique="true">
+        <r:URN>urn:ddi:uk.wchads:f445f175-2dab-4a8a-8f7b-9ed13f2574cb:1</r:URN>
+        <r:Agency>uk.wchads</r:Agency>
+        <r:ID>f445f175-2dab-4a8a-8f7b-9ed13f2574cb</r:ID>
+        <r:Version>1</r:Version>
+        <DataCollectorOrganizationReference>
+          <r:Agency>uk.closer</r:Agency>
+          <r:ID>ad300f64-2a5c-433d-b83a-359e8c7861c9</r:ID>
+          <r:Version>2</r:Version>
+          <r:TypeOfObject>Organization</r:TypeOfObject>
+        </DataCollectorOrganizationReference>
+        <DataCollectionDate>
+          <r:StartDate>2012</r:StartDate>
+          <r:EndDate>2014</r:EndDate>
+        </DataCollectionDate>
+        <ModeOfCollection isUniversallyUnique="true">
+          <r:URN>urn:ddi:uk.wchads:b6727736-9b28-4371-8737-758c42ce8b36:1</r:URN>
+          <r:Agency>uk.wchads</r:Agency>
+          <r:ID>b6727736-9b28-4371-8737-758c42ce8b36</r:ID>
+          <r:Version>1</r:Version>
+          <TypeOfModeOfCollection>Interview.FaceToFace</TypeOfModeOfCollection>
+          <r:Description>
+            <r:Content xml:lang="en-GB">Data collection method in which a live interviewer conducts a personal interview, presenting questions and entering the responses.</r:Content>
+          </r:Description>
+        </ModeOfCollection>
+      </CollectionEvent>
+    </DataCollection>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <DataCollection isUniversallyUnique="true" versionDate="2020-08-07T12:58:09.155843Z" xmlns="ddi:datacollection:3_2">
+      <r:URN>urn:ddi:uk.wchads:4f4469fa-4922-4bec-b310-0cc498a80137:1</r:URN>
+      <r:Agency>uk.wchads</r:Agency>
+      <r:ID>4f4469fa-4922-4bec-b310-0cc498a80137</r:ID>
+      <r:Version>1</r:Version>
+      <DataCollectionModuleName>
+        <r:String xml:lang="en-GB">wchads_12_ph11mi12mx</r:String>
+      </DataCollectionModuleName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Phase 11 and 12 Mother Questionnaire</r:Content>
+      </r:Label>
+      <CollectionEvent isUniversallyUnique="true">
+        <r:URN>urn:ddi:uk.wchads:3ab0f1a6-54f9-46b5-b81a-74cdab6ba6e0:1</r:URN>
+        <r:Agency>uk.wchads</r:Agency>
+        <r:ID>3ab0f1a6-54f9-46b5-b81a-74cdab6ba6e0</r:ID>
+        <r:Version>1</r:Version>
+        <DataCollectorOrganizationReference>
+          <r:Agency>uk.closer</r:Agency>
+          <r:ID>ad300f64-2a5c-433d-b83a-359e8c7861c9</r:ID>
+          <r:Version>2</r:Version>
+          <r:TypeOfObject>Organization</r:TypeOfObject>
+        </DataCollectorOrganizationReference>
+        <DataCollectionDate>
+          <r:StartDate>2012</r:StartDate>
+          <r:EndDate>2014</r:EndDate>
+        </DataCollectionDate>
+        <ModeOfCollection isUniversallyUnique="true">
+          <r:URN>urn:ddi:uk.wchads:b1163139-85d2-445e-81f9-59e00d370cdb:1</r:URN>
+          <r:Agency>uk.wchads</r:Agency>
+          <r:ID>b1163139-85d2-445e-81f9-59e00d370cdb</r:ID>
+          <r:Version>1</r:Version>
+          <TypeOfModeOfCollection>SelfAdministeredQuestionnaire.Paper</TypeOfModeOfCollection>
+          <r:Description>
+            <r:Content xml:lang="en-GB">Self-administered survey using a traditional paper questionnaire.</r:Content>
+          </r:Description>
+        </ModeOfCollection>
+      </CollectionEvent>
+    </DataCollection>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <DataCollection isUniversallyUnique="true" versionDate="2020-08-07T12:59:27.4116393Z" xmlns="ddi:datacollection:3_2">
+      <r:URN>urn:ddi:uk.wchads:6f5fa638-c0a7-452c-b228-9e92fabb6d6e:1</r:URN>
+      <r:Agency>uk.wchads</r:Agency>
+      <r:ID>6f5fa638-c0a7-452c-b228-9e92fabb6d6e</r:ID>
+      <r:Version>1</r:Version>
+      <DataCollectionModuleName>
+        <r:String xml:lang="en-GB">wchads_12_ph12px</r:String>
+      </DataCollectionModuleName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Phase 12 Partner Questionnaire</r:Content>
+      </r:Label>
+      <CollectionEvent isUniversallyUnique="true">
+        <r:URN>urn:ddi:uk.wchads:ff0b6543-5209-4ea7-86ef-dd3fc5589f17:1</r:URN>
+        <r:Agency>uk.wchads</r:Agency>
+        <r:ID>ff0b6543-5209-4ea7-86ef-dd3fc5589f17</r:ID>
+        <r:Version>1</r:Version>
+        <DataCollectorOrganizationReference>
+          <r:Agency>uk.closer</r:Agency>
+          <r:ID>ad300f64-2a5c-433d-b83a-359e8c7861c9</r:ID>
+          <r:Version>2</r:Version>
+          <r:TypeOfObject>Organization</r:TypeOfObject>
+        </DataCollectorOrganizationReference>
+        <DataCollectionDate>
+          <r:StartDate>2012</r:StartDate>
+          <r:EndDate>2014</r:EndDate>
+        </DataCollectionDate>
+        <ModeOfCollection isUniversallyUnique="true">
+          <r:URN>urn:ddi:uk.wchads:fd6643ad-8a90-48bc-90ad-0be35c511e4c:1</r:URN>
+          <r:Agency>uk.wchads</r:Agency>
+          <r:ID>fd6643ad-8a90-48bc-90ad-0be35c511e4c</r:ID>
+          <r:Version>1</r:Version>
+          <TypeOfModeOfCollection>SelfAdministeredQuestionnaire.Paper</TypeOfModeOfCollection>
+          <r:Description>
+            <r:Content xml:lang="en-GB">Self-administered survey using a traditional paper questionnaire.</r:Content>
+          </r:Description>
+        </ModeOfCollection>
+      </CollectionEvent>
+    </DataCollection>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <DataCollection isUniversallyUnique="true" versionDate="2020-08-07T13:00:28.8070617Z" xmlns="ddi:datacollection:3_2">
+      <r:URN>urn:ddi:uk.wchads:64c160d4-4df5-422c-8901-b2bf44328b07:1</r:URN>
+      <r:Agency>uk.wchads</r:Agency>
+      <r:ID>64c160d4-4df5-422c-8901-b2bf44328b07</r:ID>
+      <r:Version>1</r:Version>
+      <DataCollectionModuleName>
+        <r:String xml:lang="en-GB">wchads_12_ph12schx</r:String>
+      </DataCollectionModuleName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Phase 12 School Readiness Teacher Questionnaire</r:Content>
+      </r:Label>
+      <CollectionEvent isUniversallyUnique="true">
+        <r:URN>urn:ddi:uk.wchads:1f1c5803-802c-4e42-9d8f-ca814d62970a:1</r:URN>
+        <r:Agency>uk.wchads</r:Agency>
+        <r:ID>1f1c5803-802c-4e42-9d8f-ca814d62970a</r:ID>
+        <r:Version>1</r:Version>
+        <DataCollectorOrganizationReference>
+          <r:Agency>uk.closer</r:Agency>
+          <r:ID>ad300f64-2a5c-433d-b83a-359e8c7861c9</r:ID>
+          <r:Version>2</r:Version>
+          <r:TypeOfObject>Organization</r:TypeOfObject>
+        </DataCollectorOrganizationReference>
+        <DataCollectionDate>
+          <r:StartDate>2012</r:StartDate>
+          <r:EndDate>2014</r:EndDate>
+        </DataCollectionDate>
+        <ModeOfCollection isUniversallyUnique="true">
+          <r:URN>urn:ddi:uk.wchads:3da87fdd-0497-4006-9d05-3ad17dfbeae8:1</r:URN>
+          <r:Agency>uk.wchads</r:Agency>
+          <r:ID>3da87fdd-0497-4006-9d05-3ad17dfbeae8</r:ID>
+          <r:Version>1</r:Version>
+          <TypeOfModeOfCollection>SelfAdministeredQuestionnaire.Paper</TypeOfModeOfCollection>
+          <r:Description>
+            <r:Content xml:lang="en-GB">Self-administered survey using a traditional paper questionnaire.</r:Content>
+          </r:Description>
+        </ModeOfCollection>
+      </CollectionEvent>
+    </DataCollection>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Universe isUniversallyUnique="true" versionDate="2020-08-07T14:30:51.0456234Z" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:0ca1eb20-244d-4188-8f00-1b1351006823:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>0ca1eb20-244d-4188-8f00-1b1351006823</r:ID>
+      <r:Version>1</r:Version>
+      <UniverseName>
+        <r:String xml:lang="en-GB">WCHADS_phase_11_12</r:String>
+      </UniverseName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">WCHADS Phase 11 and 12 Population</r:Content>
+      </r:Label>
+      <r:Description>
+        <r:Content xml:lang="en-GB">WCHADS extensive sample - mothers and partners including WCHADS mothers recruited into WCHADS intensive subsample and their child - stratified for psychosocial risk.</r:Content>
+      </r:Description>
+    </Universe>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <StudyUnit isUniversallyUnique="true" versionDate="2020-08-07T14:32:05.0459318Z" xmlns="ddi:studyunit:3_2">
+      <r:URN>urn:ddi:uk.wchads:5647e697-47b0-4f53-956a-c767197dcc8e:1</r:URN>
+      <r:Agency>uk.wchads</r:Agency>
+      <r:ID>5647e697-47b0-4f53-956a-c767197dcc8e</r:ID>
+      <r:Version>1</r:Version>
+      <r:UserAttributePair>
+        <r:AttributeKey>extension:CustomField</r:AttributeKey>
+        <r:AttributeValue>{"Title":{"en-GB":"LifeStage"},"Description":{},"ValueType":0,"HasValue":true,"RelationshipTargetType":"00000000-0000-0000-0000-000000000000","StringValue":"Childhood","MultilingualStringValue":{},"HasDefinedType":false,"DisplayLabel":"LifeStage"}</r:AttributeValue>
+      </r:UserAttributePair>
+      <r:UserAttributePair>
+        <r:AttributeKey>extension:CustomField</r:AttributeKey>
+        <r:AttributeValue>{"Title":{"en-GB":"LifeStageDescription"},"Description":{},"ValueType":0,"HasValue":true,"RelationshipTargetType":"00000000-0000-0000-0000-000000000000","StringValue":"5 - 12 years","MultilingualStringValue":{},"HasDefinedType":false,"DisplayLabel":"LifeStageDescription"}</r:AttributeValue>
+      </r:UserAttributePair>
+      <r:Citation>
+        <r:Title>
+          <r:String xml:lang="en-GB">Phase 13</r:String>
+        </r:Title>
+        <r:Creator>
+          <r:CreatorName>
+            <r:String xml:lang="en-GB">Professor Jonathan Hill (University of Reading), Professor Helen Sharp (University of Liverpool)</r:String>
+          </r:CreatorName>
+        </r:Creator>
+        <r:Publisher>
+          <r:PublisherName>
+            <r:String xml:lang="en-GB">University of Liverpool</r:String>
+          </r:PublisherName>
+        </r:Publisher>
+      </r:Citation>
+      <r:Abstract>
+        <r:Content xml:lang="en-GB">Mothers and children in the extensive sample completed a follow up questionnaire and a range of filmed observational assessments at approximately 7 years of age. Partner’s also completed a follow up questionnaire. Domains of measurement include; parental and child mental health, physical health, demographic change, child temperament, parental lifestyle and relationship information, life events, parenting, child behaviour, personality. Teachers were also approached and reported on a range of aspects of functioning in school including; school performance, peer relationships, child mental health and wellbeing.
+
+The intensive subsample also completed some extra measures including life events and more detailed relationship information in a mother interview, and more observational and experimental child measures (e.g. response to social rejection, reaction to pictures and sounds of varying levels of arousal, and eye gaze during an emotion recognition task). Physiological data was gathered from these children including cortisol reactivity to a social stressor and vagal tone during a range of control and stress related laboratory procedures. 
+
+Study website: &lt;a href="https://www.liverpool.ac.uk/institute-of-life-and-human-sciences/schools-and-departments/department-of-psychological-sciences/research/first-steps/" target="_blank" title="Wirral Child Health and Development Study"&gt;https://www.liverpool.ac.uk/institute-of-life-and-human-sciences/schools-and-departments/department-of-psychological-sciences/research/first-steps/&lt;/a&gt; 
+</r:Content>
+      </r:Abstract>
+      <r:UniverseReference>
+        <r:Agency>uk.wchads</r:Agency>
+        <r:ID>dcd65673-56f6-4699-bbcd-9ba1064952b6</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Universe</r:TypeOfObject>
+      </r:UniverseReference>
+      <r:FundingInformation>
+        <r:AgencyOrganizationReference>
+          <r:Agency>uk.closer</r:Agency>
+          <r:ID>a1bdc1c8-d24e-44e1-87f2-5bcd7ab98e22</r:ID>
+          <r:Version>3</r:Version>
+          <r:TypeOfObject>Organization</r:TypeOfObject>
+        </r:AgencyOrganizationReference>
+      </r:FundingInformation>
+      <r:Coverage>
+        <r:SpatialCoverage isUniversallyUnique="true">
+          <r:URN>urn:ddi:uk.wchads:96a18e9c-c59f-4999-a75a-77972aa782d4:1</r:URN>
+          <r:Agency>uk.wchads</r:Agency>
+          <r:ID>96a18e9c-c59f-4999-a75a-77972aa782d4</r:ID>
+          <r:Version>1</r:Version>
+          <r:BoundingBox>
+            <r:WestLongitude>0</r:WestLongitude>
+            <r:EastLongitude>0</r:EastLongitude>
+            <r:SouthLatitude>0</r:SouthLatitude>
+            <r:NorthLatitude>0</r:NorthLatitude>
+          </r:BoundingBox>
+          <r:Description>
+            <r:Content xml:lang="en-GB">Wirral, Merseyside, England</r:Content>
+          </r:Description>
+          <r:Country>GB-ENG</r:Country>
+          <r:TopLevelReference>
+            <r:LevelName>Country</r:LevelName>
+          </r:TopLevelReference>
+          <r:LowestLevelReference>
+            <r:LevelName>Address</r:LevelName>
+          </r:LowestLevelReference>
+        </r:SpatialCoverage>
+        <r:TemporalCoverage isUniversallyUnique="true">
+          <r:URN>urn:ddi:uk.wchads:0a3f7e74-76c1-465a-b574-d319c9e513f1:1</r:URN>
+          <r:Agency>uk.wchads</r:Agency>
+          <r:ID>0a3f7e74-76c1-465a-b574-d319c9e513f1</r:ID>
+          <r:Version>1</r:Version>
+          <r:ReferenceDate>
+            <r:StartDate>2015</r:StartDate>
+            <r:EndDate>2017</r:EndDate>
+          </r:ReferenceDate>
+        </r:TemporalCoverage>
+      </r:Coverage>
+      <r:AnalysisUnit>Individual</r:AnalysisUnit>
+      <r:KindOfData>Survey Data</r:KindOfData>
+      <r:KindOfData>Demographic Data</r:KindOfData>
+      <r:KindOfData>Measurement Data</r:KindOfData>
+      <r:KindOfData>Assessment Data</r:KindOfData>
+      <r:KindOfData>Biosample Data</r:KindOfData>
+      <r:DataCollectionReference>
+        <r:Agency>uk.wchads</r:Agency>
+        <r:ID>55168282-e3ac-4712-b47d-7dc3b21c43e3</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>DataCollection</r:TypeOfObject>
+      </r:DataCollectionReference>
+      <r:DataCollectionReference>
+        <r:Agency>uk.wchads</r:Agency>
+        <r:ID>17f15a51-e636-4a0f-84b1-7eee35ac16fe</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>DataCollection</r:TypeOfObject>
+      </r:DataCollectionReference>
+      <r:DataCollectionReference>
+        <r:Agency>uk.wchads</r:Agency>
+        <r:ID>c060b92f-51f5-414c-a46f-4b43ef6ca47d</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>DataCollection</r:TypeOfObject>
+      </r:DataCollectionReference>
+      <r:DataCollectionReference>
+        <r:Agency>uk.wchads</r:Agency>
+        <r:ID>1d28c969-523e-4cc2-98e0-a53f465178f5</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>DataCollection</r:TypeOfObject>
+      </r:DataCollectionReference>
+    </StudyUnit>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <DataCollection isUniversallyUnique="true" versionDate="2020-08-06T09:14:49.5449924Z" xmlns="ddi:datacollection:3_2">
+      <r:URN>urn:ddi:uk.wchads:55168282-e3ac-4712-b47d-7dc3b21c43e3:1</r:URN>
+      <r:Agency>uk.wchads</r:Agency>
+      <r:ID>55168282-e3ac-4712-b47d-7dc3b21c43e3</r:ID>
+      <r:Version>1</r:Version>
+      <DataCollectionModuleName>
+        <r:String xml:lang="en-GB">wchads_15_ph13imi</r:String>
+      </DataCollectionModuleName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Phase 13 Mother Interview/child assessment</r:Content>
+      </r:Label>
+      <CollectionEvent isUniversallyUnique="true">
+        <r:URN>urn:ddi:uk.wchads:1260bdff-89b4-4534-a850-0e187cb6d08f:1</r:URN>
+        <r:Agency>uk.wchads</r:Agency>
+        <r:ID>1260bdff-89b4-4534-a850-0e187cb6d08f</r:ID>
+        <r:Version>1</r:Version>
+        <DataCollectorOrganizationReference>
+          <r:Agency>uk.closer</r:Agency>
+          <r:ID>ad300f64-2a5c-433d-b83a-359e8c7861c9</r:ID>
+          <r:Version>2</r:Version>
+          <r:TypeOfObject>Organization</r:TypeOfObject>
+        </DataCollectorOrganizationReference>
+        <DataCollectionDate>
+          <r:StartDate>2015</r:StartDate>
+          <r:EndDate>2017</r:EndDate>
+        </DataCollectionDate>
+        <ModeOfCollection isUniversallyUnique="true">
+          <r:URN>urn:ddi:uk.wchads:f2df9cdd-0f5f-4a15-893c-9139223d9744:1</r:URN>
+          <r:Agency>uk.wchads</r:Agency>
+          <r:ID>f2df9cdd-0f5f-4a15-893c-9139223d9744</r:ID>
+          <r:Version>1</r:Version>
+          <TypeOfModeOfCollection>Observation.Laboratory.Participant</TypeOfModeOfCollection>
+          <r:Description>
+            <r:Content xml:lang="en-GB">Research method that involves observing and collecting data as they occur without attempting to manipulate any of the independent variables. Observation is conducted in a controlled, artificially created setting. The researcher interacts with the subjects and often plays a role in the situation under observation.</r:Content>
+          </r:Description>
+        </ModeOfCollection>
+        <ModeOfCollection isUniversallyUnique="true">
+          <r:URN>urn:ddi:uk.wchads:f6a7900d-2ff0-4300-89fb-45becbf5a836:1</r:URN>
+          <r:Agency>uk.wchads</r:Agency>
+          <r:ID>f6a7900d-2ff0-4300-89fb-45becbf5a836</r:ID>
+          <r:Version>1</r:Version>
+          <TypeOfModeOfCollection>MeasurementsAndTests.Psychological</TypeOfModeOfCollection>
+          <r:Description>
+            <r:Content xml:lang="en-GB">Assessment of personality traits or psychological/behavioural responses by means of specialised measures or tests.</r:Content>
+          </r:Description>
+        </ModeOfCollection>
+        <ModeOfCollection isUniversallyUnique="true">
+          <r:URN>urn:ddi:uk.wchads:fe2d14dc-42ec-4465-9138-ee6db65e6d1d:1</r:URN>
+          <r:Agency>uk.wchads</r:Agency>
+          <r:ID>fe2d14dc-42ec-4465-9138-ee6db65e6d1d</r:ID>
+          <r:Version>1</r:Version>
+          <TypeOfModeOfCollection>Interview.FaceToFace</TypeOfModeOfCollection>
+          <r:Description>
+            <r:Content xml:lang="en-GB">Data collection method in which a live interviewer conducts a personal interview, presenting questions and entering the responses.</r:Content>
+          </r:Description>
+        </ModeOfCollection>
+        <ModeOfCollection isUniversallyUnique="true">
+          <r:URN>urn:ddi:uk.wchads:12b6774b-a668-46d4-8b65-1cfdbb8a6f35:1</r:URN>
+          <r:Agency>uk.wchads</r:Agency>
+          <r:ID>12b6774b-a668-46d4-8b65-1cfdbb8a6f35</r:ID>
+          <r:Version>1</r:Version>
+          <TypeOfModeOfCollection>SelfAdministeredQuestionnaire.ComputerAssisted</TypeOfModeOfCollection>
+          <r:Description>
+            <r:Content xml:lang="en-GB">Computer assisted self-interview (CASI). Respondents enter the responses into a computer by themselves.</r:Content>
+          </r:Description>
+        </ModeOfCollection>
+      </CollectionEvent>
+    </DataCollection>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <DataCollection isUniversallyUnique="true" versionDate="2020-08-06T09:15:20.7352016Z" xmlns="ddi:datacollection:3_2">
+      <r:URN>urn:ddi:uk.wchads:17f15a51-e636-4a0f-84b1-7eee35ac16fe:1</r:URN>
+      <r:Agency>uk.wchads</r:Agency>
+      <r:ID>17f15a51-e636-4a0f-84b1-7eee35ac16fe</r:ID>
+      <r:Version>1</r:Version>
+      <DataCollectionModuleName>
+        <r:String xml:lang="en-GB">wchads_15_ph13mimx</r:String>
+      </DataCollectionModuleName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Phase 13 Mother Questionnaire</r:Content>
+      </r:Label>
+      <CollectionEvent isUniversallyUnique="true">
+        <r:URN>urn:ddi:uk.wchads:5fb88409-7a95-4fe5-ab28-685c6389dea3:1</r:URN>
+        <r:Agency>uk.wchads</r:Agency>
+        <r:ID>5fb88409-7a95-4fe5-ab28-685c6389dea3</r:ID>
+        <r:Version>1</r:Version>
+        <DataCollectorOrganizationReference>
+          <r:Agency>uk.closer</r:Agency>
+          <r:ID>ad300f64-2a5c-433d-b83a-359e8c7861c9</r:ID>
+          <r:Version>2</r:Version>
+          <r:TypeOfObject>Organization</r:TypeOfObject>
+        </DataCollectorOrganizationReference>
+        <DataCollectionDate>
+          <r:StartDate>2015</r:StartDate>
+          <r:EndDate>2017</r:EndDate>
+        </DataCollectionDate>
+        <ModeOfCollection isUniversallyUnique="true">
+          <r:URN>urn:ddi:uk.wchads:e7a4b603-5b10-46d1-af58-73cfa1f6da1d:1</r:URN>
+          <r:Agency>uk.wchads</r:Agency>
+          <r:ID>e7a4b603-5b10-46d1-af58-73cfa1f6da1d</r:ID>
+          <r:Version>1</r:Version>
+          <TypeOfModeOfCollection>SelfAdministeredQuestionnaire.Paper</TypeOfModeOfCollection>
+          <r:Description>
+            <r:Content xml:lang="en-GB">Self-administered survey using a traditional paper questionnaire.</r:Content>
+          </r:Description>
+        </ModeOfCollection>
+        <ModeOfCollection isUniversallyUnique="true">
+          <r:URN>urn:ddi:uk.wchads:7f7d22c0-6770-4a0d-91bb-f47be00978c3:1</r:URN>
+          <r:Agency>uk.wchads</r:Agency>
+          <r:ID>7f7d22c0-6770-4a0d-91bb-f47be00978c3</r:ID>
+          <r:Version>1</r:Version>
+          <TypeOfModeOfCollection>SelfAdministeredQuestionnaire.ComputerAssisted</TypeOfModeOfCollection>
+          <r:Description>
+            <r:Content xml:lang="en-GB">Computer assisted self-interview (CASI). Respondents enter the responses into a computer by themselves.</r:Content>
+          </r:Description>
+        </ModeOfCollection>
+      </CollectionEvent>
+    </DataCollection>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <DataCollection isUniversallyUnique="true" versionDate="2020-08-06T09:15:51.6925666Z" xmlns="ddi:datacollection:3_2">
+      <r:URN>urn:ddi:uk.wchads:c060b92f-51f5-414c-a46f-4b43ef6ca47d:1</r:URN>
+      <r:Agency>uk.wchads</r:Agency>
+      <r:ID>c060b92f-51f5-414c-a46f-4b43ef6ca47d</r:ID>
+      <r:Version>1</r:Version>
+      <DataCollectionModuleName>
+        <r:String xml:lang="en-GB">wchads_15_ph13px</r:String>
+      </DataCollectionModuleName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Phase 13 Partner Questionnaire</r:Content>
+      </r:Label>
+      <CollectionEvent isUniversallyUnique="true">
+        <r:URN>urn:ddi:uk.wchads:c1e47019-b86e-457e-a240-31f0ed676891:1</r:URN>
+        <r:Agency>uk.wchads</r:Agency>
+        <r:ID>c1e47019-b86e-457e-a240-31f0ed676891</r:ID>
+        <r:Version>1</r:Version>
+        <DataCollectorOrganizationReference>
+          <r:Agency>uk.closer</r:Agency>
+          <r:ID>ad300f64-2a5c-433d-b83a-359e8c7861c9</r:ID>
+          <r:Version>2</r:Version>
+          <r:TypeOfObject>Organization</r:TypeOfObject>
+        </DataCollectorOrganizationReference>
+        <DataCollectionDate>
+          <r:StartDate>2015</r:StartDate>
+          <r:EndDate>2017</r:EndDate>
+        </DataCollectionDate>
+        <ModeOfCollection isUniversallyUnique="true">
+          <r:URN>urn:ddi:uk.wchads:77371471-cbaf-4a42-a499-468e0380f851:1</r:URN>
+          <r:Agency>uk.wchads</r:Agency>
+          <r:ID>77371471-cbaf-4a42-a499-468e0380f851</r:ID>
+          <r:Version>1</r:Version>
+          <TypeOfModeOfCollection>SelfAdministeredQuestionnaire.Paper</TypeOfModeOfCollection>
+          <r:Description>
+            <r:Content xml:lang="en-GB">Self-administered survey using a traditional paper questionnaire.</r:Content>
+          </r:Description>
+        </ModeOfCollection>
+      </CollectionEvent>
+    </DataCollection>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <DataCollection isUniversallyUnique="true" versionDate="2020-08-06T09:16:34.7140881Z" xmlns="ddi:datacollection:3_2">
+      <r:URN>urn:ddi:uk.wchads:1d28c969-523e-4cc2-98e0-a53f465178f5:1</r:URN>
+      <r:Agency>uk.wchads</r:Agency>
+      <r:ID>1d28c969-523e-4cc2-98e0-a53f465178f5</r:ID>
+      <r:Version>1</r:Version>
+      <DataCollectionModuleName>
+        <r:String xml:lang="en-GB">wchads_15_ph13schx</r:String>
+      </DataCollectionModuleName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Phase 13 Teacher Questionnaire</r:Content>
+      </r:Label>
+      <CollectionEvent isUniversallyUnique="true">
+        <r:URN>urn:ddi:uk.wchads:8521143b-a110-40c9-96e7-534bf48c3483:1</r:URN>
+        <r:Agency>uk.wchads</r:Agency>
+        <r:ID>8521143b-a110-40c9-96e7-534bf48c3483</r:ID>
+        <r:Version>1</r:Version>
+        <DataCollectorOrganizationReference>
+          <r:Agency>uk.closer</r:Agency>
+          <r:ID>ad300f64-2a5c-433d-b83a-359e8c7861c9</r:ID>
+          <r:Version>2</r:Version>
+          <r:TypeOfObject>Organization</r:TypeOfObject>
+        </DataCollectorOrganizationReference>
+        <DataCollectionDate>
+          <r:StartDate>2015</r:StartDate>
+          <r:EndDate>2017</r:EndDate>
+        </DataCollectionDate>
+        <ModeOfCollection isUniversallyUnique="true">
+          <r:URN>urn:ddi:uk.wchads:5678d566-3518-48c2-9bc4-9873dfcbaab9:1</r:URN>
+          <r:Agency>uk.wchads</r:Agency>
+          <r:ID>5678d566-3518-48c2-9bc4-9873dfcbaab9</r:ID>
+          <r:Version>1</r:Version>
+          <TypeOfModeOfCollection>SelfAdministeredQuestionnaire.Paper</TypeOfModeOfCollection>
+          <r:Description>
+            <r:Content xml:lang="en-GB">Self-administered survey using a traditional paper questionnaire.</r:Content>
+          </r:Description>
+        </ModeOfCollection>
+      </CollectionEvent>
+    </DataCollection>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Universe isUniversallyUnique="true" versionDate="2020-08-05T14:18:42.9988296Z" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.wchads:dcd65673-56f6-4699-bbcd-9ba1064952b6:1</r:URN>
+      <r:Agency>uk.wchads</r:Agency>
+      <r:ID>dcd65673-56f6-4699-bbcd-9ba1064952b6</r:ID>
+      <r:Version>1</r:Version>
+      <UniverseName>
+        <r:String xml:lang="en-GB">WCHADS_phase_13</r:String>
+      </UniverseName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">WCHADS Phase 13 Population</r:Content>
+      </r:Label>
+      <r:Description>
+        <r:Content xml:lang="en-GB">WCHADS extensive sample (includes intensive subsample) - mothers, partners and child</r:Content>
+      </r:Description>
+    </Universe>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <StudyUnit isUniversallyUnique="true" versionDate="2020-08-07T16:05:21.7433193Z" xmlns="ddi:studyunit:3_2">
+      <r:URN>urn:ddi:uk.wchads:3b3ad41e-6218-4327-8d55-51b8533a320b:1</r:URN>
+      <r:Agency>uk.wchads</r:Agency>
+      <r:ID>3b3ad41e-6218-4327-8d55-51b8533a320b</r:ID>
+      <r:Version>1</r:Version>
+      <r:UserAttributePair>
+        <r:AttributeKey>extension:CustomField</r:AttributeKey>
+        <r:AttributeValue>{"Title":{"en-GB":"LifeStage"},"Description":{},"ValueType":0,"HasValue":true,"RelationshipTargetType":"00000000-0000-0000-0000-000000000000","StringValue":"Childhood","MultilingualStringValue":{},"HasDefinedType":false,"DisplayLabel":"LifeStage"}</r:AttributeValue>
+      </r:UserAttributePair>
+      <r:UserAttributePair>
+        <r:AttributeKey>extension:CustomField</r:AttributeKey>
+        <r:AttributeValue>{"Title":{"en-GB":"LifeStageDescription"},"Description":{},"ValueType":0,"HasValue":true,"RelationshipTargetType":"00000000-0000-0000-0000-000000000000","StringValue":" 5 - 12 years","MultilingualStringValue":{},"HasDefinedType":false,"DisplayLabel":"LifeStageDescription"}</r:AttributeValue>
+      </r:UserAttributePair>
+      <r:Citation>
+        <r:Title>
+          <r:String xml:lang="en-GB">Phase 14</r:String>
+        </r:Title>
+        <r:Creator>
+          <r:CreatorName>
+            <r:String xml:lang="en-GB">Professor Jonathan Hill (University of Reading), Professor Helen Sharp (University of Liverpool)</r:String>
+          </r:CreatorName>
+        </r:Creator>
+        <r:Publisher>
+          <r:PublisherName>
+            <r:String xml:lang="en-GB">University of Liverpool</r:String>
+          </r:PublisherName>
+        </r:Publisher>
+      </r:Citation>
+      <r:Abstract>
+        <r:Content xml:lang="en-GB">Mothers and their children in the full extensive sample were invited to the lab to complete a follow up questionnaire and a range of developmental and filmed observational assessments at approximately 9 years of age. Partner’s also completed a follow up questionnaire. Domains of measurement include; parental and child mental health, physical health, demographic change, child temperament, parental lifestyle and relationship information, life events, parenting, peer relationships, activities, child behaviour, personality. For the full extensive sample teachers were approached and reported on a range of aspects of functioning in school including; school performance, peer relationships, child mental health and wellbeing. 
+
+Study website: &lt;a href="https://www.liverpool.ac.uk/institute-of-life-and-human-sciences/schools-and-departments/department-of-psychological-sciences/research/first-steps/" target="_blank" title="Wirral Child Health and Development Study"&gt;https://www.liverpool.ac.uk/institute-of-life-and-human-sciences/schools-and-departments/department-of-psychological-sciences/research/first-steps/&lt;/a&gt; </r:Content>
+      </r:Abstract>
+      <r:UniverseReference>
+        <r:Agency>uk.wchads</r:Agency>
+        <r:ID>c7cb08f4-8e85-4e80-b450-b4c5b57ce3d9</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Universe</r:TypeOfObject>
+      </r:UniverseReference>
+      <r:FundingInformation>
+        <r:AgencyOrganizationReference>
+          <r:Agency>uk.closer</r:Agency>
+          <r:ID>a1bdc1c8-d24e-44e1-87f2-5bcd7ab98e22</r:ID>
+          <r:Version>3</r:Version>
+          <r:TypeOfObject>Organization</r:TypeOfObject>
+        </r:AgencyOrganizationReference>
+      </r:FundingInformation>
+      <r:Coverage>
+        <r:SpatialCoverage isUniversallyUnique="true">
+          <r:URN>urn:ddi:uk.wchads:5ba05f03-5e8a-4048-9572-f4ba90af1544:1</r:URN>
+          <r:Agency>uk.wchads</r:Agency>
+          <r:ID>5ba05f03-5e8a-4048-9572-f4ba90af1544</r:ID>
+          <r:Version>1</r:Version>
+          <r:BoundingBox>
+            <r:WestLongitude>0</r:WestLongitude>
+            <r:EastLongitude>0</r:EastLongitude>
+            <r:SouthLatitude>0</r:SouthLatitude>
+            <r:NorthLatitude>0</r:NorthLatitude>
+          </r:BoundingBox>
+          <r:Description>
+            <r:Content xml:lang="en-GB">Wirral, Merseyside, England</r:Content>
+          </r:Description>
+          <r:Country>GB-ENG</r:Country>
+          <r:TopLevelReference>
+            <r:LevelName>Country</r:LevelName>
+          </r:TopLevelReference>
+          <r:LowestLevelReference>
+            <r:LevelName>Address</r:LevelName>
+          </r:LowestLevelReference>
+        </r:SpatialCoverage>
+        <r:TemporalCoverage isUniversallyUnique="true">
+          <r:URN>urn:ddi:uk.wchads:0e5c7ea2-d5ce-44d4-bb04-91ea0173bc31:1</r:URN>
+          <r:Agency>uk.wchads</r:Agency>
+          <r:ID>0e5c7ea2-d5ce-44d4-bb04-91ea0173bc31</r:ID>
+          <r:Version>1</r:Version>
+          <r:ReferenceDate>
+            <r:StartDate>2017</r:StartDate>
+            <r:EndDate>2019</r:EndDate>
+          </r:ReferenceDate>
+        </r:TemporalCoverage>
+      </r:Coverage>
+      <r:AnalysisUnit>Individual</r:AnalysisUnit>
+      <r:KindOfData>Survey Data</r:KindOfData>
+      <r:KindOfData>Demographic Data</r:KindOfData>
+      <r:KindOfData>Measurement Data</r:KindOfData>
+      <r:KindOfData>Assessment Data</r:KindOfData>
+      <r:DataCollectionReference>
+        <r:Agency>uk.wchads</r:Agency>
+        <r:ID>e2e93685-2456-4063-932e-c45fc7b9acca</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>DataCollection</r:TypeOfObject>
+      </r:DataCollectionReference>
+      <r:DataCollectionReference>
+        <r:Agency>uk.wchads</r:Agency>
+        <r:ID>48000625-80c6-40bd-b2c4-10fccb1bf0a8</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>DataCollection</r:TypeOfObject>
+      </r:DataCollectionReference>
+      <r:DataCollectionReference>
+        <r:Agency>uk.wchads</r:Agency>
+        <r:ID>3f36b4ba-507a-4752-8b13-cd6cc6adea07</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>DataCollection</r:TypeOfObject>
+      </r:DataCollectionReference>
+    </StudyUnit>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <DataCollection isUniversallyUnique="true" versionDate="2020-08-07T11:42:53.4302825Z" xmlns="ddi:datacollection:3_2">
+      <r:URN>urn:ddi:uk.wchads:e2e93685-2456-4063-932e-c45fc7b9acca:1</r:URN>
+      <r:Agency>uk.wchads</r:Agency>
+      <r:ID>e2e93685-2456-4063-932e-c45fc7b9acca</r:ID>
+      <r:Version>1</r:Version>
+      <DataCollectionModuleName>
+        <r:String xml:lang="en-GB">wchads_17_ph14mimx</r:String>
+      </DataCollectionModuleName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Phase 14 Mother Questionnaire</r:Content>
+      </r:Label>
+      <CollectionEvent isUniversallyUnique="true">
+        <r:URN>urn:ddi:uk.wchads:f627302b-7ca1-4b8b-a630-77d7a97900fa:1</r:URN>
+        <r:Agency>uk.wchads</r:Agency>
+        <r:ID>f627302b-7ca1-4b8b-a630-77d7a97900fa</r:ID>
+        <r:Version>1</r:Version>
+        <DataCollectorOrganizationReference>
+          <r:Agency>uk.closer</r:Agency>
+          <r:ID>ad300f64-2a5c-433d-b83a-359e8c7861c9</r:ID>
+          <r:Version>2</r:Version>
+          <r:TypeOfObject>Organization</r:TypeOfObject>
+        </DataCollectorOrganizationReference>
+        <DataCollectionDate>
+          <r:StartDate>2017</r:StartDate>
+          <r:EndDate>2019</r:EndDate>
+        </DataCollectionDate>
+        <ModeOfCollection isUniversallyUnique="true">
+          <r:URN>urn:ddi:uk.wchads:bcf92e54-9a5a-42d5-b4e3-2f87340eef51:1</r:URN>
+          <r:Agency>uk.wchads</r:Agency>
+          <r:ID>bcf92e54-9a5a-42d5-b4e3-2f87340eef51</r:ID>
+          <r:Version>1</r:Version>
+          <TypeOfModeOfCollection>Observation.Laboratory.Participant</TypeOfModeOfCollection>
+          <r:Description>
+            <r:Content xml:lang="en-GB"> Research method that involves observing and collecting data as they occur without attempting to manipulate any of the independent variables. Observation is conducted in a controlled, artificially created setting. The researcher interacts with the subjects and often plays a role in the situation under observation.</r:Content>
+          </r:Description>
+        </ModeOfCollection>
+        <ModeOfCollection isUniversallyUnique="true">
+          <r:URN>urn:ddi:uk.wchads:dcf28b99-9fc2-415d-80d2-330d0589511d:1</r:URN>
+          <r:Agency>uk.wchads</r:Agency>
+          <r:ID>dcf28b99-9fc2-415d-80d2-330d0589511d</r:ID>
+          <r:Version>1</r:Version>
+          <TypeOfModeOfCollection>MeasurementsAndTests.Psychological</TypeOfModeOfCollection>
+          <r:Description>
+            <r:Content xml:lang="en-GB">Assessment of personality traits or psychological/behavioural responses by means of specialised measures or tests.</r:Content>
+          </r:Description>
+        </ModeOfCollection>
+        <ModeOfCollection isUniversallyUnique="true">
+          <r:URN>urn:ddi:uk.wchads:333e4a0e-e98e-499a-bc75-b3182a462028:1</r:URN>
+          <r:Agency>uk.wchads</r:Agency>
+          <r:ID>333e4a0e-e98e-499a-bc75-b3182a462028</r:ID>
+          <r:Version>1</r:Version>
+          <TypeOfModeOfCollection>SelfAdministeredQuestionnaire.Paper</TypeOfModeOfCollection>
+          <r:Description>
+            <r:Content xml:lang="en-GB">Self-administered survey using a traditional paper questionnaire.</r:Content>
+          </r:Description>
+        </ModeOfCollection>
+        <ModeOfCollection isUniversallyUnique="true">
+          <r:URN>urn:ddi:uk.wchads:188576c8-dd77-47c5-8f0c-42ecd5077e16:1</r:URN>
+          <r:Agency>uk.wchads</r:Agency>
+          <r:ID>188576c8-dd77-47c5-8f0c-42ecd5077e16</r:ID>
+          <r:Version>1</r:Version>
+          <TypeOfModeOfCollection>SelfAdministeredQuestionnaire.ComputerAssisted</TypeOfModeOfCollection>
+          <r:Description>
+            <r:Content xml:lang="en-GB">Computer assisted self-interview (CASI). Respondents enter the responses into a computer by themselves.</r:Content>
+          </r:Description>
+        </ModeOfCollection>
+      </CollectionEvent>
+    </DataCollection>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <DataCollection isUniversallyUnique="true" versionDate="2020-08-06T09:20:26.8558402Z" xmlns="ddi:datacollection:3_2">
+      <r:URN>urn:ddi:uk.wchads:48000625-80c6-40bd-b2c4-10fccb1bf0a8:1</r:URN>
+      <r:Agency>uk.wchads</r:Agency>
+      <r:ID>48000625-80c6-40bd-b2c4-10fccb1bf0a8</r:ID>
+      <r:Version>1</r:Version>
+      <DataCollectionModuleName>
+        <r:String xml:lang="en-GB">wchads_17_ph14px</r:String>
+      </DataCollectionModuleName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Phase 14 Partner Questionnaire</r:Content>
+      </r:Label>
+      <CollectionEvent isUniversallyUnique="true">
+        <r:URN>urn:ddi:uk.wchads:20efed05-6747-4295-964f-bb9d56a7f407:1</r:URN>
+        <r:Agency>uk.wchads</r:Agency>
+        <r:ID>20efed05-6747-4295-964f-bb9d56a7f407</r:ID>
+        <r:Version>1</r:Version>
+        <DataCollectorOrganizationReference>
+          <r:Agency>uk.closer</r:Agency>
+          <r:ID>ad300f64-2a5c-433d-b83a-359e8c7861c9</r:ID>
+          <r:Version>2</r:Version>
+          <r:TypeOfObject>Organization</r:TypeOfObject>
+        </DataCollectorOrganizationReference>
+        <DataCollectionDate>
+          <r:StartDate>2017</r:StartDate>
+          <r:EndDate>2019</r:EndDate>
+        </DataCollectionDate>
+        <ModeOfCollection isUniversallyUnique="true">
+          <r:URN>urn:ddi:uk.wchads:350d0538-2eef-4520-972b-2c65e16324b5:1</r:URN>
+          <r:Agency>uk.wchads</r:Agency>
+          <r:ID>350d0538-2eef-4520-972b-2c65e16324b5</r:ID>
+          <r:Version>1</r:Version>
+          <TypeOfModeOfCollection>SelfAdministeredQuestionnaire.Paper</TypeOfModeOfCollection>
+          <r:Description>
+            <r:Content xml:lang="en-GB">Self-administered survey using a traditional paper questionnaire.</r:Content>
+          </r:Description>
+        </ModeOfCollection>
+      </CollectionEvent>
+    </DataCollection>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <DataCollection isUniversallyUnique="true" versionDate="2020-08-06T09:21:39.0804255Z" xmlns="ddi:datacollection:3_2">
+      <r:URN>urn:ddi:uk.wchads:3f36b4ba-507a-4752-8b13-cd6cc6adea07:1</r:URN>
+      <r:Agency>uk.wchads</r:Agency>
+      <r:ID>3f36b4ba-507a-4752-8b13-cd6cc6adea07</r:ID>
+      <r:Version>1</r:Version>
+      <DataCollectionModuleName>
+        <r:String xml:lang="en-GB">wchads_17_ph14schx</r:String>
+      </DataCollectionModuleName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Phase 14 Teacher Questionnaire</r:Content>
+      </r:Label>
+      <CollectionEvent isUniversallyUnique="true">
+        <r:URN>urn:ddi:uk.wchads:ca13111e-a13f-4246-ae7b-61a3a36ff324:1</r:URN>
+        <r:Agency>uk.wchads</r:Agency>
+        <r:ID>ca13111e-a13f-4246-ae7b-61a3a36ff324</r:ID>
+        <r:Version>1</r:Version>
+        <DataCollectorOrganizationReference>
+          <r:Agency>uk.closer</r:Agency>
+          <r:ID>ad300f64-2a5c-433d-b83a-359e8c7861c9</r:ID>
+          <r:Version>2</r:Version>
+          <r:TypeOfObject>Organization</r:TypeOfObject>
+        </DataCollectorOrganizationReference>
+        <DataCollectionDate>
+          <r:StartDate>2017</r:StartDate>
+          <r:EndDate>2019</r:EndDate>
+        </DataCollectionDate>
+        <ModeOfCollection isUniversallyUnique="true">
+          <r:URN>urn:ddi:uk.wchads:00d328cd-e327-40a7-8ecc-bd7a3bd33d6c:1</r:URN>
+          <r:Agency>uk.wchads</r:Agency>
+          <r:ID>00d328cd-e327-40a7-8ecc-bd7a3bd33d6c</r:ID>
+          <r:Version>1</r:Version>
+          <TypeOfModeOfCollection>SelfAdministeredQuestionnaire.ComputerAssisted</TypeOfModeOfCollection>
+          <r:Description>
+            <r:Content xml:lang="en-GB">Computer assisted self-interview (CASI). Respondents enter the responses into a computer by themselves.</r:Content>
+          </r:Description>
+        </ModeOfCollection>
+      </CollectionEvent>
+    </DataCollection>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Universe isUniversallyUnique="true" versionDate="2020-08-05T14:19:46.4787863Z" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.wchads:c7cb08f4-8e85-4e80-b450-b4c5b57ce3d9:1</r:URN>
+      <r:Agency>uk.wchads</r:Agency>
+      <r:ID>c7cb08f4-8e85-4e80-b450-b4c5b57ce3d9</r:ID>
+      <r:Version>1</r:Version>
+      <UniverseName>
+        <r:String xml:lang="en-GB">WCHADS_phase_14</r:String>
+      </UniverseName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">WCHADS Phase 14 Population</r:Content>
+      </r:Label>
+      <r:Description>
+        <r:Content xml:lang="en-GB">WCHADS extensive sample (includes intensive subsample) - mothers, partners and child</r:Content>
       </r:Description>
     </Universe>
   </ddi:Fragment>
