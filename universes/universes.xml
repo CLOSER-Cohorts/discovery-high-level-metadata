@@ -7,7 +7,7 @@
     <r:TypeOfObject>UniverseScheme</r:TypeOfObject>
   </ddi:TopLevelReference>
   <ddi:Fragment xmlns:r="ddi:reusable:3_2">
-    <UniverseScheme isUniversallyUnique="true" versionDate="2020-08-07T13:52:46.2716004Z" xmlns="ddi:conceptualcomponent:3_2">
+    <UniverseScheme isUniversallyUnique="true" versionDate="2020-08-07T14:30:33.0802799Z" xmlns="ddi:conceptualcomponent:3_2">
       <r:URN>urn:ddi:uk.closer:240bac9f-8595-4019-847b-532be0055575:11</r:URN>
       <r:Agency>uk.closer</r:Agency>
       <r:ID>240bac9f-8595-4019-847b-532be0055575</r:ID>
@@ -461,18 +461,6 @@
       </r:UniverseReference>
       <r:UniverseReference>
         <r:Agency>uk.wchads</r:Agency>
-        <r:ID>cfae72c3-7896-4dc2-8c69-91db8824dbac</r:ID>
-        <r:Version>1</r:Version>
-        <r:TypeOfObject>Universe</r:TypeOfObject>
-      </r:UniverseReference>
-      <r:UniverseReference>
-        <r:Agency>uk.wchads</r:Agency>
-        <r:ID>b766deba-12ea-4aff-9e5c-1e7ac513954b</r:ID>
-        <r:Version>1</r:Version>
-        <r:TypeOfObject>Universe</r:TypeOfObject>
-      </r:UniverseReference>
-      <r:UniverseReference>
-        <r:Agency>uk.wchads</r:Agency>
         <r:ID>51a78c32-b158-4904-b61e-453b7f5f179e</r:ID>
         <r:Version>1</r:Version>
         <r:TypeOfObject>Universe</r:TypeOfObject>
@@ -480,18 +468,6 @@
       <r:UniverseReference>
         <r:Agency>uk.wchads</r:Agency>
         <r:ID>284b2d95-9d3f-4c42-b049-3e4907ab968b</r:ID>
-        <r:Version>1</r:Version>
-        <r:TypeOfObject>Universe</r:TypeOfObject>
-      </r:UniverseReference>
-      <r:UniverseReference>
-        <r:Agency>uk.wchads</r:Agency>
-        <r:ID>7dac24b8-4112-4863-ac15-2c9cb297f347</r:ID>
-        <r:Version>1</r:Version>
-        <r:TypeOfObject>Universe</r:TypeOfObject>
-      </r:UniverseReference>
-      <r:UniverseReference>
-        <r:Agency>uk.wchads</r:Agency>
-        <r:ID>032d5565-e1e0-4948-87c8-afbfdacb6c6c</r:ID>
         <r:Version>1</r:Version>
         <r:TypeOfObject>Universe</r:TypeOfObject>
       </r:UniverseReference>
@@ -510,6 +486,24 @@
       <r:UniverseReference>
         <r:Agency>uk.closer</r:Agency>
         <r:ID>26fb1b8c-286b-4c2b-8f88-318af013b047</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Universe</r:TypeOfObject>
+      </r:UniverseReference>
+      <r:UniverseReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>8126f179-c2c5-479f-8a8d-bf4e1b755bbf</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Universe</r:TypeOfObject>
+      </r:UniverseReference>
+      <r:UniverseReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>db487c30-1d1a-4304-a077-fa52dd156e95</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Universe</r:TypeOfObject>
+      </r:UniverseReference>
+      <r:UniverseReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>0ca1eb20-244d-4188-8f00-1b1351006823</r:ID>
         <r:Version>1</r:Version>
         <r:TypeOfObject>Universe</r:TypeOfObject>
       </r:UniverseReference>
@@ -2119,40 +2113,6 @@
     </Universe>
   </ddi:Fragment>
   <ddi:Fragment xmlns:r="ddi:reusable:3_2">
-    <Universe isUniversallyUnique="true" versionDate="2020-08-05T14:22:08.7481436Z" xmlns="ddi:conceptualcomponent:3_2">
-      <r:URN>urn:ddi:uk.wchads:cfae72c3-7896-4dc2-8c69-91db8824dbac:1</r:URN>
-      <r:Agency>uk.wchads</r:Agency>
-      <r:ID>cfae72c3-7896-4dc2-8c69-91db8824dbac</r:ID>
-      <r:Version>1</r:Version>
-      <UniverseName>
-        <r:String xml:lang="en-GB">WCHADS_phase_07</r:String>
-      </UniverseName>
-      <r:Label>
-        <r:Content xml:lang="en-GB">WCHADS Phase 7 Population</r:Content>
-      </r:Label>
-      <r:Description>
-        <r:Content xml:lang="en-GB">WCHADS extensive sample - mothers and partners</r:Content>
-      </r:Description>
-    </Universe>
-  </ddi:Fragment>
-  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
-    <Universe isUniversallyUnique="true" versionDate="2020-08-06T08:31:26.8996855Z" xmlns="ddi:conceptualcomponent:3_2">
-      <r:URN>urn:ddi:uk.wchads:b766deba-12ea-4aff-9e5c-1e7ac513954b:1</r:URN>
-      <r:Agency>uk.wchads</r:Agency>
-      <r:ID>b766deba-12ea-4aff-9e5c-1e7ac513954b</r:ID>
-      <r:Version>1</r:Version>
-      <UniverseName>
-        <r:String xml:lang="en-GB">WCHADS_phase_08</r:String>
-      </UniverseName>
-      <r:Label>
-        <r:Content xml:lang="en-GB">WCHADS Phase 8 Population</r:Content>
-      </r:Label>
-      <r:Description>
-        <r:Content xml:lang="en-GB">WCHADS mother recruited into our intensive subsample and their infants - stratified for psychosocial risk</r:Content>
-      </r:Description>
-    </Universe>
-  </ddi:Fragment>
-  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
     <Universe isUniversallyUnique="true" versionDate="2020-08-06T08:35:50.0643164Z" xmlns="ddi:conceptualcomponent:3_2">
       <r:URN>urn:ddi:uk.wchads:51a78c32-b158-4904-b61e-453b7f5f179e:1</r:URN>
       <r:Agency>uk.wchads</r:Agency>
@@ -2183,40 +2143,6 @@
       </r:Label>
       <r:Description>
         <r:Content xml:lang="en-GB">WCHADS extensive sample (includes intensive subsample) - mother, child and partner</r:Content>
-      </r:Description>
-    </Universe>
-  </ddi:Fragment>
-  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
-    <Universe isUniversallyUnique="true" versionDate="2020-08-06T08:36:14.9563776Z" xmlns="ddi:conceptualcomponent:3_2">
-      <r:URN>urn:ddi:uk.wchads:7dac24b8-4112-4863-ac15-2c9cb297f347:1</r:URN>
-      <r:Agency>uk.wchads</r:Agency>
-      <r:ID>7dac24b8-4112-4863-ac15-2c9cb297f347</r:ID>
-      <r:Version>1</r:Version>
-      <UniverseName>
-        <r:String xml:lang="en-GB">WCHADS_phase_11</r:String>
-      </UniverseName>
-      <r:Label>
-        <r:Content xml:lang="en-GB">WCHADS Phase 11 Population</r:Content>
-      </r:Label>
-      <r:Description>
-        <r:Content xml:lang="en-GB">WCHADS mother recruited into our intensive subsample and their child - stratified for psychosocial risk</r:Content>
-      </r:Description>
-    </Universe>
-  </ddi:Fragment>
-  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
-    <Universe isUniversallyUnique="true" versionDate="2020-08-05T14:16:07.4209992Z" xmlns="ddi:conceptualcomponent:3_2">
-      <r:URN>urn:ddi:uk.wchads:032d5565-e1e0-4948-87c8-afbfdacb6c6c:1</r:URN>
-      <r:Agency>uk.wchads</r:Agency>
-      <r:ID>032d5565-e1e0-4948-87c8-afbfdacb6c6c</r:ID>
-      <r:Version>1</r:Version>
-      <UniverseName>
-        <r:String xml:lang="en-GB">WCHADS_phase_12</r:String>
-      </UniverseName>
-      <r:Label>
-        <r:Content xml:lang="en-GB">WCHADS Phase 12 Population</r:Content>
-      </r:Label>
-      <r:Description>
-        <r:Content xml:lang="en-GB">WCHADS extensive sample - mothers and partners</r:Content>
       </r:Description>
     </Universe>
   </ddi:Fragment>
@@ -2268,6 +2194,57 @@
       </r:Label>
       <r:Description>
         <r:Content xml:lang="en-GB">All cohort members who were born between 1 September 2000 and 31 August 2001 in England and Wales, and 23 November 2000 and 11 January 2002 in Scotland and Northern Ireland less those who had died, permanently refused or emigrated. Sweeps 2-5 also includes a ‘New Families’ sample designed to compensate for problems in the sampling process for Sweep One. </r:Content>
+      </r:Description>
+    </Universe>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Universe isUniversallyUnique="true" versionDate="2020-08-07T14:20:23.5212942Z" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:8126f179-c2c5-479f-8a8d-bf4e1b755bbf:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>8126f179-c2c5-479f-8a8d-bf4e1b755bbf</r:ID>
+      <r:Version>1</r:Version>
+      <UniverseName>
+        <r:String xml:lang="en-GB">US_covid_wave1</r:String>
+      </UniverseName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">US COVID Wave 1 Population</r:Content>
+      </r:Label>
+      <r:Description>
+        <r:Content xml:lang="en-GB">UK residential population in 2020 who have participated in at least one of the last two waves of Understanding Society data collection.</r:Content>
+      </r:Description>
+    </Universe>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Universe isUniversallyUnique="true" versionDate="2020-08-07T14:26:25.5035873Z" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:db487c30-1d1a-4304-a077-fa52dd156e95:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>db487c30-1d1a-4304-a077-fa52dd156e95</r:ID>
+      <r:Version>1</r:Version>
+      <UniverseName>
+        <r:String xml:lang="en-GB">WCHADS_phase_07_08</r:String>
+      </UniverseName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">WCHADS Phase 7 and 8 Population</r:Content>
+      </r:Label>
+      <r:Description>
+        <r:Content xml:lang="en-GB">WCHADS extensive sample - mothers and partners including WCHADS mothers recruited into WCHADS intensive subsample and their child - stratified for psychosocial risk.</r:Content>
+      </r:Description>
+    </Universe>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Universe isUniversallyUnique="true" versionDate="2020-08-07T14:30:51.0456234Z" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:0ca1eb20-244d-4188-8f00-1b1351006823:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>0ca1eb20-244d-4188-8f00-1b1351006823</r:ID>
+      <r:Version>1</r:Version>
+      <UniverseName>
+        <r:String xml:lang="en-GB">WCHADS_phase_11_12</r:String>
+      </UniverseName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">WCHADS Phase 11 and 12 Population</r:Content>
+      </r:Label>
+      <r:Description>
+        <r:Content xml:lang="en-GB">WCHADS extensive sample - mothers and partners including WCHADS mothers recruited into WCHADS intensive subsample and their child - stratified for psychosocial risk.</r:Content>
       </r:Description>
     </Universe>
   </ddi:Fragment>
@@ -3063,7 +3040,7 @@
     </UniverseGroup>
   </ddi:Fragment>
   <ddi:Fragment xmlns:r="ddi:reusable:3_2">
-    <UniverseGroup isUniversallyUnique="true" versionDate="2020-08-05T11:12:59.1115103Z" xmlns="ddi:conceptualcomponent:3_2">
+    <UniverseGroup isUniversallyUnique="true" versionDate="2020-08-07T14:20:43.4008843Z" xmlns="ddi:conceptualcomponent:3_2">
       <r:URN>urn:ddi:uk.closer:52b50048-fa06-4c2e-b31e-ba5102cff845:3</r:URN>
       <r:Agency>uk.closer</r:Agency>
       <r:ID>52b50048-fa06-4c2e-b31e-ba5102cff845</r:ID>
@@ -3121,31 +3098,14 @@
       </r:UniverseReference>
       <r:UniverseReference>
         <r:Agency>uk.closer</r:Agency>
-        <r:ID>b968aac9-c170-4ce0-b21f-e67e3c58f878</r:ID>
+        <r:ID>8126f179-c2c5-479f-8a8d-bf4e1b755bbf</r:ID>
         <r:Version>1</r:Version>
         <r:TypeOfObject>Universe</r:TypeOfObject>
       </r:UniverseReference>
     </UniverseGroup>
   </ddi:Fragment>
   <ddi:Fragment xmlns:r="ddi:reusable:3_2">
-    <Universe isUniversallyUnique="true" versionDate="2020-08-05T11:13:46.5517187Z" xmlns="ddi:conceptualcomponent:3_2">
-      <r:URN>urn:ddi:uk.closer:b968aac9-c170-4ce0-b21f-e67e3c58f878:1</r:URN>
-      <r:Agency>uk.closer</r:Agency>
-      <r:ID>b968aac9-c170-4ce0-b21f-e67e3c58f878</r:ID>
-      <r:Version>1</r:Version>
-      <UniverseName>
-        <r:String xml:lang="en-GB">US_covid_wave1</r:String>
-      </UniverseName>
-      <r:Label>
-        <r:Content xml:lang="en-GB">US COVID Wave 1 Population</r:Content>
-      </r:Label>
-      <r:Description>
-        <r:Content xml:lang="en-GB">UK residential population in 2020 who have participated in at least one of the last two waves of Understanding Society data collection. </r:Content>
-      </r:Description>
-    </Universe>
-  </ddi:Fragment>
-  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
-    <UniverseGroup isUniversallyUnique="true" versionDate="2020-08-07T13:10:29.3537651Z" xmlns="ddi:conceptualcomponent:3_2">
+    <UniverseGroup isUniversallyUnique="true" versionDate="2020-08-07T14:31:16.9305381Z" xmlns="ddi:conceptualcomponent:3_2">
       <r:URN>urn:ddi:uk.closer:d59dd42a-4678-4db9-ae33-845dd3a01a76:3</r:URN>
       <r:Agency>uk.closer</r:Agency>
       <r:ID>d59dd42a-4678-4db9-ae33-845dd3a01a76</r:ID>
@@ -3203,7 +3163,7 @@
       </r:UniverseReference>
       <r:UniverseReference>
         <r:Agency>uk.closer</r:Agency>
-        <r:ID>cfae72c3-7896-4dc2-8c69-91db8824dbac</r:ID>
+        <r:ID>db487c30-1d1a-4304-a077-fa52dd156e95</r:ID>
         <r:Version>1</r:Version>
         <r:TypeOfObject>Universe</r:TypeOfObject>
       </r:UniverseReference>
@@ -3221,7 +3181,7 @@
       </r:UniverseReference>
       <r:UniverseReference>
         <r:Agency>uk.closer</r:Agency>
-        <r:ID>7dac24b8-4112-4863-ac15-2c9cb297f347</r:ID>
+        <r:ID>0ca1eb20-244d-4188-8f00-1b1351006823</r:ID>
         <r:Version>1</r:Version>
         <r:TypeOfObject>Universe</r:TypeOfObject>
       </r:UniverseReference>
@@ -3325,23 +3285,6 @@
     </Universe>
   </ddi:Fragment>
   <ddi:Fragment xmlns:r="ddi:reusable:3_2">
-    <Universe isUniversallyUnique="true" versionDate="2020-08-07T13:11:03.3917996Z" xmlns="ddi:conceptualcomponent:3_2">
-      <r:URN>urn:ddi:uk.closer:cfae72c3-7896-4dc2-8c69-91db8824dbac:1</r:URN>
-      <r:Agency>uk.closer</r:Agency>
-      <r:ID>cfae72c3-7896-4dc2-8c69-91db8824dbac</r:ID>
-      <r:Version>1</r:Version>
-      <UniverseName>
-        <r:String xml:lang="en-GB">WCHADS_phase_07_08</r:String>
-      </UniverseName>
-      <r:Label>
-        <r:Content xml:lang="en-GB">WCHADS Phase 7 and 8 Population</r:Content>
-      </r:Label>
-      <r:Description>
-        <r:Content xml:lang="en-GB">WCHADS extensive sample - mothers and partners including WCHADS mothers recruited into WCHADS intensive subsample and their child - stratified for psychosocial risk.</r:Content>
-      </r:Description>
-    </Universe>
-  </ddi:Fragment>
-  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
     <Universe isUniversallyUnique="true" versionDate="2020-08-06T08:35:50.0643164Z" xmlns="ddi:conceptualcomponent:3_2">
       <r:URN>urn:ddi:uk.closer:51a78c32-b158-4904-b61e-453b7f5f179e:1</r:URN>
       <r:Agency>uk.closer</r:Agency>
@@ -3372,23 +3315,6 @@
       </r:Label>
       <r:Description>
         <r:Content xml:lang="en-GB">WCHADS extensive sample (includes intensive subsample) - mother, child and partner</r:Content>
-      </r:Description>
-    </Universe>
-  </ddi:Fragment>
-  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
-    <Universe isUniversallyUnique="true" versionDate="2020-08-07T13:11:20.4384211Z" xmlns="ddi:conceptualcomponent:3_2">
-      <r:URN>urn:ddi:uk.closer:7dac24b8-4112-4863-ac15-2c9cb297f347:1</r:URN>
-      <r:Agency>uk.closer</r:Agency>
-      <r:ID>7dac24b8-4112-4863-ac15-2c9cb297f347</r:ID>
-      <r:Version>1</r:Version>
-      <UniverseName>
-        <r:String xml:lang="en-GB">WCHADS_phase_11_12</r:String>
-      </UniverseName>
-      <r:Label>
-        <r:Content xml:lang="en-GB">WCHADS Phase 11 and 12 Population</r:Content>
-      </r:Label>
-      <r:Description>
-        <r:Content xml:lang="en-GB">WCHADS extensive sample - mothers and partners including WCHADS mothers recruited into WCHADS intensive subsample and their child - stratified for psychosocial risk.</r:Content>
       </r:Description>
     </Universe>
   </ddi:Fragment>
