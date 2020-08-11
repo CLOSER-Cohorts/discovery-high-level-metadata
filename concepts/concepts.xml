@@ -3,15 +3,15 @@
   <ddi:TopLevelReference>
     <r:Agency>uk.closer</r:Agency>
     <r:ID>4caa51db-56a9-4b48-b4ef-00347fe130e7</r:ID>
-    <r:Version>3</r:Version>
+    <r:Version>4</r:Version>
     <r:TypeOfObject>ConceptScheme</r:TypeOfObject>
   </ddi:TopLevelReference>
   <ddi:Fragment xmlns:r="ddi:reusable:3_2">
-    <ConceptScheme isUniversallyUnique="true" versionDate="2019-09-02T10:19:15.0435431Z" xmlns="ddi:conceptualcomponent:3_2">
-      <r:URN>urn:ddi:uk.closer:4caa51db-56a9-4b48-b4ef-00347fe130e7:3</r:URN>
+    <ConceptScheme isUniversallyUnique="true" versionDate="2020-06-24T15:20:45.643047Z" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:4caa51db-56a9-4b48-b4ef-00347fe130e7:4</r:URN>
       <r:Agency>uk.closer</r:Agency>
       <r:ID>4caa51db-56a9-4b48-b4ef-00347fe130e7</r:ID>
-      <r:Version>3</r:Version>
+      <r:Version>4</r:Version>
       <r:UserID typeOfUserID="colectica:sourceId">conceptScheme</r:UserID>
       <r:UserAttributePair>
         <r:AttributeKey>extension:CustomField</r:AttributeKey>
@@ -737,6 +737,102 @@
       <r:ConceptReference>
         <r:Agency>uk.closer</r:Agency>
         <r:ID>8e610654-dd7c-4516-9d43-1935fb38a3f9</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </r:ConceptReference>
+      <r:ConceptReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>fbe290c5-dca9-4155-a9d5-4656ea77409d</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </r:ConceptReference>
+      <r:ConceptReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>d3d3dbf0-c897-4d41-b210-fc2e8efaf86a</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </r:ConceptReference>
+      <r:ConceptReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>3dbfed71-fafb-47c5-b01d-051f874e4706</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </r:ConceptReference>
+      <r:ConceptReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>5240ba54-1064-4e10-9ce2-0c4963cae415</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </r:ConceptReference>
+      <r:ConceptReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>a09dd5c7-3d8d-4c73-bd71-54699766d9aa</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </r:ConceptReference>
+      <r:ConceptReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>95df4d60-2262-4e21-a6fd-3df04cb3c8ba</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </r:ConceptReference>
+      <r:ConceptReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>5a87a66a-34cc-4650-b187-0dc3e0b9f2c5</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </r:ConceptReference>
+      <r:ConceptReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>ee80edcd-98c9-43fc-84d1-66212c09b5c8</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </r:ConceptReference>
+      <r:ConceptReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>9804e0f3-da80-42ff-88df-613c28fef667</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </r:ConceptReference>
+      <r:ConceptReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>c06524b8-353e-42d0-b7ea-1fc57166fd1b</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </r:ConceptReference>
+      <r:ConceptReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>722eab32-d976-4fef-a57d-072e615bfbd2</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </r:ConceptReference>
+      <r:ConceptReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>dae725c1-09f5-4f24-898a-045c5ff08a75</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </r:ConceptReference>
+      <r:ConceptReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>69af7209-8b72-40a5-8e3b-e762212a57bc</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </r:ConceptReference>
+      <r:ConceptReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>15cf0667-bab6-411e-ad21-bf328c70bc0e</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </r:ConceptReference>
+      <r:ConceptReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>066325f8-231a-4af2-ab47-bc9d4092cd32</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </r:ConceptReference>
+      <r:ConceptReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>4a390a7c-9dfa-4cc6-8c0e-1f27d087741f</r:ID>
         <r:Version>1</r:Version>
         <r:TypeOfObject>Concept</r:TypeOfObject>
       </r:ConceptReference>
@@ -3135,6 +3231,440 @@
       <r:Label>
         <r:Content xml:lang="en-GB">Administration</r:Content>
       </r:Label>
+    </Concept>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Concept isUniversallyUnique="true" versionDate="2020-06-24T14:55:32.6208624Z" isCharacteristic="false" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:fbe290c5-dca9-4155-a9d5-4656ea77409d:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>fbe290c5-dca9-4155-a9d5-4656ea77409d</r:ID>
+      <r:Version>1</r:Version>
+      <ConceptName>
+        <r:String xml:lang="en-GB">116</r:String>
+      </ConceptName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">COVID-19</r:Content>
+      </r:Label>
+    </Concept>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Concept isUniversallyUnique="true" versionDate="2020-06-24T15:20:45.643047Z" isCharacteristic="false" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:d3d3dbf0-c897-4d41-b210-fc2e8efaf86a:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>d3d3dbf0-c897-4d41-b210-fc2e8efaf86a</r:ID>
+      <r:Version>1</r:Version>
+      <ConceptName>
+        <r:String xml:lang="en-GB">11601</r:String>
+      </ConceptName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Demographics (CV19)</r:Content>
+      </r:Label>
+      <SimilarConcept>
+        <SimilarConceptReference>
+          <r:Agency>uk.closer</r:Agency>
+          <r:ID>a760837f-ff1d-4ee1-8564-0c56c97c75ee</r:ID>
+          <r:Version>1</r:Version>
+          <r:TypeOfObject>Concept</r:TypeOfObject>
+        </SimilarConceptReference>
+      </SimilarConcept>
+      <SubclassOfReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>fbe290c5-dca9-4155-a9d5-4656ea77409d</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </SubclassOfReference>
+    </Concept>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Concept isUniversallyUnique="true" versionDate="2020-06-24T15:20:45.643047Z" isCharacteristic="false" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:3dbfed71-fafb-47c5-b01d-051f874e4706:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>3dbfed71-fafb-47c5-b01d-051f874e4706</r:ID>
+      <r:Version>1</r:Version>
+      <ConceptName>
+        <r:String xml:lang="en-GB">11602</r:String>
+      </ConceptName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Housing and local environment (CV19)</r:Content>
+      </r:Label>
+      <SimilarConcept>
+        <SimilarConceptReference>
+          <r:Agency>uk.closer</r:Agency>
+          <r:ID>9859b730-016e-4a39-af0a-1dc9e37d9b2d</r:ID>
+          <r:Version>2</r:Version>
+          <r:TypeOfObject>Concept</r:TypeOfObject>
+        </SimilarConceptReference>
+      </SimilarConcept>
+      <SubclassOfReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>fbe290c5-dca9-4155-a9d5-4656ea77409d</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </SubclassOfReference>
+    </Concept>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Concept isUniversallyUnique="true" versionDate="2020-06-24T15:20:45.643047Z" isCharacteristic="false" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:5240ba54-1064-4e10-9ce2-0c4963cae415:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>5240ba54-1064-4e10-9ce2-0c4963cae415</r:ID>
+      <r:Version>1</r:Version>
+      <ConceptName>
+        <r:String xml:lang="en-GB">11603</r:String>
+      </ConceptName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Physical health (CV19)</r:Content>
+      </r:Label>
+      <SimilarConcept>
+        <SimilarConceptReference>
+          <r:Agency>uk.closer</r:Agency>
+          <r:ID>50d16990-d794-4a33-9480-39d9906ca9ab</r:ID>
+          <r:Version>1</r:Version>
+          <r:TypeOfObject>Concept</r:TypeOfObject>
+        </SimilarConceptReference>
+      </SimilarConcept>
+      <SubclassOfReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>fbe290c5-dca9-4155-a9d5-4656ea77409d</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </SubclassOfReference>
+    </Concept>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Concept isUniversallyUnique="true" versionDate="2020-06-24T15:20:45.643047Z" isCharacteristic="false" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:a09dd5c7-3d8d-4c73-bd71-54699766d9aa:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>a09dd5c7-3d8d-4c73-bd71-54699766d9aa</r:ID>
+      <r:Version>1</r:Version>
+      <ConceptName>
+        <r:String xml:lang="en-GB">11604</r:String>
+      </ConceptName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Mental health and mental processes (CV19)</r:Content>
+      </r:Label>
+      <SimilarConcept>
+        <SimilarConceptReference>
+          <r:Agency>uk.closer</r:Agency>
+          <r:ID>d515e295-dddb-4141-a19d-dfba2b402bc9</r:ID>
+          <r:Version>1</r:Version>
+          <r:TypeOfObject>Concept</r:TypeOfObject>
+        </SimilarConceptReference>
+      </SimilarConcept>
+      <SubclassOfReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>fbe290c5-dca9-4155-a9d5-4656ea77409d</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </SubclassOfReference>
+    </Concept>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Concept isUniversallyUnique="true" versionDate="2020-06-24T15:20:45.643047Z" isCharacteristic="false" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:95df4d60-2262-4e21-a6fd-3df04cb3c8ba:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>95df4d60-2262-4e21-a6fd-3df04cb3c8ba</r:ID>
+      <r:Version>1</r:Version>
+      <ConceptName>
+        <r:String xml:lang="en-GB">11605</r:String>
+      </ConceptName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Health care (CV19)</r:Content>
+      </r:Label>
+      <SimilarConcept>
+        <SimilarConceptReference>
+          <r:Agency>uk.closer</r:Agency>
+          <r:ID>c253fe24-9286-41e0-8dd1-f845ce181080</r:ID>
+          <r:Version>1</r:Version>
+          <r:TypeOfObject>Concept</r:TypeOfObject>
+        </SimilarConceptReference>
+      </SimilarConcept>
+      <SubclassOfReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>fbe290c5-dca9-4155-a9d5-4656ea77409d</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </SubclassOfReference>
+    </Concept>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Concept isUniversallyUnique="true" versionDate="2020-06-24T15:20:45.643047Z" isCharacteristic="false" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:5a87a66a-34cc-4650-b187-0dc3e0b9f2c5:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>5a87a66a-34cc-4650-b187-0dc3e0b9f2c5</r:ID>
+      <r:Version>1</r:Version>
+      <ConceptName>
+        <r:String xml:lang="en-GB">11606</r:String>
+      </ConceptName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Health behaviour (CV19)</r:Content>
+      </r:Label>
+      <SimilarConcept>
+        <SimilarConceptReference>
+          <r:Agency>uk.closer</r:Agency>
+          <r:ID>425c4a56-1448-42c9-ac40-ebe93c4c97e4</r:ID>
+          <r:Version>1</r:Version>
+          <r:TypeOfObject>Concept</r:TypeOfObject>
+        </SimilarConceptReference>
+      </SimilarConcept>
+      <SubclassOfReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>fbe290c5-dca9-4155-a9d5-4656ea77409d</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </SubclassOfReference>
+    </Concept>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Concept isUniversallyUnique="true" versionDate="2020-06-24T15:20:45.643047Z" isCharacteristic="false" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:ee80edcd-98c9-43fc-84d1-66212c09b5c8:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>ee80edcd-98c9-43fc-84d1-66212c09b5c8</r:ID>
+      <r:Version>1</r:Version>
+      <ConceptName>
+        <r:String xml:lang="en-GB">11607</r:String>
+      </ConceptName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Family and social networks (CV19)</r:Content>
+      </r:Label>
+      <SimilarConcept>
+        <SimilarConceptReference>
+          <r:Agency>uk.closer</r:Agency>
+          <r:ID>2a845ea2-fb4a-47a6-85e6-c226a8fd6162</r:ID>
+          <r:Version>1</r:Version>
+          <r:TypeOfObject>Concept</r:TypeOfObject>
+        </SimilarConceptReference>
+      </SimilarConcept>
+      <SubclassOfReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>fbe290c5-dca9-4155-a9d5-4656ea77409d</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </SubclassOfReference>
+    </Concept>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Concept isUniversallyUnique="true" versionDate="2020-06-24T15:20:45.643047Z" isCharacteristic="false" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:9804e0f3-da80-42ff-88df-613c28fef667:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>9804e0f3-da80-42ff-88df-613c28fef667</r:ID>
+      <r:Version>1</r:Version>
+      <ConceptName>
+        <r:String xml:lang="en-GB">11608</r:String>
+      </ConceptName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Education (CV19)</r:Content>
+      </r:Label>
+      <SimilarConcept>
+        <SimilarConceptReference>
+          <r:Agency>uk.closer</r:Agency>
+          <r:ID>ef2b6368-9906-426b-a911-0ff41062123e</r:ID>
+          <r:Version>1</r:Version>
+          <r:TypeOfObject>Concept</r:TypeOfObject>
+        </SimilarConceptReference>
+      </SimilarConcept>
+      <SubclassOfReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>fbe290c5-dca9-4155-a9d5-4656ea77409d</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </SubclassOfReference>
+    </Concept>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Concept isUniversallyUnique="true" versionDate="2020-06-24T15:20:45.643047Z" isCharacteristic="false" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:c06524b8-353e-42d0-b7ea-1fc57166fd1b:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>c06524b8-353e-42d0-b7ea-1fc57166fd1b</r:ID>
+      <r:Version>1</r:Version>
+      <ConceptName>
+        <r:String xml:lang="en-GB">11609</r:String>
+      </ConceptName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Employment and income (CV19)</r:Content>
+      </r:Label>
+      <SimilarConcept>
+        <SimilarConceptReference>
+          <r:Agency>uk.closer</r:Agency>
+          <r:ID>c8f6a860-ba2f-450f-aca5-cf2dac373150</r:ID>
+          <r:Version>1</r:Version>
+          <r:TypeOfObject>Concept</r:TypeOfObject>
+        </SimilarConceptReference>
+      </SimilarConcept>
+      <SubclassOfReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>fbe290c5-dca9-4155-a9d5-4656ea77409d</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </SubclassOfReference>
+    </Concept>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Concept isUniversallyUnique="true" versionDate="2020-06-24T15:20:45.643047Z" isCharacteristic="false" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:722eab32-d976-4fef-a57d-072e615bfbd2:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>722eab32-d976-4fef-a57d-072e615bfbd2</r:ID>
+      <r:Version>1</r:Version>
+      <ConceptName>
+        <r:String xml:lang="en-GB">11610</r:String>
+      </ConceptName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Expectation, attitudes and beliefs (CV19)</r:Content>
+      </r:Label>
+      <SimilarConcept>
+        <SimilarConceptReference>
+          <r:Agency>uk.closer</r:Agency>
+          <r:ID>29bdff08-b4d1-4591-93fe-e544a0c43501</r:ID>
+          <r:Version>1</r:Version>
+          <r:TypeOfObject>Concept</r:TypeOfObject>
+        </SimilarConceptReference>
+      </SimilarConcept>
+      <SubclassOfReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>fbe290c5-dca9-4155-a9d5-4656ea77409d</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </SubclassOfReference>
+    </Concept>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Concept isUniversallyUnique="true" versionDate="2020-06-24T15:20:45.643047Z" isCharacteristic="false" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:dae725c1-09f5-4f24-898a-045c5ff08a75:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>dae725c1-09f5-4f24-898a-045c5ff08a75</r:ID>
+      <r:Version>1</r:Version>
+      <ConceptName>
+        <r:String xml:lang="en-GB">11611</r:String>
+      </ConceptName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Child development (CV19)</r:Content>
+      </r:Label>
+      <SimilarConcept>
+        <SimilarConceptReference>
+          <r:Agency>uk.closer</r:Agency>
+          <r:ID>a2de01a1-7e5b-488a-aabd-927200d628bd</r:ID>
+          <r:Version>1</r:Version>
+          <r:TypeOfObject>Concept</r:TypeOfObject>
+        </SimilarConceptReference>
+      </SimilarConcept>
+      <SubclassOfReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>fbe290c5-dca9-4155-a9d5-4656ea77409d</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </SubclassOfReference>
+    </Concept>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Concept isUniversallyUnique="true" versionDate="2020-06-24T15:20:45.643047Z" isCharacteristic="false" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:69af7209-8b72-40a5-8e3b-e762212a57bc:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>69af7209-8b72-40a5-8e3b-e762212a57bc</r:ID>
+      <r:Version>1</r:Version>
+      <ConceptName>
+        <r:String xml:lang="en-GB">11612</r:String>
+      </ConceptName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Life events (CV19)</r:Content>
+      </r:Label>
+      <SimilarConcept>
+        <SimilarConceptReference>
+          <r:Agency>uk.closer</r:Agency>
+          <r:ID>b8cda37c-dc46-4986-bdb3-621eb3c3d9c7</r:ID>
+          <r:Version>1</r:Version>
+          <r:TypeOfObject>Concept</r:TypeOfObject>
+        </SimilarConceptReference>
+      </SimilarConcept>
+      <SubclassOfReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>fbe290c5-dca9-4155-a9d5-4656ea77409d</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </SubclassOfReference>
+    </Concept>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Concept isUniversallyUnique="true" versionDate="2020-06-24T15:20:45.643047Z" isCharacteristic="false" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:15cf0667-bab6-411e-ad21-bf328c70bc0e:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>15cf0667-bab6-411e-ad21-bf328c70bc0e</r:ID>
+      <r:Version>1</r:Version>
+      <ConceptName>
+        <r:String xml:lang="en-GB">11613</r:String>
+      </ConceptName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Omics (CV19)</r:Content>
+      </r:Label>
+      <SimilarConcept>
+        <SimilarConceptReference>
+          <r:Agency>uk.closer</r:Agency>
+          <r:ID>864bde73-e99a-4eda-9211-30930cd59b33</r:ID>
+          <r:Version>1</r:Version>
+          <r:TypeOfObject>Concept</r:TypeOfObject>
+        </SimilarConceptReference>
+      </SimilarConcept>
+      <SubclassOfReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>fbe290c5-dca9-4155-a9d5-4656ea77409d</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </SubclassOfReference>
+    </Concept>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Concept isUniversallyUnique="true" versionDate="2020-06-24T15:20:45.643047Z" isCharacteristic="false" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:066325f8-231a-4af2-ab47-bc9d4092cd32:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>066325f8-231a-4af2-ab47-bc9d4092cd32</r:ID>
+      <r:Version>1</r:Version>
+      <ConceptName>
+        <r:String xml:lang="en-GB">11614</r:String>
+      </ConceptName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Pregnancy (CV19)</r:Content>
+      </r:Label>
+      <SimilarConcept>
+        <SimilarConceptReference>
+          <r:Agency>uk.closer</r:Agency>
+          <r:ID>aff2d476-988d-43fc-8490-c0bb3ad8b709</r:ID>
+          <r:Version>1</r:Version>
+          <r:TypeOfObject>Concept</r:TypeOfObject>
+        </SimilarConceptReference>
+      </SimilarConcept>
+      <SubclassOfReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>fbe290c5-dca9-4155-a9d5-4656ea77409d</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </SubclassOfReference>
+    </Concept>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Concept isUniversallyUnique="true" versionDate="2020-06-24T15:20:45.643047Z" isCharacteristic="false" xmlns="ddi:conceptualcomponent:3_2">
+      <r:URN>urn:ddi:uk.closer:4a390a7c-9dfa-4cc6-8c0e-1f27d087741f:1</r:URN>
+      <r:Agency>uk.closer</r:Agency>
+      <r:ID>4a390a7c-9dfa-4cc6-8c0e-1f27d087741f</r:ID>
+      <r:Version>1</r:Version>
+      <ConceptName>
+        <r:String xml:lang="en-GB">11615</r:String>
+      </ConceptName>
+      <r:Label>
+        <r:Content xml:lang="en-GB">Administration (CV19)</r:Content>
+      </r:Label>
+      <SimilarConcept>
+        <SimilarConceptReference>
+          <r:Agency>uk.closer</r:Agency>
+          <r:ID>8e610654-dd7c-4516-9d43-1935fb38a3f9</r:ID>
+          <r:Version>1</r:Version>
+          <r:TypeOfObject>Concept</r:TypeOfObject>
+        </SimilarConceptReference>
+      </SimilarConcept>
+      <SubclassOfReference>
+        <r:Agency>uk.closer</r:Agency>
+        <r:ID>fbe290c5-dca9-4155-a9d5-4656ea77409d</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>Concept</r:TypeOfObject>
+      </SubclassOfReference>
     </Concept>
   </ddi:Fragment>
 </ddi:FragmentInstance>
