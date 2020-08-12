@@ -1976,7 +1976,7 @@ Study website: &lt;a href="https://www.understandingsociety.ac.uk/topic/covid-19
             <TypeOfObject xmlns="ddi:reusable:3_2">Organization</TypeOfObject>
           </DataCollectorOrganizationReference>
           <DataCollectionDate>
-            <StartDate xmlns="ddi:reusable:3_2">4-2020</StartDate>
+            <StartDate xmlns="ddi:reusable:3_2">2020-04</StartDate>
             <EndDate xmlns="ddi:reusable:3_2">2020-04</EndDate>
           </DataCollectionDate>
           <ModeOfCollection isUniversallyUnique="true">
